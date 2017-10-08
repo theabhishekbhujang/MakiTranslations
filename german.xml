@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+ 
+    <string name="closeDrawer">Navigationsansicht</string>
+    <string name="openDrawer">Öffnen Sie die linke Schublade</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Stornieren</string>
+    <string name="choose_email_client">E-Mail-Client auswählen</string>
+    <string name="no_network">Du bist nicht online.</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="preference_about_category">Über</string>
+    <string name="share_action">Aktie</string>
+    <string name="share_action_subject">Facebook Seite</string>
+    <string name="success">Erfolg</string>
+    <string name="error">Fehler</string>
+    <string name="fragment_main_downloading">Wird heruntergeladen&#8230;</string>
+    <string name="settings_more">Mehr</string>
+
+    <string name="update_share">Aktie</string>
+    <string name="fab_jump">Springe nach oben</string>
+
+    <string name="newsfeed">Neuigkeiten</string>
+    <string name="messages">Meldungen</string>
+    <string name="faved">Stifte</string>
+    <string name="favorites">Favoriten</string>
+    <string name="friends">Anfragen</string>
+
+
+    <string name="photos">Fotos</string>
+    <string name="maki_themes">Themen</string>
+    <string name="saved">Gerettet</string>
+    <string name="settings">Einstellungen</string>
+
+    <string name="themes">Themen</string>
+    <string name="privacy">Datenschutzeinstellungen</string>
+
+
+    <string name="news_feed_preferences">Facebook Einstellungen</string>
+    <string name="fb_chat">Aktive Freunde</string>
+    <string name="refresh">Erneuern</string>
+
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="search">Suche</string>
+    <string name="end">Ausloggen</string>
+    <string name="exit">Schließen</string>
+
+
+    <string-array name="pref_theme_entries">
+        <item>Maki Thema</item>
+        <item>Facebook Blau</item>
+		<item>Falke</item>
+        <item>Rosa</item>
+        <item>Dunkles Violet</item>
+		<item>Dunkelgrün</item>
+		<item>Hellgrün</item>
+		<item>Bernstein</item>
+		<item>Orange</item>
+		<item>Cyan</item>
+        <item>Rot</item>
+		<item>Dunkel</item>
+        <item>AMOLED</item>
+    </string-array>
+
+
+
+    <string name="image_chooser">Bildauswahl</string>
+    <string name="addPage">Zu Favoriten hinzufügen</string>
+
+    <string name="interval_pref_description">Benachrichtigungen werden synchronisiert %s</string>
+    <string-array name="update_interval">
+        <item>30 Sekunden (Hohe Datenverwendung)</item>
+        <item>1 Minute (Hohe Datenverwendung)</item>
+        <item>5 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>3 Stunden</item>
+        <item>6 Stunden</item>
+    </string-array>
+
+    <string name="you_have_one_message">Du hast 1 neue Nachricht</string>
+    <string name="you_have_n_messages">Sie haben %d neue Nachrichten</string>
+    <string name="notifications_settings">Benachrichtigungen</string>
+    <string name="notification_sound">Benachrichtigungston</string>
+    <string name="silent">Keinen Ton</string>
+    <string name="vibrate">Vibrieren</string>
+    <string name="led_light">Benachrichtigungs-LED</string>
+
+
+    <string name="maki_lock">Passcode aktivieren</string>
+    <string name="lock_text_new">Sichere Maki mit einem Passcode.</string>
+    <string name="lock_text_new_fingerprint">Alternativ können Sie auch Ihren Fingerabdruck verwenden.</string>
+
+    <string name="context_save_image">Bild herunterladen</string>
+    <string name="context_share_image">Bild teilen</string>
+    <string name="context_copy_image_link">Link kopieren</string>
+    <string name="context_share_image_progress">Vorbereiten&#8230;</string>
+    <string name="content_copy_link_done">Link kopiert in die Zwischenablage</string>
+
+    <string name="permission_denied">Erlaubnis verweigert. Diese Aktion kann nicht abgeschlossen werden.</string>
+
+    <string name="copy_right">\u00A9</string>
+	<string name="error_general">Fehler</string>
+    <string name="save_img">Sparen</string>
+    <string name="download_manager_disabled">Download Manager deaktiviert</string>
+    <string name="enable_location">Standort aktivieren</string>
+
+    <string name="hide_ads">Entfernen Sponsored Posts</string>
+    <string name="hide_ads_more">Entfernen Sie alle Werbung in Facebook Newsfeed</string>
+	<string name="exit_message">Bist du sicher, dass du Maki schließen willst?</string>
+	<string name="version">Version</string>
+
+
+	<string name="welcome">Hallo</string>
+    <string name="saved_pin_message">Wenn Sie Ihren Pin vergessen, bitte löschen Sie Maki Daten von Ihrem Handys Anwendungsmanager.</string>
+
+    <string name="pin_code_forgot_text">Vergessen?</string>
+    <string name="pin_code_step_disable">Deaktivieren Sie Ihren Passcode</string>
+    <string name="pin_code_step_create">Erstellen Sie einen Passcode</string>
+    <string name="pin_code_step_change">Geben Sie Ihren aktuellen Passcode ein</string>
+    <string name="pin_code_step_unlock">Passcode eingeben</string>
+    <string name="pin_code_step_enable_confirm">Bestätigen Sie Ihren Passcode</string>
+
+    <string name="pin_code_fingerprint_text">Fingerabdruck</string>
+    <string name="pin_code_fingerprint_success">Fingerabdruck erkannt</string>
+    <string name="pin_code_fingerprint_not_recognized">Versuch es noch einmal</string>
+    <string name="activity_dialog_title">Übersetzen Sie nicht</string>
+    <string name="activity_dialog_accept">Übersetzen Sie nicht</string>
+    <string name="activity_dialog_content">Übersetzen Sie nicht</string>
+    <string name="activity_dialog_decline">Übersetzen Sie nicht</string>
+	<string name="accept">Ich nehme an</string>
+    <string name="kitkat_upload">KitKat Uploads</string>
+    <string name="kitkat_upload_message">Hallo, du scheinst, Android KitKat zu laufen. Wenn Ihre Version von KitKat 4.4 - 4.4.3 ist, werden Foto-Uploads nicht innerhalb von Maki funktionieren. Dies ist eine Einschränkung innerhalb dieser Versionen von KitKat. Diese Einschränkung ist in Version 4.4.4 von KitKat festgelegt.</string>
+    <string name="try_upload">Versuche das Hochladen</string>
+    <string name="logged_out">Abgemeldet.</string>
+    <string name="open_in_browser">Im Browser öffnen</string>
+    <string name="copy_url">In die Zwischenablage kopieren</string>
+
+
+
+    <string name="download">Herunterladen</string>
+
+    <string name="down_view">Tippen Sie auf \"Vollständige Größe anzeigen\" zum Herunterladen oder Anzeigen.</string>
+    <string name="getting_image">Bild erhalten</string>
+    <string name="aleady_at_top">Bereits oben</string>
+    <string name="removed">Entfernt</string>
+    <string name="from_favs">von den Stiften</string>
+    <string name="error_code_value" >falsch</string>
+    <string name="auto_night_title">Automatisch Nachtthema</string>
+    <string name="auto_night_more">Dunkles Thema wird nachts automatisch aktiviert</string>
+    <string name="logout_message">Bist du sicher, dass du dich von Maki abmelden möchtest?</string>
+    <string name="context_share_video">Video teilen</string>
+    <string name="change_log">Was gibt\'s Neues</string>
+	<string name="save_to">Gespeichert an:</string>
+    <string name="downloading_on_mobile">Herunterladen mit mobilen Daten.</string>
+    <string name="font_size">Schriftgröße</string>
+    <string name="top_news_firstly">Top-Nachrichten zuerst anzeigen</string>
+    <string name="quickbar">Quickbar</string>
+    <string name="quickbar_more">Holen Sie sich jederzeit Zugang zu Facebook</string>
+
+    <string name="messages_shortcut">Nachrichtenverknüpfung</string>
+    <string name="notifications_shortcut">Benachrichtigung Verknüpfung</string>
+    <string name="messages_shortcut_more">Erstellen Sie eine Verknüpfung zu Nachrichten auf dem Startbildschirm</string>
+    <string name="notifications_shortcut_more">Erstellen Sie eine Verknüpfung zu Benachrichtigungen auf dem Startbildschirm</string>
+
+    <string name="twitter_shortcut">Twitter Verknüpfung</string>
+    <string name="instagram_shortcut">Instagram Verknüpfung</string>
+    <string name="twitter_shortcut_more">Erstellen Sie eine Verknüpfung zu Twitter auf dem Startbildschirm</string>
+    <string name="instagram_shortcut_more">Erstellen Sie eine Verknüpfung zu Instagram auf dem Startbildschirm</string>
+
+    <string name="type_archive">Archiv</string>
+    <string name="type_certificate">Zertifikat</string>
+    <string name="type_directory">Verzeichnis</string>
+    <string name="type_document">Datei</string>
+    <string name="type_drawing">Bild</string>
+    <string name="type_excel">Kalkulationstabelle</string>
+    <string name="type_image">Bild</string>
+    <string name="type_music">Musik</string>
+    <string name="type_video">Video</string>
+    <string name="type_pdf">PDF-Dokument</string>
+    <string name="type_power_point">Präsentation</string>
+    <string name="type_word">Dokument</string>
+    <string name="type_apk">APK</string>
+    <string name="open_with">Öffnen in</string>
+    <string name="pick">Tippen Sie auf das Verzeichnis \ u2713, um dieses Verzeichnis auszuwählen.</string>
+    <string name="create_directory">Verzeichnis erstellen</string>
+    <string name="most_recent">Neueste</string>
+    <string name="top_news">Topnachrichten</string>
+
+    <string name="messenger">Meldungen</string>
+    <string name="about">Über</string>
+    <string name="feedback">Feedback</string>
+    <string name="ratemaki">Bewerte Maki</string>
+
+    <string name="feedback_mail">Feedback</string>
+    <string name="some_feedback">Hier ist ein Feedback für</string>
+
+    <string name="messenger_app">Facebook Messenger App</string>
+    <string name="messenger_app_more">Verwenden Sie Facebook Messenger App statt integrierter Messenger</string>
+
+    <string name="interval">Benachrichtigungsüberprüfungsintervall</string>
+
+    <!--Crash Dialog-->
+    <string name="crash_toast_text">Irgendwas stimmt nicht.</string>
+    <string name="crash_dialog_title">Maki ist abgestürzt</string>
+    <string name="crash_dialog_text">Leider hat Maki aufgehört Bitte tippen Sie auf OK, um diesen Bericht per E-Mail zu senden.</string>
+    <string name="crash_dialog_comment_prompt">Hier können Sie Kommentare zu diesem Absturz hinterlassen:</string>
+
+    <string name="new_directory">Neues Verzeichnis erstellt: </string>
+    <string name="changed">Gewechselt zu: </string>
+    <string name="pins_here">Fügen Sie Ihre Lieblingsseiten hier für schnelleren Zugriff ein.</string>
+    <string name="download_not_found">Herunterladen nicht gefunden</string>
+    <string name="profile">Mich</string>
+    <string name="share">Aktie</string>
+
+    <string name="welcome_back">Herzlich willkommen!!</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+
+    <string name="addHome">Zum Startbildschirm hinzufügen</string>
+
+    <!--Defaults-->
+    <string name="materialtheme">materialtheme</string>
+    <string name="most_recent_settings">most_recent</string>
+    <string name="googlebluedark">googlebluedark</string>
+
+    <string name="power">Energieeinsparung</string>
+    <string name="power_saving_mode">Energiesparmodus</string>
+    <string name="power_saving_mode_more">Sparen Sie Energie und nutzen Sie Facebook länger</string>
+
+    <string name="thanks_support">Danke für deine Unterstützung!</string>
+    <string name="unable_purchase">Kauf storniert</string>
+
+    <string name="donate_support">Unterstützung Entwicklung</string>
+    <string name="purchase">Kauf</string>
+
+    <string name="help">Hilfe</string>
+    <string name="dark">Dunkles Thema</string>
+    <string name="home">Zuhause</string>
+    <string name="switch_to_maki">Facebook</string>
+
+    <string name="no_location_permission">Keine Ortsberechtigung</string>
+    <string name="no_storage_permission">Keine Speicherberechtigung</string>
+    <string name="added">Gespeichert zu den Favoriten</string>
+    <string name="tofav">zu Favoriten.</string>
+
+    <string name="download_failed">Herunterladen fehlgeschlagen</string>
+    <string name="download_paused">Herunterladen pausiert</string>
+    <string name="download_pending">Herunterladen ausstehend</string>
+    <string name="download_in_progress">Herunterladen in Bearbeitung</string>
+    <string name="download_complete">Herunterladen komplett</string>
+    <string name="download_nowhere">Herunterladen ist nirgendwo in Sicht</string>
+    <string name="image_share">Bild teilen</string>
+
+    <string name="notifications_on">Benachrichtigungen eingeschaltet</string>
+    <string name="turn_to_notifications">Aktivieren Sie Benachrichtigungen</string>
+
+    <string name="remove_pin">Pin entfernen?</string>
+    <string name="should_remove">Bist du sicher, dass du es entfernen möchtest</string>
+    <string name="from_pins">von deinen Stiften Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="label">Etikette</string>
+    <string name="license">Open Source Lizenzen</string>
+
+    <string name="never">Nie</string>
+
+    <string name="rate_hello">Bewerte Maki</string>
+    <string name="rate_more">Was denkst du über Maki? Bewerte Maki hier:</string>
+    <string name="negative_review">Negative Bewertung</string>
+    <string name="contact_us">Bitte kontaktieren Sie uns und sagen Sie, was Sie in Maki nicht mögen. Vielen Dank!</string>
+    <string name="review">Überprüfung</string>
+
+    <string-array name="font_choice">
+        <item>80 %</item>
+        <item>90 %</item>
+        <item>100 %</item>
+        <item>105 %</item>
+        <item>110 %</item>
+        <item>135 %</item>
+        <item>150 %</item>
+    </string-array>
+
+    <string name="locked">Eingesperrt</string>
+    <string name="please_enter_passcode">Geben Sie einen Passcode ein</string>
+    <string name="lock_input_again">Geben Sie neuen Passcode erneut ein</string>
+    <string name="lock_input_not_match">Passcodes stimmen nicht überein.</string>
+
+    <string name="buy_plus">Es ist Zeit für Maki Plus</string>
+    <string name="buy_plus_more">Es ist Zeit, Maki noch besser zu machen mit Plus-Version - entfernen Sie Werbung, erstellen Sie Verknüpfungen, aktivieren Sie auto night theme und unterstützen Sie Entwickler.</string>
+    <string name="lets_do_it">Machen wir das!</string>
+    <string name="later">Später</string>
+
+    <string name="logout">Ausloggen</string>
+
+    <!--Intro-->
+    <string name="first_slide">Willkommen bei Maki</string>
+    <string name="second_slide">Teile und genieße. Schneller.</string>
+    <string name="third_title">Schön. Und sauber.</string>
+    <string name="fourth_title">Es ist Zeit zu beginnen</string>
+
+    <string name="first_description">Neue Ära von Facebook auf Android</string>
+    <string name="second_description">Maki arbeitet schneller als jede Facebook App, die Sie auf Play Store finden können</string>
+    <string name="third_description">Nur alles was du brauchst - nichts mehr</string>
+
+    <string name="next">Nächster</string>
+    <string name="login_fb">Mit Facebook einloggen</string>
+
+    <string name="start">Lass uns gehen</string>
+    <string name="thanks">Vielen Dank!</string>
+
+
+    <string name="about_description">Geschaffen mit Liebe von Sunshine Apps. 2016-2017</string>
+    <string name="like_on_facebook">Wie auf Facebook</string>
+    <string name="web">Kontakt</string>
+
+    <string name="thanks_more">Vielen Dank! Bitte starten Sie die App neu, um mit allen neuen Funktionen von Maki Plus zu beginnen.</string>
+    <string name="error_link">file:///android_asset/error_de.html</string>
+    <string name="shortcuts">Abkürzungen</string>
+
+<string name="close">Schließen</string>
+    <string name="support">Unterstützung</string>
+    <string name="plus_hello">Hallo,</string>
+    <string name="plus_time">Es ist Zeit, Maki besser zu machen</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="plus_ads">Deaktivieren Sie alle Werbung von Facebook auf Ihrem News-Feed. Unglaublich.</string>
+    <string name="plus_dark">Dunkles Thema wird automatisch in der gewählten Zeit aktiviert. Genial.</string>
+    <string name="plus_shortcuts">Verwenden Sie Maki schneller - erstellen Sie Verknüpfungen für Nachrichten und Benachrichtigungen auf dem Startbildschirm. Und mit QuickBar überall auf Facebook zugreifen. Fabelhaft.</string>
+    <string name="plus_support">Jeder Maki Plus Kauf macht Maki besser - es ist eine tolle Motivation für mich!</string>
+    <string name="plus_buy">Kaufen Maki Plus</string>
+    <string name="plus_by">von Sunshine Apps</string>
+
+    <string name="help_translate">Hilfe übersetzen</string>
+
+    <string name="open_in">In-App-Browser</string>
+    <string name="open_in_more">Öffnen Sie externe Links in Maki</string>
+    <string name="browsing_settings">Einstellungen durchsuchen</string>
+    <string name="twitter_preferences">Twitter-Einstellungen</string>
+    <string name="twitter_first">Starten Sie Twitter zuerst</string>
+    <string name="twitter_first_more">Starten Sie Twitter schneller als Facebook</string>
+
+
+    <string name="top_tabs">Top navigation</string>
+    <string name="top_tabs_more">Navigations-Tab auf der Oberseite anzeigen</string>
+
+    <string name="fbpage">Facebook Seite</string>
+
+
+    <string-array name="messenger_choice">
+        <item>Messenger in Maki</item>
+        <item>Messenger-Anwendung</item>
+        <item>Messenger Lite Anwendung</item>
+    </string-array>
+
+    <string name="dont_show_again">Nicht wieder zeigen</string>
+
+    <string name="problems_title">Probleme beim Kauf</string>
+    <string name="problems_purchase">
+
+Vielen Dank für die Unterstützung von uns! Leider scheint es, dass Sie einige Probleme mit dem Kauf haben. Nun, diese Seite erstellt nur für Sie, um dieses Problem zu lösen.
+\n\n
+Wir haben ein paar mögliche Lösungen:\n\n
+1) Neustart Maki. Schließen Sie einfach eine Anwendung und starten Sie sie von Grund auf neu, öffnen Sie Einstellungen und versuchen Sie, jede Plus-Funktion zu aktivieren.
+\n\n
+2) Wenn die erste Lösung nicht funktioniert, klicken Sie erneut auf "Maki Plus kaufen". Diese Aktion wird Ihren Kauf wiederherstellen (du wirst dein Geld nicht wieder ausgeben, mach dir keine Sorgen). Nach dem Neustart der Anwendung und versuchen, jede Plus-Funktion zu aktivieren.
+\n\n
+3) Immerhin, wenn nichts davon nicht funktioniert - kontaktieren Sie uns! Wir werden auf jeden Fall die beste Lösung finden.
+\n\n
+Unsere mail: makifeedback@gmail.com\n
+Facebook-Seite: m.facebook.com/sunshineappsst
+\n\n
+Mit freundlichen Grüßen, Sunshine Apps
+    </string>
+</resources>
+
