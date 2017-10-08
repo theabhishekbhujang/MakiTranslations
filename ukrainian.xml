@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="closeDrawer">Слайдер</string>
+    <string name="openDrawer">Відкрити слайдер</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Відміна</string>
+    <string name="choose_email_client">Оберіть поштовий клієнт</string>
+    <string name="no_network">З\'єднання відсутнє</string>
+    <string name="title_activity_settings">Налаштування</string>
+    <string name="preference_about_category">Про додаток</string>
+    <string name="share_action">Поділитись</string>
+    <string name="share_action_subject">Сторінка Facebook</string>
+    <string name="success">Успіх</string>
+    <string name="error">Помилка</string>
+    <string name="fragment_main_downloading">Зберігання&#8230;</string>
+    <string name="settings_more">Більше</string>
+
+    <string name="update_share">Поділитись</string>
+    <string name="fab_jump">Вгору</string>
+
+    <string name="newsfeed">Новини</string>
+    <string name="messages">Повідомлення</string>
+    <string name="faved">Закладки</string>
+    <string name="favorites">Обрані</string>
+    <string name="friends">Запити</string>
+    <string name="photos">Фото</string>
+    <string name="saved">Збережено</string>
+    <string name="settings">Налаштування</string>
+
+
+    <string name="news_feed_preferences">Налаштування Facebook</string>
+    <string name="fb_chat">Друзі онлайн</string>
+    <string name="refresh">Оновити</string>
+
+    <string name="notifications">Сповіщення</string>
+    <string name="search">Пошук</string>
+    <string name="end">Вийти</string>
+    <string name="exit">Закрити</string>
+
+
+    <string-array name="pref_theme_entries">
+        <item>Оформлення Maki</item>
+        <item>Facebook</item>
+		<item>Falcon</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+		<item>Темно-зелений</item>
+		<item>Світло-зелений</item>
+		<item>Світло-оранжевий</item>
+		<item>Темно-оранжевий</item>
+		<item>Морський</item>
+        <item>Червоний</item>
+		<item>Темний</item>
+        <item>Чорний (AMOLED)</item>
+    </string-array>
+
+
+    <string name="image_chooser">Вибрати фото</string>
+    <string name="addPage">Додати в обрані</string>
+
+    <string name="interval_pref_description">Сповіщення будуть оновлюватись кожні %s</string>
+    <string-array name="update_interval">
+        <item>30 секунд (високе використання трафіку)</item>
+        <item>1 хвилина (високе використання трафіку)</item>
+        <item>5 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>3 години</item>
+        <item>6 годин</item>
+    </string-array>
+
+    <string name="you_have_one_message">У вас нове повідомлення</string>
+    <string name="you_have_n_messages">У вас %d  нових повідомлень</string>
+    <string name="notifications_settings">Сповіщення</string>
+    <string name="notification_sound">Звук сповіщень</string>
+    <string name="silent">Тихо</string>
+    <string name="vibrate">Вібрувати</string>
+    <string name="led_light">LED</string>
+
+
+    <string name="maki_lock">Увімкнути пін-код</string>
+    <string name="lock_text_new">Захистіть Maki надійним пін-кодом</string>
+    <string name="lock_text_new_fingerprint">Ви також можете використовувати сканер відбитку пальця.</string>
+
+    <string name="context_save_image">Зберегти</string>
+    <string name="context_share_image">Поділитись</string>
+    <string name="context_copy_image_link">Скопіювати посилання</string>
+    <string name="context_share_image_progress">Підготування&#8230;</string>
+    <string name="content_copy_link_done">Посилання успішно скопійовано</string>
+
+    <string name="permission_denied">Дозвіл не отримано</string>
+
+    <string name="copy_right">\u00A9</string>
+	<string name="error_general">Помилка</string>
+    <string name="save_img">Зберегти</string>
+    <string name="download_manager_disabled">Менеджер завантажень вимкнено</string>
+    <string name="enable_location">Увімкнути місцезнаходження</string>
+
+    <string name="hide_ads">Прибрати рекламу</string>
+    <string name="hide_ads_more">Вимкніть усю рекламу Facebook в стрічці новин</string>
+	<string name="exit_message">Ви справді хочете закрити Maki?</string>
+	<string name="version">Версія</string>
+    <string name="maki_themes">Колір додатку</string>
+    <string name="themes">Оформлення</string>
+    <string name="privacy">Налаштування приватності</string>
+
+	<string name="welcome">Привіт</string>
+    <string name="saved_pin_message">Якщо Ви забули пін-код, будь ласка, очистіть дані додатку Maki в налаштуваннях пристрою.</string>
+
+
+    <string name="pin_code_forgot_text">Забули?</string>
+    <string name="pin_code_step_disable">Вимкнути пін-код</string>
+    <string name="pin_code_step_create">Створіть пін-код</string>
+    <string name="pin_code_step_change">Введіть Ваш пін-код</string>
+    <string name="pin_code_step_unlock">Введіте Ваш пін-код</string>
+    <string name="pin_code_step_enable_confirm">Підтвердіть Ваш пін-код</string>
+
+    <string name="pin_code_fingerprint_text">Відбиток пальця</string>
+    <string name="pin_code_fingerprint_success">Успіх</string>
+    <string name="pin_code_fingerprint_not_recognized">Спробуйте знову</string>
+    <string name="activity_dialog_title">Не перекладати</string>
+    <string name="activity_dialog_accept">Не перекладати</string>
+    <string name="activity_dialog_content">Не перекладати</string>
+    <string name="activity_dialog_decline">Не перекладати</string>
+	<string name="accept">Приймаю</string>
+    <string name="kitkat_upload">Завантаження на KitKat</string>
+    <string name="kitkat_upload_message">Привіт! Схоже на те, що Ваш пристрій працює на Android KitKat. Якщо у Вас KitKat версій 4.4 &#8211; 4.4.3 - завантаження фотографій не буде працювати в Maki. На жаль, це обмеження цих версій KitKat. Це обмеження виправлено в версії KitKat 4.4.4.</string>
+    <string name="try_upload">Спробувати завантаження</string>
+    <string name="logged_out">Ви вийшли</string>
+    <string name="open_in_browser">Відкрити в браузері</string>
+    <string name="copy_url">Скопіювати</string>
+
+
+    <string name="download">Зберегти</string>
+
+    <string name="down_view">Натисніть \"Переглянути в повному розмірі\" для збереження картинки.</string>
+    <string name="getting_image">Зберігаємо картинку</string>
+    <string name="aleady_at_top">Вже на верху</string>
+    <string name="removed">Видалено</string>
+    <string name="from_favs">з обраних.</string>
+    <string name="error_code_value" >помилка</string>
+    <string name="auto_night_title">Автоматична нічна тема</string>
+    <string name="auto_night_more">Нічна тема буде увімкнута в темну пору доби</string>
+    <string name="logout_message">Ви справді хочете покинути Maki?</string>
+    <string name="context_share_video">Поділитись</string>
+    <string name="change_log">Що нового?</string>
+	<string name="save_to">Збережено в </string>
+    <string name="downloading_on_mobile">Зберегти використовуючи мобільний трафік</string>
+    <string name="font_size">Розмір шрифту</string>
+    <string name="top_news_firstly">Цікаві новини</string>
+    <string name="quickbar">Quickbar</string>
+    <string name="quickbar_more">Отримуйте доступ до Facebook будь-де</string>
+
+    <string name="messages_shortcut">Посилання на повідомлення</string>
+    <string name="notifications_shortcut">Посилання на сповіщення</string>
+    <string name="messages_shortcut_more">Створіть посилання на головному екрані для швидкого доступу до повідомлень</string>
+    <string name="notifications_shortcut_more">Створіть посилання на головному екрані для швидкого доступу до сповіщень</string>
+
+    <string name="twitter_shortcut">Посилання на Twitter</string>
+    <string name="instagram_shortcut">Посилання на Instagram</string>
+    <string name="twitter_shortcut_more">Створіть посилання на головному екрані для швидкого доступу до Twitter</string>
+    <string name="instagram_shortcut_more">Створіть посилання на головному екрані для швидкого доступу до Instagram</string>
+
+    <string name="type_archive">Архів</string>
+    <string name="type_certificate">Сертифікат</string>
+    <string name="type_directory">Директорія</string>
+    <string name="type_document">Файл</string>
+    <string name="type_drawing">Малюнок</string>
+    <string name="type_excel">Таблиця</string>
+    <string name="type_image">Картинка</string>
+    <string name="type_music">Музика</string>
+    <string name="type_video">Відео</string>
+    <string name="type_pdf">PDF документ</string>
+    <string name="type_power_point">Презентація</string>
+    <string name="type_word">Документ</string>
+    <string name="type_apk">APK</string>
+    <string name="open_with">Відкрити в</string>
+    <string name="pick">Натисніть \u2713 для вибору директорії.</string>
+    <string name="create_directory">Створити директорію</string>
+    <string name="most_recent">Останні</string>
+    <string name="top_news">Цікаві</string>
+
+    <string name="messenger">Повідомлення</string>
+    <string name="about">Про додаток</string>
+    <string name="feedback">Залишити відгук</string>
+    <string name="ratemaki">Оцініть Maki</string>
+
+    <string name="feedback_mail">Відгук</string>
+    <string name="some_feedback">Невеличкий відгук про</string>
+
+    <string name="messenger_app">Додаток Facebook Messenger</string>
+    <string name="messenger_app_more">Використовувати додаток Messenger замість вбудованого Messenger</string>
+
+    <string name="interval">Інтервал перевірки сповіщень</string>
+
+    <!--Crash Dialog-->
+    <string name="crash_toast_text">Щось пішло не так</string>
+    <string name="crash_dialog_title">Maki припинила роботу</string>
+    <string name="crash_dialog_text">Дуже шкода, але Maki нас покинула. Давайте допоможемо їй. Для цього необхідно відправити інформацію про падіння. Достатньо натиснути кнопку ОК.</string>
+    <string name="crash_dialog_comment_prompt">А ще можна побажати добра розробнику ось тут:</string>
+
+    <string name="new_directory">Створена нова директорія: </string>
+    <string name="changed">Змінено на </string>
+    <string name="pins_here">Зберігайте обрані сторінки для швидкого доступу до них</string>
+    <string name="download_not_found">Завантаження не знайдено</string>
+    <string name="profile">Я</string>
+    <string name="share">Поділитись</string>
+
+    <string name="welcome_back">Ласкаво просимо!</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+
+    <string name="addHome">Додати на головний екран</string>
+
+    <string name="power">Збереження енергії</string>
+    <string name="power_saving_mode">Режим збереження енергії</string>
+    <string name="power_saving_mode_more">Зберігайте заряд батареї, щоб довше користуватись Facebook</string>
+
+    <string name="thanks_support">Спасибі за підтримку!</string>
+    <string name="unable_purchase">Покупку скасовано</string>
+
+
+    <string name="donate_support">Підтримати розробників</string>
+    <string name="purchase">Придбати</string>
+
+    <string name="help">Допомога</string>
+    <string name="dark">Темна тема</string>
+    <string name="home">Головна</string>
+    <string name="switch_to_maki">Facebook</string>
+
+    <string name="no_location_permission">Дозвіл відсутній</string>
+    <string name="no_storage_permission">Дозвіл відсутній</string>
+    <string name="added">Додано в обрані</string>
+    <string name="tofav">додано в обрані</string>
+
+    <string name="download_failed">Завантаження провалено</string>
+    <string name="download_paused">Завантаження зупинено</string>
+    <string name="download_pending">Підготування...</string>
+    <string name="download_in_progress">Йде завантаження</string>
+    <string name="download_complete">Завантажено</string>
+    <string name="download_nowhere">Завантаження відсутнє</string>
+    <string name="image_share">Поділитись</string>
+
+    <string name="notifications_on">Сповіщення вимкнені</string>
+    <string name="turn_to_notifications">Увімкніть для отримання сповіщень</string>
+
+    <string name="remove_pin">Прибрати з обраних?</string>
+    <string name="should_remove">Ви справді хочете прибрати</string>
+    <string name="from_pins">з обраних?</string>
+    <string name="label">Відмітка</string>
+
+    <string name="never">Ніколи</string>
+
+    <string name="rate_hello">Оцініть Maki</string>
+    <string name="rate_more">Що Ви думаєте про Maki? Оцініть її тут:</string>
+    <string name="negative_review">Негативний відгук</string>
+    <string name="contact_us">Будь ласка, розкажіть нам, чому саме Вам не сподобалась Maki. Дякуємо!</string>
+    <string name="review">Відгук</string>
+
+    <string-array name="font_choice">
+        <item>80 %</item>
+        <item>90 %</item>
+        <item>100 %</item>
+        <item>105 %</item>
+        <item>110 %</item>
+        <item>135 %</item>
+        <item>150 %</item>
+    </string-array>
+
+    <string name="locked">Заблоковано</string>
+    <string name="please_enter_passcode">Введіть пін-код</string>
+    <string name="lock_input_again">Введіть пін-код знову</string>
+    <string name="lock_input_not_match">Пін-коди не співпадають</string>
+
+    <string name="buy_plus">Прийшов час для Maki Plus</string>
+    <string name="buy_plus_more">Прийшов час зробити Maki ще краще з версією Plus - приберіть рекламу від Facebook, створюйте посилання швидкого доступу, користуйтесь автоматичною нічною темою та підтримайте розробників.</string>
+    <string name="lets_do_it">Зробімо це!</string>
+    <string name="later">Пізніше</string>
+
+    <string name="logout">Вийти</string>
+
+    <!--Intro-->
+    <string name="first_slide">Ласкаво просимо в Maki</string>
+    <string name="second_slide">Діліться та насолоджуйтесь. Швидше.</string>
+    <string name="third_title">Прекрасна. І мінімалістична</string>
+    <string name="fourth_title">Час розпочинати</string>
+
+    <string name="first_description">Нова ера Facebook на Android</string>
+    <string name="second_description">Maki працює швидше будь-якого Facebook-додатку з Play Store</string>
+    <string name="third_description">Тільки те, що справді важливо - нічого зайвого</string>
+
+    <string name="next">Далі</string>
+    <string name="login_fb">Увійти з Facebook</string>
+
+    <string name="start">Поїхали</string>
+    <string name="thanks">Велике спасибі!</string>
+
+
+    <string name="about_description">Створено Sunshine Apps з любов\'ю. 2016-2017</string>
+    <string name="like_on_facebook">Лайкнути на Facebook</string>
+    <string name="web">Контакти</string>
+
+    <string name="thanks_more">Велике спасибі! Будь ласка, перезапустіть додаток для початку використання усіх функцій Maki Plus.</string>
+    <string name="error_link">file:///android_asset/error_ua.html</string>
+    <string name="shortcuts">Швидкий доступ</string>
+
+    <string name="license">Ліцензії open source</string>
+    <string name="close">Закрити</string>
+
+    <string name="support">Підтримка</string>
+    <string name="plus_hello">Привіт,</string>
+    <string name="plus_time">Саме час зробити Maki краще з</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="plus_ads">Приберіть усю рекламу Facebook зі стрічки новин. Неймовірно.</string>
+    <string name="plus_dark">Темна тема буде вмикатись автоматично в темну пору доби. Файно.</string>
+    <string name="plus_shortcuts">Користуйтесь Maki ще швидше - створіть необхідні посилання на головному екрані і отримуйте доступ до Facebook усюди завдяки QuickBar. Вражаюче.</string>
+    <string name="plus_support">Кожне придбання Plus робить Maki краще - це чудова мотивація для мене!</string>
+    <string name="plus_buy">Придбати Plus</string>
+    <string name="plus_by">від Sunshine Apps</string>
+
+    <string name="help_translate">Допомогти з перекладом</string>
+    <string name="googlebluedark">googlebluedark</string>
+
+    <string name="open_in">Внутрішній браузер</string>
+    <string name="open_in_more">Відкривати зовнішні посилання в Maki</string>
+    <string name="browsing_settings">Налаштування браузинга</string>
+    <string name="twitter_preferences">Налаштування Twitter</string>
+
+    <string name="twitter_first">Відкривати Twitter першим</string>
+    <string name="twitter_first_more">Відкривати Twitter замість Facebook при відкритті Maki</string>
+
+    <string name="top_tabs">Навігація зверху</string>
+    <string name="top_tabs_more">Показувати панель навігації зверху</string>
+
+    <string name="fbpage">Сторінка Facebook</string>
+
+    <string-array name="messenger_choice">
+        <item>Messenger в Maki</item>
+        <item>Додаток Messenger</item>
+        <item>Додаток Messenger Lite</item>
+    </string-array>
+
+    <string name="dont_show_again">Не показувати знову</string>
+
+    <string name="problems_title">Проблеми з придбанням</string>
+    <string name="problems_purchase">
+
+
+Спасибі Вам велике за підтримку в розробці Maki! На жаль, схоже на те, що у Вас виникли проблеми з отриманням Maki Plus. Саме ця сторінка призвана допомогти вирішити цю прикрість.
+\n\n
+Ми маємо декілька варіантів вирішення проблеми:\n\n
+1) Перезапустіть додаток. Просто закрийте Maki та запустіть її з нуля, після чого відкрийте налаштування та спробуйте увімкнути будь-яку функцію Maki Plus.
+\n\n
+2) Якщо перший спосіб не спрацював - спробуйте натиснути на кнопку "Придбати Maki Plus" ще один раз. Це відновить Ваше попереднє придбання (не турбуйтесь, Ви не заплатите двічі за один і той самий продукт). Після цього перезапустіть додаток та спробуйте увімкнути будь-яку функцію Maki Plus. \n\n
+3) Якщо не спрацювало нічого - напишіть нам! Разом ми точно знайдемо найкраще вирішення.
+\n\n
+Наша пошта: makifeedback@gmail.com\n
+Сторінка Facebook: m.facebook.com/sunshineappsst 
+\n\n
+З найкращими побажаннями, Sunshine Apps
+
+    </string>
+</resources>
+
