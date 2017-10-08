@@ -17,7 +17,7 @@ Don't forget to write which language is. And notify me about new translation:
 
 - **sunshineappsst@gmail.com** 
 - **https://t.me/sfilmak**
-- **https://facebook.com/sfilmak**
+- **https://www.facebook.com/sunshineappsst**
 
 **Thank you very much!**
 
