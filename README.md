@@ -4,7 +4,7 @@
 
 If you want to help me and translate Maki to more languages or fix mistakes in existing ones - you are welcome!
 
-You can improve existing translations by clicking on "edit" button and opening a pull requests or translate to new languages by modifying `english.xml` in your fork.
+You can improve existing translations by clicking on "edit" button and opening pull requests or translate to new languages by modifying `english.xml` in your fork.
 
 Don't forget to write which language it is. 
 
