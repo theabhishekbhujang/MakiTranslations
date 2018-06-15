@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="closeDrawer">Слайдер</string>
     <string name="openDrawer">Открыть слайдер</string>
@@ -31,6 +31,8 @@
 
     <string name="news_feed_preferences">Настройки Facebook</string>
     <string name="fb_chat">Друзья онлайн</string>
+    <string name="pokes">Подмигивания</string>
+    <string name="trending">Тенденции</string>
     <string name="refresh">Обновить</string>
 
     <string name="notifications">Нотификации</string>
@@ -50,9 +52,13 @@
 		<item>Светло-оранжевый</item>
 		<item>Тёмно-оранжевый</item>
 		<item>Морской</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
         <item>Красный</item>
 		<item>Тёмный</item>
         <item>Чёрный (AMOLED)</item>
+        <item>Черное и белое</item>
     </string-array>
 
 
@@ -125,9 +131,6 @@
     <string name="activity_dialog_content">Не переводите</string>
     <string name="activity_dialog_decline">Не переводите</string>
 	<string name="accept">Принимаю</string>
-    <string name="kitkat_upload">Загрузки на KitKat</string>
-    <string name="kitkat_upload_message">Привет! Похоже на то, что Ваше устройство работает на Android KitKat. Если у Вас KitKat 4.4 &#8211; 4.4.3 - загрузка фото не будет работать в Maki. К сожалению, это ограничение данных версий KitKat. Это ограничение исправлено в версии KitKat 4.4.4. Приносим свои извинения.</string>
-    <string name="try_upload">Попробовать</string>
     <string name="logged_out">Вы вышли</string>
     <string name="open_in_browser">Открыть в браузере</string>
     <string name="copy_url">Скопировать</string>
@@ -136,6 +139,7 @@
     <string name="download">Сохранить</string>
 
     <string name="down_view">Нажмите \"Посмотреть в полном размере\" для загрузки картинки.</string>
+    <string name="down_list">Нажмите и удерживайте на картинку в списке, чтобы сохранить или поделиться ею.</string>
     <string name="getting_image">Сохраняем картинку</string>
     <string name="aleady_at_top">Уже на верху</string>
     <string name="removed">Удалено</string>
@@ -212,7 +216,7 @@
     <string name="twitter">Twitter</string>
     <string name="instagram">Instagram</string>
 
-    <string name="addHome">Добавить на главный екран</string>
+    <string name="addHome">Добавить на главный экран</string>
 
     <string name="power">Сохранение энергии</string>
     <string name="power_saving_mode">Режим сохранения энергии</string>
@@ -259,16 +263,6 @@
     <string name="contact_us">Пожалуйста, расскажите нам, почему Вам не понравилась Maki. Спасибо!</string>
     <string name="review">Review</string>
 
-    <string-array name="font_choice">
-        <item>80 %</item>
-        <item>90 %</item>
-        <item>100 %</item>
-        <item>105 %</item>
-        <item>110 %</item>
-        <item>135 %</item>
-        <item>150 %</item>
-    </string-array>
-
     <string name="locked">Заблокировано</string>
     <string name="please_enter_passcode">Введите пин-код</string>
     <string name="lock_input_again">Введите пин-код снова</string>
@@ -298,7 +292,6 @@
     <string name="thanks">Большое спасибо!</string>
 
 
-    <string name="about_description">Создано Sunshine Apps с любовью. 2016-2017</string>
     <string name="like_on_facebook">Лайкнуть на Facebook</string>
     <string name="web">Контакты</string>
 
@@ -362,5 +355,128 @@
 С наилучшими пожеланиями, Sunshine Apps
 
     </string>
-</resources>
 
+    <string name="auto_night_time">Начало и окончание</string>
+    <string name="auto_night_time_summary">Выберите время начала и окончания автоматической ночной темы</string>
+
+    <string name="whats_new">Обновление Maki!</string>
+    <string name="whats_new_button">Поехали!</string>
+    <string name="new_version">
+Что нового?
+\n\n
+1) Исправлена ошибка при запуске приложения\n
+2) Улучшенный режим сохранения энергии: быстрое переключение между Facebook, Twitter и Instagram\n\n
+
+Спасибо большое за использование Maki! Не забудьте оценить ее в Google Play.
+        \n\n
+Связь: makifeedback@gmail.com или m.facebook.com/sunshineappsst/     \n\n
+    </string>
+
+    <string name="mdtp_done_label">Готово</string>
+    <string name="mdtp_ok">OK</string>
+    <string name="mdtp_cancel">Отмена</string>
+    <string name="mdtp_hour_picker_description">Круглый слайдер выбора часа</string>
+    <string name="mdtp_minute_picker_description">Круглый слайдер выбора минут</string>
+    <string name="mdtp_select_hours">Выберите час</string>
+    <string name="mdtp_select_minutes">Выберите минуты</string>
+    <string name="mdtp_item_is_selected"><xliff:g id="item" example="2013">%1$s</xliff:g> выбрано</string>
+    <string name="mdtp_deleted_key"><xliff:g id="key" example="4">%1$s</xliff:g> удалено</string>
+
+    <string name="mdtp_from">С</string>
+    <string name="mdtp_to">ДО</string>
+
+    <string name="fullscreen_style">Полноэкранный режим</string>
+
+
+    <!--Maki 2.3-->
+    <string name="enable_quickview">Включить Quick View</string>
+    <string name="dm_instagram">Большое спасибо за использование Maki. Извините, но Instagram в Maki не поддерживает приватные сообщения из-за ограничений самого Instagram. Нам всего лишь нужно ждать того момента, когда разработчики Instagram сами добавят данный функционал. Большое спасибо за понимание!</string>
+
+    <string name="navigation_preference">Элементы навигации</string>
+    <string name="navigation_preference_more">Добавьте или уберите социальные сети в панели навигации</string>
+    <string name="social_medias">Социальные сети</string>
+    <string name="hide_twitter">Убрать Twitter</string>
+    <string name="hide_instagram">Убрать Instagram</string>
+    <string name="hide_google">Убрать Google+</string>
+    <string name="hide_tumblr">Убрать Tumblr</string>
+    <string name="hide_vk">Убрать Вконтакте</string>
+    <string name="welcome_to_maki_more">Новая эра социальных сетей</string>
+
+    <string name="no_internet_title">Интернет отсутствует</string>
+    <string name="no_internet_body">Подключение к сети отсутствует</string>
+    <string name="wifi_on">Wifi</string>
+    <string name="mobile">Мобильный трафик</string>
+    <string name="airplane">Режим "В самолете"</string>
+    <string name="turn_on">Пожалуйста, включите</string>
+    <string name="turn_off">Пожалуйста, выключите</string>
+    <string name="airplane_on">У Вас включен режим "В самолете".</string>
+    <string name="mission">Наша миссия довольно проста - сделать использование социальных сетей проще и удобнее для каждого</string>
+
+    <string name="facebook_message">Оповещения Messenger</string>
+    <string name="facebook_notifications">Оповещения Facebook</string>
+    <string name="notification_sound_description">Выберите рингтон: \u0020</string>
+    <string name="notifications_settings_description">Более гибкие настройки</string>
+    <string name="interval_pref">Интервал проверки оповещений</string>
+    <string name="interval_pref_description_new">Оповещения будут проверяться каждые %s.</string>
+    <string name="notification_sound_msg">Звук оповещений</string>
+    <string name="vibrate_double">Двойная вибрация</string>
+    <string name="blacklist_title">Черный список</string>
+    <string name="new_black_word">Добавьте новое слово в ЧС</string>
+    <string name="blacklist_summary">Список ключевых слов для блокировки</string>
+    <string name="exact">Вовремя</string>
+    <string name="exact_summary">Постоянная проверка на оповещения. Повышает расход батареи</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>30 секунд</item>
+        <item>60 секунд</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>3 часа</item>
+        <item>6 часов</item>
+    </string-array>
+
+    <string name="notifications_extra">Дополнительно</string>
+    <string name="notifications_everywhere">Всегда оповещать</string>
+    <string name="notifications_everywhere_description">Получайте оповощения всегда - даже при запущенном приложении</string>
+    <string name="vk">Вконтакте</string>
+    <!--2.4.2-->
+    <string name="enable_exit">Спрашивать о закрытии приложения</string>
+    <string name="hide_people">Отключить \"Люди, которых Вы можете знать\"</string>
+    <string name="hide_news_feed">Отключить ленту новостей</string>
+    <string name="enable_fab">Включить плавающую кнопку</string>
+
+    <!--2.4.3-->
+
+    <string name="fab_text">Обновить статус</string>
+    <string name="fab_photo">Добавить фото/видео</string>
+    <string name="fab_checkin">Добавить отметку</string>
+    <string name="done">Готово!</string>
+
+    <string name="facebook_limit">Извините, но Facebook не разрешает делиться текстом на данный момент - только ссылками!</string>
+
+    <!--2.4.6-->
+    <string name="font_details">Введите размер шрифта в диапазоне от 50 до 300 %</string>
+    <string name="localSwitcherTitle">Изменить язык приложения</string>
+    <string name="localSwitcherSummary">Язык приложения: %s</string>
+    <string name="advice">Маленький совет</string>
+    <string name="advice_more">Нажмите и удерживайте картинку для сохранения</string>
+    <string name="hide_groups">Убрать рекомендованные группы</string>
+    <string name="problems_with_purchase">Проблемы с покупкой?</string>
+    <string name="disable_images">Отключить загрузку изображений</string>
+
+    <!--2.5-->
+    <string name="copy_right_about">Copyrights © %1$d</string>
+    <string name="switch_profile">Сменить аккаунт</string>
+    <string name="launch_social">Открывать Maki с </string>
+    <string name="hide_reddit">Убрать Reddit</string>
+    <string name="hide_facebook">Убрать Facebook</string>
+    <string name="floating_button">Плавающая кнопка</string>
+    <string name="jorell_thanks">Спасибо большое за улучшение Maki!</string>
+    <string name="thanks_to">Благодарности</string>
+
+    <!--2.5.2-->
+    <string name="notif">Оповещения</string>
+</resources>
