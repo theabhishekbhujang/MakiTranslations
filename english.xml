@@ -1,17 +1,7 @@
-
-<!--Copyright (C) 2016-2017  Roman Savchyn/Sunshine Apps
-    Code taken from:
-    - Simple for Facebook by creativetrendsapps;
-    - FaceSlim by indywidualny;
-    - Toffed by JakeLane;
-    - SlimSocial by  Leonardo Rignanese;
-    - MaterialFBook by ZeeRooo.
- Thank you very much!
-    Copyright notice must remain here if you're using any part of this code.
-    -->
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" tools:ignore="MissingTranslation">
 
+    <string name="app_name">Maki</string>
     <string name="closeDrawer">Navigation View</string>
     <string name="openDrawer">Open Left Drawer</string>
     <string name="ok">OK</string>
@@ -48,6 +38,8 @@
 
     <string name="news_feed_preferences">Facebook Preferences</string>
     <string name="fb_chat">Active Friends</string>
+    <string name="pokes">Pokes</string>
+    <string name="trending">Trending</string>
     <string name="refresh">Refresh</string>
 
     <string name="notifications">Notifications</string>
@@ -59,19 +51,22 @@
     <string-array name="pref_theme_entries">
         <item>Maki Theme</item>
         <item>Facebook Blue</item>
-		<item>Falcon</item>
+        <item>Falcon</item>
         <item>Pink</item>
         <item>Deep Purple</item>
-		<item>Dark Green</item>
-		<item>Light Green</item>
-		<item>Amber</item>
-		<item>Deep Orange</item>
-		<item>Cyan</item>
+        <item>Dark Green</item>
+        <item>Light Green</item>
+        <item>Amber</item>
+        <item>Deep Orange</item>
+        <item>Cyan</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
         <item>Red</item>
-		<item>Dark</item>
+        <item>Dark</item>
         <item>AMOLED</item>
+        <item>Black and White</item>
     </string-array>
-
 
 
     <string name="image_chooser">Image Chooser</string>
@@ -99,7 +94,7 @@
 
 
     <string name="maki_lock">Enable passcode</string>
-    <string name="lock_text_new">Secure Maki with a passcode.</string>
+    <string name="lock_text_new">Protect Maki with a passcode.</string>
     <string name="lock_text_new_fingerprint">Alternatively, you can use your fingerprint.</string>
 
     <string name="context_save_image">Download image</string>
@@ -111,19 +106,31 @@
     <string name="permission_denied">Permission denied. This action can\'t be complete.</string>
 
     <string name="copy_right">\u00A9</string>
-	<string name="error_general">Error</string>
+    <string name="error_general">Error</string>
     <string name="save_img">Save</string>
     <string name="download_manager_disabled">Download Manager Disabled</string>
     <string name="enable_location">Enable Location</string>
 
     <string name="hide_ads">Remove Sponsored Posts</string>
     <string name="hide_ads_more">Remove all advertising in Facebook news feed</string>
-	<string name="exit_message">Are you sure want to close Maki?</string>
-	<string name="version">Version</string>
+    <string name="exit_message">Are you sure want to close Maki?</string>
+    <string name="version">Version</string>
 
 
-	<string name="welcome">Hello</string>
+    <string name="welcome">Hello</string>
     <string name="saved_pin_message">If you forget your pin, please clear Maki data from your phone\'s application manager.</string>
+
+
+    <string name="button1_large_text" translatable="false">1</string>
+    <string name="button2_large_text" translatable="false">2</string>
+    <string name="button3_large_text" translatable="false">3</string>
+    <string name="button4_large_text" translatable="false">4</string>
+    <string name="button5_large_text" translatable="false">5</string>
+    <string name="button6_large_text" translatable="false">6</string>
+    <string name="button7_large_text" translatable="false">7</string>
+    <string name="button8_large_text" translatable="false">8</string>
+    <string name="button9_large_text" translatable="false">9</string>
+    <string name="button11_large_text" translatable="false">0</string>
 
     <string name="pin_code_forgot_text">Forgot?</string>
     <string name="pin_code_step_disable">Disable passcode</string>
@@ -139,30 +146,27 @@
     <string name="activity_dialog_accept">Don\'t Translate</string>
     <string name="activity_dialog_content">Don\'t Translate</string>
     <string name="activity_dialog_decline">Don\'t Translate</string>
-	<string name="accept">I Accept</string>
-    <string name="kitkat_upload">KitKat Uploads</string>
-    <string name="kitkat_upload_message">Hello, you seem to be running Android KitKat. If your version of KitKat is 4.4 &#8211; 4.4.3, photo uploads will not work within Maki. This is a limitation within those versions of KitKat. This limitation is fixed in version 4.4.4 of KitKat.</string>
-    <string name="try_upload">Try Uploading</string>
+    <string name="accept">I Accept</string>
     <string name="logged_out">Logged out.</string>
     <string name="open_in_browser">Open in browser</string>
     <string name="copy_url">Copy to clipboard</string>
 
 
-
     <string name="download">Download</string>
 
     <string name="down_view">Tap \"View Full Size\" to download or view image.</string>
+    <string name="down_list">Tap and hold an image on a list to save or share it.</string>
     <string name="getting_image">Getting Image</string>
     <string name="aleady_at_top">Already at top</string>
     <string name="removed">Removed</string>
     <string name="from_favs">from pins.</string>
-    <string name="error_code_value" >wrong</string>
+    <string name="error_code_value">wrong</string>
     <string name="auto_night_title">Automatic Night Theme</string>
     <string name="auto_night_more">Dark theme will be automatically enabled at night</string>
     <string name="logout_message">Are you sure you would like to log out of Maki?</string>
     <string name="context_share_video">Share Video</string>
     <string name="change_log">What\'s New</string>
-	<string name="save_to">Saved to:</string>
+    <string name="save_to">Saved to:</string>
     <string name="downloading_on_mobile">Downloading using mobile data.</string>
     <string name="font_size">Font Size</string>
     <string name="top_news_firstly">Show Top News firstly</string>
@@ -228,6 +232,9 @@
     <string name="twitter">Twitter</string>
     <string name="instagram">Instagram</string>
 
+    <string name="main_social_media">Main social media</string>
+    <string name="main_social_media_more">Choose which social media you want to run first</string>
+
     <string name="addHome">Add to home screen</string>
 
     <!--Defaults-->
@@ -239,7 +246,7 @@
     <string name="power_saving_mode">Power saving mode</string>
     <string name="power_saving_mode_more">Save power and use Facebook longer</string>
 
-   
+    <string name="play_billing_license_key" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqYnsF74U8bYxWsErR1y7d8LKxiVXzTePn6O9mYgmMu+PNMkmUz2P46T1L6B5U2BoNOYO/0/vCnb9L27qqeHhzlb4LBzE3RlC0zrlFvFGWcfDyr4rjHxtH4RvOhvFKrPpfV2TJRLugchF0+MY7RoQYa0yXCZCMAmNrv7uAdxn/SkgXB0XPjiWmHCVXmhfYuPvVA631U4KMazvphLadnzczas5gWmkzwfmb9ya4McFxOyJ2O3ssNRR5N5mhb/ExMrgaMBt1OYhTHejVYSdbh4W/w8nJyaHrEv+9iesb/ennjbuU4nNa2Ae0uz4m/Ug08z1AFuRxG2uYsQewwpfk1lUlwIDAQAB</string>
     <string name="thanks_support">Thanks for your support!</string>
     <string name="unable_purchase">Purchase cancelled</string>
 
@@ -287,14 +294,17 @@
         <item>100 %</item>
         <item>105 %</item>
         <item>110 %</item>
+        <item>115 %</item>
+        <item>120 %</item>
         <item>135 %</item>
         <item>150 %</item>
+        <item>200 %</item>
     </string-array>
 
     <string name="locked">Locked</string>
     <string name="please_enter_passcode">Enter a passcode</string>
     <string name="lock_input_again">Re-enter new passcode</string>
-    <string name="lock_input_not_match">Passcodes doesn\'t match</string>
+    <string name="lock_input_not_match">Passcodes don\'t match</string>
 
     <string name="buy_plus">It\'s time for Maki Plus</string>
     <string name="buy_plus_more">It\'s time to make Maki even better with Plus version - remove advertising, create shortcuts, enable auto night theme and support developers.</string>
@@ -319,8 +329,6 @@
     <string name="start">Let\'s go</string>
     <string name="thanks">Thank you very much!</string>
 
-
-    <string name="about_description">Created with love by Sunshine Apps. 2016-2017</string>
     <string name="like_on_facebook">Like on Facebook</string>
     <string name="web">Contact</string>
 
@@ -328,9 +336,9 @@
     <string name="error_link">file:///android_asset/error.html</string>
     <string name="shortcuts">Shortcuts</string>
 
-<string name="close">Close</string>
+    <string name="close">Close</string>
     <string name="support">Support</string>
-    <string name="plus_hello">Hello,</string>
+    <string name="plus_hello">Hello!</string>
     <string name="plus_time">It\'s time to make Maki better with</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="plus_ads">Disable all advertising from Facebook on your news feed. Incredible.</string>
@@ -347,11 +355,19 @@
     <string name="twitter_preferences">Twitter Preferences</string>
     <string name="twitter_first">Launch Twitter firstly</string>
     <string name="twitter_first_more">Launch Twitter before Facebook</string>
+    <string name="facebook">Facebook</string>
 
     <string name="top_tabs">Top navigation</string>
     <string name="top_tabs_more">Show navigation tab on the top</string>
     <string name="fbpage">Facebook Page</string>
 
+    <string name="input">Enter URL</string>
+
+    <string-array name="browser_choice">
+        <item>Chrome Custom Tabs</item>
+        <item>Maki Browser</item>
+        <item>External browser</item>
+    </string-array>
 
     <string-array name="messenger_choice">
         <item>Messenger in Maki</item>
@@ -360,6 +376,7 @@
     </string-array>
 
     <string name="dont_show_again">Don\'t show again</string>
+    <string name="quiet_hours" translatable="false">Quiet hours</string>
 
     <string name="problems_title">Problems with purchase</string>
     <string name="problems_purchase">
@@ -379,5 +396,581 @@ Facebook page: m.facebook.com/sunshineappsst
 With best regards, Sunshine Apps
 
     </string>
-</resources>
 
+    <string name="license_text" translatable="false"><![CDATA[
+
+    	<b>MaterialFBook</b><br><br>
+
+	Copyright &#169; 2017 ZeeRooo<br><br>
+
+	This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+<br><br>
+
+	This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.<br><br>
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/><br><br><br>
+
+	<b>Clans Floating Action Button</b><br><br>
+	Copyright 2015 Dmytro Tarianyk
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+
+
+
+	<b>AdvancedWebView</b><br><br>
+	Copyright 2015 delight.im <info@delight.im>
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+
+
+	<b>Toffeed</b><br><br>
+
+   	The MIT License (MIT)<br><br>
+
+	Copyright &#169; 2015 Jake Lane<br><br>
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:<br><br>
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.<br><br>
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.<br><br>
+
+
+
+	<b>FloatingView</b><br><br>
+	Copyright &#169; 2013 Luke Klinker
+	<br><br>
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	<br><br>
+   	http://www.apache.org/licenses/LICENSE-2.0
+	<br><br>
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	<br><br>
+
+
+
+		<b>Simplicity</b><br><br>
+
+	Copyright &#169; 2016 Jorell Rutledge<br><br>
+
+	This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+<br><br>
+
+	This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.<br><br>
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/><br><br><br>
+
+
+
+		<b>Folio for Facebook</b><br><br>
+	Copyright &#169; 2016 Jorell Rutledge<br><br>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.<br><br>
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.<br><br>
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/><br><br><br>
+
+
+	<b>Simple for Facebook</b><br><br>
+	Copyright &#169; 2017 Jorell Rutledge<br><br>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.<br><br>
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.<br><br>
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/><br><br><br>
+
+
+
+<b>Lollipin</b><br><br>
+
+The MIT License (MIT)<br><br>
+
+Copyright &#169; 2015 OrangeGangsters<br><br>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:<br><br>
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.<br><br>
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.<br><br><br>
+
+
+
+<b>BottomSheet</b><br><br>
+
+Copyright &#169; 2015 Kenny Campagna<br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at<br><br>
+
+   http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.<br><br><br>
+
+
+<b>Material Intro</b><br><br>
+
+MIT License<br><br>
+
+Copyright &#169; 2017 Jan Heinrich Reimer<br><br>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:<br><br>
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.<br><br>
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.<br><br>
+
+
+<b>Picasso</b><br><br>
+
+Copyright &#169; 2013 Square, Inc.<br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at<br><br>
+
+   http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.<br><br>
+
+
+<b>PhotoView</b><br><br>
+
+Copyright &#169; 2017 Chris Banes<br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at<br><br>
+
+   http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.<br><br>
+
+<b>Android In-App Billing v3 Library</b><br><br>
+
+Copyright &#169; 2014 AnjLab<br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+<br><br>
+http://www.apache.org/licenses/LICENSE-2.0
+<br><br>
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+<br><br>
+
+<b>mkloader</b><br><br>
+
+Copyright &#169; 2017 Tuyen Monkey<br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at<br><br>
+
+   http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.<br><br>
+
+
+<b>okio</b><br><br>
+
+Copyright &#169; 2013 Square, Inc.<br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at<br><br>
+
+   http://www.apache.org/licenses/LICENSE-2.0
+<br><br>
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+<br><br>
+
+<b>okhttp3</b><br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+<br><br>
+   http://www.apache.org/licenses/LICENSE-2.0
+<br><br>
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.<br><br>
+
+<b>TypefaceView</b><br><br>
+
+The MIT License (MIT)<br><br>
+
+Copyright &#169; 2015 OrangeGangsters<br><br>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:<br><br>
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.<br><br>
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.<br><br>
+
+<b>Taurus</b><br><br>
+
+Copyright &#169; 2017, Yalantis<br><br>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at<br><br>
+
+   http://www.apache.org/licenses/LICENSE-2.0<br><br>
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.<br><br>
+
+
+<b>RippleEffect</b><br><br>
+
+
+The MIT License (MIT)<br><br>
+
+    Copyright &#169; 2014 Robin Chutaux<br><br>
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:<br><br>
+
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.<br><br>
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.<br><br>
+    ]]></string>
+
+    <string name="thanks_to_text" translatable="false"><![CDATA[
+<b>Jorell Rutledge</b><br><br>
+
+Thank you very much for improving Maki!
+
+
+ ]]></string>
+
+    <string name="auto_night_time">Start and end time</string>
+    <string name="auto_night_time_summary">Choose start and end time of automatic night theme</string>
+
+    <string name="fullscreen_style">Fullscreen mode</string>
+    <string name="keep_offline" translatable="false">Keep messages offline</string>
+    <string name="keep_offline_more" translatable="false">Save your messages and access them without internet connection</string>
+    <string name="whats_new">Maki update!</string>
+    <string name="whats_new_button">Let\'s go!</string>
+    <string name="new_version">
+What\'s new?
+\n\n
+1) Fixed crash on launching\n
+2) Improved Power saving mode: quickly switch between Facebook, Twitter, and Instagram\n
+\n
+Thank you very much for using Maki!\n\n
+Feedback: makifeedback@gmail.com or m.facebook.com/sunshineappsst/\n\n
+    </string>
+
+    <string name="mdtp_done_label">Done</string>
+    <string name="mdtp_ok">OK</string>
+    <string name="mdtp_cancel">Cancel</string>
+    <string name="mdtp_hour_picker_description">Hours circular slider</string>
+    <string name="mdtp_minute_picker_description">Minutes circular slider</string>
+    <string name="mdtp_select_hours">Select hours</string>
+    <string name="mdtp_select_minutes">Select minutes</string>
+    <string name="mdtp_item_is_selected"><xliff:g example="2013" id="item">%1$s</xliff:g> selected</string>
+    <string name="mdtp_deleted_key"><xliff:g example="4" id="key">%1$s</xliff:g> deleted</string>
+    <string name="mdtp_from">FROM</string>
+    <string name="mdtp_to">TO</string>
+
+
+    <string name="mdtp_day_picker_description" translatable="false">Month grid of days</string>
+    <string name="mdtp_year_picker_description" translatable="false">Year list</string>
+    <string name="mdtp_select_day" translatable="false">Select month and day</string>
+    <string name="mdtp_select_year" translatable="false">Select year</string>
+
+
+    <!-- DO NOT TRANSLATE THEM: -->
+    <string name="mdtp_time_placeholder" translatable="false">--</string>
+    <string name="mdtp_time_separator" translatable="false">:</string>
+    <string name="mdtp_radial_numbers_typeface" translatable="false">sans-serif</string>
+    <string name="mdtp_sans_serif" translatable="false">sans-serif</string>
+    <string name="mdtp_day_of_week_label_typeface" translatable="false">sans-serif</string>
+    <!-- :DO NOT TRANSLATE THEM-->
+
+    <string name="ex_msg_dialog_choice_confirm" translatable="false">Confirm button is only for multi choice lists. You must call setMultiChoiceItems first</string>
+    <string name="ex_msg_dialog_view_not_set" translatable="false">You must call method setView before calling configureView.</string>
+
+    <string name="you_ordered" translatable="false">You\'ve ordered:\n%s</string>
+    <string name="predefined_user_agent" translatable="false">Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.4633 Mobile Safari/537.10+</string>
+    <string name="mal_activity_exception" translatable="false">No apps to handle action</string>
+
+    <!--Maki 2.3-->
+    <string name="enable_quickview">Enable Quick View</string>
+    <string name="dm_instagram">Thank you very much for using Maki. Sorry, but Instagram in Maki doesn\'t support direct messages at this moment due to limitations of Instagram itself. We just need to wait until Instagram developers will add DM. Thank you!</string>
+
+    <string name="navigation_preference">Navigation slider labels</string>
+    <string name="navigation_preference_more">Disable or enable additional social medias in the left slider</string>
+    <string name="social_medias">Social medias</string>
+    <string name="hide_twitter">Hide Twitter</string>
+    <string name="hide_instagram">Hide Instagram</string>
+    <string name="hide_google">Hide Google+</string>
+    <string name="hide_tumblr">Hide Tumblr</string>
+    <string name="hide_vk">Hide VK</string>
+    <string name="welcome_to_maki_more">New era of social medias on your phone</string>
+
+    <string name="no_internet_title">No Internet</string>
+    <string name="no_internet_body">You are not connected to the Internet</string>
+    <string name="wifi_on">Wifi</string>
+    <string name="mobile">Mobile data</string>
+    <string name="airplane">Airplane mode</string>
+    <string name="turn_on">Please turn on</string>
+    <string name="turn_off">Please turn off</string>
+    <string name="airplane_on">You have turned on the airplane mode.</string>
+    <string name="mission">Our mission is quite simple - make use of social medias more comfortable and easier for everyone</string>
+
+    <string name="googleplus" translatable="false">Google Plus</string>
+    <string name="tumblr" translatable="false">Tumblr</string>
+
+
+    <!-- Notifications -->
+    <string name="facebook_message">Message notifications</string>
+    <string name="facebook_notifications">Facebook notifications</string>
+    <string name="notification_sound_description">Choose a ringtone or silence: \u0020</string>
+    <string name="notifications_settings_description">Additional settings. Choose time interval, set up sounds, LED and vibration.</string>
+    <string name="interval_pref">Time interval for checking</string>
+    <string name="interval_pref_description_new">Notifications will be checked every %s.</string>
+    <string name="notification_sound_msg">Message sound</string>
+    <string name="vibrate_double">Double vibration</string>
+    <string name="blacklist_title">Blacklist</string>
+    <string name="new_black_word">Write a new word to block</string>
+    <string name="blacklist_summary">List of words to block the notifications</string>
+    <string name="exact">Exact time</string>
+    <string name="exact_summary">Reduce the notification delay. Isn\'t battery friendly</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>30 seconds</item>
+        <item>60 seconds</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+    </string-array>
+
+
+    <!--2.4-->
+    <string name="notifications_extra">Additional</string>
+    <string name="notifications_everywhere">Always notify</string>
+    <string name="notifications_everywhere_description">Also when you are on the main screen of the app.</string>
+    <string name="vk">Vkontakte</string>
+    <!-- End Notifications -->
+
+    <!--Default-->
+    <string name="action_settings">Settings</string>
+    <string name="bt_clearAll">Clear all</string>
+    <string name="bt_clearHistory">Clear</string>
+    <string name="bt_clearSuggestions">Clear</string>
+    <string name="hello_world">Hello, world!</string>
+
+    <!--2.4.2-->
+
+    <string name="hide_people">Hide people you may know</string>
+    <string name="hide_news_feed">Hide News Feed</string>
+    <string name="enable_exit">Enable exit dialog</string>
+    <string name="enable_fab">Enable floating action button</string>
+
+    <!--2.4.3-->
+    <string name="fab_text">Post a status</string>
+    <string name="fab_photo">Post a photo/video</string>
+    <string name="fab_checkin">Check-In</string>
+    <string name="done">Done!</string>
+    <string name="facebook_limit">Sorry, but Facebook doesn\'t allow you to share simple text at this moment - only links!</string>
+
+    <!--2.4.6-->
+    <string name="help_kam" translatable="false">(ಥ﹏ಥ)</string>
+    <string-array name="appLocalesNames" translatable="false">
+        <item>German [de]</item>
+        <item>Spanish [es]</item>
+        <item>English [en]</item>
+        <item>French [fr]</item>
+        <item>Italian [it]</item>
+        <item>Japanese [ja]</item>
+        <item>Polish [pl]</item>
+        <item>Portuguese [pt]</item>
+        <item>Romanian [ro]</item>
+        <item>Russian [ru]</item>
+        <item>Ukrainian [uk]</item>
+    </string-array>
+
+
+    <string name="font_details">Enter font size in a range from 50 to 300 %</string>
+    <string name="localSwitcherTitle">Change app language</string>
+    <string name="localSwitcherSummary">Your current language is: %s</string>
+    <string name="advice">Small advice</string>
+    <string name="advice_more">Tap and hold an image to share or save it</string>
+    <string name="hide_groups">Hide recommended groups</string>
+    <string name="problems_with_purchase">Problems with purchase?</string>
+    <string name="disable_images">Disable images loading</string>
+
+    <string-array name="launcher_choice" translatable="false">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Instagram</item>
+        <item>Google Plus</item>
+        <item>Tumblr</item>
+        <item>Reddit</item>
+        <item>VK</item>
+    </string-array>
+
+    <!--2.5-->
+    <string name="reddit" translatable="false">Reddit</string>
+    <string name="launch_social_summary" translatable="false">%s</string>
+
+    <string name="copy_right_about">Copyrights © %1$d</string>
+    <string name="switch_profile">Switch profile</string>
+    <string name="launch_social">Start Maki with</string>
+    <string name="hide_reddit">Hide Reddit</string>
+    <string name="hide_facebook">Hide Facebook</string>
+    <string name="floating_button">Floating button</string>
+    <string name="jorell_thanks">Thank you very much for improving Maki!</string>
+    <string name="thanks_to">Gratefulness</string>
+
+    <!--2.5.2-->
+    <string name="notif">Notifications</string>
+</resources>
