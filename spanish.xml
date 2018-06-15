@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
   
     <string name="closeDrawer">Vista de navegación</string>
@@ -24,7 +24,7 @@
     <string name="messages">Mensajes</string>
     <string name="faved">Patas</string>
     <string name="favorites">Favoritos</string>
-    <string name="friends">Peticiones</string>
+    <string name="friends">Solicitudes de amistad</string>
 
 
     <string name="photos">Fotos</string>
@@ -38,6 +38,8 @@
 
     <string name="news_feed_preferences">Preferencias de Facebook</string>
     <string name="fb_chat">Amigos activos</string>
+    <string name="pokes">Toques sugeridos</string>
+    <string name="trending">Tendencias</string>
     <string name="refresh">Refrescar</string>
 
     <string name="notifications">Notificaciones</string>
@@ -57,9 +59,13 @@
 		<item>Ámbar</item>
 		<item>Deep Orange</item>
 		<item>Cian</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
         <item>Rojo</item>
 		<item>Material Oscuro</item>
         <item>AMOLED</item>
+        <item>En blanco y negro</item>
     </string-array>
 
 
@@ -130,9 +136,6 @@
     <string name="activity_dialog_content">No traducir</string>
     <string name="activity_dialog_decline">No traducir</string>
 	<string name="accept">Acepto</string>
-    <string name="kitkat_upload">KitKat Subida</string>
-    <string name="kitkat_upload_message">Hola, pareces estar usando Android KitKat. Si su versión de KitKat es 4.4 - 4.4.3, las subidas de fotos no funcionarán dentro de Maki. Esta es una limitación dentro de las versiones de KitKat. Esta limitación se corrige en la versión 4.4.4 de KitKat.</string>
-    <string name="try_upload">Trate de subir</string>
     <string name="logged_out">Desconectado.</string>
     <string name="open_in_browser">Abierta en el navegador</string>
     <string name="copy_url">Copiar al portapapeles</string>
@@ -142,6 +145,7 @@
     <string name="download">Descargar</string>
 
     <string name="down_view">Toca \"Ver tamaño completo\" para descargar o ver.</string>
+    <string name="down_list">Mantenga presionada una imagen en una lista para guardarla o compartirla.</string>
     <string name="getting_image">Obteniendo la imagen</string>
     <string name="aleady_at_top">Ya en la cima</string>
     <string name="removed">Remoto</string>
@@ -270,16 +274,6 @@
     <string name="contact_us">Por favor, póngase en contacto con nosotros y dígale lo que no le gusta en Maki. ¡Gracias!</string>
     <string name="review">Revisión</string>
 
-    <string-array name="font_choice">
-        <item>80 %</item>
-        <item>90 %</item>
-        <item>100 %</item>
-        <item>105 %</item>
-        <item>110 %</item>
-        <item>135 %</item>
-        <item>150 %</item>
-    </string-array>
-
     <string name="locked">Bloqueado</string>
     <string name="please_enter_passcode">Ingrese un código de acceso</string>
     <string name="lock_input_again">Vuelva a introducir el nuevo código de acceso</string>
@@ -309,7 +303,6 @@
     <string name="thanks">¡Muchas gracias!</string>
 
 
-    <string name="about_description">Creado con amor por Sunshine Apps. 2016-2017</string>
     <string name="like_on_facebook">Como en Facebook</string>
     <string name="web">Contacto</string>
 
@@ -370,5 +363,129 @@ Página de Facebook: m.facebook.com/sunshineappsst
 Con los mejores deseos, Sunshine Apps
 
     </string>
+
+    <string name="auto_night_time">Hora de inicio y finalización</string>
+    <string name="auto_night_time_summary">Elige la hora de inicio y finalización del tema nocturno automático</string>
+
+    <string name="whats_new">Actualización Maki!</string>
+    <string name="whats_new_button">¡Vamonos!</string>
+    <string name="new_version">
+¿Qué hay de nuevo?
+\n\n
+1) Solucionado el bloqueo en el lanzamiento\n
+2) Modo de ahorro de energía mejorado: cambiar rápidamente entre Facebook, Twitter e Instagram
+\n\n
+¡Muchas gracias por usar Maki!
+\n\n
+Comentarios: makifeedback@gmail.com o m.facebook.com/sunshineappsst/  \n\n
+    </string>
+
+    <string name="mdtp_done_label">Hecho</string>
+    <string name="mdtp_ok">OK</string>
+    <string name="mdtp_cancel">Cancelar</string>
+    <string name="mdtp_hour_picker_description">Horas deslizador circular</string>
+    <string name="mdtp_minute_picker_description">Minute slider circular</string>
+    <string name="mdtp_select_hours">Seleccione horas</string>
+    <string name="mdtp_select_minutes">Seleccionar minutos</string>
+    <string name="mdtp_item_is_selected"><xliff:g id="item" example="2013">%1$s</xliff:g> seleccionado</string>
+    <string name="mdtp_deleted_key"><xliff:g id="key" example="4">%1$s</xliff:g> borrado</string>
+
+    <string name="mdtp_from">DE</string>
+    <string name="mdtp_to">A</string>
+
+    <string name="fullscreen_style">Modo de pantalla completa</string>
+
+    <!--Maki 2.3-->
+    <string name="enable_quickview">Habilitar Quick View</string>
+    <string name="dm_instagram">Muchas gracias por usar Maki. Lo sentimos, pero Instagram en Maki no admite mensajes directos en este momento debido a las limitaciones de Instagram. Solo tenemos que esperar hasta que los desarrolladores de Instagram agreguen DM. ¡Gracias!</string>
+
+    <string name="navigation_preference">Etiquetas deslizantes de navegación</string>
+    <string name="navigation_preference_more">Desactiva o habilita medios sociales adicionales en el deslizador izquierdo</string>
+    <string name="social_medias">Medios sociales</string>
+    <string name="hide_twitter">Esconder Twitter</string>
+    <string name="hide_instagram">Esconder Instagram</string>
+    <string name="hide_google">Esconder Google+</string>
+    <string name="hide_tumblr">Esconder Tumblr</string>
+    <string name="hide_vk">Esconder VK</string>
+    <string name="welcome_to_maki_more">New era of social medias on your phone</string>
+
+    <string name="no_internet_title">Sin internet</string>
+    <string name="no_internet_body">No estás conectado a Internet</string>
+    <string name="wifi_on">Wifi</string>
+    <string name="mobile">Datos móviles</string>
+    <string name="airplane">Modo avión</string>
+    <string name="turn_on">Por favor enciende</string>
+    <string name="turn_off">Por favor apague</string>
+    <string name="airplane_on">Has activado el modo avión.</string>
+    <string name="mission">Nuestra misión es bastante simple: hacer uso de las redes sociales de forma más cómoda y fácil para todos</string>
+
+
+
+    <string name="notification_sound_description">Elija un ringtone: \u0020</string>
+    <string name="notifications_settings_description">Ajustes adicionales. Elija un intervalo de tiempo, elija sonidos, LED y vibración.</string>
+    <string name="facebook_notifications">Notificaciones de Facebook</string>
+    <string name="facebook_message">Mensajes de Facebook</string>
+    <string name="interval_pref">Intervalo de tiempo para actualizar</string>
+    <string name="interval_pref_description_new">Las notificaciones seran checkeadas cada %s.</string>
+    <string name="notification_sound_msg">Sonido de mensaje</string>
+    <string name="vibrate_double">Vibración doble</string>
+    <string name="blacklist_title">Bloqueo por palabra</string>
+    <string name="new_black_word">Escriba una nueva palabra a bloquear</string>
+    <string name="blacklist_summary">Lista de palabras para bloquear las notificaciones</string>
+    <string name="exact">Tiempo exacto</string>
+    <string name="exact_summary">Disminuye el delay de las notificaciones. Consume más bateria.</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>3 horas</item>
+        <item>6 horas</item>
+    </string-array>
+
+    <string name="notifications_extra">Otros</string>
+    <string name="notifications_everywhere">Notificar siempre</string>
+    <string name="notifications_everywhere_description">Incluso cuando se encuentre en la pantalla principal de la aplicación.</string>
+    <string name="vk">Vkontakte</string>
+
+    <!--2.4.2-->
+    <string name="enable_exit">Habilitar diálogo de salida</string>
+    <string name="hide_people">Ocultar personas que tal vez conozcas</string>
+    <string name="hide_news_feed">Ocultar noticias</string>
+    <string name="enable_fab">Habilitar FAB</string>
+
+    <!--2.4.3-->
+    <string name="fab_text">Publica un estado</string>
+    <string name="fab_photo">Publica una foto</string>
+    <string name="fab_checkin">Estoy en&#8230;</string>
+    <string name="done">¡Hecho!</string>
+    <string name="facebook_limit">Lo sentimos, pero Facebook no te permite compartir texto simple en este momento, ¡solo enlaces!</string>
+
+    <!--2.4.6-->
+    <string name="font_details">Ingrese el tamaño de fuente en un rango de 50 a 300%</string>
+    <string name="localSwitcherTitle">Cambiar el idioma de la aplicación</string>
+    <string name="localSwitcherSummary">Su idioma actual: %s</string>
+    <string name="advice">Pequeño consejo</string>
+    <string name="advice_more">Mantenga presionada una imagen para compartirla o guardarla</string>
+    <string name="hide_groups">Ocultar grupos recomendados</string>
+    <string name="problems_with_purchase">Problemas con la compra?</string>
+    <string name="disable_images">Desactiva la carga de imágenes</string>
+
+    <!--2.5-->
+    <string name="copy_right_about">Derechos de autor © %1$d</string>
+    <string name="switch_profile">Cambiar de perfil</string>
+    <string name="launch_social">Comience Maki con</string>
+    <string name="hide_reddit">Ocultar Reddit</string>
+    <string name="hide_facebook">Ocultar Facebook</string>
+    <string name="floating_button">Botón flotante</string>
+    <string name="jorell_thanks">¡Muchas gracias por mejorar a Maki!</string>
+    <string name="thanks_to">Agradecimiento</string>
+
+    <!--2.5.2-->
+    <string name="notif">Notificaciones</string>
 </resources>
 
