@@ -1,24 +1,22 @@
 # Maki Translations
-
+![MakiImage](https://habrastorage.org/webt/sz/ws/t3/szwst3q7joj3kpq1agv9mqfeggk.png)
 **Hello!**
 
-If you want to help me and translate Maki - you are welcome!
+If you want to help me and translate Maki to more languages or fix mistakes in existing ones - you are welcome!
 
-Steps:
- 
- 1- Open an original file "english.xml"
+You can improve existing translations by clicking on "edit" button and opening a pull requests or translate to new languages by modifying `english.xml` in your fork.
 
-2- Click on "Edit" button 
+Don't forget to write which language it is. 
 
-3- Start translating!
-
-
-Don't forget to write which language is. And notify me about new translation: 
-
-- **sunshineappsst@gmail.com** 
+You can always notify me directly about new translation here to speed up a process:
+- **makifeedback@gmail.com** 
 - **https://t.me/sfilmak**
 - **https://www.facebook.com/sunshineappsst**
 
-**Thank you very much!**
+**Download Maki**: https://play.google.com/store/apps/details?id=com.sunshine.makilite
 
-P.S. Yes, I will add your name in Credits, don't worry;)
+Of course, I will add you to the app credits.
+
+**Thank you very much in advance!**
+
+
