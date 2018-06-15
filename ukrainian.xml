@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="closeDrawer">Слайдер</string>
     <string name="openDrawer">Відкрити слайдер</string>
@@ -31,6 +31,8 @@
 
     <string name="news_feed_preferences">Налаштування Facebook</string>
     <string name="fb_chat">Друзі онлайн</string>
+    <string name="pokes">Штурханці</string>
+    <string name="trending">Тенденції</string>
     <string name="refresh">Оновити</string>
 
     <string name="notifications">Сповіщення</string>
@@ -50,9 +52,13 @@
 		<item>Світло-оранжевий</item>
 		<item>Темно-оранжевий</item>
 		<item>Морський</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
         <item>Червоний</item>
 		<item>Темний</item>
         <item>Чорний (AMOLED)</item>
+        <item>Чорний та білий</item>
     </string-array>
 
 
@@ -125,9 +131,6 @@
     <string name="activity_dialog_content">Не перекладати</string>
     <string name="activity_dialog_decline">Не перекладати</string>
 	<string name="accept">Приймаю</string>
-    <string name="kitkat_upload">Завантаження на KitKat</string>
-    <string name="kitkat_upload_message">Привіт! Схоже на те, що Ваш пристрій працює на Android KitKat. Якщо у Вас KitKat версій 4.4 &#8211; 4.4.3 - завантаження фотографій не буде працювати в Maki. На жаль, це обмеження цих версій KitKat. Це обмеження виправлено в версії KitKat 4.4.4.</string>
-    <string name="try_upload">Спробувати завантаження</string>
     <string name="logged_out">Ви вийшли</string>
     <string name="open_in_browser">Відкрити в браузері</string>
     <string name="copy_url">Скопіювати</string>
@@ -136,6 +139,7 @@
     <string name="download">Зберегти</string>
 
     <string name="down_view">Натисніть \"Переглянути в повному розмірі\" для збереження картинки.</string>
+    <string name="down_list">Натисніть та утримуйте світлину в списку, щоб зберегти її або поділитись з друзями.</string>
     <string name="getting_image">Зберігаємо картинку</string>
     <string name="aleady_at_top">Вже на верху</string>
     <string name="removed">Видалено</string>
@@ -259,15 +263,6 @@
     <string name="contact_us">Будь ласка, розкажіть нам, чому саме Вам не сподобалась Maki. Дякуємо!</string>
     <string name="review">Відгук</string>
 
-    <string-array name="font_choice">
-        <item>80 %</item>
-        <item>90 %</item>
-        <item>100 %</item>
-        <item>105 %</item>
-        <item>110 %</item>
-        <item>135 %</item>
-        <item>150 %</item>
-    </string-array>
 
     <string name="locked">Заблоковано</string>
     <string name="please_enter_passcode">Введіть пін-код</string>
@@ -298,7 +293,6 @@
     <string name="thanks">Велике спасибі!</string>
 
 
-    <string name="about_description">Створено Sunshine Apps з любов\'ю. 2016-2017</string>
     <string name="like_on_facebook">Лайкнути на Facebook</string>
     <string name="web">Контакти</string>
 
@@ -362,5 +356,125 @@
 З найкращими побажаннями, Sunshine Apps
 
     </string>
+
+    <string name="whats_new">Оновлення Maki 2.2!</string>
+    <string name="whats_new_button">Поїхали!</string>
+    <string name="new_version">
+Що нового?
+\n\n
+1) Виправлення помилки при запуску додатку\n
+2) Покращений режим збереження енергії: швидке переключення між соціальними мережами\n\n
+
+        Дякуємо за використання Maki! Не забудьте оцінити її в Google Play.
+        \n\n
+Зв\'язок: makifeedback@gmail.com або m.facebook.com/sunshineappsst/     \n\n
+    </string>
+
+    <string name="mdtp_done_label">Готово</string>
+    <string name="mdtp_ok">OK</string>
+    <string name="mdtp_cancel">Відмінити</string>
+    <string name="mdtp_hour_picker_description">Круглий слайдер з годиною</string>
+    <string name="mdtp_minute_picker_description">Круглий слайдер з хвилинами</string>
+    <string name="mdtp_select_hours">Оберіть години</string>
+    <string name="mdtp_select_minutes">Оберіть хвилини</string>
+    <string name="mdtp_item_is_selected"><xliff:g id="item" example="2013">%1$s</xliff:g> обрано</string>
+    <string name="mdtp_deleted_key"><xliff:g id="key" example="4">%1$s</xliff:g> видалено</string>
+
+    <string name="mdtp_from">З</string>
+    <string name="mdtp_to">ДО</string>
+
+    <string name="fullscreen_style">Повноекранний режим</string>
+
+    <!--Maki 2.3-->
+    <string name="enable_quickview">Увімкнути Quick View</string>
+    <string name="dm_instagram">Велике спасибі за використання Maki. Приносимо свої вибачення, але Instagram в Maki не підтримує приватні повідомлення відповідно до обмежень самого Instagram. Нам лишень зачекається чекати того часу, коли розробники з Instagram додадуть цей функціонал. Дякуємо за розуміння!</string>
+
+    <string name="navigation_preference">Елементи навігації</string>
+    <string name="navigation_preference_more">Додайте або приберіть соціальні мережі в панелі навігації</string>
+    <string name="social_medias">Соціальні мережі</string>
+    <string name="hide_twitter">Прибрати Twitter</string>
+    <string name="hide_instagram">Прибрати Instagram</string>
+    <string name="hide_google">Прибрати Google+</string>
+    <string name="hide_tumblr">Прибрати Tumblr</string>
+    <string name="hide_vk">Прибрати Вконтакті</string>
+    <string name="welcome_to_maki_more">Нова ера соціальних мереж</string>
+
+    <string name="no_internet_title">З\'єднання відсутнє</string>
+    <string name="no_internet_body">Ви не підключені до інтернету</string>
+    <string name="wifi_on">Wifi</string>
+    <string name="mobile">Мобільні дані</string>
+    <string name="airplane">Режим "В літаку"</string>
+    <string name="turn_on">Будь ласка, увімкніть</string>
+    <string name="turn_off">Будь ласка, вимкніть</string>
+    <string name="airplane_on">Ви увімкнули режим "В літаку"</string>
+    <string name="mission">Наша ціль доволі проста - зробити користування соціальними мережами зручнішим та простішим</string>
+
+    <string name="facebook_message">Сповіщення Messenger</string>
+    <string name="facebook_notifications">Сповіщення Facebook</string>
+    <string name="notification_sound_description">Оберіть звук сповіщення: \u0020</string>
+    <string name="notifications_settings_description">Додаткові налаштування</string>
+    <string name="interval_pref">Інтервал перевірки повідомлень</string>
+    <string name="interval_pref_description_new">Наявність нових сповіщень буде провірятись кожні %s.</string>
+    <string name="notification_sound_msg">Звук сповіщень</string>
+    <string name="vibrate_double">Подвійна вібрація</string>
+    <string name="blacklist_title">Чорний список</string>
+    <string name="new_black_word">Додайте нове слово до ЧС</string>
+    <string name="blacklist_summary">Список ключових слів для блокування сповіщень</string>
+    <string name="exact">Вчасно</string>
+    <string name="exact_summary">Перевірка на наявність нових сповіщень відбувається постійно. Підвищує споживання заряду батареї</string>
+
+
+    <string-array name="intervalPrefTitles">
+        <item>30 секунд</item>
+        <item>60 секунд</item>
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>60 хвилин</item>
+        <item>3 години</item>
+        <item>6 годин</item>
+    </string-array>
+
+    <string name="notifications_extra">Додатково</string>
+    <string name="notifications_everywhere">Завжди оповіщати</string>
+    <string name="notifications_everywhere_description">Отримуйте сповіщення завжди, навіть коли знаходитесь в додатку</string>
+    <string name="vk">Вконтакті</string>
+
+    <!--2.4.2-->
+    <string name="enable_exit">Запитувати про закриття додатку</string>
+    <string name="hide_people">Вимкнути \"Люди, яких Ви можете знати\"</string>
+    <string name="hide_news_feed">Вимкнути стрічку новин</string>
+    <string name="enable_fab">Увімкнути плаваючу кнопку</string>
+
+    <string name="fab_text">Оновити статус</string>
+    <string name="fab_photo">Додати фото/відео</string>
+    <string name="fab_checkin">Додати відмітку</string>
+    <string name="done">Готово!</string>
+
+    <string name="facebook_limit">Вибачте, але Facebook не дозволяє ділитись текстом на даний момент - тільки посиланнями!</string>
+
+    <!--2.4.6-->
+    <string name="font_details">Введіть розмір шрифта в діапазоні від 50 до 300 %</string>
+    <string name="localSwitcherTitle">Змінити мову додатку</string>
+    <string name="localSwitcherSummary">Мова додатку: %s</string>
+    <string name="advice">Невеличка порада</string>
+    <string name="advice_more">Тапніть та утримуйте палець на зображенні для збереження</string>
+    <string name="hide_groups">Прибрати рекомендовані групи</string>
+    <string name="problems_with_purchase">Проблеми з покупкою?</string>
+    <string name="disable_images">Вимкнути завантаження зображень</string>
+
+    <!--2.5-->
+    <string name="copy_right_about">Copyrights © %1$d</string>
+    <string name="switch_profile">Змінити профіль</string>
+    <string name="launch_social">Відкривати Maki з </string>
+    <string name="hide_reddit">Прибрати Reddit</string>
+    <string name="hide_facebook">Прибрати Facebook</string>
+    <string name="floating_button">Плаваюча кнопка</string>
+    <string name="jorell_thanks">Спасибі велике за вдосконалення Maki!</string>
+    <string name="thanks_to">Вдячності</string>
+
+    <!--2.5.2-->
+    <string name="notif">Сповіщення</string>
 </resources>
 
