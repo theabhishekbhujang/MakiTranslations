@@ -1,5 +1,4 @@
 # Maki Translations
-![MakiImage](https://habrastorage.org/webt/sz/ws/t3/szwst3q7joj3kpq1agv9mqfeggk.png)
 **Hello!**
 
 If you want to help me and translate Maki to more languages or fix mistakes in existing ones - you are welcome!
