@@ -1,19 +1,6 @@
-
-<!--Copyright (C) 2016-2017  Roman Savchyn/Sunshine Apps
-    Code taken from:
-    - Simple for Facebook by creativetrendsapps;
-    - FaceSlim by indywidualny;
-    - Toffed by JakeLane;
-    - SlimSocial by  Leonardo Rignanese;
-    - MaterialFBook by ZeeRooo.
- Thank you very much!
-    Copyright notice must remain here if you're using any part of this code.
-    -->
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <string name="closeDrawer">Navigációs nézet</string>
-    <string name="openDrawer">Baloldali menüsor megnyitása</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maki_name">Maki</string>
     <string name="ok">OK</string>
     <string name="cancel">Mégsem</string>
     <string name="choose_email_client">Email kliens választás</string>
@@ -21,66 +8,154 @@
     <string name="title_activity_settings">Beállítások</string>
     <string name="preference_about_category">Névjegy</string>
     <string name="share_action">Megosztás</string>
-    <string name="share_action_subject">Facebook oldal</string>
-    <string name="success">Sikeres művelet</string>
     <string name="error">Hiba</string>
     <string name="fragment_main_downloading">Letöltés&#8230;</string>
     <string name="settings_more">Továbbiak</string>
-
-    <string name="update_share">Megosztás</string>
-    <string name="fab_jump">Görgetés felülre</string>
-
-    <string name="newsfeed">Hírcsatorna</string>
     <string name="messages">Üzenetek</string>
-    <string name="faved">Jelölők</string>
     <string name="favorites">Kedvencek</string>
-    <string name="friends">Kérések</string>
-
-
     <string name="photos">Képek</string>
-    <string name="maki_themes">Témák</string>
-    <string name="saved">Mentve</string>
-    <string name="settings">Beállítások</string>
-
-    <string name="themes">Témák</string>
     <string name="privacy">Adatvédelmi beállítások</string>
-
-
-    <string name="news_feed_preferences">Facebook beállítások</string>
     <string name="fb_chat">Aktív ismerősök</string>
+    <string name="pokes">Bökések</string>
     <string name="refresh">Frissítés</string>
-
     <string name="notifications">Értesítések</string>
     <string name="search">Keresés</string>
-    <string name="end">Kijelentkezés</string>
     <string name="exit">Bezárás</string>
-
-
     <string-array name="pref_theme_entries">
-        <item>Maki téma</item>
+        <item>Maki</item>
         <item>Facebook kék</item>
+        <item>Tele sötét</item>
+        <item>Sötétkék</item>
+        <item>FEKETE</item>
+        <item>Fekete és fehér</item>
+        <item>Vörös</item>
         <item>Sólyom</item>
         <item>Rózsaszín</item>
-        <item>Mély bíbor</item>
+        <item>Mélybíbor</item>
         <item>Sötétzöld</item>
         <item>Világoszöld</item>
         <item>Borostyán</item>
-        <item>Mély narancs</item>
+        <item>Mélynarancs</item>
         <item>Cián</item>
-        <item>Piros</item>
-        <item>Sötét</item>
-        <item>AMOLED</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google Plus</item>
+        <item>VK</item>
+        <item>Reddit</item>
     </string-array>
-
-
-
-    <string name="image_chooser">Képválasztó</string>
     <string name="addPage">Hozzáadás kedvencekhez</string>
+    <string name="notification_sound">Értesítési hang</string>
+    <string name="silent">Nincs hang</string>
+    <string name="vibrate">Rezgés</string>
+    <string name="led_light">LED</string>
+    <string name="maki_lock">Jelszókód engedélyezése</string>
+    <string name="lock_text_new">Biztonságos Maki jelszókóddal</string>
+    <string name="lock_text_new_fingerprint">Használható ujjlenyomat is.</string>
+    <string name="context_save_image">Kép letöltése</string>
+    <string name="context_share_image">Kép megosztása</string>
+    <string name="context_copy_image_link">Hivatkozás másolása</string>
+    <string name="context_share_image_progress">Előkészítés&#8230;</string>
+    <string name="content_copy_link_done">A hivatkozás vágólapra került.</string>
+    <string name="permission_denied">A jogosultság megtagadásra került. Ez a művelet nem fejezhető be.</string>
+    <string name="save_img">Mentés</string>
+    <string name="download_manager_disabled">A Letöltéskezelő letiltásra került.</string>
+    <string name="hide_ads">Szponzorált bejegyzések eltávolítása</string>
+    <string name="hide_ads_more">Összes hirdetés eltávolítása a Facebook hírcsatornából</string>
+    <string name="exit_message">Biztosan bezárásra kerüljön a Maki?</string>
+    <string name="welcome">Üdvözlet</string>
+    <string name="saved_pin_message">A jelszókód elfelejtése esetén törölni kell a Maki adatokat a telefon alkalmazás kezelőjében.</string>
+    <string name="pin_code_step_disable">Jelszókód letiltása</string>
+    <string name="pin_code_step_create">Jelszókód létrehozása</string>
+    <string name="pin_code_step_change">Aktuális jelszókód beírása</string>
+    <string name="pin_code_step_unlock">Új jelszókód</string>
+    <string name="pin_code_step_enable_confirm">Új jelszókód megerősítése</string>
+    <string name="pin_code_fingerprint_text">Ujjlenyomat</string>
+    <string name="pin_code_fingerprint_not_recognized">Ismételt próba</string>
+    <string name="open_in_browser">Megnyitás böngészőben</string>
+    <string name="copy_url">Másolás a vágólapra</string>
+    <string name="download">Letöltés</string>
+    <string name="removed">Eltávolításra került.</string>
+    <string name="auto_night_title">Automatikus éjszakai téma</string>
+    <string name="auto_night_more">A sötét téma automatikusan bekapcsolásra kerül éjjel.</string>
+    <string name="save_to">Mentés:</string>
+    <string name="font_size">Betűméret</string>
+    <string name="quickbar">Gyorssáv</string>
+    <string name="ratemaki">Maki értékelése</string>
+    <string name="feedback_mail">Visszajelzés</string>
+    <string name="messenger_app">Facebook Messenger</string>
+    <string name="messenger_app_more">A Facebook Messenger használata a beépített üzenetküldő helyett</string>
 
-    <string name="interval_pref_description">Az értesítések szinkronizálása: %s</string>
-    <string-array name="update_interval">
-        <item>30 másodperc (magas adathasználat)</item>
-        <item>1 perc (magas adathasználat)</item>
+    <string name="addHome">Hozzáadás a kezdő képernyőhöz</string>
+    <string name="power_saving_mode">Energiamegtakarító mód</string>
+    <string name="thanks_support">Köszönet a támogatásért!</string>
+    <string name="unable_purchase">A vásárlás törlésre került</string>
+    <string name="added">Elmentve a kedvencekhez</string>
+    <string name="download_complete">A letöltés befejeződött.</string>
+    <string name="license">Nyílt forrású licenszek</string>
+    <string name="locked">Lezárt</string>
+    <string name="please_enter_passcode">Új jelszókód beírása</string>
+    <string name="buy_plus">A Maki jobb is lehet</string>
+    <string name="buy_plus_more">A Maki még jobbá tehető a Plus verzióval - alkalmazás használat vezérlés, hirdetés eltávolítás, gyorslinkek létrehozása, automatikus éjszakai téma engedélyezése és fejlesztői támogatás.</string>
+    <string name="lets_do_it">Mehet!</string>
+    <string name="later">Később</string>
+    <string name="start">Indulás</string>
+    <string name="thanks">Nagyon köszönjük!</string>
+    <string name="web">Kapcsolat</string>
+    <string name="shortcuts">Gyorslinkek</string>
+    <string name="close">Bezárás</string>
+    <string name="support">Támogatás</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="help_translate">Segítség a fordításhoz</string>
+    <string name="open_in">Beépített böngésző</string>
+    <string name="open_in_more">Külső hivatkozások megnyitása a Makiban</string>
+    <string name="top_tabs">Felső navigáció</string>
+    <string name="top_tabs_more">Navigációs fül megjelenítése fent</string>
+    <string name="fbpage">Facebook oldal</string>
+    <string-array name="messenger_choice">
+        <item>Messenger a Makiban</item>
+        <item>Egyszerűsített Messenger</item>
+        <item>Messenger alkalmazás</item>
+        <item>Messenger Lite alkalmazás</item>
+        <item>Disa Messenger</item>
+    </string-array>
+    <string name="problems_purchase">A fejlesztők köszönik a támogatást! Sajnos problémák merültek fel a vásárlással kapcsolatban. Ez az oldal a problémák megoldásához készült.
+\n\n
+Van néhány megoldás:\n\n
+1) Maki újra indítása. Zárjuk be az alkalmazást és indítsuk el elölről kezdve, nyissuk meg a beállításokat és próbáljuk meg engedélyezni bármelyik Plus elemet.
+\n\n
+2) Ha az első megoldás nem működik - kattintsunk ismét a \"Maki Plus megvásárlása lehetőségre\". Ez a művelet visszaállítja a vásárlást (nem kell ismét fizetni). Ezután ismét indítsuk újra az alkalmazást és próbáljuk meg engedélyezni bármelyik Plus elemet.
+\n\n
+3) Ezek után, ha egyik megoldás sem működik - vegyük fel a kapcsolatot a fejlesztőkkel! Így biztosan megoldásra kerül a probléma.
+\n\n
+Email cím: makifeedback@gmail.com\n
+Facebook oldal: m.facebook.com/sunshineappsst
+\n\n
+Üdvözlettek, Sunshine Apps</string>
+
+    <string name="social_medias">Közösségi médiumok</string>
+    <string name="hide_twitter">Twitter elrejtése</string>
+    <string name="hide_instagram">Instagram elrejtése</string>
+    <string name="hide_tumblr">Tumblr elrejtése</string>
+    <string name="hide_vk">VK elrejtése</string>
+
+    <string name="facebook_message">Üzenet értesítések</string>
+    <string name="facebook_notifications">Facebook értesítések</string>
+    <string name="notification_sound_description">"Cseng\u0151hang vagy csend v\u00e1laszt\u00e1sa:  "</string>
+    <string name="interval_pref">Ellenőrzési időintervallum</string>
+    <string name="interval_pref_description_new">Az értesítések ellenőrzése minden %s után.</string>
+    <string name="notification_sound_msg">Üzenet hangja</string>
+    <string name="blacklist_title">Feketelista</string>
+    <string name="new_black_word">Új blokkolandó szó megadása</string>
+    <string name="blacklist_summary">Az értesítések blokkolásához használt szavak listája</string>
+    <string name="exact">Pontos időpont</string>
+    <string name="exact_summary">Az értesítési késleltetés csökkentése nem akkumulátor barát megoldás.</string>
+    <string-array name="intervalPrefTitles">
+        <item>30 másodperc</item>
+        <item>60 másodperc</item>
+        <item>2 perc</item>
         <item>5 perc</item>
         <item>15 perc</item>
         <item>30 perc</item>
@@ -89,295 +164,283 @@
         <item>6 óra</item>
     </string-array>
 
-    <string name="you_have_one_message">1 új üzenet érkezett</string>
-    <string name="you_have_n_messages">%d új üzenet érkezett</string>
-    <string name="notifications_settings">Értesítések</string>
-    <string name="notification_sound">Értesítés hang</string>
-    <string name="silent">Nincs hang</string>
-    <string name="vibrate">Rezgés</string>
-    <string name="led_light">LED</string>
-
-
-    <string name="maki_lock">Enable passcode</string>
-    <string name="lock_text_new">Secure Maki with a passcode.</string>
-    <string name="lock_text_new_fingerprint">Használható ujjlenyomat is.</string>
-
-    <string name="context_save_image">Kép letöltése</string>
-    <string name="context_share_image">Kép megosztása</string>
-    <string name="context_copy_image_link">Copy link</string>
-    <string name="context_share_image_progress">Előkészítés&#8230;</string>
-    <string name="content_copy_link_done">A hivatkozás a vágólapra került.</string>
-
-    <string name="permission_denied">A jogosultság megtagadásra került. Ez a művelet nem fejezhető be.</string>
-
-    <string name="copy_right">\u00A9</string>
-	<string name="error_general">Hiba</string>
-    <string name="save_img">Mentés</string>
-    <string name="download_manager_disabled">A letöltéskezelő letiltásra került.</string>
-    <string name="enable_location">Helymeghatározás engedélyezése</string>
-
-    <string name="hide_ads">Szponzorált bejegyzések eltávolítása</string>
-    <string name="hide_ads_more">Összes hirdetés eltávolítása a Facebook hírcsatornából</string>
-	<string name="exit_message">Biztosan bezárásra kerüljön a Maki?</string>
-	<string name="version">Verzió</string>
-
-
-	<string name="welcome">Üdvözlet</string>
-    <string name="saved_pin_message">A pinkód elfelejtése esetén törölni kell a maki adatokat a telefon alkalmazás kezelőjében.</string>
-
-    <string name="pin_code_forgot_text">Elfelejtett pinkód</string>
-    <string name="pin_code_step_disable">Pinkód letiltása</string>
-    <string name="pin_code_step_create">Pinkód létrehozása</string>
-    <string name="pin_code_step_change">Jelenlegi pinkód megadása</string>
-    <string name="pin_code_step_unlock">Új pinkód</string>
-    <string name="pin_code_step_enable_confirm">Új pinkód megerősítése</string>
-
-    <string name="pin_code_fingerprint_text">Ujjlenyomat</string>
-    <string name="pin_code_fingerprint_success">Az ujjlenyomat felismerésre került.</string>
-    <string name="pin_code_fingerprint_not_recognized">Ismételt próba</string>
-    <string name="activity_dialog_title">Don\'t Translate</string>
-    <string name="activity_dialog_accept">Don\'t Translate</string>
-    <string name="activity_dialog_content">Don\'t Translate</string>
-    <string name="activity_dialog_decline">Don\'t Translate</string>
-	<string name="accept">Elfogadom</string>
-    <string name="kitkat_upload">KitKat feltöltések</string>
-    <string name="kitkat_upload_message">Úgy tűnik, jelenleg az Android KitKat fut. A KitKat 4.4 &#8211; 4.4.3 verziónál a képfeltöltések nem működnek a Makiban. Ez egy korlátozás a KitKat verziókon belül. A korlátozás javítva lett KitKat 4.4.4 verzióban.</string>
-    <string name="try_upload">Feltöltés próba</string>
-    <string name="logged_out">A kijelentkezés megtörtént.</string>
-    <string name="open_in_browser">Megnyitás böngészőben</string>
-    <string name="copy_url">Másolás a vágólapra</string>
-
-
-
-    <string name="download">Letöltés</string>
-
-    <string name="down_view">\"Megtekintés teljes méretben\" érintése a kép letöltéséhez vagy megtekintéséhez.</string>
-    <string name="getting_image">A kép beolvasása...</string>
-    <string name="aleady_at_top">Már felül vagyunk</string>
-    <string name="removed">Eltávolításra került</string>
-    <string name="from_favs">a jelölőkből.</string>
-    <string name="error_code_value" >rossz</string>
-    <string name="auto_night_title">Automatikus éjszakai téma</string>
-    <string name="auto_night_more">A sötét téma automatikusan bekapcsolásra kerül éjjel</string>
-    <string name="logout_message">Biztos a kijelentkezés a makiból?</string>
-    <string name="context_share_video">Videó megosztása</string>
-    <string name="change_log">Újdonság</string>
-    <string name="save_to">Mentés:</string>
-    <string name="downloading_on_mobile">A letöltés mobil adattal történik.</string>
-    <string name="font_size">Betűméret</string>
-    <string name="top_news_firstly">Népszerű hírek elsődlegesen</string>
-    <string name="quickbar">Gyorssáv</string>
-    <string name="quickbar_more">Hozzáférés bárhol a Facebookhoz</string>
-
-    <string name="messages_shortcut">Üzenetek menüpont</string>
-    <string name="notifications_shortcut">Értesítések menüpont</string>
-    <string name="messages_shortcut_more">Menüpont létrehozása az üzenetekhez a kezdőképernyőn</string>
-    <string name="notifications_shortcut_more">Menüpont létrehozása az értesítésekhez a kezdőképernyőn</string>
-
-    <string name="twitter_shortcut">Twitter menüpont</string>
-    <string name="instagram_shortcut">Instagram menüpont</string>
-    <string name="twitter_shortcut_more">Menüpont létrehozása a Twitterhez a kezdőképernyőn</string>
-    <string name="instagram_shortcut_more">Menüpont létrehozása az Instagramhoz a kezdőképernyőn</string>
-
-    <string name="type_archive">Archívum</string>
-    <string name="type_certificate">Tanúsítvány</string>
-    <string name="type_directory">Mappa</string>
-    <string name="type_document">Fájl</string>
-    <string name="type_drawing">Rajz</string>
-    <string name="type_excel">Táblázat</string>
-    <string name="type_image">Kép</string>
-    <string name="type_music">Zene</string>
-    <string name="type_video">Videó</string>
-    <string name="type_pdf">PDF dokumentum</string>
-    <string name="type_power_point">Bemutató</string>
-    <string name="type_word">Dokumentum</string>
-    <string name="type_apk">APK</string>
-    <string name="open_with">Megnyitás:</string>
-    <string name="pick">\u2713 érintése a mappa kiválasztásához.</string>
-    <string name="create_directory">Mappa létrehozása</string>
-    <string name="most_recent">Legújabb</string>
-    <string name="top_news">Népszerű</string>
-
-    <string name="messenger">Üzenetek</string>
-    <string name="about">Névjegy</string>
-    <string name="feedback">Visszajelzés küldése</string>
-    <string name="ratemaki">Maki értékelése</string>
-
-    <string name="feedback_mail">Visszajelzés</string>
-    <string name="some_feedback">Visszajelzés írása itt</string>
-
-    <string name="messenger_app">Facebook Messenger</string>
-    <string name="messenger_app_more">A Facebook Messenger használata a beépített üzenetküldő helyett</string>
-
-    <string name="interval">Értesítés ellenőrzési időköz</string>
-
-    <!--Crash Dialog-->
-    <string name="crash_toast_text">Valamilyen hiba történt.</string>
-    <string name="crash_dialog_title">A Maki működése leállt.</string>
-    <string name="crash_dialog_text">Sajnos a Maki működése leállt. Az OK megérintése ennek a jelentésnek az elküldéséhez emailben.</string>
-    <string name="crash_dialog_comment_prompt">Hozzászólás írása a leállással kapcsolatban:</string>
-
-    <string name="new_directory">Új mappa jött létre: </string>
-    <string name="changed">Megváltozott: </string>
-    <string name="pins_here">A gyorsabb hozzáféréshez jelöljük meg a kedvenc oldalakat.</string>
-    <string name="download_not_found">A letöltés nem található.</string>
-    <string name="profile">Én</string>
-    <string name="share">Megosztás</string>
-
-    <string name="welcome_back">Üdvözlet!</string>
-    <string name="twitter">Twitter</string>
-    <string name="instagram">Instagram</string>
-
-    <string name="addHome">Hozzáadás a kezdő képernyőhöz</string>
-
-    <!--Defaults-->
-    <string name="materialtheme">materialtheme</string>
-    <string name="most_recent_settings">most_recent</string>
-    <string name="googlebluedark">googlebluedark</string>
-
-    <string name="power">Energia megtakarítás</string>
-    <string name="power_saving_mode">Energiamegtakarító mód</string>
-    <string name="power_saving_mode_more">Energia megtakarítás és a Facebook hosszabb használata</string>
-
-   
-    <string name="thanks_support">Köszönet a támogatásért!</string>
-    <string name="unable_purchase">PA vásárlás törlésre került</string>
-
-    <string name="donate_support">Fejlesztés támogatása</string>
-    <string name="purchase">Vásárlás</string>
-
-    <string name="help">Súgó</string>
-    <string name="dark">Sötét téma</string>
-    <string name="home">Kezdőoldal</string>
-    <string name="switch_to_maki">Facebook</string>
-
-    <string name="no_location_permission">Nincs helymeghatározó jogosultság</string>
-    <string name="no_storage_permission">Nincs tárolási jogosultság</string>
-    <string name="added">Elmentve a kedvencekhez</string>
-    <string name="tofav">a kedvencekhez.</string>
-
-    <string name="download_failed">A letöltés sikertelen</string>
-    <string name="download_paused">A letöltés megállt</string>
-    <string name="download_pending">A letöltés leállt</string>
-    <string name="download_in_progress">A letöltés folyamatban van</string>
-    <string name="download_complete">A letöltés befejeződött</string>
-    <string name="download_nowhere">A letöltés sehol sem található.</string>
-    <string name="image_share">Kép megosztás</string>
-
-    <string name="notifications_on">Az értesítések bekapcsolásra kerültek</string>
-    <string name="turn_to_notifications">Értesítések fogadásának engedélyezése</string>
-
-    <string name="remove_pin">Könyvjelző eltávolítása</string>
-    <string name="should_remove">Biztosan eltávolításra kerüljön</string>
-    <string name="from_pins">a kedvencekből? A művelet nem vonható vissza.</string>
-    <string name="label">Címke</string>
-    <string name="license">Nyílt forrású licenszek</string>
-
-    <string name="never">Soha</string>
-
-    <string name="rate_hello">Maki értékelése</string>
-    <string name="rate_more">Mi a vélemény a makiról? Az alkalmazás értékelése itt:</string>
-    <string name="negative_review">Negatív vélemény</string>
-    <string name="contact_us">Vegyük fel a kapcsolatot a fejlesztőkkel és írjuk le, hogy mi nem tetszik a Makiban. A fejlesztők köszönik.</string>
-    <string name="review">Vélemény</string>
-
-    <string-array name="font_choice">
-        <item>80 %</item>
-        <item>90 %</item>
-        <item>100 %</item>
-        <item>105 %</item>
-        <item>110 %</item>
-        <item>135 %</item>
-        <item>150 %</item>
-    </string-array>
-
-    <string name="locked">Lezárt</string>
-    <string name="please_enter_passcode">Új pinkód megadása</string>
-    <string name="lock_input_again">Új pinkód ismételt megadása</string>
-    <string name="lock_input_not_match">A pinkódok nem egyeznek.</string>
-
-    <string name="buy_plus">Itt az idő a Maki Plus használatára</string>
-    <string name="buy_plus_more">Ideje a makit még jobbá tenni a Plus verzióval - hirdetések eltávolítása, gyorslinkek létrehozása, automatikus éjszakai mód engedélyezése és fejlesztői támogatás.</string>
-    <string name="lets_do_it">Mehet!</string>
-    <string name="later">Később</string>
-
-    <string name="logout">Kijelentkezés</string>
+    <!--2.4.2-->
+    <string name="enable_exit">Kilépés a párbeszédablakból</string>
+    <string name="enable_fab">Lebegő műveletgomb</string>
+    <!--2.4.3-->
+    <string name="fab_text">Bejegyzés beküldése</string>
+    <string name="done">Kész!</string>
+    <string name="facebook_limit">A Facebook jelenleg nem teszi lehetővé az egyszerű szöveg megosztását, csak hivatkozásokat.</string>
+    <!--2.4.6-->
+    <string name="font_details">Betűméret megadása 50 és 170% között</string>
+    <string name="problems_with_purchase">Problémák vannak a vásárlással?</string>
+    <!--2.5-->
+    <string name="switch_profile">Profilváltás</string>
+    <string name="launch_social">Maki indítása:</string>
+    <string name="hide_reddit">Reddit elrejtése</string>
+    <string name="hide_facebook">Facebook elrejtése</string>
+    <string name="thanks_to">Adományozás</string>
+    <!--2.5.2-->
+    <string name="notif">Értesítések</string>
+    <!--Maki 2.6-->
+    <!--Maki 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">Legjobb történetek</string>
+    <string name="top_news_firstly">A hírcsatorna legfontosabb történeteinek megjelenítése</string>
+    <string name="hide_people">Feltehetőleg ismerős emberek</string>
+    <string name="hide_people_summary">Ajánlott ismerősök eltávolítása a hírcsatornából</string>
+    <string name="hide_groups">Ajánlott csoportok</string>
+    <string name="hide_groups_summary">Ajánlott csoportok eltávolítása a hírcsatornából</string>
+    <string name="hide_news_feed">Hírcsatorna elrejtése</string>
+    <string name="hide_news_feed_summary">Azok számára, akik nem akarnak időt pazarolni a egy hírcsatornára!</string>
+    <string name="maki_themes">Téma</string>
+    <string name="disable_images">Képek letiltása</string>
+    <string name="disable_images_summary">Adatforgalom megtakarítás a képek betöltésének letiltásával</string>
+    <string name="general_settings">Általános</string>
+    <string name="enable_quickview">Gyorsnézet</string>
+    <string name="enable_quickview_summary">A hivatkozás megérintése és lenyomva tartása az előnézethez</string>
+    <string name="enable_exit_summary">Megerősítési párbeszédablak megjelenítése az alkalmazás elhagyása előtt</string>
+    <string name="enable_fab_summary">Használjon egy kis gombot a jobb alsó sarokban a Facebook állapotfrissítő helyett</string>
+    <string name="power_saving_mode_more">A legtöbb funkció kikapcsolásával megnövelheti az akkumulátort</string>
+    <string name="enable_location">Elhelyezkedés</string>
+    <string name="enable_location_summary">Adja meg a Maki számára a tartózkodási helyét, hogy használhassa a bejelentkezéseket</string>
+    <!--Notification channels-->
+    <string name="notifications_channel">Értesítések csatorna beállításai</string>
+    <string name="messages_channel">Üzenetek csatorna beállításai</string>
+    <string name="notifications_channel_summary">Fontosságot, hangos értesítéseket és többet</string>
+    <string name="messages_channel_summary">Fontosságot, hangüzeneteket és még sok másat</string>
+    <!--New menu-->
+    <string name="view_profile">Profil megtekintése</string>
+    <string name="groups_nav">Csoportok</string>
+    <string name="find_friends_nav">Ismerősök keresése</string>
+    <string name="events_nav">Események</string>
+    <string name="this_day_nav">Ezen a napon</string>
+    <string name="saved_nav">Mentett</string>
+    <string name="pages_nav">Oldalak</string>
+    <string name="local_nav">Helyi</string>
+    <string name="photos_nav">Fotók</string>
+    <string name="most_recent_nav">Legfrissebb</string>
+    <!--2.6.2-->
+    <string name="hide_stories">Történetek eltávolítása</string>
+    <string name="hide_stories_summary">Történetek elrejtése a hírcsatornáiból</string>
+    <!--Intro-->
+    <string name="welcome_plus">Üdvözlet!</string>
+    <string name="plus_what">Mit kapunk?</string>
+    <string name="plus_support">Minden Maki Plus vásárlás jobbá teszi a Makit - ez egy nagy motiváció a fejlesztőknek új lehetőségek hozzáadásához és a Maki továbbfejlesztéséhez!</string>
+    <string name="thanks_more">A fejlesztők köszönik a támogatást! Most már használhatjuk a saját Maki Plus példányt. Szeretettel, Sunshine Apps.</string>
+    <!--2.6.4-->
+    <string name="keep_screen">Képernyő bekapcsolva hagyása</string>
+    <string name="keep_screen_summary">Engedélyezve a képernyő mindig bekapcsolva maradj a Maki használatakor</string>
+    <string name="hide_telegram">Telegram elrejtése</string>
+    <string name="hide_pinterest">Pinterest elrejtése</string>
+    <string name="hide_birthdays">Születésnapok</string>
+    <string name="hide_birthdays_summary">Születésnap értesítések eltávolítása a hírcsatornából</string>
+    <!--Maki 3.0-->
+    <string name="call">Hívás</string>
+    <string name="falcon_view">Sólyom nézet</string>
+    <string name="falcon_view_summary">Olvassunk a cikkeket webhely felkeresése nélkül. A címlap jelenik meg, ha a hivatkozás nem érhető el.</string>
+    <string name="special">Speciális</string>
+    <string name="hide_linkedin">LinkedIn elrejtése</string>
+    <string name="cant_call">Nem lehet hívást kezdeményezni</string>
+    <string name="features_beta">Beállítások béta verzióban</string>
+    <string name="features_beta_summary">Ezek a lehetőségek még mindig fejlesztés alatt állnak, ezért csak akkor próbáljuk ki ezeket, ha valóban szeretnénk!</string>
+    <string name="warning">Figyelem!</string>
+    <string name="plus_buy">Maki Plus megvásárlása</string>
+    <string name="plus_shortcuts">Használjuk a Makit gyorsabban - hozzunk létre parancsikonokat az üzenetekhez és az értesítésekhez a kezdőképernyőn.</string>
+    <string name="plus_ads">Az összes Facebook hirdetés letiltása a hírcsatornában a kedvenc tartalomra fókuszáláshoz.</string>
+    <string name="quickbar_more">Hozzáférés a közösségekhez bárhonnan.</string>
+    <string name="plus_dark">Védjük meg szemünket éjjel az automatikus sötét téma használatával.</string>
+    <string name="plus_summary">Új élmények a Maki használatával - a legjobb közösségi alkalmazással - Plus verziós bővítésekkel.</string>
+    <string name="give_permission">Engedélyek szükségesek</string>
+    <string name="give_permission_summary">Biztosítani kell bizonyos engedélyeket az ismerősök hívása előtt.</string>
+    <string name="allow">Lehetővé teszi</string>
+    <string name="manage">A közösségi média kezelése</string>
+    <string name="manage_summary">A kiválasztott közösségi média elrejtése vagy megjelenítése</string>
+    <!--3.1-->
+    <string name="mark_notifications">Jelöld olvasottként</string>
+    <!--3.2-->
+    <string name="keyword_post">Hozzászólások kulcsszó szerint</string>
+    <string name="keyword_post_summary">Bármely kulcsszóval elrejtheti a hírcsatornában található kiadványokat</string>
+    <string name="blocked_keywords">Blokkolt kulcsszavak</string>
+    <string name="active_friends">Aktív barátok</string>
+    <string name="maki_plus_default">Maki Plus Alapértelmezett</string>
+    <string name="remove_keyword">Kulcsszó eltávolítása</string>
+    <string name="remove_keyword_summary">Tényleg el akarja távolítani ezt a kulcsszót?</string>
+    <string name="free_facebook">Használja a free.facebook.com oldalt</string>
+    <string name="mbasic_facebook">Használja az mbasic.facebook.com szolgáltatást</string>
+    <string name="list_empty">Nincs itt semmi!</string>
+    <string name="quiet_hours">Ne zavarj</string>
+    <string name="quiet_hours_summary">Válassza ki az időintervallumokat, ha nem szeretne értesítést kapni</string>
+    <string name="quiet_hour">Csendes óra</string>
+    <string name="remove_interval">Távolítsa el az intervallumot</string>
+    <string name="remove_interval_summary">Tényleg el akarja távolítani ezt az intervallumot?</string>
+    <string name="interval_from_to">%1$s és %2$s óra között</string>
+    <string name="lock_background">Jelszó háttér</string>
+    <string name="lock_background_summary">Jelöljön ki egy képet jelszó háttérként</string>
+    <string name="highlight_posts">Jelölje ki a bejegyzéseket</string>
+    <string name="highlight_posts_summary">Bármely kulcsszóval jelölje ki a hírcsatornában található kiadványokat</string>
+    <string name="highlighted_post">Kiemelt üzenet</string>
+    <string name="tap_target_social">Kapcsolja be a szociális médiát</string>
+    <string name="tap_target_social_summary">Érintse meg ide a közösségi média kiválasztásához</string>
+    <string name="auto_night_plus">Mentsd meg a szemed</string>
+    <string name="quickbar_plus">Karnyújtásnyira</string>
+    <!--3.3-->
+    <string name="see_more_results">Több eredmény</string>
+    <string name="remove_this_ad">Távolítsa el ezt a hirdetést</string>
+    <string name="no_google_play">Sajnáljuk, de nem tudsz vásárolni Makit. Úgy tűnik, hogy a Google Play szolgáltatásai nincsenek telepítve a készüléken</string>
+    <!--3.4-->
+    <string name="blocked_hours">Korlátozott alkalmazáshasználat</string>
+    <string name="blocked_hours_summary">Állítsa be az időintervallumokat, amikor nem akarja tölteni az időt a társadalomban</string>
+    <string name="blocked_hours_notify">Értesítést</string>
+    <string name="blocked_hours_notify_summary">Értesítést kapjon, amikor a blokkolt óra befejeződött, és újra használhatja az alkalmazást</string>
+    <string name="block_links">Blokkolja az oldalakat</string>
+    <string name="block_links_summary">Blokkolja azokat az oldalakat, amelyeket nem kíván használni</string>
+    <string name="blocked_hours_finish">Ideje visszatérni!</string>
+    <string name="blocked_hours_finish_summary">Most ismét használhatja a Makit</string>
+    <string name="blocked_hours_disable_notifications">Tiltsa le az értesítéseket blokkolt órákban</string>
+    <string name="blocked_hours_disable_notifications_summary">Tiltsa le az értesítéseket, ha nem tudja blokkolt órákban használni az alkalmazást</string>
+    <string name="maki_is_locked">Maki zárva van</string>
+    <string name="blocked_description">Az alkalmazás letiltásához %1$s - %2$s között kell beállítani. Használd ezt az időt, hogy valami nagyszerűt csinálj!</string>
+    <string name="blocked_links">Blokkolt oldalak</string>
+    <string name="blocked_links_summary">Az Ön által letiltott oldalak listája</string>
+    <string name="blocked_links_add">Blokkolja ezt a linket</string>
+    <string name="play_gifs">Játsszon GIF-eket</string>
+    <string name="play_gifs_summary">Nyissa meg a GIF alkalmazásokat</string>
+    <string name="blocked_page">Blokkolt oldal</string>
+    <string name="blocked_page_summary">Ezt az oldalt letiltotta</string>
+    <string name="blocked_hour">Blokkolt intervallum</string>
+    <string name="lock_usage_title">Az intervallum neve</string>
+    <!--3.4.1-->
+    <string name="clearcache">Törli a gyorsítótárat a kilépéskor</string>
+    <string name="clearcache_summary">Az alkalmazás megnyitása több időt vesz igénybe.</string>
+    <string name="last_opened">Utoljára megnyílt</string>
+    <string name="remove_bookmark">Könyvjelző eltávolítása?</string>
+    <string name="are_you_sure">Biztosan szeretné eltávolítani a %1$s a kedvencek közül?</string>
+    <string name="update_link">https://makisocial.com/category/updates/</string>
 
     <!--Intro-->
-    <string name="first_slide">Üdvözlet a Makiban</string>
-    <string name="second_slide">Megosztás és élvezet. És gyorsabb.</string>
-    <string name="third_title">Szép és letisztult</string>
-    <string name="fourth_title">Ideje elkezdeni</string>
+    <string name="privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">Üdvözöljük a Maki!</string>
+    <string name="intro_description">Csak egy jobb Facebook alkalmazás</string>
 
-    <string name="first_description">A Facebook új időszaka az Androidon</string>
-    <string name="second_description">A Maki működése gyorsabb a Play Store bármely más Facebook alkalmazásánál.</string>
-    <string name="third_description">Csak erre van szükség - semmi másra.</string>
+    <string name="facebook_play">Videók a Watch funkcióban</string>
+    <string name="marketplace">Marketplace</string>
 
-    <string name="next">Következő</string>
-    <string name="login_fb">Facebook bejelentkezés</string>
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">A bezáráshoz húzza</string>
+    <string name="enable_swipe_close">Zárja be az oldalakat balról jobbra húzva</string>
 
-    <string name="start">Rajta!</string>
-    <string name="thanks">Nagyon köszönjük!</string>
+    <!--3.7-->
+    <string name="enabled">Bekapcsolt</string>
+    <string name="donate_maki">Támogassa a Maki fejlesztését</string>
+    <string name="donate_maki_more">Szia! A nevem római, Maki fejlesztője, és nagyon örülök, hogy folyamatosan használod és élvezed a Makit. A Maki és a jövőbeni projektek fejlesztése további adományokkal is támogatható.</string>
 
+    <!--4.0-->
+    <string name="plus_block">Időt takarít meg</string>
+    <string name="plus_block_description">Korlátozza a Facebook használatát, és az időt jobban töltheti: barátok, család, hobbi, munka stb.</string>
 
-    <string name="about_description">Fejlesztette a Sunshine Apps. 2016-2017</string>
-    <string name="like_on_facebook">Kedvelés a Facebookon</string>
-    <string name="web">Kapcsolat</string>
+    <string name="plus_block_pages">Nincs figyelemelterelés</string>
+    <string name="plus_block_pages_description">Könnyen blokkolja azokat a lapokat, amelyeket nem szeretne meglátogatni</string>
 
-    <string name="thanks_more">Köszönjük! Újra kell indítani az alkalmazást a Maki Plus új lehetőségeinek életbe lépéséhez.</string>
-    <string name="error_link">file:///android_asset/error.html</string>
-    <string name="shortcuts">Gyorslinkek</string>
+    <string name="autoplay_videos">Videók automatikus lejátszása</string>
+    <string name="autoplay_videos_summary">Automatikus lejátszási videók engedélyezése. Ha engedélyezve van, akkor nem tölthet le videókat és nem oszthat meg videókat.</string>
 
-<string name="close">Bezárás</string>
-    <string name="support">Támogatás</string>
-    <string name="plus_hello">Üdvözlet,</string>
-    <string name="plus_time">Ideje a Maki továbbfejlesztése</string>
-    <string name="maki_plus">Maki Plus</string>
-    <string name="plus_ads">Az összes Facebook hirdetés letiltása a hírcsatornában. Hihetetlen.</string>
-    <string name="plus_dark">A sötét téma automatikus használata a kiválasztott időben. Izgalmas.</string>
-    <string name="plus_shortcuts">A Maki gyorsabb használata - gyorslinkek létrehozása az üzenetekhez és az értesítésekhez a kezdő képernyőn. És gyorsabb hozzáférés a Facebookhoz bárhol a Gyorssáv használatával. Csodálatos.</string>
-    <string name="plus_support">Minden Maki Plus vásárlás jobbá teszi a Makit - jó motiváció a fejlesztőnek.</string>
-    <string name="plus_buy">Maki Plus megvásárlása</string>
-    <string name="plus_by">:: Sunshine Apps</string>
+    <string name="images_play">Tiltsa le a Maki képnézegetőt</string>
+    <string name="images_play_summary">A kép megnyitásához használja a kép alatt a \"Teljes méret megtekintése\" gombot</string>
 
-    <string name="help_translate">Segítség a fordításhoz</string>
-    <string name="open_in">Beépített böngésző</string>
-    <string name="open_in_more">Küldő hivatkozások megnyitása a Makiban</string>
-    <string name="browsing_settings">Böngésző beállítások</string>
-    <string name="twitter_preferences">Twitter beállítások</string>
-    <string name="twitter_first">A Twitter indítása először</string>
-    <string name="twitter_first_more">Twitter indítása a Facebook előtt</string>
+    <string name="hide_navigation">A navigáció elrejtése</string>
+    <string name="hide_navigation_summary">A fejléc és a navigáció elrejtése görgetés közben</string>
 
-    <string name="top_tabs">Felső navigáció</string>
-    <string name="top_tabs_more">Navigációs fül megjelenítése fent</string>
-    <string name="fbpage">Facebook oldal</string>
+    <!--3.9.2-->
+    <string name="finish_call">Hívás befejezése</string>
+    <string name="finish_call_description">Be szeretne fejezni egy hívást?</string>
 
+    <string name="colored_navigation">Színes navigáció</string>
+    <string name="colored_navigation_summary">Töltse ki a navigációs gombok hátterét egy téma színével</string>
+    <string name="not_supported">A készülék nem támogatja ezt a funkciót</string>
 
-    <string-array name="messenger_choice">
-        <item>Messenger Makiban</item>
-        <item>Messenger alkalmazás</item>
-        <item>Messenger Lite alkalmazás</item>
+    <!--3.9.3-->
+    <string name="add_keyword">Adjon hozzá kulcsszót</string>
+    <string name="rate_dialog">Értékeld Maki</string>
+    <string name="rate_dialog_more">Szereted használni Maki? Ha igen, értékelné őt a Google Playen? Nem fog sok időt igénybe venni. Nagyon szépen köszönjük!</string>
+    <string name="help">Segítség</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">Lapozzunk az oldalak között</string>
+    <string name="disable_swipe_tabs_summary">Letilthatja a kezdőképernyőn az oldalak közötti váltást</string>
+
+    <string name="maki_sale">Maki Plus kedvezménnyel!</string>
+    <string name="maki_sale_summary">Ne veszítse el esélyét arra, hogy kedvezményesen kapjon Maki Plus. Érintse meg ide, hogy megkapja.</string>
+
+    <string name="maki_update">Frissítés érhető el!</string>
+    <string name="maki_update_summary">Töltse le a Maki legújabb verzióját, a fejlesztésekkel és a hibajavításokkal a Google Playen. Koppintson ide a frissítéshez.</string>
+
+    <string name="check_for_updates">Frissítések keresése</string>
+    <string name="check_for_updates_summary">Értesítést kap az új frissítésről</string>
+
+    <string name="personalization">Testreszabás</string>
+    <string name="power_usage">Energiatakarékos</string>
+    <string name="news_feed">Hírcsatorna</string>
+
+    <!--4.0-->
+    <string name="donation_title">A Facebook és a Messenger együtt ❤️</string>
+    <string name="about_description">Miért kell külön használni a Facebook-ot és a Messenger-t, ha ilyen kedves pár lehetnek és együtt élhetnek Makiben?</string>
+    <string name="auto_power_saving">Automatikus energiatakarékosság</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>Kikapcsolt</item>
     </string-array>
 
-    <string name="dont_show_again">Ne jelenjen meg újra</string>
+    <string name="audio_call">Hanghívás</string>
+    <string name="video_call">Videohívás</string>
+    <string name="group_chat">Csoportos csevegés</string>
+    <string name="file_chooser_error">Nem lehet megnyitni a fájl választót</string>
 
-    <string name="problems_title">Probléma a vásárlásnál</string>
-    <string name="problems_purchase">
+    <string name="chat_bubbles">Chat-fejek</string>
+    <string name="chat_bubbles_summary">Nyissa meg az értesítéseket a chat-fejek</string>
 
-  A fejlesztők köszönik a támogatást. Sajnos úgy tűnik, probléma merült fel a vásárlással kapcsolatban. Ez az oldal a probléma megoldásához készült.
-\n\n
-Van néhány lehetséges megoldás:\n\n
-1) Indítsuk újra a Makit. Csak zárjuk be és futtassuk újra, nyissuk meg a Beállítások menüpontot és próbáljuk engedélyezni bármely Plus elemet.
-\n\n
-2) Ha az első megoldás nem működik - próbáljuk meg a "Maki Plus megvásárlása" lehetőséget ismét. Ez a művelet visszaállítja a vásárlást (nem kell ismételten fizetni). Az alkalmazás újraindulása után ismét próbáljuk meg engedélyezni bármelyik Plus elemet.
-\n\n
-3) Ezek után, ha egyik sem működik, vegyük fel a kapcsolatot a fejlesztőkkel, akik mindig megtalálják a legjobb megoldást.
-\n\n
-A fejlesztők email címe: makifeedback@gmail.com\n
-Facebook oldal: m.facebook.com/sunshineappsst
-\n\n
-Üdvözlettel, Sunshine Apps
+    <string name="give_permission_photos">Engedélyt kell adnia a fényképezőgépről történő képek feltöltésére.</string>
+    <string name="heads_hint">Érintse meg és tartsa lenyomva a csevegő fejet az eltávolításához</string>
 
-    </string>
+    <string name="messenger_slow">Lassú kapcsolat</string>
+    <string name="messenger_slow_summary">Használja az Egyszerűsített Messenger alkalmazást, ha a kapcsolat lassú</string>
+    <string name="messenger_network">Mobilhálózat</string>
+    <string name="messenger_network_summary">Használja az egyszerűsített Messenger alkalmazást mobilhálózat használatakor</string>
+
+    <string name="got_it">Oké</string>
+    <string name="messenger_slow_dialog">Úgy tűnik, hogy a kapcsolat lassú - átvált az egyszerűsített Messengerre. Ezt az opciót letilthatja az alkalmazás beállításainak "Facebook" kategóriájában.</string>
+    <string name="messenger_network_dialog">Mobilhálózaton van - a Messenger átvált az egyszerűsített re. Ezt az opciót letilthatja az alkalmazás beállításainak "Facebook" kategóriájában.</string>
+
+    <string name="restart">Még egy lépés</string>
+    <string name="restart_summary">Zárja be és nyissa meg újra a beszélgetést a hangüzenetek rögzítéséhez</string>
+
+    <string name="chat_bubbles_foreground">A csevegő fejek a háttérben futnak</string>
+    <string name="privacy_plus">Igazán barátságos</string>
+    <string name="privacy_plus_summary">A Maki nem gyűjt és értékesít személyes adatait - a magánélete sokkal fontosabb, mint a bevételünk.</string>
+
+    <string name="remove_sponsored_plus">Viszlát, hirdetések!</string>
+
+    <!--4.1 Hortensia-->
+    <string-array name="browser_entries">
+        <item>Chrome Custom Tabs</item>
+        <item>Beépített böngésző</item>
+        <item>Külső böngésző</item>
+    </string-array>
+
+    <string name="blocked_hours_list">Blokkolt időközök</string>
+    <string name="blocked_hours_list_summary">Adja hozzá vagy módosítsa a blokkolt időintervallumokat</string>
+
+    <string name="nothing_found">Nincs találat</string>
+    <string name="error_opening">Sajnos egy linket nem lehetett megnyitni</string>
+
+    <string name="select_start_time">Válassza ki a kezdési időt</string>
+    <string name="select_end_time">Válassza ki a befejezési időt</string>
+
+    <string name="cant_add_keyword">Sajnálom, nem tudok hozzáadni egy üres kulcsszót</string>
+    <string name="quickbar_expand">Érintse meg a kibontáshoz</string>
+    <string name="restore_purchase">Vásárlás visszaállítása</string>
 </resources>
-

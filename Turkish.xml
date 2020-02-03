@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="maki_name">Maki</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="choose_email_client">E-posta istemcisi seç</string>
+    <string name="no_network">Sen çevrimiçi değilsin.</string>
+    <string name="title_activity_settings">Ayarlar</string>
+    <string name="preference_about_category">Hakkında</string>
+    <string name="share_action">Pay</string>
+    <string name="error">Hata</string>
+    <string name="fragment_main_downloading">İndirilmesi&#8230;</string>
+    <string name="settings_more">Daha</string>
+    <string name="messages">Mesajlar</string>
+    <string name="favorites">Favoriler</string>
+    <string name="photos">Fotoğraflar</string>
+    <string name="privacy">Gizlilik ayarları</string>
+    <string name="fb_chat">Aktif arkadaşlar</string>
+    <string name="pokes">Dürtmeler</string>
+    <string name="refresh">Yenile</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="search">Arama</string>
+    <string name="exit">Kapat</string>
+
+    <string-array name="pref_theme_entries">
+        <item>Maki Tema</item>
+        <item>Facebook mavisi</item>
+        <item>Karanlık</item>
+        <item>Koyu mavi</item>
+        <item>AMOLED</item>
+        <item>Siyah ve beyaz</item>
+        <item>Kırmızı</item>
+        <item>şahin</item>
+        <item>Pembe</item>
+        <item>Koyu mor</item>
+        <item>Koyu yeşil</item>
+        <item>Açık yeşil</item>
+        <item>Kehribar</item>
+        <item>Derin Turuncu</item>
+        <item>Mavi</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google Plus</item>
+        <item>VK</item>
+        <item>Reddit</item>
+    </string-array>
+
+    <string name="addPage">Favorilere ekle</string>
+    <string name="notification_sound">Bilgilendirme sesi</string>
+    <string name="silent">Ses yok</string>
+    <string name="vibrate">Titremek</string>
+    <string name="led_light">LED</string>
+    <string name="maki_lock">Şifre kodunu etkinleştir</string>
+    <string name="lock_text_new">Maki\'yi bir şifre ile koruyun.</string>
+    <string name="lock_text_new_fingerprint">Alternatif olarak, parmak izinizi kullanabilirsiniz....</string>
+    <string name="context_save_image">Resmi indir</string>
+    <string name="context_share_image">Fotoğraf paylaşmak</string>
+    <string name="context_copy_image_link">Bağlantıyı kopyala</string>
+    <string name="context_share_image_progress">Hazırlama&#8230;</string>
+    <string name="content_copy_link_done">Link kopyalandı</string>
+    <string name="permission_denied">İzin reddedildi. Bu işlem tamamlanamaz.</string>
+    <string name="save_img">Kayıt etmek</string>
+    <string name="download_manager_disabled">İndirme Yöneticisi Devre Dışı</string>
+    <string name="hide_ads">Reklamları kaldır</string>
+    <string name="hide_ads_more">Facebook haber beslemesindeki tüm reklamları kaldırın</string>
+    <string name="exit_message">Maki\'yi kapatmak istediğinden emin misin?</string>
+    <string name="welcome">Merhaba</string>
+    <string name="saved_pin_message">Pimini unutursanız, lütfen telefonunuzun uygulama yöneticisinden Maki verilerini temizleyin.</string>
+
+
+    <string name="pin_code_step_disable">Şifre kodunu devre dışı bırak</string>
+    <string name="pin_code_step_create">Şifre oluştur</string>
+    <string name="pin_code_step_change">Güncel şifrenizi giriniz</string>
+    <string name="pin_code_step_unlock">Şifreyi gir</string>
+    <string name="pin_code_step_enable_confirm">Şifre kodunu onayla</string>
+    <string name="pin_code_fingerprint_text">Parmak izi</string>
+    <string name="pin_code_fingerprint_not_recognized">Tekrar deneyin</string>
+    <string name="open_in_browser">Tarayıcıda aç</string>
+    <string name="copy_url">Panoya kopyala</string>
+    <string name="download">İndir</string>
+    <string name="removed">Kaldırılan</string>
+    <string name="auto_night_title">Otomatik Gece Teması</string>
+    <string name="auto_night_more">Karanlık tema geceleri otomatik olarak etkinleştirilecek</string>
+    <string name="save_to">Kaydedildi:</string>
+    <string name="font_size">Yazı Boyutu</string>
+    <string name="quickbar">Quickbar</string>
+    <string name="ratemaki">Oranı Maki</string>
+    <string name="feedback_mail">Geri bildirim</string>
+    <string name="messenger_app">Facebook Messenger Uygulaması</string>
+    <string name="messenger_app_more">Yerleşik Messenger yerine Facebook Messenger Uygulamasını kullan</string>
+
+    <string name="addHome">Ana ekrana ekle</string>
+    <string name="power_saving_mode">Enerji tasarrufu modu</string>
+
+    <string name="thanks_support">Desteğin için teşekkürler!</string>
+    <string name="unable_purchase">Satın alma iptal edildi</string>
+    <string name="added">Sık kullanılanlara kaydedildi</string>
+    <string name="download_complete">İndirme tamamlandı</string>
+    <string name="license">Açık kaynak lisansları</string>
+
+    <string name="locked">Kilitli</string>
+    <string name="please_enter_passcode">Bir şifre girin</string>
+    <string name="buy_plus">Maki Plus\'ın zamanı geldi.</string>
+    <string name="buy_plus_more">Maki\'yı Plus sürümü ile daha da iyi hale getirmenin zamanı geldi - reklamları kaldırın, kısayollar oluşturun, otomatik gece temasını etkinleştirin ve geliştiricileri destekleyin.</string>
+    <string name="lets_do_it">Haydi Yapalım şunu!</string>
+    <string name="later">Sonra</string>
+
+    <string name="start">Hadi gidelim</string>
+    <string name="thanks">Çok teşekkür ederim!</string>
+    <string name="web">Temas</string>
+    <string name="shortcuts">Kısayollar</string>
+    <string name="close">Kapat</string>
+    <string name="support">Destek</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="help_translate">Tercüme etmek için yardım</string>
+    <string name="open_in">Uygulama içi tarayıcı</string>
+    <string name="open_in_more">Maki içindeki harici bağlantıları aç</string>
+    <string name="top_tabs">Üst gezinme</string>
+    <string name="top_tabs_more">Üstte gezinme sekmesini göster</string>
+    <string name="fbpage">Facebook Sayfası</string>
+
+    <string-array name="messenger_choice">
+        <item>Messenger in Maki</item>
+        <item>Basitleştirilmiş Messenger</item>
+        <item>Messenger Uygulaması</item>
+        <item>Messenger Lite Uygulaması</item>
+        <item>Disa Messenger Uygulaması</item>
+    </string-array>
+
+    <string name="problems_purchase">
+Bizi desteklediğiniz için çok teşekkür ederiz! Ne yazık ki, satın alma ile ilgili bazı sorunlar var gibi görünüyor. Eh, bu sayfa sadece bu sorunu çözmek için oluşturuldu.
+\n\n
+Birkaç olası çözümümüz var:\n\n
+1) Maki\'yi tekrar başlatın. Bir uygulamayı kapatın ve sıfırdan başlatın, ayarları açın ve herhangi bir Artı özelliğini etkinleştirmeyi deneyin.
+\n\n
+2) İlk çözüm işe yaramazsa - "Maki Plus Al" a tekrar basmayı deneyin. Bu işlem satın alma işleminizi geri yükleyecektir (paranızı bir daha harcamazsınız, endişelenmeyin). Bundan sonra uygulamayı yeniden başlatın ve herhangi bir Artı özelliğini etkinleştirmeyi deneyin.
+\n\n
+3) Sonuçta, bunun hiçbiri işe yaramıyorsa - bize ulaşın! Birlikte en iyi çözümü kesinlikle bulacağız.
+\n\n
+Bizim e-posta: makifeedback@gmail.com\n
+Facebook sayfası: m.facebook.com/sunshineappsst
+\n\n
+Saygılarımızla, Sunshine Apps
+\n\n
+    </string>
+
+    <string name="social_medias">Sosyal medya</string>
+    <string name="hide_twitter">Saklamak Twitter</string>
+    <string name="hide_instagram">Saklamak Instagram</string>
+    <string name="hide_tumblr">Saklamak Tumblr</string>
+    <string name="hide_vk">Saklamak VK</string>
+    <!-- Notifications -->
+    <string name="facebook_message">Mesaj bildirimleri</string>
+    <string name="facebook_notifications">Facebook bildirimleri</string>
+    <string name="notification_sound_description">Bir zil sesi veya sessizlik seçin: \u0020</string>
+    <string name="interval_pref">Kontrol için zaman aralığı</string>
+    <string name="interval_pref_description_new">Bildirimler her %s olarak işaretlenecektir.</string>
+    <string name="notification_sound_msg">Mesaj sesi</string>
+    <string name="blacklist_title">Kara liste</string>
+    <string name="new_black_word">Engellemek için yeni bir kelime yaz</string>
+    <string name="blacklist_summary">Bildirimleri engellemek için kelimeler listesi</string>
+    <string name="exact">Tam zamanı</string>
+    <string name="exact_summary">Bildirim gecikmesini azaltın. Pil dostu değil</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>30 saniye</item>
+        <item>60 saniye</item>
+        <item>2 dakika</item>
+        <item>5 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>3 saat</item>
+        <item>6 saat</item>
+    </string-array>
+
+    <!--2.4.2-->
+    <string name="enable_exit">Çıkış iletişimini etkinleştir</string>
+    <string name="enable_fab">Kayan işlem düğmesini etkinleştir</string>
+    <!--2.4.3-->
+    <string name="fab_text">Bir durum yayınla</string>
+    <string name="done">Bitti!</string>
+    <string name="facebook_limit">Üzgünüz, ancak Facebook şu anda basit metinleri paylaşmanıza izin vermiyor - sadece bağlantılar!</string>
+    <!--2.4.6-->
+    <string name="font_details">Yazı tipi boyutunu% 50 ila% 170 arasında girin</string>
+    <string name="problems_with_purchase">Satın alma ile ilgili sorunlar?</string>
+    <!--2.5-->
+    <string name="switch_profile">Profili değiştir</string>
+    <string name="launch_social">Maki ile başla</string>
+    <string name="hide_reddit">Saklamak Reddit</string>
+    <string name="hide_facebook">Saklamak Facebook</string>
+    <string name="thanks_to">Teşekkür borcu</string>
+    <!--2.5.2-->
+    <string name="notif">Bildirimler</string>
+
+    <!--Maki 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">En iyi hikayeler</string>
+    <string name="top_news_firstly">Haber feed\'inde en popüler haberleri göster</string>
+    <string name="hide_people">Tanıyor Olabileceğiniz İnsanlar</string>
+    <string name="hide_people_summary">Önerilen haberleri haber akışından kaldırma</string>
+    <string name="hide_groups">Önerilen gruplar</string>
+    <string name="hide_groups_summary">Haber beslemesinden önerilen grupları kaldırın</string>
+    <string name="hide_news_feed">Haber akışını gizle</string>
+    <string name="hide_news_feed_summary">Haber beslemesinde zaman kaybetmek istemeyenler için!</string>
+    <string name="maki_themes">Tema</string>
+    <string name="disable_images">Görüntüleri devre dışı bırak</string>
+    <string name="disable_images_summary">Görüntüleri yüklemeyi devre dışı bırakarak verileri kaydet</string>
+    <string name="general_settings">Genel</string>
+    <string name="enable_quickview">Hızlı Görünüm</string>
+    <string name="enable_quickview_summary">Hızlı bir şekilde önizlemek için herhangi bir bağlantıya dokunun ve basılı tutun</string>
+    <string name="enable_exit_summary">Bir uygulamadan çıkmadan önce onay iletişimini göster</string>
+    <string name="enable_fab_summary">Facebook durum updater yerine sağ alt köşedeki küçük bir düğme kullanın</string>
+    <string name="power_saving_mode_more">Pili daha da korumak için özelliklerin çoğunu devre dışı bırakın</string>
+    <string name="enable_location">Yer</string>
+    <string name="enable_location_summary">Check-in işleminde kullanmak için mahallenize Maki erişimini verin.</string>
+
+    <!--Notification channels-->
+    <string name="notifications_channel">Bildirimler ayarları</string>
+    <string name="messages_channel">Mesaj ayarları</string>
+    <string name="notifications_channel_summary">Önemi ayarla, bildirimlerin sesi ve daha fazlası</string>
+    <string name="messages_channel_summary">Önemi ayarla, mesajların sesi ve daha fazlası</string>
+
+    <!--New menu-->
+    <string name="view_profile">Profilini görüntüle</string>
+    <string name="groups_nav">Gruplar</string>
+    <string name="find_friends_nav">Arkadaşları bul</string>
+    <string name="events_nav">Olaylar</string>
+    <string name="this_day_nav">Bugün</string>
+    <string name="saved_nav">Kaydedilmiş</string>
+    <string name="pages_nav">Sayfalar</string>
+    <string name="local_nav">Yerel</string>
+    <string name="photos_nav">Fotoğraflar</string>
+    <string name="most_recent_nav">En yeni</string>
+
+    <!--2.6.2-->
+    <string name="hide_stories">Hikayeleri kaldır</string>
+    <string name="hide_stories_summary">Haber feed\'inizdeki hikayeleri gizle</string>
+
+    <string name="welcome_plus">Merhaba!</string>
+    <string name="plus_what">Ne alacaksın?</string>
+
+    <string name="plus_support">Her Maki Plus alışı Maki\'yi daha iyi hale getiriyor - yeni özellikler eklemem ve Maki\'yı geliştirmem için harika bir motivasyon!</string>
+    <string name="thanks_more">Desteğiniz için çok teşekkür ederiz! Artık Maki Plus\'ın kendi kopyanızın tadını çıkarabilirsiniz. Sevgi ile, Sunshine Apps.</string>
+
+    <!--2.6.4-->
+    <string name="keep_screen">Ekranını açık tut</string>
+    <string name="keep_screen_summary">Maki kullanırken ekranı daima açık tutmak için bu seçeneği etkinleştirin</string>
+    <string name="hide_telegram">Saklamak Telegram</string>
+    <string name="hide_pinterest">Saklamak Pinterest</string>
+    <string name="hide_birthdays">Doğum günleri</string>
+    <string name="hide_birthdays_summary">Haber feed\'indeki doğum günleri bildirimlerini kaldır</string>
+
+    <!--Maki 3.0-->
+    <string name="call">Telefon etmek</string>
+    <string name="falcon_view">Şahin görünümü</string>
+    <string name="falcon_view_summary">Bir web sitesini ziyaret etmeden makaleleri okuyun</string>
+    <string name="special">Özel</string>
+    <string name="hide_linkedin">Saklamak LinkedIn</string>
+    <string name="cant_call">Üzgünüz, bu kişiye çağrı yapamazsınız</string>
+
+    <string name="features_beta">Beta’daki seçenekler</string>
+    <string name="features_beta_summary">Bu seçenekler hala gelişiyor ve kararlı olmayabilir, bu yüzden onları sadece gerçekten istiyorsan deneyin!</string>
+    <string name="warning">Uyarı!</string>
+
+    <string name="plus_buy">Almak</string>
+    <string name="plus_shortcuts">Maki\'yi daha hızlı kullanın - ana ekranda mesajlar ve bildirimler için kısayollar oluşturun.</string>
+    <string name="plus_ads">Favori içeriğinize odaklanmak için haber kaynağındaki tüm reklamları Facebook\'tan kaldırın</string>
+    <string name="quickbar_more">Sosyal paylaşımlara her yerden erişin.</string>
+
+    <string name="plus_dark">Otomatik karanlık bir tema ile gece saatlerinde gözlerinizi koruyun.</string>
+    <string name="plus_summary">Plus eklentileriyle, şimdiye kadar yapılmış en iyi sosyal uygulama olan Maki\'yi kullanarak yepyeni bir deneyim yaşayın.</string>
+
+    <string name="give_permission">İzin gerekli</string>
+    <string name="give_permission_summary">Arkadaşlarını aramadan önce bazı izinler vermelisin.</string>
+    <string name="allow">İzin vermek</string>
+    <string name="manage">Sosyal medyayı yönetme</string>
+    <string name="manage_summary">Favori sosyal medyayı gizle veya göster</string>
+
+    <!--3.1-->
+    <string name="mark_notifications">Okundu olarak işaretle</string>
+
+    <!--3.2-->
+    <string name="keyword_post">Anahtar kelimeye göre yayınları kaldır</string>
+    <string name="keyword_post_summary">Haber akışındaki yayınları herhangi bir anahtar kelimeyle gizleyin</string>
+    <string name="blocked_keywords">Engellenen anahtar kelimeler</string>
+
+    <string name="active_friends">Aktif arkadaşlar</string>
+    <string name="maki_plus_default">Maki Plus Standart</string>
+    <string name="remove_keyword">Anahtar kelimeyi kaldır</string>
+    <string name="remove_keyword_summary">Bu anahtar kelimeyi gerçekten kaldırmak istiyor musunuz?</string>
+
+    <string name="free_facebook">free.facebook.com kullanın</string>
+    <string name="mbasic_facebook">mbasic.facebook.com adresini kullanın</string>
+    <string name="list_empty">Burada hiçbir şey yok!</string>
+
+    <string name="quiet_hours">Rahatsız etmeyin</string>
+    <string name="quiet_hours_summary">Herhangi bir bildirim almak istemediğinizde zaman aralıklarını seçin.</string>
+
+    <string name="quiet_hour">Sessiz saat</string>
+    <string name="remove_interval">Aralığı kaldır</string>
+    <string name="remove_interval_summary">Bu aralığı gerçekten kaldırmak istiyor musunuz?</string>
+    <string name="interval_from_to">%1$s - %2$s</string>
+
+    <string name="lock_background">Şifre arka planı</string>
+    <string name="lock_background_summary">Parola arka planı olarak bir resim seçin</string>
+
+    <string name="highlight_posts">Yayınları vurgula</string>
+    <string name="highlight_posts_summary">Haber akışındaki yayınları herhangi bir anahtar kelimeyle vurgulayın</string>
+    <string name="highlighted_post">Vurgulanan yayın</string>
+
+    <string name="tap_target_social">Sosyal medyayı değiştir</string>
+    <string name="tap_target_social_summary">Herhangi bir sosyal medya seçmek için buraya dokunun</string>
+
+    <!--3.3-->
+    <string name="auto_night_plus">Gözlerini kurtar</string>
+    <string name="quickbar_plus">Parmaklarınızın ucunda</string>
+
+    <string name="see_more_results">Daha fazla sonuç</string>
+    <string name="remove_this_ad">Bu reklamı kaldır</string>
+    <string name="no_google_play">Üzgünüz, ama Maki\'yi satın alamazsınız. Google Play hizmetleri cihazınıza yüklenmemiş gibi görünüyor</string>
+
+    <!--3.4-->
+    <string name="blocked_hours">Sınırlı uygulama kullanımı</string>
+    <string name="blocked_hours_summary">Zamanınızı sosyal medyada geçirmek istemediğinizde zaman aralıklarını belirleyin</string>
+
+    <string name="blocked_hours_notify">Bildirmek</string>
+    <string name="blocked_hours_notify_summary">Engellenen saat bittiğinde ve uygulamayı tekrar kullanabildiğiniz zaman bir bildirim alın</string>
+
+    <string name="block_links">Sayfaları engelle</string>
+    <string name="block_links_summary">Kullanmak istemediğiniz sayfaları engelleyin</string>
+
+    <string name="blocked_hours_finish">Geri dönme zamanı!</string>
+    <string name="blocked_hours_finish_summary">Şimdi Maki\'yi tekrar kullanabiliyorsun.</string>
+
+    <string name="blocked_hours_disable_notifications">Engellenen saatlerde bildirimleri devre dışı bırak</string>
+    <string name="blocked_hours_disable_notifications_summary">Uygulamayı engellenen saatlerde kullanamadığınızda bildirimleri devre dışı bırakın</string>
+
+    <string name="maki_is_locked">Maki kilitli</string>
+    <string name="blocked_description">Uygulamayı engellemek için %1$s - %2$s arasında bir aralık ayarladınız. Harika bir şey yapmak için bu zamanı kullanın!</string>
+
+    <string name="blocked_links">Engellenen sayfalar</string>
+    <string name="blocked_links_summary">Engellenen sayfalar</string>
+
+    <string name="blocked_links_add">Bu bağlantıyı engelle</string>
+
+    <string name="play_gifs">GIF Oynat</string>
+    <string name="play_gifs_summary">Maki\'de GIF\'leri Aç</string>
+
+    <string name="blocked_page">Engellenen sayfa</string>
+    <string name="blocked_page_summary">Bu sayfa sizin tarafınızdan engellendi</string>
+
+    <string name="blocked_hour">Engellenen aralık</string>
+    <string name="lock_usage_title">Aralığın adı</string>
+
+    <string name="clearcache">Çıkışta önbelleği temizle</string>
+    <string name="clearcache_summary">Uygulamayı açmak daha fazla zaman alacaktır.</string>
+
+    <string name="last_opened">Son Açılan</string>
+
+    <string name="remove_bookmark">Yer işaretini kaldır?</string>
+    <string name="are_you_sure">%1$s favorilerimden kaldırmak istediğinizden emin misiniz?</string>
+    <string name="update_link">https://makisocial.com/category/updates/</string>
+
+    <!--Intro-->
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">Maki\'ye Hoşgeldiniz</string>
+    <string name="intro_description">Facebook için daha iyi bir uygulama</string>
+
+    <string name="facebook_play">Watch\'taki Videolar</string>
+    <string name="marketplace">Marketplace</string>
+
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">Kapatmak için kaydır</string>
+    <string name="enable_swipe_close">Sayfaları soldan sağa kaydırarak kapatın</string>
+
+    <!--3.7-->
+    <string name="enabled">Etkin</string>
+    <string name="donate_maki">Maki gelişimini destekleyin</string>
+    <string name="donate_maki_more">Maki\'yi kullanmaktan gerçekten zevk alıyorsanız, Maki\'yi ve gelecekteki projelere ekstra bir bağışla daha fazla destek olabilirsiniz.</string>
+
+    <!--4.0-->
+    <string name="plus_block">Zamandan tasarruf</string>
+    <string name="plus_block_description">Facebook kullanımını sınırlandıran ve bu zamanı daha iyi bir şekilde geçirin: arkadaşlar, aile, hobi, iş vb.</string>
+
+    <string name="plus_block_pages">Dikkat dağıtmak yok</string>
+    <string name="plus_block_pages_description">Ziyaret etmek istemediğiniz sayfaları kolayca engelleyin</string>
+
+    <string name="autoplay_videos">Otomatik oynatma videoları</string>
+    <string name="autoplay_videos_summary">Otomatik oynat videolarını etkinleştirin. Etkinleştirildiğinde videoları indiremez ve paylaşamazsınız.</string>
+
+    <string name="images_play">Maki resim görüntüleyicisini devre dışı bırak</string>
+    <string name="images_play_summary">Resmi açmak için resmin altındaki \"Tam boyutlu göster\" düğmesini kullanın.</string>
+
+    <string name="hide_navigation">Gezintiyi gizleme</string>
+    <string name="hide_navigation_summary">Kaydırırken başlığı ve gezinmeyi gizle</string>
+
+    <!--3.9.2-->
+    <string name="finish_call">Son Arama</string>
+    <string name="finish_call_description">Bir aramayı sonlandırmak ister misiniz?</string>
+
+    <string name="colored_navigation">Renkli navigasyon</string>
+    <string name="colored_navigation_summary">Gezinti düğmeleri arka planını tema rengi ile doldur</string>
+    <string name="not_supported">Cihazınız bu özelliği desteklemiyor</string>
+
+    <!--3.9.3-->
+    <string name="add_keyword">Anahtar kelime ekle</string>
+    <string name="rate_dialog">Oran Maki</string>
+    <string name="rate_dialog_more">Maki\'yi kullanmaktan hoşlanıyor musunuz? Bunu yaparsanız, Google Play\'de onu değerlendirir misiniz? Çok zaman almayacak. Çok teşekkür ederim!</string>
+    <string name="help">Yardım</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">Kaydırmayı devre dışı bırak</string>
+    <string name="disable_swipe_tabs_summary">Giriş ekranındaki sayfalar arasında kaydırmayı devre dışı bırak</string>
+
+    <string name="maki_sale">Maki Plus indirim!</string>
+    <string name="maki_sale_summary">Maki Plus\'ı indirimli fiyatla satın alma şansınızı kaybetmeyin. Almak için buraya dokunun.</string>
+
+    <string name="maki_update">Bir güncelleme mevcut!</string>
+    <string name="maki_update_summary">Maki\'nin son sürümünü Google Play\'deki iyileştirmeler ve hata düzeltmeleri ile edinin. Güncellemek için buraya dokunun.</string>
+
+    <string name="check_for_updates">Güncellemeleri kontrol et</string>
+    <string name="check_for_updates_summary">Yeni güncellemeler hakkında bildirim alın</string>
+
+    <string name="personalization">Kişiselleştirme</string>
+    <string name="power_usage">Güç tasarrufu</string>
+    <string name="news_feed">Haber akışı</string>
+
+    <!--4.0-->
+    <string name="donation_title">Facebook ve Messenger birlikte ❤️</string>
+    <string name="about_description">Facebook ve Messenger\'ı neden ayrı kullanmak zorundasınız? Maki\'de birlikte yaşayabilirler.</string>
+    <string name="auto_power_saving">Otomatik güç tasarrufu</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>Kapalı</item>
+    </string-array>
+
+    <string name="audio_call">Sesli arama</string>
+    <string name="video_call">Görüntülü arama</string>
+    <string name="group_chat">Grup sohbeti</string>
+    <string name="file_chooser_error">Dosya seçici açılamıyor</string>
+
+    <string name="chat_bubbles">Sohbet balonları</string>
+    <string name="chat_bubbles_summary">Sohbet balonlarında bildirimleri aç</string>
+
+    <string name="give_permission_photos">Bir kameradan fotoğraf yüklemek için izin vermeniz gerekiyor.</string>
+    <string name="heads_hint">Kaldırmak için herhangi bir sohbet balonuna dokunun ve basılı tutun</string>
+
+    <string name="messenger_slow">Yavaş bağlantı</string>
+    <string name="messenger_slow_summary">Bağlantı yavaş olduğunda Basitleştirilmiş Messenger\'ı kullanın</string>
+    <string name="messenger_network">Mobil ağ</string>
+    <string name="messenger_network_summary">Mobil ağ kullanırken Basitleştirilmiş Messenger\'ı kullanın</string>
+
+    <string name="got_it">Tamam</string>
+    <string name="messenger_slow_dialog">Bağlantınız yavaş - Basitleştirilmiş Messenger\'a geçeceksiniz. Bu seçeneği uygulama ayarlarının \"Facebook\" kategorisinde devre dışı bırakabilirsiniz.</string>
+    <string name="messenger_network_dialog">Mobil bir ağdasınız - Messenger Basitleştirilmiş olarak değiştirilecek. Bu seçeneği uygulama ayarlarının \"Facebook\" kategorisinde devre dışı bırakabilirsiniz.</string>
+
+    <string name="restart">Bir adım daha</string>
+    <string name="restart_summary">Sesli mesajları kaydetmek için sohbeti kapatıp tekrar açın</string>
+
+    <string name="chat_bubbles_foreground">Sohbet balonları arka planda çalışıyor</string>
+    <string name="privacy_plus">Gerçekten arkadaş canlısı</string>
+    <string name="privacy_plus_summary">Maki kişisel bilgilerinizi toplamaz ve satmaz - mahremiyetiniz gelirimizden çok daha önemlidir</string>
+
+    <string name="remove_sponsored_plus">Hoşçakal, reklam!</string>
+
+    <!--4.1 Hortensia-->
+    <string-array name="browser_entries">
+        <item>Chrome Custom Tabs</item>
+        <item>Maki Tarayıcı</item>
+        <item>Harici tarayıcı</item>
+    </string-array>
+
+    <string name="blocked_hours_list">Engellenen aralıklar</string>
+    <string name="blocked_hours_list_summary">Engellenen zaman aralıkları ekleme veya değiştirme</string>
+
+    <string name="nothing_found">Hiçbirşey Bulunamadı</string>
+    <string name="error_opening">Maalesef, bir bağlantı açılamadı</string>
+
+    <string name="select_start_time">Başlangıç zamanını seçin</string>
+    <string name="select_end_time">Bitiş saatini seçin</string>
+
+    <string name="cant_add_keyword">Maalesef, boş bir anahtar kelime ekleyemiyorum</string>
+    <string name="quickbar_expand">Genişletmek için hafifçe vurun</string>
+    <string name="restore_purchase">Satın almayı geri yükle</string>
+
+</resources>

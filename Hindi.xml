@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="maki_name">Maki</string>
+    <string name="ok">ठीक</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="choose_email_client">ईमेल क्लाइंट चुनें</string>
+    <string name="no_network">आप ऑनलाइन नहीं हैं।</string>
+    <string name="title_activity_settings">सेटिंग्स</string>
+    <string name="preference_about_category">के बारे में</string>
+    <string name="share_action">शेयर</string>
+    <string name="error">त्रुटि</string>
+    <string name="fragment_main_downloading">डाउनलोड कर रहा है&#8230;</string>
+    <string name="settings_more">अधिक</string>
+    <string name="messages">संदेश</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="photos">तस्वीरें</string>
+    <string name="privacy">गोपनीय सेटिंग</string>
+    <string name="fb_chat">सक्रिय मित्र</string>
+    <string name="pokes">Pokes</string>
+    <string name="refresh">ताज़ा करना</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="search">खोज</string>
+    <string name="exit">बंद करे</string>
+
+    <string-array name="pref_theme_entries">
+        <item>Maki</item>
+        <item>फेसबुक ब्लू</item>
+        <item>अंधेरा</item>
+        <item>गहरा नीला</item>
+        <item>काली (AMOLED)</item>
+        <item>काला और सफेद</item>
+        <item>लाल</item>
+        <item>Falcon</item>
+        <item>गुलाबी</item>
+        <item>बैंगनी</item>
+        <item>गहरा हरा</item>
+        <item>हल्का हरा</item>
+        <item>पीला</item>
+        <item>नारंगी</item>
+        <item>सियान</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google Plus</item>
+        <item>VK</item>
+        <item>Reddit</item>
+    </string-array>
+
+    <string name="addPage">पसंदीदा में जोड़े</string>
+    <string name="notification_sound">सूचना ध्वनि</string>
+    <string name="silent">कोई आवाज नहीं</string>
+    <string name="vibrate">कांपना</string>
+    <string name="led_light">LED</string>
+    <string name="maki_lock">पासवर्ड सक्षम करें</string>
+    <string name="lock_text_new">माकी को पासवर्ड से सुरक्षित रखें</string>
+    <string name="lock_text_new_fingerprint">या आप अपने फिंगरप्रिंट का उपयोग कर सकते हैं</string>
+    <string name="context_save_image">छवि डाउनलोड करें</string>
+    <string name="context_share_image">चित्र साझा करें</string>
+    <string name="context_copy_image_link">प्रतिरूप जोड़ना</string>
+    <string name="context_share_image_progress">तैयार कर रहे हैं&#8230;</string>
+    <string name="content_copy_link_done">लिंक को क्लिपबोर्ड पर कॉपी किया गया</string>
+    <string name="permission_denied">अनुमति नहीं मिली। यह क्रिया पूर्ण नहीं हो सकती।</string>
+    <string name="save_img">बचाना</string>
+    <string name="download_manager_disabled">डाउनलोड प्रबंधक अक्षम</string>
+    <string name="hide_ads">विज्ञापन निकालें</string>
+    <string name="hide_ads_more">फेसबुक समाचार फ़ीड में सभी विज्ञापन निकालें</string>
+    <string name="exit_message">क्या आप वास्तव में माकी को बंद करना चाहते हैं?</string>
+    <string name="welcome">नमस्ते</string>
+    <string name="saved_pin_message">यदि आप अपना पिन भूल जाते हैं, तो कृपया अपने फोन के एप्लिकेशन मैनेजर से माकी डेटा को साफ़ करें।</string>
+
+    <string name="pin_code_step_disable">पासवर्ड अक्षम करें</string>
+    <string name="pin_code_step_create">एक पासवर्ड बनाएं</string>
+    <string name="pin_code_step_change">वर्तमान पासवर्ड डालें</string>
+    <string name="pin_code_step_unlock">पास वर्ड दर्ज करें</string>
+    <string name="pin_code_step_enable_confirm">पास वर्ड दर्ज करें</string>
+    <string name="pin_code_fingerprint_text">अंगुली की छाप</string>
+    <string name="pin_code_fingerprint_not_recognized">पुनः प्रयास करें</string>
+    <string name="open_in_browser">ब्राउज़र में खोलें</string>
+    <string name="copy_url">क्लिपबोर्ड पर कॉपी करें</string>
+    <string name="download">डाउनलोड</string>
+    <string name="removed">हटा दिया</string>
+    <string name="auto_night_title">स्वचालित रात का विषय</string>
+    <string name="auto_night_more">रात में डार्क थीम अपने आप सक्षम हो जाएगी</string>
+    <string name="save_to">को बचाया:</string>
+    <string name="font_size">फ़ॉन्ट आकार</string>
+    <string name="quickbar">Quickbar</string>
+    <string name="ratemaki">मकी दर</string>
+    <string name="feedback_mail">प्रतिक्रिया</string>
+    <string name="messenger_app">फेसबुक मैसेंजर ऐप</string>
+    <string name="messenger_app_more">अंतर्निहित मैसेंजर के बजाय फेसबुक मैसेंजर ऐप का उपयोग करें</string>
+
+    <string name="addHome">होम स्क्रीन में शामिल करें</string>
+    <string name="power_saving_mode">बिजली की बचत अवस्था</string>
+
+    <string name="thanks_support">आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="unable_purchase">खरीद रद्द</string>
+    <string name="added">पसंदीदा में सहेजा गया</string>
+    <string name="download_complete">डाउनलोड सम्पन्न हुआ</string>
+    <string name="license">ओपन सोर्स लाइसेंस</string>
+
+    <string name="locked">बंद</string>
+    <string name="please_enter_passcode">पासवर्ड ङालें</string>
+    <string name="buy_plus">पासवर्ड ङालें</string>
+    <string name="buy_plus_more">प्लस वर्जन के साथ माकी को और भी बेहतर बनाने का समय आ गया है - विज्ञापन निकालें, शॉर्टकट बनाएं, ऑटो नाइट थीम को सक्षम करें और डेवलपर्स को सपोर्ट करें।</string>
+    <string name="lets_do_it">हो जाए!</string>
+    <string name="later">बाद में</string>
+
+    <string name="start">चलिए चलते हैं</string>
+    <string name="thanks">आपका बहुत बहुत धन्यवाद!</string>
+    <string name="web">संपर्क करें</string>
+    <string name="shortcuts">शॉर्टकट</string>
+    <string name="close">बंद करे</string>
+    <string name="support">समर्थन</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="help_translate">अनुवाद करने में सहायता करें</string>
+    <string name="open_in">इन-ऐप ब्राउज़र</string>
+    <string name="open_in_more">माकी के अंदर बाहरी लिंक खोलें</string>
+
+    <string name="top_tabs">शीर्ष नेविगेशन</string>
+    <string name="top_tabs_more">शीर्ष पर नेविगेशन टैब दिखाएं</string>
+    <string name="fbpage">फेसबुक पेज</string>
+
+    <string-array name="messenger_choice">
+        <item>मकी में मैसेंजर</item>
+        <item>Simplified Messenger</item>
+        <item>मैसेंजर एप्लीकेशन</item>
+        <item>मैसेंजर एप्लीकेशनn</item>
+        <item>डिसा मैसेंजर</item>
+    </string-array>
+
+    <string name="problems_purchase">
+
+  हमें समर्थन देने के लिए बहुत बहुत धन्यवाद! दुर्भाग्य से, ऐसा लगता है कि आपको खरीदारी में कुछ समस्याएं हैं। ठीक है, इस पृष्ठ ने इस समस्या को हल करने के लिए सिर्फ आपके लिए बनाया है।
+\n\n
+हमारे पास कुछ संभावित उपाय हैं:\n\n
+1) माकी को पुनः आरंभ करें। बस एक एप्लिकेशन को बंद करें और इसे खरोंच, खुली सेटिंग्स से लॉन्च करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
+\n\n
+2) यदि पहला समाधान काम नहीं करता है - फिर से "खरीदें माकी प्लस" पर क्लिक करने का प्रयास करें। यह क्रिया आपकी खरीदारी को पुनर्स्थापित करेगी (आप फिर से अपना पैसा खर्च नहीं करेंगे, चिंता न करें). इसके बाद एप्लिकेशन को पुनरारंभ करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
+\n\n
+3) आखिरकार, अगर इसमें से कुछ भी काम नहीं करता है - हमसे संपर्क करें! हम निश्चित रूप से सबसे अच्छा समाधान एक साथ मिल जाएगा।
+\n\n
+हमारा ईमेल: makifeedback@gmail.com\n
+फेसबुक पेज: m.facebook.com/sunshineappsst
+\n\n
+सबसे अच्छा संबंध है, सनशाइन ऐप्स
+
+    </string>
+    <string name="social_medias">सामाजिक मीडिया</string>
+    <string name="hide_twitter">ट्विटर छिपाएं</string>
+    <string name="hide_instagram">Instagram छिपाएँ</string>
+    <string name="hide_tumblr">टम्बलर छिपाएँ</string>
+    <string name="hide_vk">वीके छिपाएं</string>
+
+    <!-- Notifications -->
+    <string name="facebook_message">संदेश सूचनाएँ</string>
+    <string name="facebook_notifications">फेसबुक सूचनाएं</string>
+    <string name="notification_sound_description">रिंगटोन या मौन चुनें: \u0020</string>
+    <string name="interval_pref">जाँच के लिए समय अंतराल</string>
+    <string name="interval_pref_description_new">हर %s में नोटिफिकेशन चेक किए जाएंगे</string>
+    <string name="notification_sound_msg">संदेश ध्वनि</string>
+    <string name="blacklist_title">काला सूची में डालना</string>
+    <string name="new_black_word">काला सूची में डालना</string>
+    <string name="blacklist_summary">नोटिफिकेशन को ब्लॉक करने के लिए शब्दों की सूची</string>
+    <string name="exact">सही समय</string>
+    <string name="exact_summary">अधिसूचना में देरी को कम करें। बैटरी के अनुकूल नहीं है</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>30 सेकंड</item>
+        <item>60 सेकंड</item>
+        <item>दो मिनट</item>
+        <item>5 मिनट</item>
+        <item>15 मिनट</item>
+        <item>30 मिनिट</item>
+        <item>1 घंटा</item>
+        <item>तीन घंटे</item>
+        <item>6 घंटे</item>
+    </string-array>
+
+    <!--2.4.2-->
+    <string name="enable_exit">संवाद से बाहर निकलें</string>
+    <string name="enable_fab">फ्लोटिंग एक्शन बटन</string>
+    <!--2.4.3-->
+    <string name="fab_text">एक स्थिति पोस्ट करें</string>
+    <string name="done">किया हुआ!</string>
+    <string name="facebook_limit">क्षमा करें, लेकिन फेसबुक आपको इस समय सरल पाठ साझा करने की अनुमति नहीं देता है - केवल लिंक!</string>
+    <!--2.4.6-->
+    <string name="font_details">50 से 170% की सीमा में फ़ॉन्ट आकार दर्ज करें</string>
+    <string name="problems_with_purchase">खरीद में समस्या?</string>
+    <!--2.5-->
+    <string name="switch_profile">खाता बदलें</string>
+    <string name="launch_social">माकी से शुरू करें</string>
+    <string name="hide_reddit">Reddit छिपाएँ</string>
+    <string name="hide_facebook">फेसबुक छिपाओ</string>
+    <string name="thanks_to">सुंदरता</string>
+    <!--2.5.2-->
+    <string name="notif">सूचनाएं</string>
+    <!--Maki 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">शीर्ष आलेख</string>
+    <string name="top_news_firstly">समाचार फ़ीड में शीर्ष कहानियां दिखाएं</string>
+    <string name="hide_people">जिन लोगों को आप जानते हों</string>
+    <string name="hide_people_summary">अनुशंसित मित्रों को समाचार फ़ीड से निकालें</string>
+    <string name="hide_groups">अनुशंसित समूह</string>
+    <string name="hide_groups_summary">सुझाए गए समूहों को समाचार फ़ीड से निकालें</string>
+    <string name="hide_news_feed">समाचार फ़ीड छिपाएँ</string>
+    <string name="hide_news_feed_summary">जो लोग एक समाचार फ़ीड में समय बर्बाद नहीं करना चाहते हैं!</string>
+
+    <string name="maki_themes">विषय</string>
+    <string name="disable_images">छवियों को अक्षम करें</string>
+    <string name="disable_images_summary">छवियों को लोड करने में अक्षम करके डेटा सहेजें</string>
+    <string name="general_settings">सामान्य</string>
+    <string name="enable_quickview">Quick View</string>
+    <string name="enable_quickview_summary">पूर्वावलोकन करने के लिए बाहरी लिंक पर टैप करें और दबाए रखें</string>
+    <string name="enable_exit_summary">ऐप से बाहर निकलने से पहले पुष्टिकरण संवाद दिखाएं</string>
+    <string name="enable_fab_summary">फेसबुक स्टेटस अपडेटर के बजाय नीचे दाएं कोने में एक छोटे बटन का उपयोग करें</string>
+    <string name="power_saving_mode_more">अधिक बैटरी बचाने के लिए अधिकांश सुविधाओं को अक्षम करें</string>
+    <string name="enable_location">स्थान</string>
+    <string name="enable_location_summary">माकी को चेक-इन में इसका उपयोग करने के लिए अपने स्थान पर पहुँच दें</string>
+
+    <!--Notification channels-->
+    <string name="notifications_channel">सूचनाएं चैनल सेटिंग्स</string>
+    <string name="messages_channel">संदेश चैनल सेटिंग्स</string>
+    <string name="notifications_channel_summary">महत्व, सूचनाओं की एक ध्वनि और अधिक सेट करें</string>
+    <string name="messages_channel_summary">महत्व, संदेशों की एक ध्वनि और अधिक सेट करें</string>
+
+    <!--New menu-->
+    <string name="view_profile">अपनी प्रोफ़ाइल देखें</string>
+    <string name="groups_nav">समूह</string>
+    <string name="find_friends_nav">मित्रों को खोजें</string>
+    <string name="events_nav">आयोजन</string>
+    <string name="this_day_nav">इस दिन</string>
+    <string name="saved_nav">बचाया</string>
+    <string name="pages_nav">पेज</string>
+    <string name="local_nav">स्थानीय</string>
+    <string name="photos_nav">तस्वीरें</string>
+    <string name="most_recent_nav">सबसे हाल का</string>
+
+    <!--2.6.2-->
+    <string name="hide_stories">कहानियों को हटा दें</string>
+    <string name="hide_stories_summary">अपने समाचार फ़ीड से कहानियाँ छिपाएँ</string>
+
+    <!--Intro-->
+
+    <string name="welcome_plus">नमस्कार!</string>
+    <string name="plus_what">क्या मिलेगा?</string>
+    <string name="plus_support">प्रत्येक माकी प्लस खरीदने से माकी बेहतर हो जाती है - यह मेरे लिए एक बड़ी प्रेरणा है कि नई सुविधाओं को तेजी से जोड़ें और माकी में सुधार करें!</string>
+    <string name="thanks_more">आप के सहयोग के लिए बहुत धन्यवाद! अब आप माकी प्लस की अपनी प्रति का आनंद ले सकते हैं। प्यार के साथ, Sunshine Apps</string>
+
+    <!--2.6.4-->
+    <string name="keep_screen">स्क्रीन को चालू रखें</string>
+    <string name="keep_screen_summary">माकी का उपयोग करते समय स्क्रीन को हमेशा चालू रखने के लिए इस विकल्प को सक्षम करें</string>
+
+    <string name="hide_telegram">टेलीग्राम छुपाएं</string>
+    <string name="hide_pinterest">Pinterest छिपाएँ</string>
+
+    <string name="hide_birthdays">जनमदि की</string>
+    <string name="hide_birthdays_summary">समाचार फ़ीड से जन्मदिन की सूचनाएं निकालें</string>
+
+    <!--Maki 3.0-->
+    <string name="call">कॉल</string>
+    <string name="falcon_view">Falcon view</string>
+    <string name="falcon_view_summary">वेबसाइट पर जाएँ बिना लेख पढ़ें। डिफॉल्ट पेज खुल जाएगा अगर कुछ नहीं मिलेगा।</string>
+    <string name="special">विशेष</string>
+    <string name="hide_linkedin">लिंक्डइन छिपाएं</string>
+    <string name="cant_call">क्षमा करें, आप यहां कॉल नहीं कर सकते</string>
+
+    <string name="features_beta">बीटा में विकल्प</string>
+    <string name="features_beta_summary">वे विकल्प अभी भी विकसित हो रहे हैं और स्थिर नहीं हो सकते हैं, इसलिए उन्हें केवल तभी आज़माएं जब आप वास्तव में चाहते हैं!</string>
+    <string name="warning">चेतावनी!</string>
+
+    <string name="plus_buy">मकी प्लस हो जाओ</string>
+    <string name="plus_shortcuts">माकी का तेजी से उपयोग करें - होम स्क्रीन पर संदेशों और सूचनाओं के लिए शॉर्टकट बनाएं।</string>
+    <string name="plus_ads">अपनी पसंदीदा सामग्री पर ध्यान केंद्रित करने के लिए अपने समाचार फ़ीड पर फेसबुक से सभी विज्ञापन अक्षम करें</string>
+    <string name="quickbar_more">कहीं से भी सामाजिक पहुंच प्राप्त करें।</string>
+
+    <string name="plus_dark">स्वचालित अंधेरे विषय के साथ रात के समय में अपनी आंखों को सुरक्षित रखें और बचाएं।</string>
+    <string name="plus_summary">माकी का उपयोग करने का एक नया अनुभव प्राप्त करें - कभी भी बनाया गया सबसे अच्छा सामाजिक ऐप - प्लस एक्सटेंशन के साथ।</string>
+
+    <string name="give_permission">अनुमतियाँ आवश्यक हैं</string>
+    <string name="give_permission_summary">आपको अपने दोस्तों को कॉल करने से पहले कुछ अनुमति देने की आवश्यकता है</string>
+    <string name="allow">अनुमति दें</string>
+    <string name="manage">सोशल मीडिया को मैनेज करें</string>
+    <string name="manage_summary">एक चयनकर्ता में पसंदीदा सोशल मीडिया को छिपाएं या दिखाएं</string>
+
+    <!--3.1-->
+    <string name="mark_notifications">पढ़े हुए का चिह्न</string>
+
+    <!--3.2-->
+    <string name="keyword_post">कीवर्ड द्वारा पोस्ट निकालें</string>
+    <string name="keyword_post_summary">किसी भी कीवर्ड द्वारा समाचार फ़ीड में प्रकाशन छिपाएं</string>
+    <string name="blocked_keywords">ब्लॉक किए गए कीवर्ड</string>
+
+    <string name="active_friends">सक्रिय मित्र</string>
+    <string name="maki_plus_default">Maki Plus मानक</string>
+
+    <string name="remove_keyword">कीवर्ड निकालें</string>
+    <string name="remove_keyword_summary">क्या आप वास्तव में इस कीवर्ड को हटाना चाहते हैं?</string>
+
+    <string name="free_facebook">free.facebook.com का उपयोग करें</string>
+    <string name="mbasic_facebook">mbasic.facebook.com का उपयोग करें</string>
+
+    <string name="list_empty">यहाँ कुछ भी नहीं है!</string>
+
+    <string name="quiet_hours">परेशान न करें</string>
+    <string name="quiet_hours_summary">जब आप कोई सूचना प्राप्त नहीं करना चाहते हैं तो समय अंतराल का चयन करें</string>
+
+    <string name="quiet_hour">शांत घंटे</string>
+    <string name="remove_interval">अंतराल निकालें</string>
+    <string name="remove_interval_summary">क्या आप वास्तव में इस अंतराल को दूर करना चाहते हैं?</string>
+    <string name="interval_from_to">%1$s से %2$s तक</string>
+
+    <string name="lock_background">पासवर्ड की पृष्ठभूमि</string>
+    <string name="lock_background_summary">पासकोड बैकग्राउंड के रूप में एक छवि चुनें</string>
+    
+    <string name="highlight_posts">पोस्ट हाइलाइट करें</string>
+    <string name="highlight_posts_summary">किसी भी कीवर्ड द्वारा समाचार फ़ीड में प्रकाशनों को हाइलाइट करें</string>
+    <string name="highlighted_post">हाइलाइट की गई पोस्ट</string>
+    
+    <string name="tap_target_social">किसी भी सोशल मीडिया का चयन करने के लिए यहां टैप करें</string>
+    <string name="tap_target_social_summary">किसी भी सामाजिक का चयन करने के लिए यहां टैप करें</string>
+
+    <string name="auto_night_plus">अपनी आँखें बचाओ</string>
+    <string name="quickbar_plus">तुम्हारी उँगलियों पर</string>
+
+    <!--3.3-->
+    <string name="see_more_results">और नतीजे</string>
+    <string name="remove_this_ad">यह विज्ञापन निकालें</string>
+    <string name="no_google_play">क्षमा करें, लेकिन आप माकी को खरीदने में सक्षम नहीं हैं। ऐसा लगता है कि Google Play सेवाएं आपके डिवाइस पर इंस्टॉल नहीं हैं</string>
+
+    <!--3.4-->
+    <string name="blocked_hours">सीमित एप्लिकेशन उपयोग</string>
+    <string name="blocked_hours_summary">समय अंतराल निर्धारित करें जब आप अपना समय सामाजिकों में नहीं बिताना चाहते</string>
+
+    <string name="blocked_hours_notify">सूचित करें</string>
+    <string name="blocked_hours_notify_summary">अवरुद्ध घंटे समाप्त होने पर एक सूचना प्राप्त करें और आप फिर से ऐप का उपयोग करने में सक्षम हैं</string>
+
+    <string name="block_links">पृष्ठों को अवरुद्ध करें</string>
+    <string name="block_links_summary">उन पृष्ठों को ब्लॉक करें जिनका आप उपयोग नहीं करना चाहते हैं</string>
+
+    <string name="blocked_hours_finish">वापस आने का समय!</string>
+    <string name="blocked_hours_finish_summary">अब आप फिर से माकी का उपयोग करने में सक्षम हैं</string>
+
+    <string name="blocked_hours_disable_notifications">अवरुद्ध घंटों में सूचनाएं अक्षम करें</string>
+    <string name="blocked_hours_disable_notifications_summary">जब आप अवरुद्ध घंटों में ऐप का उपयोग नहीं कर पा रहे हैं तो सूचनाएं अक्षम करें</string>
+
+    <string name="maki_is_locked">माकी बंद है</string>
+    <string name="blocked_description">आपने ऐप को ब्लॉक करने के लिए %1$s से %2$s बजे तक अंतराल निर्धारित किया है। कुछ महान करने के लिए उस समय का उपयोग करें!</string>
+
+    <string name="blocked_links">अवरुद्ध पृष्ठ</string>
+    <string name="blocked_links_summary">आपके द्वारा अवरुद्ध पृष्ठों की सूची</string>
+
+    <string name="blocked_links_add">इस लिंक को ब्लॉक करें</string>
+
+    <string name="play_gifs">GIF खेलें</string>
+    <string name="play_gifs_summary">माकी में जीआईएफ खोलें</string>
+
+    <string name="blocked_page">अवरुद्ध पृष्ठ</string>
+    <string name="blocked_page_summary">यह पृष्ठ आपके द्वारा अवरोधित किया गया था</string>
+
+    <string name="blocked_hour">अवरुद्ध अंतराल</string>
+    <string name="lock_usage_title">अंतराल का नाम</string>
+
+    <!--3.4.1-->
+    <string name="clearcache">निकास पर स्पष्ट कैश</string>
+    <string name="clearcache_summary">ऐप को खोलने में अधिक समय लगेगा।</string>
+
+    <string name="last_opened">अंतिम बार खोला गया</string>
+
+    <string name="remove_bookmark">बुकमार्क निकालें?</string>
+    <string name="are_you_sure">क्या आप वाकई अपने पसंदीदा से %1$s को निकालना चाहते हैं?</string>
+    <string name="update_link">https://makisocial.com/category/updates/</string>
+
+    <!--Intro-->
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">Maki में आपका स्वागत है</string>
+    <string name="intro_description">बस एक बेहतर फेसबुक ऐप</string>
+
+    <string name="facebook_play">Watch पर वीडियो</string>
+    <string name="marketplace">Marketplace</string>
+
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">बंद करने के लिए स्वाइप करें</string>
+    <string name="enable_swipe_close">बाएं से दाएं स्वाइप करके पेज बंद करें</string>
+
+    <!--3.7-->
+    <string name="enabled">सक्रिय</string>
+    <string name="donate_maki">माकी विकास का समर्थन करें</string>
+    <string name="donate_maki_more">यदि आप वास्तव में माकी का उपयोग करने का आनंद लेते हैं, तो आप अतिरिक्त दान के साथ माकी और भविष्य की परियोजनाओं का समर्थन कर सकते हैं।</string>
+
+    <!--4.0-->
+    <string name="plus_block">समय बचाओ</string>
+    <string name="plus_block_description">फेसबुक के अपने उपयोग को सीमित करें और उस समय को बेहतर तरीके से बिताएं: दोस्त, परिवार, शौक, काम, आदि।</string>
+
+    <string name="plus_block_pages">कोई व्याकुलता नहीं</string>
+    <string name="plus_block_pages_description">उन पृष्ठों को आसानी से ब्लॉक करें जिन्हें आप देखना नहीं चाहते हैं</string>
+
+    <string name="autoplay_videos">ऑटोप्ले वीडियो</string>
+    <string name="autoplay_videos_summary">ऑटोप्ले वीडियो सक्षम करें। सक्षम होने पर आप वीडियो डाउनलोड और साझा नहीं कर पाएंगे।</string>
+
+    <string name="images_play">माकी छवि दर्शक को अक्षम करें</string>
+    <string name="images_play_summary">चित्र खोलने के लिए छवि के नीचे \"पूर्ण आकार देखें\" बटन का उपयोग करें</string>
+
+    <string name="hide_navigation">नेविगेशन छिपाएँ</string>
+    <string name="hide_navigation_summary">स्क्रॉल करते समय हेडर और नेविगेशन छुपाए</string>
+
+    <!--3.9.2-->
+    <string name="finish_call">कॉल बंद</string>
+    <string name="finish_call_description">क्या आप कॉल समाप्त करना चाहते हैं?</string>
+
+    <string name="colored_navigation">रंगीन नेविगेशन</string>
+    <string name="colored_navigation_summary">एक थीम रंग के साथ नेविगेशन बटन पृष्ठभूमि भरें</string>
+    <string name="not_supported">आपका डिवाइस इस सुविधा का समर्थन नहीं करता है</string>
+
+    <!--3.9.3-->
+    <string name="add_keyword">कीवर्ड जोड़ें</string>
+    <string name="rate_dialog">दर Maki </string>
+    <string name="rate_dialog_more">क्या आपको Maki का उपयोग करने में मज़ा आता है? यदि आप करते हैं, तो क्या आपको Google Play में उसे रेट करने में एक पल लगेगा? इसमें बहुत समय नहीं लगेगा।. आपका बहुत बहुत धन्यवाद!</string>
+    <string name="help">मदद</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">स्वाइप अक्षम करें</string>
+    <string name="disable_swipe_tabs_summary">होम स्क्रीन पर पृष्ठों के बीच स्वाइप करें अक्षम करें</string>
+
+    <string name="maki_sale">डिस्काउंट के साथ Maki Plus!</string>
+    <string name="maki_sale_summary">छूट के साथ Maki Plus पाने का मौका न गवाएं। इसे पाने के लिए यहां टैप करें।</string>
+
+    <string name="maki_update">एक अपडेट उपलब्ध है!</string>
+    <string name="maki_update_summary">Google Play से सुधार और बग फिक्स के साथ माकी का नवीनतम संस्करण प्राप्त करें। अपडेट करने के लिए यहां टैप करें।</string>
+
+    <string name="check_for_updates">अद्यतन के लिए जाँच</string>
+    <string name="check_for_updates_summary">नए अपडेट के बारे में सूचित करें</string>
+
+    <string name="personalization">चेतनारोपण</string>
+    <string name="power_usage">बिजली की बचत</string>
+    <string name="news_feed">समाचार</string>
+
+    <!--4.0-->
+    <string name="donation_title">फेसबुक और मैसेंजर एक साथ ❤️</string>
+    <string name="about_description">आपको फेसबुक और मैसेंजर का अलग से उपयोग करने की आवश्यकता क्यों है यदि वे इतने प्यारे जोड़े हो सकते हैं और माकी में एक साथ रह सकते हैं?</string>
+    <string name="auto_power_saving">स्वचालित बिजली की बचत</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>बंद</item>
+    </string-array>
+
+    <string name="audio_call">आवाज कॉल</string>
+    <string name="video_call">वीडियो कॉल</string>
+    <string name="group_chat">समूह बातचीत</string>
+    <string name="file_chooser_error">फ़ाइल चयनक नहीं खोल सकता</string>
+
+    <string name="chat_bubbles">चैट हेड्स</string>
+    <string name="chat_bubbles_summary">चैट प्रमुखों में सूचनाएं खोलें</string>
+
+    <string name="give_permission_photos">कैमरे से फोटो अपलोड करने के लिए आपको परमिशन देने की जरूरत होती है.</string>
+    <string name="heads_hint">इसे हटाने के लिए किसी भी चैट हेड को टैप और होल्ड करें</string>
+
+    <string name="messenger_slow">धीमी गति का कनेक्सन</string>
+    <string name="messenger_slow_summary">कनेक्शन धीमा होने पर सरलीकृत मैसेंजर का उपयोग करें</string>
+    <string name="messenger_network">मोबाइल नेटवर्क</string>
+    <string name="messenger_network_summary">मोबाइल नेटवर्क का उपयोग करते समय सरलीकृत मैसेंजर का उपयोग करें</string>
+
+    <string name="got_it">समझ गया</string>
+    <string name="messenger_slow_dialog">ऐसा लगता है कि आपका कनेक्शन धीमा है - आपको सरलीकृत मैसेंजर पर ले जाया जाएगा। आप इस विकल्प को ऐप सेटिंग्स के "फेसबुक" श्रेणी में अक्षम कर सकते हैं</string>
+    <string name="messenger_network_dialog">आप एक मोबाइल नेटवर्क पर हैं - मैसेंजर को सरलीकृत में बदल दिया जाएगा। आप इस विकल्प को ऐप सेटिंग्स के "फेसबुक" श्रेणी में अक्षम कर सकते हैं</string>
+
+    <string name="restart">एक और क़दम</string>
+    <string name="restart_summary">आवाज संदेश रिकॉर्ड करने के लिए फिर से बंद और खुली बातचीत</string>
+
+    <string name="chat_bubbles_foreground">चैट हेड पृष्ठभूमि में चल रहे हैं</string>
+    <string name="privacy_plus">हकीकत में दोस्ताना</string>
+    <string name="privacy_plus_summary">माकी आपकी व्यक्तिगत जानकारी एकत्र और बेचता नहीं है - आपकी गोपनीयता हमारे राजस्व की तुलना में बहुत अधिक महत्वपूर्ण है</string>
+
+    <string name="remove_sponsored_plus">अलविदा, विज्ञापन!</string>
+
+    <!--4.1 Hortensia-->
+    <string-array name="browser_entries">
+        <item>Chrome Custom Tabs</item>
+        <item>अंतर्निहित ब्राउज़र</item>
+        <item>बाहरी ब्राउज़र</item>
+    </string-array>
+
+    <string name="blocked_hours_list">अवरुद्ध अंतराल</string>
+    <string name="blocked_hours_list_summary">अवरुद्ध समय अंतराल जोड़ें या संशोधित करें</string>
+
+    <string name="nothing_found">कुछ नहीं मिला</string>
+    <string name="error_opening">क्षमा करें, एक लिंक नहीं खोला जा सका</string>
+
+    <string name="select_start_time">प्रारंभ समय का चयन करें</string>
+    <string name="select_end_time">अंतिम समय चुनें</string>
+
+    <string name="cant_add_keyword">क्षमा करें, मैं एक खाली कीवर्ड नहीं जोड़ सकता</string>
+    <string name="quickbar_expand">का विस्तार करने के लिए टैप करें</string>
+    <string name="restore_purchase">पुनःस्थापन क्रय</string>
+</resources>

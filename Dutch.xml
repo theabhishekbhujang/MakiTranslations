@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="maki_name">Maki</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleren</string>
+    <string name="choose_email_client">Kies een e-mailclient</string>
+    <string name="no_network">Je bent niet online.</string>
+    <string name="title_activity_settings">Instellingen</string>
+    <string name="preference_about_category">Wat betreft</string>
+    <string name="share_action">Delen</string>
+    <string name="error">Fout</string>
+    <string name="fragment_main_downloading">Downloaden&#8230;</string>
+    <string name="settings_more">Meer</string>
+    <string name="messages">Berichten</string>
+    <string name="favorites">Favorieten</string>
+    <string name="photos">Foto\'s</string>
+    <string name="privacy">Privacy instellingen</string>
+    <string name="fb_chat">Actieve vrienden</string>
+    <string name="pokes">Pokes</string>
+    <string name="refresh">Verversen</string>
+    <string name="notifications">Meldingen</string>
+    <string name="search">Zoeken</string>
+    <string name="exit">Dichtbij</string>
+
+    <string-array name="pref_theme_entries">
+        <item>Maki</item>
+        <item>Facebook Blauw</item>
+        <item>Donker</item>
+        <item>Donkerblauw</item>
+        <item>Zwart (AMOLED)</item>
+        <item>Zwart en wit</item>
+        <item>Rood</item>
+        <item>Valk</item>
+        <item>Roze</item>
+        <item>Deep Purper</item>
+        <item>Groen</item>
+        <item>Licht groen</item>
+        <item>Geel</item>
+        <item>Oranje</item>
+        <item>Cyan</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google Plus</item>
+        <item>VK</item>
+        <item>Reddit</item>
+    </string-array>
+
+    <string name="addPage">Toevoegen aan favorieten</string>
+    <string name="notification_sound">Notificatie geluid</string>
+    <string name="silent">Geen geluid</string>
+    <string name="vibrate">Trillen</string>
+    <string name="led_light">LED</string>
+    <string name="maki_lock">Wachtwoord inschakelen</string>
+    <string name="lock_text_new">Bescherm Maki met een wachtwoord</string>
+    <string name="lock_text_new_fingerprint">Of u kunt uw vingerafdruk gebruiken</string>
+    <string name="context_save_image">Afbeelding downloaden</string>
+    <string name="context_share_image">Deel afbeelding</string>
+    <string name="context_copy_image_link">Kopieer link</string>
+    <string name="context_share_image_progress">Voorbereidingen treffen&#8230;</string>
+    <string name="content_copy_link_done">Link gekopieerd naar een klembord</string>
+    <string name="permission_denied">Geen toestemming. Deze actie kan niet compleet zijn.</string>
+    <string name="save_img">Opslaan</string>
+    <string name="download_manager_disabled">Downloadmanager uitgeschakeld</string>
+    <string name="hide_ads">Verwijder advertenties</string>
+    <string name="hide_ads_more">Verwijder alle advertenties in Facebook nieuwsfeed</string>
+    <string name="exit_message">Weet je zeker dat je Maki wilt sluiten?</string>
+    <string name="welcome">Hallo!</string>
+    <string name="saved_pin_message">Als u uw pin bent vergeten, wis dan Maki-gegevens van de applicatiebeheerder van uw telefoon.</string>
+
+    <string name="pin_code_step_disable">Schakel wachtwoord uit</string>
+    <string name="pin_code_step_create">Maak een wachtwoord</string>
+    <string name="pin_code_step_change">Vul huidig wachtwoord in</string>
+    <string name="pin_code_step_unlock">Voer wachtwoord in</string>
+    <string name="pin_code_step_enable_confirm">Bevestig wachtwoord</string>
+    <string name="pin_code_fingerprint_text">Vingerafdruk</string>
+    <string name="pin_code_fingerprint_not_recognized">Probeer het opnieuw</string>
+    <string name="open_in_browser">Open in de browser</string>
+    <string name="copy_url">Kopieer naar klembord</string>
+    <string name="download">Download</string>
+    <string name="removed">Verwijderd</string>
+    <string name="auto_night_title">Automatisch nachtthema</string>
+    <string name="auto_night_more">Het donkere thema wordt\'s nachts automatisch ingeschakeld</string>
+    <string name="save_to">Opgeslagen in:</string>
+    <string name="font_size">Lettertypegrootte</string>
+    <string name="quickbar">Quickbar</string>
+    <string name="ratemaki">Beoordeel Maki</string>
+    <string name="feedback_mail">Terugkoppeling</string>
+    <string name="messenger_app">Facebook Messenger-app</string>
+    <string name="messenger_app_more">Gebruik de Facebook Messenger-app in plaats van de ingebouwde Messenger</string>
+
+    <string name="addHome">Voeg toe aan startscherm</string>
+    <string name="power_saving_mode">Energiebesparende modus</string>
+
+    <string name="thanks_support">Bedankt voor uw steun!</string>
+    <string name="unable_purchase">Aankoop geannuleerd</string>
+    <string name="added">Opgeslagen in favorieten</string>
+    <string name="download_complete">Download compleet</string>
+    <string name="license">Open-sourcelicenties</string>
+    <string name="locked">Op slot</string>
+    <string name="please_enter_passcode">Vul een wachtwoord in</string>
+    <string name="buy_plus">Maki kan beter zijn</string>
+    <string name="buy_plus_more">Je kunt Maki nog beter maken met de Plus-versie - bepaal je gebruik van de app, verwijder advertenties, maak snelkoppelingen, activeer het thema \'auto-nachts\' en ondersteun ontwikkelaars.</string>
+    <string name="lets_do_it">Laten we het doen!</string>
+    <string name="later">Later</string>
+
+    <string name="start">Laten we gaan</string>
+    <string name="thanks">Dank u zeer!</string>
+    <string name="web">Contact</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="close">Dichtbij</string>
+    <string name="support">Ondersteuning</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="help_translate">Help om te vertalen</string>
+    <string name="open_in">In-app-browser</string>
+    <string name="open_in_more">Open externe links binnen Maki</string>
+
+    <string name="top_tabs">Top navigatie</string>
+    <string name="top_tabs_more">Toon navigatie tabblad bovenaan</string>
+    <string name="fbpage">Facebook pagina</string>
+
+    <string-array name="messenger_choice">
+        <item>Messenger in Maki</item>
+        <item>Vereenvoudigde Messenger</item>
+        <item>Messenger-applicatie</item>
+        <item>Messenger Lite-applicatie</item>
+        <item>Disa Messenger</item>
+    </string-array>
+
+    <string name="problems_purchase">
+
+Heel erg bedankt voor het steunen van ons! Helaas lijkt het erop dat je wat problemen hebt met de aankoop. Nou, deze pagina is speciaal gemaakt om dit probleem op te lossen.
+\n\n
+We hebben een paar mogelijke oplossingen:\n\n
+1) Start Maki opnieuw. Sluit een applicatie en start deze helemaal opnieuw, open instellingen en probeer elke Plus-functie in te schakelen.
+\n\n
+2) Als de eerste oplossing niet werkt, probeer dan opnieuw op "Koop Maki Plus" te klikken. Met deze actie wordt uw aankoop hersteld (u zult uw geld niet opnieuw uitgeven, maak u geen zorgen). Daarna herstart toepassing en probeer een Plus-functie in te schakelen.
+\n\n
+3) Immers, als niets van dit niet werkt - neem dan contact met ons op! We zullen zeker samen de beste oplossing vinden.
+\n\n
+Onze e-mail: makifeedback@gmail.com\n
+Facebook pagina: m.facebook.com/sunshineappsst
+\n\n
+Met vriendelijke groeten, Sunshine Apps
+
+    </string>
+
+    <string name="social_medias">Sociale media</string>
+    <string name="hide_twitter">Verberg Twitter</string>
+    <string name="hide_instagram">Verberg Instagram</string>
+    <string name="hide_tumblr">Verberg Tumblr</string>
+    <string name="hide_vk">Verberg VK</string>
+
+    <!-- Notifications -->
+    <string name="facebook_message">Berichtmeldingen</string>
+    <string name="facebook_notifications">Facebook-meldingen</string>
+    <string name="notification_sound_description">Kies een beltoon of stilte: \u0020</string>
+    <string name="interval_pref">Tijdsinterval voor controle</string>
+    <string name="interval_pref_description_new">Meldingen worden elke %s gecontroleerd.</string>
+    <string name="notification_sound_msg">Bericht geluid</string>
+    <string name="blacklist_title">Zetten op zwarte lijst</string>
+    <string name="new_black_word">Schrijf een nieuw woord om te blokkeren</string>
+    <string name="blacklist_summary">Lijst met woorden om de meldingen te blokkeren</string>
+    <string name="exact">Exacte tijd</string>
+    <string name="exact_summary">Verkort de melding vertraging. Is niet batterij vriendelijk</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>30 seconden</item>
+        <item>60 seconden</item>
+        <item>2 minuten</item>
+        <item>5 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>3 uur</item>
+        <item>6 uur</item>
+    </string-array>
+
+    <!--2.4.2-->
+    <string name="enable_exit">Sluit het dialoogvenster</string>
+    <string name="enable_fab">Zwevende actieknop</string>
+    <!--2.4.3-->
+    <string name="fab_text">Plaats een status</string>
+    <string name="done">Gedaan!</string>
+    <string name="facebook_limit">Sorry, maar op Facebook mag je op dit moment geen eenvoudige tekst delen - alleen links!</string>
+    <!--2.4.6-->
+    <string name="font_details">Voer de lettergrootte in in een bereik van 50 tot 170%</string>
+    <string name="problems_with_purchase">Problemen met de aankoop?</string>
+    <!--2.5-->
+    <string name="switch_profile">Wissel van profiel</string>
+    <string name="launch_social">Start Maki met</string>
+    <string name="hide_reddit">Verberg Reddit</string>
+    <string name="hide_facebook">Verberg Facebook</string>
+    <string name="thanks_to">Dankbaarheid</string>
+    <!--2.5.2-->
+    <string name="notif">Meldingen</string>
+    <!--Maki 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">Topverhalen</string>
+    <string name="top_news_firstly">Toon topverhalen in de newsfeed</string>
+    <string name="hide_people">Mensen die u misschien kent</string>
+    <string name="hide_people_summary">Verwijder aanbevolen vrienden uit de nieuwsfeed</string>
+    <string name="hide_groups">Aanbevolen groepen</string>
+    <string name="hide_groups_summary">Verwijder voorgestelde groepen uit de nieuwsfeed</string>
+    <string name="hide_news_feed">Verberg nieuwsfeed</string>
+    <string name="hide_news_feed_summary">Voor degenen die geen tijd willen verspillen met een nieuwsfeed!</string>
+    <string name="maki_themes">Thema</string>
+    <string name="disable_images">Schakel afbeeldingen uit</string>
+    <string name="disable_images_summary">Sla gegevens op door het laden van afbeeldingen uit te schakelen</string>
+    <string name="general_settings">Algemeen</string>
+    <string name="enable_quickview">Quick View</string>
+    <string name="enable_quickview_summary">Tik op de externe link en houd deze ingedrukt om een voorbeeld te bekijken</string>
+    <string name="enable_exit_summary">Laat een bevestigingsvenster zien voordat je een app afsluit</string>
+    <string name="enable_fab_summary">Gebruik een kleine knop in de rechteronderhoek in plaats van de Facebook-statusupdater</string>
+    <string name="power_saving_mode_more">Schakel de meeste functies uit om de batterij nog meer te sparen</string>
+    <string name="enable_location">Plaats</string>
+    <string name="enable_location_summary">Geef Maki toegang tot je locatie om deze bij check-ins te gebruiken</string>
+
+    <!--Notification channels-->
+    <string name="notifications_channel">Meldingen kanaalinstellingen</string>
+    <string name="messages_channel">Berichten kanaal instellingen</string>
+    <string name="notifications_channel_summary">Stel belang, een geluid van meldingen en meer in</string>
+    <string name="messages_channel_summary">Stel belang, een geluid van berichten en meer in</string>
+
+    <!--New menu-->
+    <string name="view_profile">Bekijk je profiel</string>
+    <string name="groups_nav">Groepen</string>
+    <string name="find_friends_nav">Zoek vrienden</string>
+    <string name="events_nav">Evenementen</string>
+    <string name="this_day_nav">Op deze dag</string>
+    <string name="saved_nav">Opgeslagen</string>
+    <string name="pages_nav">Pages</string>
+    <string name="local_nav">Lokaal</string>
+    <string name="photos_nav">Foto\'s</string>
+    <string name="most_recent_nav">Meest recente</string>
+
+    <!--2.6.2-->
+    <string name="hide_stories">Verwijder verhalen</string>
+    <string name="hide_stories_summary">Verberg verhalen uit uw nieuwsfeed</string>
+
+    <!--Intro-->
+
+    <string name="welcome_plus">Hallo!</string>
+    <string name="plus_what">Wat krijg je?</string>
+    <string name="plus_support">Elke aankoop van Maki Plus maakt Maki beter - het is een geweldige motivatie voor mij om nieuwe functies sneller toe te voegen en Maki te verbeteren!</string>
+    <string name="thanks_more">Heel erg bedankt voor je steun! Nu kunt u genieten van uw eigen exemplaar van Maki Plus. Met liefde, Sunshine Apps.</string>
+
+    <!--2.6.4-->
+    <string name="keep_screen">Houd het scherm aan</string>
+    <string name="keep_screen_summary">Schakel deze optie in om het scherm altijd ingeschakeld te houden wanneer u Maki gebruikt</string>
+
+    <string name="hide_telegram">Verberg Telegram</string>
+    <string name="hide_pinterest">Verberg Pinterest</string>
+
+    <string name="hide_birthdays">Verjaardagen</string>
+    <string name="hide_birthdays_summary">Verwijder verjaardagen meldingen uit de nieuwsfeed</string>
+
+    <!--Maki 3.0-->
+    <string name="call">Telefoontje</string>
+    <string name="falcon_view">Falcon-weergave</string>
+    <string name="falcon_view_summary">Lees artikelen zonder een website te bezoeken</string>
+    <string name="special">Speciaal</string>
+    <string name="hide_linkedin">Verberg LinkedIn</string>
+    <string name="cant_call">Sorry dat je hier niet kunt bellen</string>
+    <string name="features_beta">Opties in bèta</string>
+    <string name="features_beta_summary">Die opties zijn nog in ontwikkeling en zijn misschien niet stabiel, dus probeer ze alleen als je echt wilt!</string>
+    <string name="warning">Waarschuwing!</string>
+
+    <string name="plus_buy">Koop Maki Plus</string>
+    <string name="plus_shortcuts">Gebruik Maki sneller - maak snelkoppelingen voor berichten en meldingen op het startscherm.</string>
+    <string name="plus_ads">Schakel alle advertenties van Facebook op uw nieuwsfeed uit om u te concentreren op uw favoriete inhoud</string>
+    <string name="quickbar_more">Krijg overal toegang tot sociale netwerken.</string>
+
+    <string name="plus_dark">Bescherm en bewaar uw ogen\'s nachts met een automatisch donker thema.</string>
+    <string name="plus_summary">Krijg een geheel nieuwe ervaring van het gebruik van Maki - de beste sociale app ooit gebouwd - met Plus-extensies.</string>
+
+    <string name="give_permission">Toestemmingen vereist</string>
+    <string name="give_permission_summary">Je moet een aantal machtigingen geven voordat je je vrienden belt.</string>
+    <string name="allow">Toestaan</string>
+    <string name="manage">Beheer sociale media</string>
+    <string name="manage_summary">Verberg of toon favoriete sociale media in een selector</string>
+
+    <!--3.1-->
+    <string name="mark_notifications">Markeer als gelezen</string>
+    <!--3.2-->
+    <string name="keyword_post">Verwijder berichten per trefwoord</string>
+    <string name="keyword_post_summary">Hide publications in the newsfeed by each keyword</string>
+    <string name="blocked_keywords">Geblokkeerde zoekwoorden</string>
+
+    <string name="active_friends">Actieve vrienden</string>
+    <string name="maki_plus_default">Maki Plus Standaard</string>
+
+    <string name="remove_keyword">Trefwoord verwijderen</string>
+    <string name="remove_keyword_summary">Wilt u dit zoekwoord echt verwijderen?</string>
+
+    <string name="free_facebook">Gebruik free.facebook.com</string>
+    <string name="mbasic_facebook">Gebruik mbasic.facebook.com</string>
+
+    <string name="list_empty">Niets is hier!</string>
+
+    <string name="quiet_hours">Niet storen</string>
+    <string name="quiet_hours_summary">Selecteer tijdsintervallen wanneer u geen meldingen wilt ontvangen</string>
+
+    <string name="quiet_hour">Rustig uur</string>
+    <string name="remove_interval">Interval verwijderen</string>
+    <string name="remove_interval_summary">Wilt u dit interval echt verwijderen?</string>
+    <string name="interval_from_to">Van %1$s tot %2$s uur</string>
+
+    <string name="lock_background">Wachtwoord achtergrond</string>
+    <string name="lock_background_summary">Selecteer een afbeelding als wachtwoordcode achtergrond</string>
+    
+    <string name="highlight_posts">Markeer berichten</string>
+    <string name="highlight_posts_summary">Markeer publicaties in de nieuwsfeed met een willekeurig zoekwoord</string>
+    <string name="highlighted_post">Gemarkeerde post</string>
+    
+    <string name="tap_target_social">Wissel sociaal</string>
+    <string name="tap_target_social_summary">Tik hier om een sociaal netwerk te selecteren</string>
+
+    <string name="auto_night_plus">Bewaar je ogen</string>
+    <string name="quickbar_plus">Binnen handbereik</string>
+
+    <!--3.3-->
+    <string name="see_more_results">Meer resultaten</string>
+    <string name="remove_this_ad">Verwijder deze advertentie</string>
+
+    <string name="no_google_play">Sorry, maar je kunt Maki niet kopen. Het lijkt erop dat Google Play-services niet op uw apparaat zijn geïnstalleerd</string>
+
+    <!--3.4-->
+    <string name="blocked_hours">Beperkt app-gebruik</string>
+    <string name="blocked_hours_summary">Stel tijdsintervallen in wanneer u uw tijd niet wilt doorbrengen op sociale media</string>
+
+    <string name="blocked_hours_notify">Verwittigen</string>
+    <string name="blocked_hours_notify_summary">Ontvang een melding wanneer het geblokkeerde uur is afgelopen en je de app opnieuw kunt gebruiken</string>
+
+    <string name="block_links">Blokkeer pagina\'s</string>
+    <string name="block_links_summary">Blokkeer pagina\'s die u niet wilt gebruiken</string>
+
+    <string name="blocked_hours_finish">Tijd om terug te gaan!</string>
+    <string name="blocked_hours_finish_summary">Nu kun je Maki opnieuw gebruiken</string>
+
+    <string name="blocked_hours_disable_notifications">Schakel meldingen in geblokkeerde uren uit</string>
+    <string name="blocked_hours_disable_notifications_summary">Schakel meldingen uit wanneer u de app niet in een geblokkeerde tijd kunt gebruiken</string>
+
+    <string name="maki_is_locked">Maki zit op slot</string>
+    <string name="blocked_description">U stelt een interval in van %1$s tot %2$s uur om de app te blokkeren - gebruik die tijd om iets geweldigs te doen!</string>
+
+    <string name="blocked_links">Geblokkeerde pagina\'s</string>
+    <string name="blocked_links_summary">Lijst van geblokkeerde pagina\'s door jou</string>
+
+    <string name="blocked_links_add">Blokkeer deze link</string>
+
+    <string name="play_gifs">Speel GIFs</string>
+    <string name="play_gifs_summary">Open GIFs in Maki</string>
+
+    <string name="blocked_page">Geblokkeerde pagina</string>
+    <string name="blocked_page_summary">Deze pagina is door jou geblokkeerd</string>
+
+    <string name="blocked_hour">Geblokkeerd interval</string>
+    <string name="lock_usage_title">Naam van het interval</string>
+
+    <!--3.4.1-->
+    <string name="clearcache">Cache wissen bij afsluiten</string>
+    <string name="clearcache_summary">Het duurt langer om de app te openen.</string>
+
+    <string name="last_opened">Laatst geopend</string>
+
+    <string name="remove_bookmark">Bladwijzer verwijderen?</string>
+    <string name="are_you_sure">Weet je zeker dat je %1$s van je favorieten wilt verwijderen?</string>
+    <string name="update_link">https://makisocial.com/category/updates/</string>
+
+    <!--Intro-->
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">Welkom bij Maki</string>
+    <string name="intro_description">Gewoon een betere Facebook-applicatie</string>
+
+    <string name="facebook_play">Video\'s op Watch</string>
+    <string name="marketplace">Marketplace</string>
+
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">Veeg om te sluiten</string>
+    <string name="enable_swipe_close">Sluit de pagina\'s door van links naar rechts te vegen</string>
+
+    <!--3.7-->
+    <string name="enabled">Ingeschakeld</string>
+    <string name="donate_maki">Steun Maki-ontwikkeling</string>
+    <string name="donate_maki_more">Hoi! Mijn naam is Roman, ik ben een ontwikkelaar van Maki en ik ben erg blij dat je Maki blijft gebruiken en ervan genieten. Als je het echt doet, kun je Maki en toekomstige projecten nog meer ondersteunen met een extra donation.</string>
+
+    <!--4.0-->
+    <string name="plus_block">Tijd besparen</string>
+    <string name="plus_block_description">Beperk je gebruik van Facebook en besteed die tijd op een betere manier: vrienden, familie, hobby, werk, etc.</string>
+
+    <string name="plus_block_pages">Geen afleiding</string>
+    <string name="plus_block_pages_description">Blokkeer makkelijk pagina\'s die u niet wilt bezoeken</string>
+
+    <string name="autoplay_videos">Video\'s automatisch afspelen</string>
+    <string name="autoplay_videos_summary">Schakel autoplay-videos in. Je kunt geen video\'s downloaden en delen wanneer deze zijn ingeschakeld.</string>
+
+    <string name="images_play">Schakel Maki image viewer uit</string>
+    <string name="images_play_summary">Gebruik de knop \"Origineel formaat weergeven\" onder de afbeelding om een foto te openen.</string>
+
+    <string name="hide_navigation">Navigatie verbergen</string>
+    <string name="hide_navigation_summary">Kop en navigatie verbergen tijdens het scrollen</string>
+
+    <!--3.9.2-->
+    <string name="finish_call">Ophangen</string>
+    <string name="finish_call_description">Weet u zeker dat u een gesprek wilt beëindigen?</string>
+
+    <string name="colored_navigation">Gekleurde navigatie</string>
+    <string name="colored_navigation_summary">Vul de navigatieknoppen achtergrond met een thema kleur</string>
+    <string name="not_supported">Uw apparaat ondersteunt deze functie niet</string>
+
+    <!--3.9.3-->
+    <string name="add_keyword">Voeg trefwoord toe</string>
+    <string name="rate_dialog">Tarief Maki</string>
+    <string name="rate_dialog_more">Gebruik je graag Maki? Als je dat doet, zou je haar dan beoordelen in Google Play? Het zal niet veel tijd kosten. Dank u zeer!</string>
+    <string name="help">Help</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">Swipe uitschakelen</string>
+    <string name="disable_swipe_tabs_summary">Schakel vegen tussen pagina\'s op een startscherm uit</string>
+
+    <string name="maki_sale">Maki Plus met korting!</string>
+    <string name="maki_sale_summary">Verlies geen kans om Maki Plus met korting te krijgen. Tik hier om het te krijgen.</string>
+
+    <string name="maki_update">Een update is beschikbaar!</string>
+    <string name="maki_update_summary">Download de nieuwste versie van Maki met verbeteringen en bugfixes van Google Play. Tik hier om te updaten.</string>
+
+    <string name="check_for_updates">Controleer op updates</string>
+    <string name="check_for_updates_summary">Ontvang een melding over de nieuwe updates</string>
+
+    <string name="personalization">Personalisatie</string>
+    <string name="power_usage">Energiebesparende</string>
+    <string name="news_feed">Nieuwsfeed</string>
+
+    <!--4.0-->
+    <string name="donation_title">Facebook en Messenger samen ❤️</string>
+    <string name="about_description">Waarom moet je Facebook en Messenger apart gebruiken als ze zo\'n mooi stel kunnen zijn en samen in Maki kunnen wonen?</string>
+    <string name="auto_power_saving">Automatische energiebesparing</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>Uitgeschakeld</item>
+    </string-array>
+
+    <string name="audio_call">Spraakoproep</string>
+    <string name="video_call">Video-oproep</string>
+    <string name="group_chat">Groeps chat</string>
+    <string name="file_chooser_error">Kan bestandskiezer niet openen</string>
+
+    <string name="chat_bubbles">Chatheads</string>
+    <string name="chat_bubbles_summary">Meldingen openen in chatheads</string>
+
+    <string name="give_permission_photos">U moet toestemming geven om foto\'s van een camera te uploaden.</string>
+    <string name="heads_hint">Tik en houd een willekeurige chathead vast om deze te verwijderen</string>
+
+    <string name="messenger_slow">Langzame verbinding</string>
+    <string name="messenger_slow_summary">Gebruik Vereenvoudigde Messenger wanneer de verbinding traag is</string>
+    <string name="messenger_network">Het mobiele netwerk</string>
+    <string name="messenger_network_summary">Gebruik Vereenvoudigde Messenger wanneer u een mobiel netwerk gebruikt</string>
+
+    <string name="got_it">Oke</string>
+    <string name="messenger_slow_dialog">Het lijkt erop dat je verbinding traag is - je wordt overgeschakeld naar Vereenvoudigde Messenger. U kunt deze optie uitschakelen in de categorie \"Facebook\" van de app-instellingen.</string>
+    <string name="messenger_network_dialog">U bevindt zich op een mobiel netwerk - Messenger wordt overgeschakeld naar vereenvoudigd. U kunt deze optie uitschakelen in de categorie \"Facebook\" van de app-instellingen.</string>
+
+    <string name="restart">Nog een stap</string>
+    <string name="restart_summary">Sluit en open het gesprek opnieuw om spraakberichten op te nemen</string>
+
+    <string name="chat_bubbles_foreground">Chatheads worden op de achtergrond uitgevoerd</string>
+    <string name="privacy_plus">Erg vriendelijk</string>
+    <string name="privacy_plus_summary">Maki verzamelt en verkoopt uw ​​persoonlijke gegevens niet - uw privacy is veel belangrijker dan onze inkomsten</string>
+
+    <string name="remove_sponsored_plus">Tot ziens, advertenties!</string>
+
+    <!--4.1 Hortensia-->
+    <string-array name="browser_entries">
+        <item>Chrome Custom Tabs</item>
+        <item>Maki Browser</item>
+        <item>Externe browser</item>
+    </string-array>
+
+    <string name="blocked_hours_list">Geblokkeerde intervallen</string>
+    <string name="blocked_hours_list_summary">Geblokkeerde tijdsintervallen toevoegen of wijzigen</string>
+
+    <string name="nothing_found">Niets gevonden</string>
+    <string name="error_opening">Sorry, een link kon niet worden geopend</string>
+
+    <string name="select_start_time">Selecteer starttijd</string>
+    <string name="select_end_time">Selecteer eindtijd</string>
+
+    <string name="cant_add_keyword">Sorry, ik kan geen leeg trefwoord toevoegen</string>
+    <string name="quickbar_expand">Tik om uit te vouwen</string>
+    <string name="restore_purchase">Herstel aankoop</string>
+</resources>
