@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="maki_name">Mako</string>
+    <string name="ok">Okey</string>
+    <string name="cancel">Batalkan</string>
+    <string name="choose_email_client">Pilih klien e-mel</string>
+    <string name="no_network">Anda tidak berada dalam talian.</string>
+    <string name="title_activity_settings">Tetapan</string>
+    <string name="preference_about_category">Mengenai aplikasi</string>
+    <string name="share_action">Kongsi</string>
+    <string name="error">Ralat</string>
+    <string name="fragment_main_downloading">Memuat turun&#8230;</string>
+    <string name="settings_more">Lebih banyak</string>
+    <string name="messages">Mesej</string>
+    <string name="favorites">Kegemaran</string>
+    <string name="photos">Foto</string>
+    <string name="privacy">Tetapan privasi</string>
+    <string name="fb_chat">Rakan aktif</string>
+    <string name="pokes">Pokes</string>
+    <string name="refresh">Refresh</string>
+    <string name="notifications">Pemberitahuan</string>
+    <string name="search">Carian</string>
+    <string name="exit">Tutup</string>
+
+    <string-array name="pref_theme_entries">
+        <item>Mako</item>
+        <item>Facebook biru</item>
+        <item>Gelap</item>
+        <item>Biru gelap</item>
+        <item>Hitam (AMOLED)</item>
+        <item>Hitam dan putih</item>
+        <item>Merah</item>
+        <item>Falcon</item>
+        <item>Merah jambu</item>
+        <item>Ungu</item>
+        <item>Hijau gelap</item>
+        <item>Lampu hijau</item>
+        <item>Kuning</item>
+        <item>Orange</item>
+        <item>Cyan</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google Plus</item>
+        <item>VK</item>
+        <item>Reddit</item>
+    </string-array>
+
+    <string name="addPage">Tambah ke kegemaran</string>
+    <string name="notification_sound">Bunyi pemberitahuan</string>
+    <string name="silent">Tiada bunyi</string>
+    <string name="vibrate">Bergetar</string>
+    <string name="led_light">LED</string>
+    <string name="maki_lock">Dayakan kata laluan</string>
+    <string name="lock_text_new">Lindungi Mako dengan kata laluan</string>
+    <string name="lock_text_new_fingerprint">Atau anda boleh menggunakan cap jari anda</string>
+    <string name="context_save_image">Muat turun imej</string>
+    <string name="context_share_image">Kongsi imej</string>
+    <string name="context_copy_image_link">Salin pautan</string>
+    <string name="context_share_image_progress">Menyediakan&#8230;</string>
+    <string name="content_copy_link_done">Pautan disalin ke papan klip</string>
+    <string name="permission_denied">Kebenaran dinafikan. Tindakan ini tidak dapat diselesaikan.</string>
+    <string name="save_img">Simpan</string>
+    <string name="download_manager_disabled">Pengurus muat turun dilumpuhkan</string>
+    <string name="hide_ads">Padamkan pengiklanan</string>
+    <string name="hide_ads_more">Keluarkan semua iklan dalam suapan berita Facebook</string>
+    <string name="exit_message">Adakah anda pasti mahu menutup Mako?</string>
+    <string name="welcome">Hello!</string>
+    <string name="saved_pin_message">Jika anda terlupa pin anda, sila jelaskan data Mako dari pengurus aplikasi telefon anda.</string>
+
+    <string name="pin_code_step_disable">Lumpuhkan kata laluan</string>
+    <string name="pin_code_step_create">Buat kata laluan</string>
+    <string name="pin_code_step_change">Masukkan kata laluan semasa</string>
+    <string name="pin_code_step_unlock">Masukkan kata laluan</string>
+    <string name="pin_code_step_enable_confirm">Sahkan kata laluan</string>
+    <string name="pin_code_fingerprint_text">Cap jari</string>
+    <string name="pin_code_fingerprint_not_recognized">Cuba lagi</string>
+    <string name="open_in_browser">Buka dalam penyemak imbas</string>
+    <string name="copy_url">Salin ke papan keratan</string>
+    <string name="download">Muat turun</string>
+    <string name="removed">Dikeluarkan</string>
+    <string name="auto_night_title">Tema malam automatik</string>
+    <string name="auto_night_more">Tema gelap akan didayakan secara automatik pada waktu malam</string>
+    <string name="save_to">Disimpan ke:</string>
+    <string name="font_size">Saiz huruf</string>
+    <string name="quickbar">Quickbar</string>
+    <string name="ratemaki">Rate Mako</string>
+    <string name="feedback_mail">Maklumbalas</string>
+    <string name="messenger_app">Aplikasi messenger Facebook</string>
+    <string name="messenger_app_more">Gunakan Facebook Messenger App bukannya Messenger terbina dalam</string>
+
+    <string name="addHome">Tambah ke skrin utama</string>
+    <string name="power_saving_mode">Mod jimat tenaga</string>
+
+    <string name="thanks_support">Terima kasih atas sokongan anda!</string>
+    <string name="unable_purchase">Pembelian dibatalkan</string>
+    <string name="added">Disimpan ke kegemaran</string>
+    <string name="download_complete">Muat turun selesai</string>
+    <string name="license">Lesen sumber terbuka</string>
+
+    <string name="locked">Terkunci</string>
+    <string name="please_enter_passcode">Masukkan kata laluan</string>
+    <string name="buy_plus">Ia adalah masa untuk Mako Plus</string>
+    <string name="buy_plus_more">Sudah tiba masanya untuk membuat Mako lebih baik dengan versi Plus - memadamkan pengiklanan, membuat jalan pintas, membolehkan tema auto malam dan pemaju sokongan.</string>
+    <string name="lets_do_it">Mari lakukannya!</string>
+    <string name="later">Kemudian</string>
+
+
+    <string name="start">Mari pergi!</string>
+    <string name="thanks">Terima kasih banyak - banyak!</string>
+    <string name="web">Hubungi</string>
+    <string name="shortcuts">Pintasan</string>
+    <string name="close">Tutup</string>
+    <string name="support">Sokongan</string>
+    <string name="maki_plus">Mako Plus</string>
+
+    <string name="open_in">Penyemak imbas dalam apl</string>
+    <string name="open_in_more">Buka pautan luaran di Mako</string>
+
+    <string name="top_tabs">Navigasi teratas</string>
+    <string name="top_tabs_more">Tunjukkan tab navigasi di bahagian atas</string>
+    <string name="fbpage">Halaman Facebook</string>
+
+    <string-array name="messenger_choice">
+        <item>Messenger in Mako</item>
+        <item>Simplified Messenger</item>
+        <item>Permohonan Messenger</item>
+        <item>Permohonan Messenger Lite</item>
+        <item>Disa Messenger</item>
+    </string-array>
+
+    <string name="problems_purchase">
+
+  Terima kasih kerana menyokong kami! Malangnya, nampaknya anda mempunyai beberapa masalah dengan pembelian. Nah, halaman ini dibuat untuk anda menyelesaikan masalah ini.
+\n\n
+Kami mempunyai beberapa penyelesaian yang mungkin:\n\n
+1) Mulakan semula Mako. Cukup tutup aplikasi dan lancarkan dari awal, buka tetapan dan cuba untuk membolehkan sebarang ciri Plus.
+\n\n
+2) Jika penyelesaian pertama tidak berfungsi - cuba klik pada "Buy Mako Plus" sekali lagi. Tindakan ini akan memulihkan pembelian anda (anda tidak akan membelanjakan wang anda sekali lagi, jangan risau). Selepas itu mulakan semula aplikasi dan cuba untuk membolehkan sebarang ciri Plus.
+\n\n
+3) Lagipun, jika tiada perkara ini tidak berfungsi - hubungi kami! Kami pasti akan mencari penyelesaian terbaik bersama-sama.
+\n\n
+E-mel kami: makifeedback@gmail.com\n
+Halaman Facebook: m.facebook.com/sunshineappsst
+\n\n
+Dengan salam, Sunshine Apps
+
+    </string>
+    <string name="social_medias">Media sosial</string>
+    <string name="hide_twitter">Sembunyikan Twitter</string>
+    <string name="hide_instagram">Sembunyikan Instagram</string>
+    <string name="hide_tumblr">Sembunyikan Tumblr</string>
+    <string name="hide_vk">Sembunyikan VK</string>
+    <!-- Notifications -->
+    <string name="facebook_message">Pemberitahuan mesej</string>
+    <string name="facebook_notifications">Pemberitahuan Facebook</string>
+    <string name="notification_sound_description">Pilih nada dering atau diam: \u0020</string>
+    <string name="interval_pref">Selang masa</string>
+    <string name="interval_pref_description_new">Pemberitahuan akan diperiksa setiap %s.</string>
+    <string name="notification_sound_msg">Bunyi mesej</string>
+    <string name="blacklist_title">Senarai Hitam</string>
+    <string name="new_black_word">Tulis perkataan baru untuk disekat</string>
+    <string name="blacklist_summary">Senarai perkataan untuk menyekat pemberitahuan</string>
+    <string name="exact">Masa yang tepat</string>
+    <string name="exact_summary">Kurangkan kelewatan pemberitahuan. Tidak bateri mesra</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>30 saat</item>
+        <item>60 saat</item>
+        <item>2 minit</item>
+        <item>5 minit</item>
+        <item>15 minit</item>
+        <item>30 minit</item>
+        <item>1 jam</item>
+        <item>3 jam</item>
+        <item>6 jam</item>
+    </string-array>
+
+    <!--2.4.2-->
+    <string name="enable_exit">Keluar dialog</string>
+    <string name="enable_fab">Butang tindakan terapung</string>
+    <!--2.4.3-->
+    <string name="fab_text">Hantar status</string>
+    <string name="done">Selesai!</string>
+    <string name="facebook_limit">Maaf, tetapi Facebook tidak membenarkan anda berkongsi teks ringkas pada masa ini - hanya pautan!</string>
+    <!--2.4.6-->
+    <string name="font_details">Masukkan saiz fon dalam lingkungan antara 50 hingga 170%</string>
+    <string name="problems_with_purchase">Masalah dengan pembelian?</string>
+
+    <!--2.5-->
+    <string name="switch_profile">Tukar profil</string>
+    <string name="launch_social">Mula Mako dengan</string>
+    <string name="hide_reddit">Sembunyikan Reddit</string>
+    <string name="hide_facebook">Sembunyikan Facebook</string>
+    <string name="thanks_to">Bersyukur</string>
+    <!--2.5.2-->
+    <string name="notif">Pemberitahuan</string>
+    <!--Mako 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">Cerita teratas</string>
+    <string name="top_news_firstly">Tunjukkan cerita teratas dalam suapan berita</string>
+    <string name="hide_people">Orang yang anda mungkin tahu</string>
+    <string name="hide_people_summary">Alih keluar rakan yang disarankan dari suapan berita</string>
+    <string name="hide_groups">Kumpulan yang disyorkan</string>
+    <string name="hide_groups_summary">Keluarkan kumpulan yang dicadangkan dari suapan berita</string>
+    <string name="hide_news_feed">Sembunyikan suapan berita</string>
+    <string name="hide_news_feed_summary">Bagi mereka yang tidak mahu membuang masa dalam suapan berita!</string>
+
+    <string name="maki_themes">Tema</string>
+    <string name="disable_images">Lumpuhkan imej</string>
+    <string name="disable_images_summary">Simpan data dengan melumpuhkan pemuatan imej</string>
+    <string name="general_settings">General</string>
+    <string name="enable_quickview">Quick View</string>
+    <string name="enable_quickview_summary">Ketik dan tahan sambungan luar untuk melihatnya</string>
+    <string name="enable_exit_summary">Tunjukkan dialog pengesahan sebelum keluar dari aplikasi</string>
+    <string name="enable_fab_summary">Gunakan butang kecil di sudut kanan bawah bukan pengemas kini status Facebook</string>
+    <string name="power_saving_mode_more">Lumpuhkan kebanyakan ciri untuk menjimatkan lebih banyak bateri</string>
+    <string name="enable_location">Lokasi</string>
+    <string name="enable_location_summary">Berikan Mako akses ke lokasi anda untuk menggunakannya semasa mendaftar masuk</string>
+
+    <!--Notification channels-->
+    <string name="notifications_channel">Tetapan saluran pemberitahuan</string>
+    <string name="messages_channel">Tetapan saluran mesej</string>
+    <string name="notifications_channel_summary">Set importance, a sound of notifications and more</string>
+    <string name="messages_channel_summary">Set importance, a sound of messages and more</string>
+
+    <!--New menu-->
+    <string name="view_profile">Lihat profil anda</string>
+    <string name="groups_nav">Kumpulan</string>
+    <string name="find_friends_nav">Mencari rakan-rakan</string>
+    <string name="events_nav">Peristiwa</string>
+    <string name="this_day_nav">Pada hari ini</string>
+    <string name="saved_nav">Disimpan</string>
+    <string name="pages_nav">Halaman-halaman</string>
+    <string name="local_nav">Tempatan</string>
+    <string name="photos_nav">Foto</string>
+    <string name="most_recent_nav">Yang terbaru</string>
+
+    <!--2.6.2-->
+    <string name="hide_stories">Keluarkan cerita</string>
+    <string name="hide_stories_summary">Sembunyikan cerita dari suapan berita anda</string>
+
+    <!--Intro-->
+
+    <string name="welcome_plus">Hello!</string>
+    <string name="plus_what">Apa yang akan anda dapat?</string>
+    <string name="plus_support">Setiap pembelian Mako Plus menjadikan Mako lebih baik - ia merupakan motivasi yang hebat bagi saya untuk menambah ciri-ciri baru dengan lebih pantas dan meningkatkan Mako!</string>
+    <string name="thanks_more">Terima kasih banyak atas sokongan anda! Sekarang anda boleh menikmati salinan Mako Plus anda sendiri. Dengan cinta, Aplikasi Sunshine.</string>
+
+    <!--2.6.4-->
+    <string name="keep_screen">Jangan matikan skrin</string>
+    <string name="keep_screen_summary">Dayakan pilihan ini untuk sentiasa menjaga skrin apabila menggunakan Mako</string>
+
+    <string name="hide_telegram">Sembunyikan Telegram</string>
+    <string name="hide_pinterest">Sembunyikan Pinterest</string>
+
+    <string name="hide_birthdays">Hari Lahir</string>
+    <string name="hide_birthdays_summary">Alih keluar pemberitahuan hari lahir dari suapan berita</string>
+
+    <!--Mako 3.0-->
+    <string name="call">Panggilan</string>
+    <string name="falcon_view">Falcon view</string>
+    <string name="falcon_view_summary">Baca artikel tanpa melawat laman web. Halaman lalai akan dibuka jika tiada apa yang diambil.</string>
+    <string name="special">Khas</string>
+    <string name="hide_linkedin">Sembunyikan LinkedIn</string>
+    <string name="cant_call">Maaf, anda tidak boleh membuat panggilan di sini</string>
+    <string name="features_beta">Pilihan dalam beta</string>
+    <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
+    <string name="warning">Amaran!</string>
+
+    <string name="plus_buy">Dapatkan Mako Plus</string>
+    <string name="plus_shortcuts">Gunakan Mako lebih cepat - buat jalan pintas untuk mesej dan notifikasi pada skrin utama.</string>
+    <string name="plus_ads">Lumpuhkan semua pengiklanan dari Facebook pada suapan berita anda untuk memberi tumpuan kepada kandungan kegemaran anda</string>
+    <string name="quickbar_more">Dapatkan akses kepada sosial dari mana-mana sahaja.</string>
+
+    <string name="plus_dark">Melindungi dan simpan mata anda pada waktu malam dengan tema gelap automatik.</string>
+    <string name="plus_summary">Dapatkan pengalaman baru menggunakan Mako - aplikasi sosial terbaik yang pernah dibina - dengan sambungan Plus.</string>
+
+    <string name="give_permission">Kebenaran diperlukan</string>
+    <string name="give_permission_summary">Anda perlu memberikan beberapa kebenaran sebelum menghubungi rakan anda.</string>
+    <string name="allow">Benarkan</string>
+    <string name="manage">Uruskan media sosial</string>
+    <string name="manage_summary">Sembunyikan atau tunjukkan media sosial kegemaran dalam pemilih</string>
+
+    <!--3.1-->
+    <string name="mark_notifications">Tanda sebagai telah dibaca</string>
+    <!--3.2-->
+    <string name="keyword_post">Alih keluar catatan dengan kata kunci</string>
+    <string name="keyword_post_summary">Sembunyikan penerbitan dalam suapan berita dengan kata kunci apa pun</string>
+    <string name="blocked_keywords">Kata kunci yang disekat</string>
+
+    <string name="active_friends">Rakan aktif</string>
+    <string name="maki_plus_default">Mako Plus Standard</string>
+
+    <string name="remove_keyword">Alih keluar kata kunci</string>
+    <string name="remove_keyword_summary">Adakah anda benar-benar mahu mengeluarkan kata kunci ini?</string>
+
+    <string name="free_facebook">Gunakan free.facebook.com</string>
+    <string name="mbasic_facebook">Gunakan mbasic.facebook.com</string>
+
+    <string name="list_empty">Tiada apa-apa di sini!</string>
+
+    <string name="quiet_hours">Jangan ganggu</string>
+    <string name="quiet_hours_summary">Pilih selang masa apabila anda tidak mahu menerima apa-apa pemberitahuan</string>
+
+    <string name="quiet_hour">Quiet hour</string>
+    <string name="remove_interval">Keluarkan selang</string>
+    <string name="remove_interval_summary">Adakah anda benar-benar mahu mengeluarkan selang ini?</string>
+    <string name="interval_from_to">Dari %1$s hingga %2$s</string>
+
+    <string name="lock_background">Latar belakang kata laluan</string>
+    <string name="lock_background_summary">Pilih imej sebagai latar belakang kata laluan</string>
+    
+    <string name="highlight_posts">Sorakan catatan</string>
+    <string name="highlight_posts_summary">Serlahkan penerbitan dalam suapan berita dengan kata kunci apa pun</string>
+    <string name="highlighted_post">Siaran yang disorot</string>
+    
+    <string name="tap_target_social">Suis media sosial</string>
+    <string name="tap_target_social_summary">Ketik sini untuk memilih mana-mana sosial</string>
+    <string name="auto_night_plus">Simpan mata anda</string>
+    <string name="quickbar_plus">Di hujung jari anda</string>
+
+    <!--3.3-->
+    <string name="see_more_results">Lebih banyak keputusan</string>
+    <string name="remove_this_ad">Sembunyikan iklan ini</string>
+    <string name="help_translate">Bantuan untuk menterjemah</string>
+    <string name="no_google_play">Maaf, tetapi anda tidak dapat membeli Mako. Nampaknya perkhidmatan Google Play tidak dipasang pada peranti anda</string>
+
+    <!--3.4-->
+    <string name="blocked_hours">Penggunaan aplikasi terhad</string>
+    <string name="blocked_hours_summary">Tetapkan selang masa apabila anda tidak mahu menghabiskan masa anda dalam sosial</string>
+
+    <string name="blocked_hours_notify">Beritahu</string>
+    <string name="blocked_hours_notify_summary">Dapatkan pemberitahuan apabila jam disekat selesai dan anda boleh menggunakan apl itu lagi.</string>
+
+    <string name="block_links">Blok halaman</string>
+    <string name="block_links_summary">Sekat halaman yang anda tidak mahu gunakan</string>
+
+    <string name="blocked_hours_finish">Masa untuk kembali!</string>
+    <string name="blocked_hours_finish_summary">Sekarang anda dapat menggunakan Mako lagi</string>
+
+    <string name="blocked_hours_disable_notifications">Lumpuhkan pemberitahuan dalam jam yang disekat</string>
+    <string name="blocked_hours_disable_notifications_summary">Lumpuhkan pemberitahuan apabila anda tidak dapat menggunakan aplikasi dalam jam yang disekat</string>
+
+    <string name="maki_is_locked">Mako dikunci</string>
+    <string name="blocked_description">Anda menetapkan selang waktu antara pukul %1$s hingga %2$s untuk menyekat aplikasinya. Gunakan masa itu untuk melakukan sesuatu yang hebat!</string>
+
+    <string name="blocked_links">Halaman yang disekat</string>
+    <string name="blocked_links_summary">Senarai halaman yang disekat oleh anda</string>
+
+    <string name="blocked_links_add">Sekat pautan ini</string>
+
+    <string name="play_gifs">Main GIFs</string>
+    <string name="play_gifs_summary">Buka GIFs di Mako</string>
+
+    <string name="blocked_page">Halaman yang disekat</string>
+    <string name="blocked_page_summary">Laman ini telah disekat oleh anda</string>
+
+    <string name="blocked_hour">Selang disekat</string>
+    <string name="lock_usage_title">Nama selang</string>
+
+    <!--3.4.1-->
+    <string name="clearcache">Kosongkan cache semasa keluar</string>
+    <string name="clearcache_summary">Ia akan mengambil lebih banyak masa untuk membuka aplikasi.</string>
+
+    <string name="last_opened">Terakhir dibuka</string>
+
+    <string name="remove_bookmark">Alih keluar penanda buku?</string>
+    <string name="are_you_sure">Adakah anda pasti ingin membuang %1$s dari kegemaran anda?</string>
+    <string name="update_link">https://makisocial.com/category/updates/</string>
+
+    <!--Intro-->
+    <string name="privacy_policy">Dasar privasi</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">Selamat datang ke Mako</string>
+    <string name="intro_description">Hanya aplikasi Facebook yang lebih baik</string>
+
+    <string name="facebook_play">Video di Watch</string>
+    <string name="marketplace">Marketplace</string>
+
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">Leret untuk menutup</string>
+    <string name="enable_swipe_close">Tutup halaman dengan meleret dari kiri ke kanan</string>
+
+    <!--3.7-->
+    <string name="enabled">Dihidupkan</string>
+    <string name="donate_maki">Menyokong pembangunan Mako</string>
+    <string name="donate_maki_more">Jika anda benar-benar menikmati menggunakan Mako, anda boleh menyokong pembangunan Mako dan projek masa depan dengan sumbangan tambahan.</string>
+
+    <!--4.0-->
+    <string name="plus_block">Menjimatkan masa</string>
+    <string name="plus_block_description">Hadkan penggunaan Facebook anda dan habiskan masa itu dengan cara yang lebih baik: rakan, keluarga, hobi, kerja, dll.</string>
+
+    <string name="plus_block_pages">Tiada gangguan</string>
+    <string name="plus_block_pages_description">Mudah menghalang halaman yang anda tidak mahu lawati</string>
+
+    <string name="autoplay_videos">Video Autoplay</string>
+    <string name="autoplay_videos_summary">Dayakan video autoplay. Anda tidak akan dapat memuat turun dan berkongsi video apabila diaktifkan.</string>
+
+    <string name="images_play">Lumpuhkan penonton imej Mako</string>
+    <string name="images_play_summary">Gunakan butang \"Lihat saiz penuh\" di bawah imej untuk membuka gambar</string>
+
+    <string name="hide_navigation">Sembunyikan navigasi</string>
+    <string name="hide_navigation_summary">Sembunyikan pengepala dan navigasi semasa menatal</string>
+
+    <!--3.9.2-->
+    <string name="finish_call">Tamat panggilan</string>
+    <string name="finish_call_description">Adakah anda ingin menamatkan panggilan?</string>
+
+    <string name="colored_navigation">Navigasi berwarna</string>
+    <string name="colored_navigation_summary">Isi butang navigasi latar belakang dengan warna tema</string>
+    <string name="not_supported">Peranti anda tidak menyokong ciri ini</string>
+
+    <!--3.9.3-->
+    <string name="add_keyword">Tambah kata kunci</string>
+    <string name="rate_dialog">Rate Mako</string>
+    <string name="rate_dialog_more">Adakah anda menikmati menggunakan Mako? Jika anda berbuat demikian, adakah anda mengambil masa untuk menilai dia di Google Play? Ia tidak akan mengambil banyak masa. Terima kasih banyak - banyak!</string>
+    <string name="help">Bantuan</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">Lumpuhkan sapu</string>
+    <string name="disable_swipe_tabs_summary">Lumpuhkan meleret antara halaman pada skrin utama</string>
+
+    <string name="maki_sale">Mako Plus dengan diskaun!</string>
+    <string name="maki_sale_summary">Jangan kehilangan peluang untuk mendapatkan Mako Plus dengan diskaun. Ketik sini untuk mendapatkannya.</string>
+
+    <string name="maki_update">Kemas kini tersedia!</string>
+    <string name="maki_update_summary">Dapatkan versi terkini Mako dengan perbaikan dan perbaikan pepijat dari Google Play. Ketik di sini untuk mengemas kini.</string>
+
+    <string name="check_for_updates">Menyemak kemas kini</string>
+    <string name="check_for_updates_summary">Dapatkan pemberitahuan mengenai kemas kini baru</string>
+
+    <string name="personalization">Pemperibadian</string>
+    <string name="power_usage">Penjimatan kuasa</string>
+    <string name="news_feed">Berita</string>
+
+    <!--4.0-->
+    <string name="donation_title">Facebook dan Messenger bersama-sama ❤️</string>
+    <string name="about_description">Mengapa anda perlu menggunakan Facebook dan Messenger secara berasingan jika mereka boleh menjadi pasangan yang indah dan hidup bersama di Mako?</string>
+    <string name="auto_power_saving">Penjimatan kuasa automatik</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>Tutup</item>
+    </string-array>
+
+    <string name="audio_call">Panggilan suara</string>
+    <string name="video_call">Panggilan video</string>
+    <string name="group_chat">Sembang kumpulan</string>
+    <string name="file_chooser_error">Tidak boleh membuka pemilih fail</string>
+
+    <string name="chat_bubbles">Kepala bual</string>
+    <string name="chat_bubbles_summary">Buka pemberitahuan dalam kepala bual</string>
+
+    <string name="give_permission_photos">Anda perlu memberi kebenaran untuk memuat naik foto dari kamera.</string>
+    <string name="heads_hint">Ketik dan tahan sebarang kepala bual untuk mengeluarkannya.</string>
+
+    <string name="messenger_slow">Sambungan perlahan</string>
+    <string name="messenger_slow_summary">Gunakan Messenger sederhana apabila sambungan lambat</string>
+    <string name="messenger_network">Rangkaian mudah alih</string>
+    <string name="messenger_network_summary">Gunakan Messenger ringkas apabila menggunakan rangkaian mudah alih</string>
+
+    <string name="got_it">Okey</string>
+    <string name="messenger_slow_dialog">Nampaknya sambungan anda perlahan - anda akan dialihkan kepada Messenger Ringkas. Anda boleh mematikan pilihan ini dalam kategori \"Facebook\" tetapan aplikasi.</string>
+    <string name="messenger_network_dialog">Anda berada di rangkaian mudah alih - Messenger akan dihidupkan ke Mudah. Anda boleh mematikan pilihan ini dalam kategori \"Facebook\" tetapan aplikasi.</string>
+
+    <string name="restart">Satu lagi langkah</string>
+    <string name="restart_summary">Tutup dan perbualan terbuka sekali lagi untuk merakam mesej suara</string>
+
+    <string name="chat_bubbles_foreground">Kepala bual berjalan di latar belakang</string>
+    <string name="privacy_plus">Benar-benar ramah</string>
+    <string name="privacy_plus_summary">Mako tidak mengumpulkan dan menjual maklumat peribadi anda - privasi anda jauh lebih penting daripada pendapatan kami.</string>
+
+    <string name="remove_sponsored_plus">Selamat tinggal, iklan!</string>
+
+    <!--4.1 Hortensia-->
+    <string-array name="browser_entries">
+        <item>Chrome Custom Tabs</item>
+        <item>Peramban terbina dalam</item>
+        <item>Pelayar luaran</item>
+    </string-array>
+
+    <string name="blocked_hours_list">Selang disekat</string>
+    <string name="blocked_hours_list_summary">Tambah atau ubah suai selang masa yang disekat</string>
+
+    <string name="nothing_found">Tiada apa-apa Dijumpai</string>
+    <string name="error_opening">Maaf, pautan tidak dapat dibuka</string>
+
+    <string name="select_start_time">Pilih waktu permulaan</string>
+    <string name="select_end_time">Pilih waktu tamat</string>
+
+    <string name="cant_add_keyword">Maaf, saya tidak boleh menambah kata kunci kosong</string>
+    <string name="quickbar_expand">Ketik untuk berkembang</string>
+    <string name="restore_purchase">Pulihkan pembelian</string>
+</resources>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maki_name">Maki</string>
+    <string name="ok">OK</string>
+    <string name="cancel">取消</string>
+    <string name="choose_email_client">選取電子郵件客戶端</string>
+    <string name="no_network">您目前離線。</string>
+    <string name="title_activity_settings">設定</string>
+    <string name="preference_about_category">關於</string>
+    <string name="share_action">分享</string>
+    <string name="error">錯誤</string>
+    <string name="fragment_main_downloading">下載 &#8230; 中</string>
+    <string name="settings_more">更多</string>
+    <string name="messages">訊息</string>
+    <string name="favorites">最愛</string>
+    <string name="photos">相片</string>
+    <string name="privacy">隱私設定</string>
+    <string name="fb_chat">上線的朋友</string>
+    <string name="pokes">戳一下</string>
+    <string name="refresh">重新載入</string>
+    <string name="notifications">通知</string>
+    <string name="search">搜尋</string>
+    <string name="exit">關閉</string>
+    <string-array name="pref_theme_entries">
+        <item>Maki</item>
+        <item>Facebook 藍</item>
+        <item>質感灰</item>
+        <item>AMOLED 黑</item>
+        <item>暗紅色</item>
+        <item>黑白搭配</item>
+        <item>紅色</item>
+        <item>褐色</item>
+        <item>粉色</item>
+        <item>深紫色</item>
+        <item>暗綠色</item>
+        <item>淺綠色</item>
+        <item>琥珀色</item>
+        <item>深橙色</item>
+        <item>青色</item>
+        <item>棕黃色</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google+</item>
+        <item>VK</item>
+        <item>Reddit</item>
+    </string-array>
+    <string name="addPage">添加至收藏</string>
+    <string name="notification_sound">通知音效</string>
+    <string name="silent">無聲</string>
+    <string name="vibrate">震動</string>
+    <string name="led_light">LED 指示燈</string>
+    <string name="maki_lock">密碼鎖</string>
+    <string name="lock_text_new">使用鎖定碼保護 Maki</string>
+    <string name="lock_text_new_fingerprint">你也可以使用指紋</string>
+    <string name="context_save_image">下載圖像</string>
+    <string name="context_share_image">分享圖像</string>
+    <string name="context_copy_image_link">複製連結</string>
+    <string name="context_share_image_progress">準備 &#8230; 中</string>
+    <string name="content_copy_link_done">連結已複製至剪貼簿</string>
+    <string name="permission_denied">權限被拒。此操作無法完成。</string>
+    <string name="save_img">儲存</string>
+    <string name="download_manager_disabled">下載管理員已停用</string>
+    <string name="hide_ads">移除贊助貼文</string>
+    <string name="hide_ads_more">移除所有 Facebook 動態彙總中的廣告</string>
+    <string name="exit_message">是否確定關閉 Maki？</string>
+    <string name="welcome">歡迎</string>
+    <string name="saved_pin_message">如果你忘記了鎖定碼，請至應用程式資訊中清除 Maki 的資料。</string>
+    <string name="pin_code_step_disable">禁用鎖定碼</string>
+    <string name="pin_code_step_create">建立鎖定碼</string>
+    <string name="pin_code_step_change">輸入當前鎖定碼</string>
+    <string name="pin_code_step_unlock">輸入鎖定碼</string>
+    <string name="pin_code_step_enable_confirm">確認鎖定碼</string>
+    <string name="pin_code_fingerprint_text">指紋</string>
+    <string name="pin_code_fingerprint_not_recognized">重試</string>
+    <string name="open_in_browser">在瀏覽器中開啟</string>
+    <string name="copy_url">複製至剪貼簿</string>
+    <string name="download">下載</string>
+    <string name="removed">已移除</string>
+    <string name="auto_night_title">自動夜間主題</string>
+    <string name="auto_night_more">暗色主題將在晚上自動啟用</string>
+    <string name="save_to">儲存至：</string>
+    <string name="font_size">字型大小</string>
+    <string name="quickbar">快捷欄</string>
+    <string name="ratemaki">評價 Maki</string>
+    <string name="feedback_mail">反饋</string>
+    <string name="messenger_app">Facebook Messenger 應用程式</string>
+    <string name="messenger_app_more">使用 Facebook Messager 應用程式代替內建訊息程式</string>
+
+    <string name="addHome">添加至主熒幕</string>
+    <string name="power_saving_mode">節電模式</string>
+    <string name="thanks_support">感謝您的支持！</string>
+    <string name="unable_purchase">購買已取消</string>
+    <string name="added">已儲存至收藏</string>
+    <string name="download_complete">下載完成</string>
+    <string name="license">開源授權</string>
+    <string name="rate_dialog">評價 Maki</string>
+    <string name="rate_dialog_more">您覺得 Maki 如何呢？在 Google Play 留下評價，或是聯絡我們來一起解決問題。讓我們共同最佳化 Maki！</string>
+    <string name="locked">已鎖定</string>
+    <string name="please_enter_passcode">輸入鎖定碼</string>
+    <string name="buy_plus">Maki 可以做得更好</string>
+    <string name="buy_plus_more">您可以通過使用 Plus 版本讓 Maki 做得更好 - 控制應用程式使用，移除廣告，建立捷徑，啟用自動夜間主題並支援開發者。</string>
+    <string name="lets_do_it">讓我們完成它！</string>
+    <string name="later">稍後</string>
+    <string name="start">加入</string>
+    <string name="thanks">非常感謝！</string>
+    <string name="web">聯絡</string>
+    <string name="shortcuts">捷徑</string>
+    <string name="close">關閉</string>
+    <string name="support">支援</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="help_translate">幫助翻譯</string>
+    <string name="open_in">內建瀏覽器</string>
+    <string name="open_in_more">在 Maki 中開啟外部連結</string>
+    <string name="top_tabs">頂部導航</string>
+    <string name="top_tabs_more">在頂部顯示導航欄</string>
+    <string name="fbpage">Facebook 粉絲專頁</string>
+    <string-array name="messenger_choice">
+        <item>Maki 內建 Messager</item>
+        <item>簡化版 Messenger</item>
+        <item>Messenger 應用程式</item>
+        <item>Messenger Lite 應用程式</item>
+        <item>Disa Messager</item>
+    </string-array>
+    <string name="problems_purchase">非常感謝您對我們的支持！不幸的是，您在購買上存在些許問題。當然，這個頁面就是為了您能夠解決問題而建立的。
+\n\n
+我們有一些可能的解決方案：\n\n
+1) 重啟 Maki。只要關閉程序再從設備上啟動，然後打開設定並嘗試啟用任意一項 Plus 功能。
+\n\n
+2) 如果第一種方案不起作用 - 嘗試重新點擊“購買 Maki Plus”。此操作將恢復您的購買 (您不會產生任何附加費用，請不要擔心)。操作後嘗試重啟應用程式並啟用任意 Plus 功能。
+\n\n
+3) 最後 - 如果什麼都沒有發生或是無法正常工作 - 請聯絡我們！我們定將協同找出最佳的解決方案。
+\n\n
+我們的電郵: makifeedback@gmail.com\n
+Facebook 主頁: m.facebook.com/sunshineappsst
+\n\n
+以最誠摯的敬意，來自 Sunshine Apps 團隊</string>
+    <string name="social_medias">社交媒體</string>
+    <string name="hide_twitter">隱藏 Twitter</string>
+    <string name="hide_instagram">隱藏 Instagram</string>
+    <string name="hide_tumblr">隱藏 Tumblr</string>
+    <string name="hide_vk">隱藏 VK</string>
+    <!-- Notifications -->
+    <string name="facebook_message">訊息通知</string>
+    <string name="facebook_notifications">Facebook 通知</string>
+    <string name="notification_sound_description">"\u9078\u64c7\u9234\u97f3\u6216\u7121\u8072: "</string>
+    <string name="interval_pref">檢查時間間隔</string>
+    <string name="interval_pref_description_new">將在每%s檢查一次通知。</string>
+    <string name="notification_sound_msg">訊息音效</string>
+    <string name="blacklist_title">黑名單</string>
+    <string name="new_black_word">記錄新的封鎖詞</string>
+    <string name="blacklist_summary">通知封鎖詞列表</string>
+    <string name="exact">精確時間</string>
+    <string name="exact_summary">減少通知延時。對電池不太友好</string>
+    <string-array name="intervalPrefTitles">
+        <item>30秒</item>
+        <item>60秒</item>
+        <item>2分鐘</item>
+        <item>5分鐘</item>
+        <item>15分鐘</item>
+        <item>30分鐘</item>
+        <item>1小時</item>
+        <item>3小時</item>
+        <item>6小時</item>
+    </string-array>
+
+    <!--2.4.2-->
+    <string name="enable_exit">退出提示</string>
+    <string name="enable_fab">浮動動作按鈕</string>
+    <!--2.4.3-->
+    <string name="fab_text">發布狀態</string>
+    <string name="done">已完成！</string>
+    <string name="facebook_limit">抱歉，但是 Facebook 目前不允許您分享簡單文本 - 僅限連結！</string>
+    <!--2.4.6-->
+    <string name="font_details">輸入從 50 到 170% 區間的字型大小</string>
+    <string name="problems_with_purchase">購買出現問題？</string>
+    <!--2.5-->
+    <string name="switch_profile">切換檔案</string>
+    <string name="launch_social">Maki 預設啟動介面</string>
+    <string name="hide_reddit">隱藏 Reddit</string>
+    <string name="hide_facebook">隱藏 Facebook</string>
+    <string name="thanks_to">感激</string>
+    <!--2.5.2-->
+    <string name="notif">通知</string>
+    <!--Maki 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">熱門動態</string>
+    <string name="top_news_firstly">在動態彙總中顯示熱門動態</string>
+    <string name="hide_people">你可能認識的人</string>
+    <string name="hide_people_summary">移除動態彙總中的推薦朋友</string>
+    <string name="hide_groups">推薦社團</string>
+    <string name="hide_groups_summary">移除動態彙總中的建議社團</string>
+    <string name="hide_news_feed">隱藏動態彙總</string>
+    <string name="hide_news_feed_summary">給那些不想在動態彙總中浪費時間的人！</string>
+    <string name="maki_themes">主題</string>
+    <string name="disable_images">禁用圖像</string>
+    <string name="disable_images_summary">禁用圖像加載以節省行動數據</string>
+    <string name="general_settings">一般</string>
+    <string name="enable_quickview">快速瀏覽</string>
+    <string name="enable_quickview_summary">點擊並按住外部連結以進行預覽</string>
+    <string name="enable_exit_summary">退出應用程式前顯示確認提示</string>
+    <string name="enable_fab_summary">使用右下角小按鈕代替 Facebook 狀態更新</string>
+    <string name="power_saving_mode_more">禁用大部分功能以大幅度省電</string>
+    <string name="enable_location">位置</string>
+    <string name="enable_location_summary">給予 Maki 位置權限以使用簽到功能</string>
+    <!--Notification channels-->
+    <string name="notifications_channel">通知管道設定</string>
+    <string name="messages_channel">訊息管道設定</string>
+    <string name="notifications_channel_summary">設定優先級，通知音效及更多</string>
+    <string name="messages_channel_summary">設定優先級，訊息音效及更多</string>
+    <!--New menu-->
+    <string name="view_profile">查看你的檔案</string>
+    <string name="groups_nav">社團</string>
+    <string name="find_friends_nav">尋友工具</string>
+    <string name="events_nav">活動</string>
+    <string name="this_day_nav">我的這一天</string>
+    <string name="saved_nav">我的珍藏</string>
+    <string name="pages_nav">粉絲專頁</string>
+    <string name="local_nav">探索周邊</string>
+    <string name="photos_nav">相片</string>
+    <string name="most_recent_nav">最新動態</string>
+    <!--2.6.2-->
+    <string name="hide_stories">移除動態</string>
+    <string name="hide_stories_summary">從動態匯總中移除動態</string>
+    <!--Intro-->
+    <string name="welcome_plus">歡迎！</string>
+    <string name="plus_what">你將獲得什麼？</string>
+    <string name="plus_support">每次 Maki Plus 購買都使其更加優秀 - 這是我添加新功能和改善 Maki 的最佳動力！</string>
+    <string name="thanks_more">非常感謝您的支持！現在你可以盡情享受你的 Maki Plus 副本了。飽含愛意，來自 Sunshine Apps。</string>
+    <!--2.6.4-->
+    <string name="keep_screen">保持螢幕開啟</string>
+    <string name="keep_screen_summary">啟用此選項以在使用 Maki 時保持熒幕開啟</string>
+    <string name="hide_telegram">隱藏 Telegram</string>
+    <string name="hide_pinterest">隱藏 Pinterest</string>
+    <string name="hide_birthdays">生日</string>
+    <string name="hide_birthdays_summary">從動態匯總中移除生日通知</string>
+    <!--Maki 3.0-->
+    <string name="chat_bubbles">聊天大頭貼</string>
+    <string name="call">通話</string>
+    <string name="falcon_view">獵鷹視圖</string>
+    <string name="falcon_view_summary">無需開啟網站即可閱讀文章。若無法取得內容將開啟預設頁面。</string>
+    <string name="special">特殊</string>
+    <string name="hide_linkedin">隱藏 LinkedIn</string>
+    <string name="cant_call">很抱歉，你不能在這裡進行通話</string>
+    <string name="features_beta">測試選項</string>
+    <string name="features_beta_summary">這些選項仍在開發中並且可能不穩定，所以除非迫切需要請不要使用！</string>
+    <string name="warning">警告！</string>
+    <string name="plus_buy">取得 Maki Plus</string>
+    <string name="plus_shortcuts">更快捷地使用 Maki - 在主熒幕為訊息和通知建立捷徑。</string>
+    <string name="plus_ads">從你的 Facebook 的動態匯總移除所有廣告以專注於你喜愛的內容</string>
+    <string name="quickbar_more">隨時隨地訪問社交媒體。</string>
+    <string name="plus_dark">在夜晚使用自動深色主題來保護你的雙眼。</string>
+    <string name="plus_summary">使用 Maki - 有史以來最佳社交軟體 - 加上 Plus 擴展來取得完整的全新體驗。</string>
+    <string name="give_permission">需要授權</string>
+    <string name="give_permission_summary">在與你的朋友通話前，你需要授予一些權限。</string>
+    <string name="allow">允許</string>
+    <string name="manage">管理社交網路</string>
+    <string name="manage_summary">隱藏或顯示你喜愛的社交網路</string>
+    <!--3.1-->
+    <string name="mark_notifications">標記為已讀</string>
+    <!--3.2-->
+    <string name="keyword_post">移除關鍵詞貼文</string>
+    <string name="keyword_post_summary">使用關鍵詞隱藏動態匯總中的內容</string>
+    <string name="blocked_keywords">已封鎖關鍵詞</string>
+    <string name="active_friends">上線的朋友</string>
+    <string name="images_play">禁用 Maki 圖片查看器</string>
+    <string name="maki_plus_default">Maki Plus 標準版</string>
+    <string name="remove_keyword">移除關鍵詞</string>
+    <string name="remove_keyword_summary">是否移除此關鍵詞？</string>
+    <string name="free_facebook">使用 free.facebook.com</string>
+    <string name="mbasic_facebook">使用 mbasic.facebook.com</string>
+    <string name="list_empty">此處空無一物！</string>
+    <string name="quiet_hours">零打擾</string>
+    <string name="quiet_hours_summary">選擇你不想接收任何通知的時間範圍</string>
+    <string name="quiet_hour">靜默時段</string>
+    <string name="remove_interval">移除範圍</string>
+    <string name="remove_interval_summary">是否移除此範圍？</string>
+    <string name="interval_from_to">從 %1$s 至 %2$s</string>
+    <string name="lock_background">鎖定介面背景</string>
+    <string name="lock_background_summary">選擇任意圖像作為鎖定介面背景</string>
+    <string name="highlight_posts">高亮貼文</string>
+    <string name="highlight_posts_summary">使用關鍵詞高亮顯示動態匯總中內容</string>
+    <string name="highlighted_post">已高亮貼文</string>
+    <string name="tap_target_social">切換社交媒體</string>
+    <string name="tap_target_social_summary">點擊此處選擇任意社交媒體</string>
+    <string name="remove_sponsored_plus">拒絕廣告</string>
+    <string name="auto_night_plus">保護視力</string>
+    <string name="quickbar_plus">在於指尖</string>
+    <!--3.3-->
+    <string name="see_more_results">更多結果</string>
+    <string name="remove_this_ad">移除此廣告</string>
+    <string name="no_google_play">很抱歉，您無法購買 Maki。似乎 Google Play 服務在您的裝置上不可用</string>
+    <!--3.4-->
+    <string name="blocked_hours">限制應用程式使用</string>
+    <string name="blocked_hours_summary">設定你不想在社交媒體花費時間的時間範圍</string>
+    <string name="blocked_hours_notify">提醒</string>
+    <string name="blocked_hours_notify_summary">當限制時段結束後顯示通知</string>
+    <string name="blocked_hours_finish">是時候回歸了！</string>
+    <string name="blocked_hours_finish_summary">現在你可以再次使用 Maki 了。</string>
+    <string name="blocked_hours_disable_notifications">限制時段內禁用通知</string>
+    <string name="blocked_hours_disable_notifications_summary">在限制使用應用程式的時段中禁用通知</string>
+    <string name="maki_is_locked">Maki 已鎖定</string>
+    <string name="blocked_description">你已設定於 %1$s 至 %2$s 時段限制使用應用程式 - 去做什麼更棒的事情吧！</string>
+    <string name="blocked_links">已封鎖頁面</string>
+    <string name="blocked_links_summary">你設定的已封鎖頁面列表</string>
+    <string name="blocked_links_add">封鎖此連結</string>
+    <string name="play_gifs">播放 GIF</string>
+    <string name="play_gifs_summary">在 Maki 中開啟 GIF</string>
+    <string name="blocked_hour">封鎖時段</string>
+    <string name="lock_usage_title">時段名稱</string>
+    <!--3.4.1-->
+    <string name="clearcache">退出時清除快取</string>
+    <string name="clearcache_summary">開啟應用程式將耗費更多時間。</string>
+    <string name="last_opened">最近開啟</string>
+    <string name="remove_bookmark">是否移除書籤？</string>
+    <string name="are_you_sure">確定要從收藏中移除 %1$s 嗎？</string>
+    <string name="update_link">https://makisocial.com/category/updates/</string>
+    <!--3.6-->
+    <string name="block_links">封鎖頁面</string>
+    <string name="block_links_summary">封鎖你不想訪問的社團和個人。所有對應貼文也將被封鎖。</string>
+    <string name="blocked_page">已封鎖粉絲專頁</string>
+    <string name="blocked_page_summary">Oops! 看起來你已經封鎖了對於此粉絲專頁的訪問。好吧，還有更多精彩的粉絲專頁可以訪問呢，但這個除外。今天就別訪問了吧，我的好夥伴。</string>
+    <!--Intro-->
+    <string name="privacy_policy">隱私政策</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">歡迎來到 Maki</string>
+    <string name="intro_description">一個更加優秀的 Facebook 應用程式</string>
+    <string name="facebook_play">Watch 影片</string>
+    <string name="marketplace">Marketplace</string>
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">滑動以關閉</string>
+    <string name="enable_swipe_close">從左至右滑動以關閉頁面</string>
+    <!--3.7-->
+    <string name="enabled">已啟用</string>
+    <string name="donate_maki">支援 Maki 開發</string>
+    <string name="donate_maki_more">嗨！我是 Roman，我是 Maki 的開發者一員，我很高興你堅持使用並享受 Maki。如果你真的這麼做，通過額外捐助你可以更多地支援 Maki 及未來項目。</string>
+    <string name="help">幫助</string>
+    <!--3.9-->
+    <string name="plus_block">節省時間</string>
+    <string name="plus_block_description">限制您對 Facebook 的使用，並以更好的方式花費時間：朋友、家人、愛好、工作等。</string>
+
+    <string name="plus_block_pages">請勿分心</string>
+    <string name="plus_block_pages_description">輕鬆阻止您不想訪問的頁面</string>
+
+    <string name="autoplay_videos">自動播放影片</string>
+    <string name="autoplay_videos_summary">啟用自動播放影片。啟用後，您將無法下載和分享影片。</string>
+    <string name="images_play_summary">使用圖像下方的 \"查看完整大小\" 按鈕開啟圖像</string>
+
+    <string name="hide_navigation">隱藏導航欄</string>
+    <string name="hide_navigation_summary">翻頁時隱藏頂欄和導航欄</string>
+
+    <!--3.9.2-->
+    <string name="finish_call">結束通話</string>
+    <string name="finish_call_description">是否結束通話?</string>
+
+    <string name="colored_navigation">導航欄著色</string>
+    <string name="colored_navigation_summary">用主題配色填充導航按鈕背景</string>
+    <string name="not_supported">您的裝置不支援此特性</string>
+
+    <!--3.9.3-->
+    <string name="add_keyword">添加關鍵詞</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">禁用滑動</string>
+    <string name="disable_swipe_tabs_summary">在 Maki 主介面上的頁面之間禁用滑動</string>
+
+    <string name="maki_sale">Maki Plus 正在促銷！</string>
+    <string name="maki_sale_summary">不要錯過以折扣價購格買 Maki Plus 副本的機會。點擊此處獲取它。</string>
+
+    <string name="maki_update">有可用的更新！</string>
+    <string name="maki_update_summary">在 Google Play 上取得進行了改進和錯誤修復的最新版本 Maki。點擊此處進行更新。</string>
+
+    <string name="check_for_updates">檢查更新</string>
+    <string name="check_for_updates_summary">取得有關 Maki 更新的通知</string>
+
+    <!--3.9.7-->
+    <string name="personalization">個人化</string>
+    <string name="power_usage">節約電力</string>
+    <string name="news_feed">動態消息</string>
+
+    <!--4.0-->
+    <string name="donation_title">讓他們團圓 ❤️</string>
+    <string name="about_description">如果他們可以成為一對可愛的夫妻，並且一起住在 Maki，為什麼還要分別使用 Facebook 和 Messenger？Mark 真是個很不浪漫的傢伙。</string>
+    <string name="auto_power_saving">自動節約電力</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>已禁用</item>
+    </string-array>
+
+    <string name="audio_call">音訊通話</string>
+    <string name="video_call">視訊通話</string>
+    <string name="group_chat">群組聊天</string>
+    <string name="file_chooser_error">無法開啟文件選擇器</string>
+    <string name="chat_bubbles_summary">開啟聊天大頭貼通知</string>
+
+    <string name="give_permission_photos">您需要授予從相機上傳照片的權限。</string>
+    <string name="heads_hint">點擊並按住任意聊天大頭貼將其移除</string>
+
+    <string name="messenger_slow">慢速連結</string>
+    <string name="messenger_slow_summary">連結速度慢時使用簡化版 Messanger</string>
+    <string name="messenger_network">行動網路</string>
+    <string name="messenger_network_summary">使用行動網路時使用簡化版 Messenger</string>
+
+    <string name="got_it">了解</string>
+    <string name="messenger_slow_dialog">看起來您的連結速度很慢 - 您將切換到簡化版 Messenger。您可以在程式設定的 \"Facebook\" 類別中禁用此選項</string>
+    <string name="messenger_network_dialog">您正在使用行動網路 - Messenger 將切換為簡化版。您可以在程式設定的 \"Facebook \" 類別中禁用此選項</string>
+
+    <string name="restart">還有一步</string>
+    <string name="restart_summary">再次關閉並打開對話以錄製語音訊息</string>
+
+    <string name="chat_bubbles_foreground">聊天大頭貼正在背景運行</string>
+    <string name="privacy_plus">非常友好</string>
+    <string name="privacy_plus_summary">Maki 不會蒐集和出售您的個人資訊 - 您的隱私比我們的收入重要得多</string>
+
+    <!--4.1 Hortensia-->
+    <string-array name="browser_entries">
+        <item>Chrome 自訂分頁</item>
+        <item>Maki 瀏覽器</item>
+        <item>外部瀏覽器</item>
+    </string-array>
+
+    <string name="blocked_hours_list">限制時段</string>
+    <string name="blocked_hours_list_summary">新增或修改限制時段</string>
+
+    <string name="nothing_found">無內容</string>
+    <string name="error_opening">抱歉，無法開啟連結</string>
+
+    <string name="select_start_time">選取開啟時間</string>
+    <string name="select_end_time">選取結束時間</string>
+
+    <string name="cant_add_keyword">抱歉，無法新增空白關鍵詞</string>
+    <string name="quickbar_expand">點擊以展開</string>
+    <string name="restore_purchase">恢復購買</string>
+
+</resources>

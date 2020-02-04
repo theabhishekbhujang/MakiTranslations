@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maki_name">Maki</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annuler</string>
+    <string name="choose_email_client">Choisissez un client de messagerie</string>
+    <string name="no_network">Vous n\'êtes pas en ligne</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="preference_about_category">À propos</string>
+    <string name="share_action">Partager</string>
+    <string name="error">Erreur</string>
+    <string name="fragment_main_downloading">Téléchargement&#8230;</string>
+    <string name="settings_more">Plus</string>
+    <string name="messages">Messages</string>
+    <string name="favorites">Favoris</string>
+    <string name="photos">Photos</string>
+    <string name="privacy">Paramètres de confidentialité</string>
+    <string name="fb_chat">Amis actifs</string>
+    <string name="pokes">Pokes suggérés</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="notifications">Notifications</string>
+    <string name="search">Rechercher…</string>
+    <string name="exit">Quitter</string>
+    <string-array name="pref_theme_entries">
+        <item>Maki</item>
+        <item>Facebook bleu</item>
+        <item>Sombre</item>
+        <item>Bleu foncé</item>
+        <item>Amoled</item>
+        <item>Noir et blanc</item>
+        <item>Rouge</item>
+        <item>Faucon</item>
+        <item>Rose</item>
+        <item>Violet foncé</item>
+        <item>Vert foncé</item>
+        <item>Vert clair</item>
+        <item>Ambre</item>
+        <item>Orange foncé</item>
+        <item>Cyan</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google Plus</item>
+        <item>VK</item>
+        <item>Reddit</item>
+    </string-array>
+    <string name="addPage">Ajouter aux Favoris</string>
+    <string name="notification_sound">Son de notification</string>
+    <string name="silent">Aucun son</string>
+    <string name="vibrate">Vibrer</string>
+    <string name="led_light">Led</string>
+    <string name="maki_lock">Code d\'accès</string>
+    <string name="lock_text_new">Sécuriser Maki avec un code d\'accès.</string>
+    <string name="lock_text_new_fingerprint">Entrer un code d\'accès, où alors utiliser votre empreinte digitale.</string>
+    <string name="context_save_image">Télécharger l\'image</string>
+    <string name="context_share_image">Partager l\'image</string>
+    <string name="context_copy_image_link">Copier le lien</string>
+    <string name="context_share_image_progress">En préparation&#8230;</string>
+    <string name="content_copy_link_done">Lien copié dans le presse-papier</string>
+    <string name="permission_denied">Permission refusée. Cette action ne peut pas être terminée.</string>
+    <string name="save_img">Sauvegarder</string>
+    <string name="download_manager_disabled">Gestionnaire de téléchargement désactiver</string>
+    <string name="hide_ads">Supprimer les messages sponsorisés</string>
+    <string name="hide_ads_more">Supprimer toute la publicité dans le fil de l\'actualité</string>
+    <string name="exit_message">Êtes-vous sûr de vouloir quitter Maki ?</string>
+    <string name="welcome">Bonjour</string>
+    <string name="saved_pin_message">Si vous oubliez votre code PIN, veuillez effacer les données Maki depuis le gestionnaire d\'applications de votre téléphone.</string>
+    <string name="pin_code_step_disable">Désactiver le code d\'accès</string>
+    <string name="pin_code_step_create">Créer un code d\'accès</string>
+    <string name="pin_code_step_change">Entrer le code d\'accès courant</string>
+    <string name="pin_code_step_unlock">Entrer le code d\'accès</string>
+    <string name="pin_code_step_enable_confirm">Confirmer le code</string>
+    <string name="pin_code_fingerprint_text">Empreinte digitale</string>
+    <string name="pin_code_fingerprint_not_recognized">Réessayer</string>
+    <string name="open_in_browser">Ouvrir dans le navigateur</string>
+    <string name="copy_url">Copier dans le presse-papier</string>
+    <string name="download">Télécharger</string>
+    <string name="removed">Supprimer</string>
+    <string name="auto_night_title">Thème sombre automatique</string>
+    <string name="auto_night_more">Le thème sombre sera activé automatiquement aux heures sélectionner.</string>
+    <string name="save_to">Enregistrer dans :</string>
+    <string name="font_size">Taille de la police</string>
+    <string name="quickbar">Barre d\'accès rapide</string>
+    <string name="ratemaki">Noter Maki</string>
+    <string name="feedback_mail">Retour d\'information</string>
+    <string name="messenger_app">Application Facebook Messenger</string>
+    <string name="messenger_app_more">Utiliser l\'application Facebook Messenger au lieu de Messenger intégré.</string>
+
+    <string name="addHome">Ajouter à l\'écran d\'accueil</string>
+    <string name="power_saving_mode">Mode économie d\'énergie</string>
+    <string name="thanks_support">Merci pour votre aide !</string>
+    <string name="unable_purchase">Achat annuler</string>
+    <string name="added">Enregistré dans les favoris</string>
+    <string name="download_complete">Téléchargement terminer</string>
+    <string name="license">Licences open source</string>
+
+    <string name="locked">Verrouiller</string>
+    <string name="please_enter_passcode">Entrer un code d\'accès</string>
+    <string name="buy_plus">Maki pourrait être amélioré</string>
+    <string name="buy_plus_more">Vous pouvez rendre Maki plus fonctionnel avec la version Plus, supprimer la publicité, créer des raccourcis, activer le thème sombre automatique et soutenir les développeurs.</string>
+    <string name="lets_do_it">Allons-y !</string>
+    <string name="later">Plus tard</string>
+    <string name="start">Allons-y !</string>
+    <string name="thanks">Merci beaucoup !</string>
+    <string name="web">Contact</string>
+    <string name="shortcuts">Raccourcis</string>
+    <string name="close">Fermer</string>
+    <string name="support">Soutien</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="help_translate">Aide à la traduction</string>
+    <string name="open_in">Navigateur intégré à l\'application</string>
+    <string name="open_in_more">Ouvrir les liens externes avec Maki</string>
+    <string name="top_tabs">Onglets</string>
+    <string name="top_tabs_more">Activer pour afficher les onglets en haut.</string>
+    <string name="fbpage">Page Facebook</string>
+    <string-array name="messenger_choice">
+        <item>Messenger dans Maki</item>
+        <item>Messenger simplifié</item>
+        <item>Application Messenger</item>
+        <item>Application Messenger Lite</item>
+        <item>Disa Messenger</item>
+    </string-array>
+    <string name="problems_purchase">"Merci beaucoup de nous soutenir ! Malheureusement, il semble que vous ayez des problèmes avec l\'achat. Eh bien, cette page a été créée pour vous aider à résoudre ce problème.
+\n \n
+Nous avons quelques solutions possibles: \n \n
+1) Redémarrez Maki. Fermez simplement une application et lancez-la à partir de rien, ouvrez les paramètres et essayez d\'activer n\'importe quelle fonctionnalité Plus.
+\n \n
+2) Si la première solution ne fonctionne pas, essayez de cliquer à nouveau sur \"Acheter Maki Plus\". Cette action restaurera votre achat (vous ne dépenserez plus votre argent, ne vous inquiétez pas). Après cela, redémarrez l\'application et essayez d\'activer n\'importe quelle fonctionnalité Plus.
+\n \n
+3) Après tout, si rien de tout cela ne fonctionne, contactez-nous ! Nous allons certainement trouver la meilleure solution ensemble.
+\n \n
+Notre email : makifeedback@gmail.com
+Page Facebook : m.facebook.com/sunshineappsst
+\n\n
+Meilleures salutations, Sunshine Apps
+
+
+"</string>
+
+    <string name="social_medias">Réseaux sociaux</string>
+    <string name="hide_twitter">Masquer Twitter</string>
+    <string name="hide_instagram">Masquer Instagram</string>
+    <string name="hide_tumblr">Masquer Tumblr</string>
+    <string name="hide_vk">Masquer VK</string>
+    <!-- Notifications -->
+    <string name="facebook_message">Messages Facebook</string>
+    <string name="facebook_notifications">Notifications Facebook</string>
+    <string name="notification_sound_description">"Choisissez une sonnerie :  "</string>
+    <string name="interval_pref">Intervalle d’actualisation</string>
+    <string name="interval_pref_description_new">Les notifications seront actualisées toutes les %s.</string>
+    <string name="notification_sound_msg">Sonnerie de message</string>
+    <string name="blacklist_title">Liste noire</string>
+    <string name="new_black_word">Taper un mot clé pour le bloquer</string>
+    <string name="blacklist_summary">Liste des mots pour bloquer les notifications</string>
+    <string name="exact">Heure exacte</string>
+    <string name="exact_summary">Réduire le délai de notification, pas conseiller pour la batterie.</string>
+    <string-array name="intervalPrefTitles">
+        <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+        <item>3 heures</item>
+        <item>6 heures</item>
+    </string-array>
+
+    <!--2.4.2-->
+    <string name="enable_exit">Activer la boîte de dialogue de sortie</string>
+    <string name="enable_fab">Bouton flottant</string>
+    <!--2.4.3-->
+    <string name="fab_text">Poster un statut</string>
+    <string name="done">Terminer !</string>
+    <string name="facebook_limit">Désoler, mais Facebook ne vous permet pas de partager du texte simple en ce moment - seulement des liens !</string>
+    <!--2.4.6-->
+    <string name="font_details">Entrer la taille de police compris entre 50% à 170%</string>
+    <string name="problems_with_purchase">Des problèmes avec l\'achat ?</string>
+    <string name="switch_profile">Changer de profil</string>
+    <string name="launch_social">Démarrer Maki avec</string>
+    <string name="hide_reddit">Masquer Reddit</string>
+    <string name="hide_facebook">Masquer Facebook</string>
+    <string name="thanks_to">Remerciements</string>
+    <!--2.5.2-->
+    <string name="notif">Notifications</string>
+    <!--Maki 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">Meilleures histoires</string>
+    <string name="top_news_firstly">Afficher les meilleures histoires dans le fil d\'actualité</string>
+    <string name="hide_people">Les gens que vous connaissez peut-être</string>
+    <string name="hide_people_summary">Supprimer les amis recommandés du fil d\'actualité</string>
+    <string name="hide_groups">Groupes recommandés</string>
+    <string name="hide_groups_summary">Supprimer les groupes suggérés du fil d\'actualité</string>
+    <string name="hide_news_feed">Masquer le flux d\'actualité</string>
+    <string name="hide_news_feed_summary">Pour ceux qui ne veulent pas perdre de temps dans le fil d\'actualité !</string>
+    <string name="maki_themes">Thème</string>
+    <string name="disable_images">Désactiver les images</string>
+    <string name="disable_images_summary">Enregistrer les données en désactivant le chargement des images</string>
+    <string name="general_settings">Général</string>
+    <string name="enable_quickview">Aperçu rapide</string>
+    <string name="enable_quickview_summary">Tapez et maintenez n\'importe quel lien pour le prévisualiser rapidement</string>
+    <string name="enable_exit_summary">Afficher la boîte de dialogue avant de quitter l\'application</string>
+    <string name="enable_fab_summary">Activer le bouton flottant dans le coin inférieur droit au lieu de la mise à jour du statut Facebook.</string>
+    <string name="power_saving_mode_more">Désactiver la plupart des fonctionnalités pour économiser la batterie.</string>
+    <string name="enable_location">Localisation</string>
+    <string name="enable_location_summary">Autoriser l\'accès de ma position pour l\'utiliser dans les check-ins.</string>
+    <!--Notification channels-->
+    <string name="notifications_channel">Notifications des paramètres de la chaîne</string>
+    <string name="messages_channel">Paramètres de canal des messages</string>
+    <string name="notifications_channel_summary">Définir l\'importance, un son de notifications et plus</string>
+    <string name="messages_channel_summary">Définir la priorité, la sonnerie des messages et plus</string>
+    <!--New menu-->
+    <string name="view_profile">Voir votre profil</string>
+    <string name="groups_nav">Groupes</string>
+    <string name="find_friends_nav">Retrouver des amis</string>
+    <string name="events_nav">Événements</string>
+    <string name="this_day_nav">En ce jour</string>
+    <string name="saved_nav">Enregistrer</string>
+    <string name="pages_nav">Pages</string>
+    <string name="local_nav">Local</string>
+    <string name="photos_nav">Photos</string>
+    <string name="most_recent_nav">Le plus récent</string>
+    <!--2.6.2-->
+    <string name="hide_stories">Supprimer des histoires</string>
+    <string name="hide_stories_summary">Masquer les histoires de votre fil d\'actualité</string>
+    <!--Intro-->
+    <string name="welcome_plus">Salut !</string>
+    <string name="plus_what">Qu\'est-ce que tu vas avoir ?</string>
+    <string name="plus_support">Chaque achat de Maki Plus améliore Maki - c\'est une grande motivation pour ajouter de nouvelles fonctionnalités plus rapidement et améliorer Maki !</string>
+    <string name="thanks_more">Merci beaucoup pour votre soutient ! Maintenant, vous pouvez profiter de votre propre copie de Maki Plus. Avec amour, Sunshine Apps.</string>
+    <!--2.6.4-->
+    <string name="keep_screen">Garder l\'écran allumé</string>
+    <string name="keep_screen_summary">Activer cette option pour garder l\'écran toujours allumé lors de l\'utilisation de Maki</string>
+    <string name="hide_telegram">Masquer Telegram</string>
+    <string name="hide_pinterest">Masquer Pinterest</string>
+    <string name="hide_birthdays">Les anniversaires</string>
+    <string name="hide_birthdays_summary">Supprimer les notifications d\'anniversaire du fil d\'actualité</string>
+    <!--Maki 3.0-->
+    <string name="call">Appel</string>
+    <string name="falcon_view">Vue Falcon</string>
+    <string name="falcon_view_summary">Lire des articles sans visiter un site web</string>
+    <string name="special">Spécial</string>
+    <string name="hide_linkedin">Masquer LinkedIn</string>
+    <string name="cant_call">Désolé de ne pas pouvoir appeler ici</string>
+    <string name="features_beta">Options bêta</string>
+    <string name="features_beta_summary">Ces options sont encore en développement et peuvent ne pas être stables.</string>
+    <string name="warning">Attention !</string>
+    <string name="plus_buy">Achat</string>
+    <string name="plus_shortcuts">Utiliser Maki plus rapidement, créer des raccourcis pour les messages et les notifications sur l\'écran d\'accueil.</string>
+    <string name="plus_ads">Désactiver toutes les publicités dans votre fil d\'actualité pour vous concentrer sur votre contenu favori</string>
+    <string name="quickbar_more">Accédez à vos réseaux sociaux simplement.</string>
+    <string name="plus_dark">Protégez vos yeux la nuit avec un thème sombre automatique.</string>
+    <string name="plus_summary">Obtenez une toute nouvelle expérience d\'utilisation de Maki - la meilleure application sociale jamais réaliser, avec l\'extensions Plus.</string>
+    <string name="give_permission">Autorisations requises</string>
+    <string name="give_permission_summary">Vous devez donner des autorisations avant d\'appeler vos amis.</string>
+    <string name="allow">Permettre</string>
+    <string name="manage">Gérer les médias sociaux</string>
+    <string name="manage_summary">Masquer où  afficher les médias sociaux favoris dans le volet.</string>
+    <!--3.1-->
+    <string name="mark_notifications">Marquer comme lu</string>
+    <!--3.2-->
+    <string name="keyword_post">Supprimer les messages par mot clé</string>
+    <string name="keyword_post_summary">Masquer les publications dans le fil d\'actualité par mot clé</string>
+    <string name="blocked_keywords">Mots clés bloquer</string>
+    <string name="active_friends">Amis actifs</string>
+    <string name="maki_plus_default">Maki Plus Standard</string>
+    <string name="remove_keyword">Supprimer le mot clé</string>
+    <string name="remove_keyword_summary">Voulez-vous vraiment supprimer ce mot clé ?</string>
+    <string name="free_facebook">Utilisez free.facebook.com</string>
+    <string name="mbasic_facebook">Utilisez mbasic.facebook.com</string>
+    <string name="list_empty">Aucun élément…</string>
+    <string name="quiet_hours">Ne pas déranger</string>
+    <string name="quiet_hours_summary">Sélectionnez les heures où vous souhaitez ne pas être déranger.</string>
+    <string name="quiet_hour">Heure tranquille</string>
+    <string name="remove_interval">Supprimer l\'intervalle</string>
+    <string name="remove_interval_summary">Voulez-vous vraiment supprimer cet intervalle ?</string>
+    <string name="interval_from_to">De %1$s à %2$s</string>
+    <string name="lock_background">Image où photo pour code d\'accès</string>
+    <string name="lock_background_summary">Sélectionner une image où une photo comme code d\'accès</string>
+    <string name="highlight_posts">Surligner</string>
+    <string name="highlight_posts_summary">Mettre en surbrillance les publications dans le fil d\'actualités avec des mots mot clé.</string>
+    <string name="highlighted_post">Message en surbrillance</string>
+    <string name="tap_target_social">Changer de média social</string>
+    <string name="tap_target_social_summary">Appuyer ici pour sélectionner n\'importe quel média social</string>
+    <string name="auto_night_plus">Proteger vos yeux</string>
+    <string name="quickbar_plus">Sur le bout de vos doigts</string>
+    <!--3.3-->
+    <string name="see_more_results">Plus de résultats</string>
+    <string name="remove_this_ad">Supprimer cette annonce</string>
+    <string name="no_google_play">Désolé, mais vous n\'êtes pas en mesure d\'acheter Maki. Il semble que les services Google Play ne soient pas installés sur votre appareil.</string>
+    <!--3.4-->
+    <string name="blocked_hours">Utilisation limitée de l\'application</string>
+    <string name="blocked_hours_summary">Définissez des intervalles de temps lorsque vous ne voulez pas passer trop de temps sur les réseaux sociaux.</string>
+    <string name="blocked_hours_notify">Notifier</string>
+    <string name="blocked_hours_notify_summary">Recevez une notification lorsque l\'heure bloquée est terminée et que vous pouvez utiliser l\'application à nouveau.</string>
+    <string name="blocked_hours_finish">Il est temps de revenir !</string>
+    <string name="blocked_hours_finish_summary">Maintenant, vous pouvez utiliser à nouveau Maki</string>
+    <string name="blocked_hours_disable_notifications">Désactiver les notifications en heures bloquées</string>
+    <string name="blocked_hours_disable_notifications_summary">Désactiver les notifications lorsque vous ne pouvez pas utiliser l\'application pendant des heures bloquées</string>
+    <string name="maki_is_locked">Maki est verrouillé</string>
+    <string name="blocked_description">Vous définissez un intervalle de  %1$s à  %2$s pour limiter le temps sur l\'application.</string>
+    <string name="blocked_links">Pages bloquées</string>
+    <string name="blocked_links_summary">Liste des pages bloquées par vous</string>
+    <string name="blocked_links_add">Bloquer ce lien</string>
+    <string name="play_gifs">Activer les GIFs</string>
+    <string name="play_gifs_summary">Animation des GIFs pendant la navigation.</string>
+    <string name="blocked_hour">Intervalle bloquer</string>
+    <string name="lock_usage_title">Nom de l\'intervalle</string>
+    <!--3.4.1-->
+    <string name="clearcache">Effacer le cache à la sortie</string>
+    <string name="clearcache_summary">Il faudra plus de temps pour ouvrir l\'application.</string>
+    <string name="last_opened">Dernier ouvert</string>
+    <string name="remove_bookmark">Supprimer le signet ?</string>
+    <string name="are_you_sure">Êtes-vous sûr de vouloir supprimer %1$s de vos favoris ?</string>
+    <string name="update_link">https://makisocial.com/category/updates/</string>
+    <!--3.6-->
+    <string name="block_links">Pages bloquées</string>
+    <string name="block_links_summary">Bloquez les pages que vous ne souhaitez pas voir.</string>
+    <string name="blocked_page">Page bloquer</string>
+    <string name="blocked_page_summary">Cette page a été bloquée par vous</string>
+    <!--Intro-->
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">Bienvenue chez Maki</string>
+    <string name="intro_description">Juste la meilleure application Facebook</string>
+    <string name="facebook_play">Vidéos sur Watch</string>
+    <string name="marketplace">Marketplace</string>
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">Glisser pour fermer</string>
+    <string name="enable_swipe_close">Fermez les pages en balayant de gauche à droite</string>
+    <!--3.7-->
+    <string name="enabled">Activer</string>
+    <string name="donate_maki">Soutenir le développement Maki</string>
+    <string name="donate_maki_more">Bonjour. Mon nom est Roman, je suis un développeur de Maki et je suis très heureux que vous continuiez à utiliser et à apprécier Maki. Si vous le faites vraiment, vous pouvez soutenir Maki et les projets futurs encore plus avec un don supplémentaire.</string>
+    <!--3.9-->
+    <string name="plus_block">Gagner du temps</string>
+    <string name="plus_block_description">Limiter l\'utilisation de Facebook et passez votre temps mieux: amis, famille, loisirs, travail, etc.</string>
+    <string name="plus_block_pages">Pas de distraction</string>
+    <string name="plus_block_pages_description">Bloquer facilement les pages que vous ne souhaitez pas voir.</string>
+    <string name="autoplay_videos">Lecture automatique</string>
+    <string name="autoplay_videos_summary">Activer la lecture automatique des vidéos, vous ne pourrez pas télécharger et partager de vidéos une fois activé.</string>
+    <string name="images_play">Désactiver la visionneuse d\'images Maki</string>
+    <string name="images_play_summary">Utiliser le bouton \"Afficher en taille réelle\" sous l\'image pour ouvrir une photo.</string>
+    <string name="hide_navigation">Onglets et barre de titre</string>
+    <string name="hide_navigation_summary">Activer pour masquer les onglets et la barre de titre lors du défilement.</string>
+
+    <!--3.9.2-->
+    <string name="finish_call">Fin d\'appel</string>
+    <string name="finish_call_description">Voulez-vous mettre fin à un appel?l?</string>
+
+    <string name="colored_navigation">Navigation colorée</string>
+    <string name="colored_navigation_summary">Remplir l\'arrière-plan des boutons de navigation avec une couleur de thème</string>
+    <string name="not_supported">Votre appareil ne prend pas en charge cette fonctionnalité</string>
+
+    <string name="add_keyword">Ajouter un mot clé</string>
+    <string name="rate_dialog">Noter Maki</string>
+    <string name="rate_dialog_more">Que pensez-vous de Maki ? Laissez un commentaire sur Google Play ou contactez nous pour que nous puissions résoudre le problème ensemble. Améliorons Maki ensemble !</string>
+    <string name="help">Aidez-moi</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">Désactiver le balayage</string>
+    <string name="disable_swipe_tabs_summary">Désactiver le balayage entre les pages d\'un écran d\'accueil</string>
+
+    <string name="maki_sale">Maki Plus avec réduction!</string>
+    <string name="maki_sale_summary">Ne perdez pas une chance d\'obtenir Maki Plus avec un rabais. Appuyez ici pour l\'obtenir.</string>
+
+    <string name="maki_update">Une mise à jour est disponible!</string>
+    <string name="maki_update_summary">Obtenez la dernière version de Maki avec des améliorations et des corrections de bugs de Google Play. Appuyez ici pour mettre à jour.</string>
+
+    <string name="check_for_updates">Vérifier les mises à jour</string>
+    <string name="check_for_updates_summary">Recevez une notification sur la nouvelle mise à jour de Maki</string>
+
+    <string name="personalization">Personnalisation</string>
+    <string name="power_usage">Economie d\'énergie</string>
+    <string name="news_feed">Fil d\'actualité</string>
+
+    <!--4.0-->
+    <string name="donation_title">Facebook et Messenger ensemble ❤️</string>
+    <string name="about_description">Pourquoi avez-vous besoin d\'utiliser Facebook et Messenger séparément s\'ils pouvaient former un couple aussi charmant et vivre ensemble à Maki?</string>
+    <string name="auto_power_saving">Économie d\'énergie automatique</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>Désactivé</item>
+    </string-array>
+
+    <string name="audio_call">Appel vocal</string>
+    <string name="video_call">Appel vidéo</string>
+    <string name="group_chat">Discussion de groupe</string>
+    <string name="file_chooser_error">Impossible d\'ouvrir le sélecteur de fichier</string>
+
+    <string name="chat_bubbles">Bulles de discussion</string>
+    <string name="chat_bubbles_summary">Notifications ouvertes dans les bulles de discussion</string>
+
+    <string name="give_permission_photos">Vous devez donner des autorisations pour télécharger des photos depuis un appareil photo.</string>
+    <string name="heads_hint">Appuyez et maintenez une bulle de discussion pour la supprimer</string>
+
+    <string name="messenger_slow">Connection lente</string>
+    <string name="messenger_slow_summary">Utiliser Messenger simplifié lorsque la connexion est lente</string>
+    <string name="messenger_network">Réseau mobile</string>
+    <string name="messenger_network_summary">Utiliser Messenger simplifié lors de l\'utilisation d\'un réseau mobile</string>
+
+    <string name="got_it">Je l\'ai</string>
+    <string name="messenger_slow_dialog">On dirait que votre connexion est lente - vous passerez à Messenger simplifié. Vous pouvez désactiver cette option dans la catégorie \"Facebook\" des paramètres de l\'application.</string>
+    <string name="messenger_network_dialog">Vous êtes sur un réseau mobile - Messenger passe en mode simplifié. Vous pouvez désactiver cette option dans la catégorie \"Facebook\" des paramètres de l\'application.</string>
+
+    <string name="restart">Un pas de plus</string>
+    <string name="restart_summary">Fermer et ouvrir à nouveau la conversation pour enregistrer des messages vocaux</string>
+
+    <string name="chat_bubbles_foreground">Les bulles de discussion fonctionnent en arrière-plan</string>
+    <string name="privacy_plus">Vraiment amical</string>
+    <string name="privacy_plus_summary">Maki ne collecte et ne vend pas vos informations personnelles - votre vie privée est beaucoup plus importante que nos revenus.</string>
+
+    <string name="remove_sponsored_plus">Au revoir, les annonces!</string>
+
+    <!--4.1 Hortensia-->
+    <string-array name="browser_entries">
+        <item>Chrome Custom Tabs</item>
+        <item>Navigateur Maki</item>
+        <item>Navigateur externe</item>
+    </string-array>
+
+    <string name="blocked_hours_list">Intervalles bloqués</string>
+    <string name="blocked_hours_list_summary">Ajouter ou modifier des intervalles de temps bloqués</string>
+
+    <string name="nothing_found">Rien n\'a été trouvé</string>
+    <string name="error_opening">Désolé, un lien n\'a pas pu être ouvert</string>
+
+    <string name="select_start_time">Sélectionnez l\'heure de début</string>
+    <string name="select_end_time">Sélectionnez l\'heure de fin</string>
+
+    <string name="cant_add_keyword">Désolé, je ne peux pas ajouter un mot clé vide</string>
+    <string name="quickbar_expand">Appuyez pour développer</string>
+    <string name="restore_purchase">Restaurer l\'achat</string>
+</resources>

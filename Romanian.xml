@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maki_name">Maki</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anulare</string>
+    <string name="choose_email_client">Alegeți clientul de e-mail</string>
+    <string name="no_network">Nu sunteți conectat.</string>
+    <string name="title_activity_settings">Setări</string>
+    <string name="preference_about_category">Despre</string>
+    <string name="share_action">Distribuie</string>
+    <string name="error">Eroare</string>
+    <string name="fragment_main_downloading">Descărcare&#8230;</string>
+    <string name="settings_more">Mai mult</string>
+    <string name="messages">Mesaje</string>
+    <string name="favorites">Favorite</string>
+    <string name="photos">Fotografii</string>
+    <string name="privacy">Setările de confidențialitate</string>
+    <string name="fb_chat">Prieteni activi</string>
+    <string name="pokes">Ciupituri</string>
+    <string name="refresh">Împrospătare</string>
+    <string name="notifications">Notificări</string>
+    <string name="search">Căutare</string>
+    <string name="exit">Închide</string>
+    <string-array name="pref_theme_entries">
+        <item>Maki</item>
+        <item>Facebook albastru</item>
+        <item>Întuneric</item>
+        <item>Albastru inchis</item>
+        <item>AMOLED</item>
+        <item>Alb-negru</item>
+        <item>Roșu</item>
+        <item>Şoim</item>
+        <item>Roz</item>
+        <item>Mov inchis</item>
+        <item>Verde inchis</item>
+        <item>Verde deschis</item>
+        <item>Chihlimbar</item>
+        <item>Adânc portocaliu</item>
+        <item>Cyan</item>
+        <item>Viber</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Google Plus</item>
+        <item>VK</item>
+        <item>Reddit</item>
+    </string-array>
+    <string name="addPage">Adaugă la favorite</string>
+    <string name="notification_sound">Sunet de notificare</string>
+    <string name="silent">Nici un sunet</string>
+    <string name="vibrate">Vibrează</string>
+    <string name="led_light">LED</string>
+    <string name="maki_lock">Activați blocarea cu cod</string>
+    <string name="lock_text_new">Protejați Maki cu un cod</string>
+    <string name="lock_text_new_fingerprint">Alternativ, puteți utiliza amprenta</string>
+    <string name="context_save_image">Descărcați imaginea</string>
+    <string name="context_share_image">Distribuiți imaginea</string>
+    <string name="context_copy_image_link">Copiază legătură</string>
+    <string name="context_share_image_progress">Pregătire&#8230;</string>
+    <string name="content_copy_link_done">Legătură copiată</string>
+    <string name="permission_denied">Acces refuzat. Această acțiune nu poate fi finalizată.</string>
+    <string name="save_img">Salvați</string>
+    <string name="download_manager_disabled">Manager Descărcări dezactivat</string>
+    <string name="hide_ads">Eliminați postările sponsorizate</string>
+    <string name="hide_ads_more">Eliminați toate reclamele din fluxul de știri Facebook</string>
+    <string name="exit_message">Sigur vrei să închizi Maki?</string>
+    <string name="welcome">Salut</string>
+    <string name="saved_pin_message">Dacă ați uitat codul PIN, vă rugăm să ștergeți datele Maki din managerul de aplicații al telefonului dvs.</string>
+    <string name="pin_code_step_disable">Dezactivare parolă</string>
+    <string name="pin_code_step_create">Creează o parolă</string>
+    <string name="pin_code_step_change">Introduceți parola curentă</string>
+    <string name="pin_code_step_unlock">Introduceți parola</string>
+    <string name="pin_code_step_enable_confirm">Confirmați parola</string>
+    <string name="pin_code_fingerprint_text">Amprentă digitală</string>
+    <string name="pin_code_fingerprint_not_recognized">Încearcă din nou</string>
+    <string name="open_in_browser">Deschide în browser</string>
+    <string name="copy_url">Copiați în clipboard</string>
+    <string name="download">Descarcă</string>
+    <string name="removed">Îndepărtat</string>
+    <string name="auto_night_title">Temă automată de noapte</string>
+    <string name="auto_night_more">Tema întunecată va fi activată automat în timpul nopții</string>
+    <string name="save_to">Salvat în:</string>
+    <string name="font_size">Marimea fontului</string>
+    <string name="quickbar">Bară rapidă</string>
+    <string name="ratemaki">Evaluați Maki</string>
+    <string name="feedback_mail">Părere</string>
+    <string name="messenger_app">Aplicația Facebook Messenger</string>
+    <string name="messenger_app_more">Utilizați aplicația Facebook Messenger în loc de Messengerul încorporat</string>
+
+    <string name="addHome">Adăugați la ecranul de start</string>
+    <string name="power_saving_mode">Modul de economisire a energiei</string>
+    <string name="thanks_support">Mulțumesc pentru sprijin!</string>
+    <string name="unable_purchase">Achiziția a fost anulată</string>
+    <string name="added">Salvat în favorite</string>
+    <string name="download_complete">Descărcare completă</string>
+    <string name="license">Licențe open source</string>
+    <string name="locked">Blocat</string>
+    <string name="please_enter_passcode">Introduceți un cod</string>
+    <string name="buy_plus">Maki poate fi mai bun</string>
+    <string name="buy_plus_more">Puteți face Maki și mai bun cu versiunea Plus - controlați-vă utilizarea aplicației, eliminați publicitatea, creați comenzi rapide, activați tema auto nocturnă și susțineți dezvoltatorii.</string>
+    <string name="lets_do_it">S-o facem!</string>
+    <string name="later">Mai târziu</string>
+    <string name="start">Să mergem</string>
+    <string name="thanks">Mulțumim foarte mult!</string>
+    <string name="web">Contact</string>
+    <string name="shortcuts">Comenzi rapide</string>
+    <string name="close">Închide</string>
+    <string name="support">Suport</string>
+    <string name="maki_plus">Maki Plus</string>
+    <string name="help_translate">Ajutați la traducere</string>
+    <string name="open_in">Navigare în aplicație</string>
+    <string name="open_in_more">Deschideți legături externe în Maki</string>
+    <string name="top_tabs">Navigare sus</string>
+    <string name="top_tabs_more">Afișați fila de navigare în partea de sus</string>
+    <string name="fbpage">Pagina de Facebook</string>
+    <string-array name="messenger_choice">
+        <item>Mesager în Maki</item>
+        <item>Messenger simplificat</item>
+        <item>Aplicația Messenger</item>
+        <item>Aplicația Messenger Lite</item>
+        <item>Disa Messenger</item>
+    </string-array>
+    <string name="problems_purchase">Vă mulțumim foarte mult că ne-ați susținut! Din păcate, se pare că aveți unele probleme cu achiziția. Ei bine, această pagină a fost creată doar pentru a rezolva această problemă.
+\n\n
+Avem câteva soluții posibile:\n\n
+1) Reporniți Maki. Închideți aplicația și lansați-o de la zero, deschideți setările și încercați să activați orice caracteristică Plus.
+\n\n
+2) Dacă prima soluție nu funcționează - încercați să faceți din nou clic pe „Cumpărați Maki Plus”. Această acțiune vă va restabili achiziția (nu veți cheltui banii din nou, nu vă faceți griji). După, reporniți aplicația și încercați să activați orice caracteristică Plus.
+\n\n
+3) După ce ați urmat pașii de mai sus, dacă nimic din toate acestea nu funcționează - contactați-ne! Cu siguranță vom găsi împreună cea mai bună soluție.
+\n\n
+E-mailul nostru: makifeedback@gmail.com\n
+Pagina de Facebook: m.facebook.com/sunshineappsst
+\n\n
+Cu respect, Sunshine Apps</string>
+
+    <string name="social_medias">Rețele de socializare</string>
+    <string name="hide_twitter">Ascunde Twitter</string>
+    <string name="hide_instagram">Ascunde Instagram</string>
+    <string name="hide_tumblr">Ascunde Tumblr</string>
+    <string name="hide_vk">Ascunde VK</string>
+    <!-- Notifications -->
+    <string name="facebook_message">Notificări Mesaje</string>
+    <string name="facebook_notifications">Notificari Facebook</string>
+    <string name="notification_sound_description">"Alege un ringtone sau f\u0103r\u0103 sunet: "</string>
+    <string name="interval_pref">Intervalul de timp pentru verificare</string>
+    <string name="interval_pref_description_new">Notificările vor fi verificate la fiecare %s.</string>
+    <string name="notification_sound_msg">Sunet pentru mesaje</string>
+    <string name="blacklist_title">Lista neagră</string>
+    <string name="new_black_word">Scrie un nou cuvânt pentru blocare</string>
+    <string name="blacklist_summary">Lista cuvinte pentru a bloca notificările</string>
+    <string name="exact">Timp exact</string>
+    <string name="exact_summary">Reduceți întârzierea notificării. Nu este prietenos cu bateria</string>
+    <string-array name="intervalPrefTitles">
+        <item>30 secunde</item>
+        <item>60 secunde</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>1 oră</item>
+        <item>3 ore</item>
+        <item>6 ore</item>
+    </string-array>
+
+    <!--2.4.2-->
+    <string name="enable_exit">Confirmare ieșire</string>
+    <string name="enable_fab">Buton de acțiune flotant</string>
+    <!--2.4.3-->
+    <string name="fab_text">Postează un status</string>
+    <string name="done">Terminat!</string>
+    <string name="facebook_limit">Ne pare rău, dar Facebook nu vă permite să partajați un text simplu în acest moment - doar link-uri!</string>
+    <!--2.4.6-->
+    <string name="font_details">Introduceți dimensiunea fontului într-un interval cuprins între 50 și 170%</string>
+    <string name="problems_with_purchase">Probleme cu achiziția?</string>
+    <!--2.5-->
+    <string name="switch_profile">Schimbați profilul</string>
+    <string name="launch_social">Începeți Maki cu</string>
+    <string name="hide_reddit">Ascundeți Reddit</string>
+    <string name="hide_facebook">Ascundeți Facebook</string>
+    <string name="thanks_to">Recunoştinţă</string>
+    <!--2.5.2-->
+    <string name="notif">Notificări</string>
+    <!--Maki 2.6-->
+    <!--Maki 2.6.1-->
+    <!--New settings-->
+    <string name="top_news">Știri de top</string>
+    <string name="top_news_firstly">Arătați știrile de top în fluxul de noutăți</string>
+    <string name="hide_people">Persoane pe care i-ai putea cunoaşte</string>
+    <string name="hide_people_summary">Eliminați prietenii recomandați din fluxul de noutăți</string>
+    <string name="hide_groups">Grupuri recomandate</string>
+    <string name="hide_groups_summary">Eliminați grupurile sugerate din fluxul de noutăți</string>
+    <string name="hide_news_feed">Ascundeți fluxul de noutăți</string>
+    <string name="hide_news_feed_summary">Pentru cei care nu vor să piardă timpul într-un flux de noutăți!</string>
+    <string name="maki_themes">Temă</string>
+    <string name="disable_images">Dezactivați imaginile</string>
+    <string name="disable_images_summary">Salvați datele dezactivând încărcarea imaginilor</string>
+    <string name="general_settings">General</string>
+    <string name="enable_quickview">Vizualizare rapidă</string>
+    <string name="enable_quickview_summary">Atingeți și mențineți apăsat un link pentru a-l vizualiza</string>
+    <string name="enable_exit_summary">Afișați dialogul de confirmare înainte de a părăsi aplicația</string>
+    <string name="enable_fab_summary">Utilizați un mic buton în colțul din dreapta jos, în locul actualizatorului statusului Facebook</string>
+    <string name="power_saving_mode_more">Dezactivați majoritatea funcțiilor pentru a economisi bateria</string>
+    <string name="enable_location">Locație</string>
+    <string name="enable_location_summary">Dați acces lui Maki la locație pentru a o folosi la check-in-uri</string>
+    <!--Notification channels-->
+    <string name="notifications_channel">Setările canalului de notificări</string>
+    <string name="messages_channel">Setările canalului de mesaje</string>
+    <string name="notifications_channel_summary">Setați importanța, un sunet de notificări și multe altele</string>
+    <string name="messages_channel_summary">Setați importanța, un sunet de mesaje și multe altele</string>
+    <!--New menu-->
+    <string name="view_profile">Vizualizați profilul dvs.</string>
+    <string name="groups_nav">Grupuri</string>
+    <string name="find_friends_nav">Gasește prieteni</string>
+    <string name="events_nav">Evenimente</string>
+    <string name="this_day_nav">În această zi</string>
+    <string name="saved_nav">Salvat</string>
+    <string name="pages_nav">Pagini</string>
+    <string name="local_nav">Local</string>
+    <string name="photos_nav">Fotografii</string>
+    <string name="most_recent_nav">Cel mai recent</string>
+    <!--2.6.2-->
+    <string name="hide_stories">Eliminați povestirile</string>
+    <string name="hide_stories_summary">Ascundeți povestirile din fluxul dvs. de noutăți</string>
+    <!--Intro-->
+    <string name="welcome_plus">Salut!</string>
+    <string name="plus_what">Ce vei primi?</string>
+    <string name="plus_support">Fiecare achiziție Maki Plus face Maki mai bun - este o motivație extraordinară pentru mine să adaug rapid noi funcții și să îmbunătățesc Maki!</string>
+    <string name="thanks_more">Mulțumesc foarte mult pentru sprijinul dvs! Acum vă puteți bucura de propria dvs. copie a Maki Plus. Cu dragoste, Sunshine Apps.</string>
+    <!--2.6.4-->
+    <string name="keep_screen">Ține ecranul aprins</string>
+    <string name="keep_screen_summary">Activați această opțiune pentru a menține permanent ecranul pornit atunci când utilizați Maki</string>
+    <string name="hide_telegram">Ascundeți Telegram</string>
+    <string name="hide_pinterest">Ascundeți Pinterest</string>
+    <string name="hide_birthdays">Zile de naștere</string>
+    <string name="hide_birthdays_summary">Eliminați notificările zilelor de naștere din fluxul de noutăți</string>
+    <!--Maki 3.0-->
+    <string name="call">Apel</string>
+    <string name="falcon_view">Vizualizare Falcon</string>
+    <string name="falcon_view_summary">Citiți articole fără a vizita un site web. Pagina implicită va fi deschisă dacă nu se adaugă nimic.</string>
+    <string name="special">Special</string>
+    <string name="hide_linkedin">Ascundeți  LinkedIn</string>
+    <string name="cant_call">Ne pare rău, nu puteți efectua un apel aici</string>
+    <string name="features_beta">Opțiuni beta</string>
+    <string name="features_beta_summary">Aceste opțiuni sunt încă în curs de dezvoltare și posibil nu sunt stabile, deci încercați-le doar dacă doriți cu adevărat!</string>
+    <string name="warning">Avertizare!</string>
+    <string name="plus_buy">Achiziționați Maki Plus</string>
+    <string name="plus_shortcuts">Folosiți Maki mai rapid - creați comenzi rapide pentru mesaje şi notificări pe ecranul de întâmpinare</string>
+    <string name="plus_ads">Dezactivați toate reclamele de pe Facebook în fluxul dvs. de știri pentru a vă concentra pe conținutul preferat</string>
+    <string name="quickbar_more">Obțineți acces la medii sociale de oriunde.</string>
+    <string name="plus_dark">Protejați-vă ochii noaptea cu o temă închisă automată.</string>
+    <string name="plus_summary">Obțineți o experiență cu totul nouă în utilizarea Maki - cea mai bună aplicație socială construită vreodată - cu extensii Plus.</string>
+    <string name="give_permission">Permisiuni necesare</string>
+    <string name="give_permission_summary">Trebuie să acordați câteva permisiuni înainte de a-ți apela prietenii.</string>
+    <string name="allow">Permite</string>
+    <string name="manage">Gestionați mediile sociale</string>
+    <string name="manage_summary">Ascundeţi sau afişați mediile sociale preferate într-un selector</string>
+    <!--3.1-->
+    <string name="mark_notifications">Marchează ca citit</string>
+    <!--3.2-->
+    <string name="keyword_post">Eliminați postările după cuvântul cheie</string>
+    <string name="keyword_post_summary">Ascundeți publicațiile din fluxul de știri prin orice cuvânt cheie</string>
+    <string name="blocked_keywords">Cuvinte cheie blocate</string>
+    <string name="active_friends">Prieteni activi</string>
+    <string name="maki_plus_default">Maki Plus Standard</string>
+    <string name="remove_keyword">Eliminați cuvântul cheie</string>
+    <string name="remove_keyword_summary">Chiar doriți să eliminați acest cuvânt cheie?</string>
+    <string name="free_facebook">Utilizați free.facebook.com</string>
+    <string name="mbasic_facebook">Utilizați mbasic.facebook.com</string>
+    <string name="list_empty">Nu este nimic aici!</string>
+    <string name="quiet_hours">Nu deranja</string>
+    <string name="quiet_hours_summary">Selectați intervale de timp atunci când nu doriți să primiți notificări</string>
+    <string name="quiet_hour">Ore de liniște</string>
+    <string name="remove_interval">Înlăturați intervalul</string>
+    <string name="remove_interval_summary">Chiar doriți să eliminați acest interval?</string>
+    <string name="interval_from_to">De la %1$s până la %2$s</string>
+    <string name="lock_background">Parola de fundal</string>
+    <string name="lock_background_summary">Selectați o imagine ca fundal pentru parolă</string>
+    <string name="highlight_posts">Evidențiați postările</string>
+    <string name="highlight_posts_summary">Evidențiați publicațiile din fluxul de știri prin orice cuvânt cheie</string>
+    <string name="highlighted_post">Mesaj evidențiat</string>
+    <string name="tap_target_social">Comutați social media</string>
+    <string name="tap_target_social_summary">Apăsați aici pentru a selecta orice social media</string>
+    <string name="auto_night_plus">Protejează-ți ochii</string>
+    <string name="quickbar_plus">La vârful degetelor</string>
+    <!--3.3-->
+    <string name="see_more_results">Mai multe rezultate</string>
+    <string name="remove_this_ad">Eliminați această reclamă</string>
+    <string name="no_google_play">Îmi pare rău, dar nu puteți cumpăra Maki. Se pare că serviciile Google Play nu sunt instalate pe dispozitiv</string>
+    <!--3.4-->
+    <string name="blocked_hours">Utilizare limitată a aplicațiilor</string>
+    <string name="blocked_hours_summary">Stabiliți intervale de timp atunci când nu doriți să vă petreceți timpul în social</string>
+    <string name="blocked_hours_notify">Notifică</string>
+    <string name="blocked_hours_notify_summary">Obțineți o notificare atunci când ora blocată s-a terminat și puteți utiliza din nou aplicația</string>
+    <string name="block_links">Blocați paginile</string>
+    <string name="block_links_summary">Blocați paginile pe care nu doriți să le utilizați</string>
+    <string name="blocked_hours_finish">E timpul să ne întoarcem!</string>
+    <string name="blocked_hours_finish_summary">Acum poți folosi Maki din nou</string>
+    <string name="blocked_hours_disable_notifications">Dezactivați notificările în orele blocate</string>
+    <string name="blocked_hours_disable_notifications_summary">Dezactivați notificările atunci când nu puteți utiliza aplicația în orele blocate</string>
+    <string name="maki_is_locked">Maki este blocat</string>
+    <string name="blocked_description">Ați setat un interval de la %1$s până la %2$s pentru a bloca aplicația - utilizați acel timp pentru a face ceva grozav!</string>
+    <string name="blocked_links">Pagini blocate</string>
+    <string name="blocked_links_summary">Lista paginilor blocate de dvs.</string>
+    <string name="blocked_links_add">Blocați această legătură</string>
+    <string name="play_gifs">Redați GIF-uri</string>
+    <string name="play_gifs_summary">Deschideți GIF-urile în Maki</string>
+    <string name="blocked_page">Pagină blocată</string>
+    <string name="blocked_page_summary">Oops! Se pare că ați decis să blocați această pagină. Sunt destule alte pagini grozave pe care le puteți vizita, dar nu aceasta. Nu astăzi.</string>
+    <string name="blocked_hour">Interval blocat</string>
+    <string name="lock_usage_title">Numele intervalului</string>
+    <!--3.4.1-->
+    <string name="clearcache">Ștergeți memoria cache la ieșire</string>
+    <string name="clearcache_summary">Va dura mai mult timp pentru a se deschide aplicația.</string>
+    <string name="last_opened">Ultima deschidere</string>
+    <string name="remove_bookmark">Eliminați marcajul?</string>
+    <string name="are_you_sure">Sigur doriți să eliminați %1$s din preferatele dvs.?</string>
+
+    <!--Intro-->
+    <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
+    <string name="intro_title">Bun venit la Maki</string>
+    <string name="intro_description">Pur și simplu o aplicație mai bună pentru Facebook</string>
+    <string name="facebook_play">Facebook Watch</string>
+    <string name="marketplace">Marketplace</string>
+    <!--3.6.3 Sakura-->
+    <string name="enable_swipe">Glisați pentru a închide</string>
+    <string name="enable_swipe_close">Închideți paginile prin glisare de la stânga la dreapta</string>
+    <!--3.7-->
+    <string name="enabled">Activat</string>
+    <string name="donate_maki">Susțineți dezvoltarea Maki</string>
+    <string name="donate_maki_more">Salut! Numele meu este Roman, sunt un dezvoltator Maki și sunt foarte fericit că folosiți și vă bucurați de Maki. Dacă într-adevăr o faceți, puteți susține Maki și mai multe proiecte viitoare cu o donație suplimentară.</string>
+    <!--3.9-->
+    <string name="plus_block">Economisiți timp</string>
+    <string name="plus_block_description">Limitaţi utilizarea de Facebook şi petreceți acel timp într-un mod mai bun: prieteni, familie, hobby, muncă etc.</string>
+    <string name="plus_block_pages">Fără distragere</string>
+    <string name="plus_block_pages_description">Blocați cu ușurință paginile pe care nu doriți să le vizitați</string>
+    <string name="autoplay_videos">Redare automată a videoclipurilor</string>
+    <string name="autoplay_videos_summary">Activați videoclipuri cu redare automată. Nu veți putea descărca și partaja videoclipuri atunci când este activat.</string>
+    <string name="images_play">Dezactivați vizualizatorul de imagini Maki</string>
+    <string name="images_play_summary">Utilizați butonul \"Afișează în mărime completă\"  de sub imagine, pentru a o deschide</string>
+    <string name="hide_navigation">Ascundeți navigarea</string>
+    <string name="hide_navigation_summary">Ascundeți antetul și navigarea atunci când derulați</string>
+    <!--3.9.2-->
+    <string name="finish_call">Terminare apel</string>
+    <string name="finish_call_description">Vrei să închei un apel?</string>
+
+    <string name="colored_navigation">Navigare colorată</string>
+    <string name="colored_navigation_summary">Completați fundalul butoanelor de navigare cu o culoare tematică</string>
+    <string name="not_supported">Dispozitivul dvs. nu acceptă această caracteristică</string>
+
+    <!--3.9.3-->
+    <string name="add_keyword">Adăugați cuvinte cheie</string>
+    <string name="rate_dialog">Evaluează Maki</string>
+    <string name="rate_dialog_more">Îți place să folosești Maki? Dacă o faceți, ați lua un moment pentru a o evalua în Google Play? Nu va dura mult timp. Mulțumesc foarte mult!</string>
+    <string name="help">Ajutor</string>
+
+    <!--3.9.5-->
+    <string name="disable_swipe_tabs">Dezactivezi glisarea</string>
+    <string name="disable_swipe_tabs_summary">Dezactivează trecerea între paginile de pe ecranul de pornire al Maki</string>
+
+    <string name="maki_sale">Maki Plus este în vânzare!</string>
+    <string name="maki_sale_summary">Nu pierdeți șansa de a primi Maki Plus cu reducere. Atingeți aici pentru a obține.</string>
+
+    <string name="maki_update">O actualizare este disponibilă!</string>
+    <string name="maki_update_summary">Obțineți cea mai recentă versiune de Maki cu îmbunătățiri și corecții de erori. Atingeți pentru a deschide Google Play.</string>
+
+    <string name="check_for_updates">Verifică pentru actualizări</string>
+    <string name="check_for_updates_summary">Primiți notificări despre noi actualizări</string>
+
+    <string name="personalization">Personalizare</string>
+    <string name="power_usage">Economisire de energie</string>
+    <string name="news_feed">Flux de știri</string>
+
+    <string name="update_link">https://makisocial.com/category/updates/</string>
+
+    <!--4.0-->
+    <string name="donation_title">Facebook și Messenger împreună ❤️</string>
+    <string name="about_description">De ce ai nevoie să folosești Facebook și Messenger separat dacă pot fi un cuplu atât de minunat și să locuiești împreună în Maki?</string>
+    <string name="auto_power_saving">Economie automată de energie</string>
+
+    <string-array name="pref_auto_power_entries">
+        <item>15 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>Off</item>
+    </string-array>
+
+    <string name="audio_call">Apel voce</string>
+    <string name="video_call">Apel video</string>
+    <string name="group_chat">Chat de grup</string>
+    <string name="file_chooser_error">Nu se poate deschide selectorul de fișiere</string>
+
+    <string name="chat_bubbles">Capetele de chat</string>
+    <string name="chat_bubbles_summary">Deschideți notificările în capetele de chat</string>
+
+    <string name="give_permission_photos">Trebuie să dați permisiuni pentru a încărca fotografii dintr-o cameră foto.</string>
+    <string name="heads_hint">Atingeți și mențineți apăsat orice cap de chat pentru al elimina</string>
+
+    <string name="messenger_slow">Conectiune inceata</string>
+    <string name="messenger_slow_summary">Utilizați Messenger simplificat atunci când conexiunea este lentă</string>
+    <string name="messenger_network">Rețea mobilă</string>
+    <string name="messenger_network_summary">Utilizați Messenger simplificat când utilizați rețeaua mobilă</string>
+
+    <string name="got_it">Am înțeles</string>
+    <string name="messenger_slow_dialog">Se pare că conexiunea dvs. este lentă - veți fi schimbat la Messenger simplificat. Puteți dezactiva această opțiune din categoria „Facebook” din setările aplicației.</string>
+    <string name="messenger_network_dialog">Te afli într-o rețea mobilă - Messenger va fi schimbat pe Simplified. Puteți dezactiva această opțiune din categoria „Facebook” din setările aplicației.</string>
+
+    <string name="restart">Încă un pas</string>
+    <string name="restart_summary">Închideți și deschideți din nou conversația pentru a înregistra mesaje vocale</string>
+
+    <string name="chat_bubbles_foreground">Capetele de chat rulează în fundal</string>
+    <string name="privacy_plus">Chiar prietenos</string>
+    <string name="privacy_plus_summary">Maki nu colectează și nu vinde informațiile dvs. personale - confidențialitatea dvs. este mult mai importantă decât veniturile noastre</string>
+
+    <string name="remove_sponsored_plus">La revedere, reclame!</string>
+
+    <!--4.1 Hortensia-->
+    <string name="error_opening">Ne pare rău, nu a putut fi deschisă o legătură</string>
+
+    <string-array name="browser_entries">
+        <item>Chrome Custom Tabs</item>
+        <item>Browser Maki</item>
+        <item>Browser extern</item>
+    </string-array>
+
+    <string name="blocked_hours_list">Intervalele blocate</string>
+    <string name="blocked_hours_list_summary">Adăugați sau modificați intervalele de timp blocate</string>
+
+    <string name="nothing_found">Nimic gasit</string>
+
+    <string name="select_start_time">Selectați ora de început</string>
+    <string name="select_end_time">Selectați ora de încheiere</string>
+
+    <string name="cant_add_keyword">Ne pare rău, nu pot adăuga un cuvânt cheie gol</string>
+    <string name="quickbar_expand">Faceți clic pentru a extinde</string>
+
+    <string name="restore_purchase">Restabili cumpărare</string>
+</resources>
