@@ -320,9 +320,6 @@
     <string name="remove_keyword">قم بإزالة الكلمة الرئيسية</string>
     <string name="remove_keyword_summary">هل تريد حقًا إزالة هذه الكلمة الرئيسية؟</string>
 
-    <string name="free_facebook">استخدم free.facebook.com</string>
-    <string name="mbasic_facebook">استخدم mbasic.facebook.com</string>
-
     <string name="list_empty">لا شيء هنا!</string>
 
     <string name="quiet_hours">ساعات هادئة</string>
@@ -521,4 +518,9 @@
     <string name="cant_add_keyword">آسف ، لا أستطيع إضافة كلمة رئيسية فارغة</string>
     <string name="quickbar_expand">اضغط للتوسيع</string>
     <string name="restore_purchase">استعادة شراء</string>
+
+    <string name="power_website">نسخة الفيسبوك</string>
+
+    <string name="twitter_theme">التغريد الموضوع</string>
+    <string name="twitter_theme_summary">تطبيق سمة مخصصة على تويتر</string>
 </resources>

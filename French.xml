@@ -268,8 +268,6 @@ Meilleures salutations, Sunshine Apps
     <string name="maki_plus_default">Maki Plus Standard</string>
     <string name="remove_keyword">Supprimer le mot clé</string>
     <string name="remove_keyword_summary">Voulez-vous vraiment supprimer ce mot clé ?</string>
-    <string name="free_facebook">Utilisez free.facebook.com</string>
-    <string name="mbasic_facebook">Utilisez mbasic.facebook.com</string>
     <string name="list_empty">Aucun élément…</string>
     <string name="quiet_hours">Ne pas déranger</string>
     <string name="quiet_hours_summary">Sélectionnez les heures où vous souhaitez ne pas être déranger.</string>
@@ -436,4 +434,9 @@ Meilleures salutations, Sunshine Apps
     <string name="cant_add_keyword">Désolé, je ne peux pas ajouter un mot clé vide</string>
     <string name="quickbar_expand">Appuyez pour développer</string>
     <string name="restore_purchase">Restaurer l\'achat</string>
+
+    <string name="power_website">Version Facebook</string>
+
+    <string name="twitter_theme">Thème Twitter</string>
+    <string name="twitter_theme_summary">Appliquer un thème personnalisé sur Twitter</string>
 </resources>

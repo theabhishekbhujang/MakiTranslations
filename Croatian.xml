@@ -300,9 +300,6 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="remove_keyword">Ukloni ključnu riječ</string>
     <string name="remove_keyword_summary">Želite li zaista ukloniti ovu ključnu riječ?</string>
 
-    <string name="free_facebook">Koristiti free.facebook.com</string>
-    <string name="mbasic_facebook">Koristiti mbasic.facebook.com</string>
-
     <string name="list_empty">Ništa nije ovdje!</string>
 
     <string name="quiet_hours">Ne smetaj</string>
@@ -315,11 +312,11 @@ Sa srdačnim pozdravom, Sunshine Apps.
 
     <string name="lock_background">Pozadina lozinke</string>
     <string name="lock_background_summary">Odaberite sliku kao pozadinu zaporke</string>
-    
+
     <string name="highlight_posts">Označite postove</string>
     <string name="highlight_posts_summary">Označite publikacije u feedu vijesti bilo kojom ključnom riječi</string>
     <string name="highlighted_post">Istaknuto je post</string>
-    
+
     <string name="tap_target_social">Promijeni društveni</string>
     <string name="tap_target_social_summary">Dodirnite ovdje da biste odabrali bilo koji društveni</string>
     <string name="auto_night_plus">Spasite oči</string>
@@ -498,4 +495,9 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="cant_add_keyword">Nažalost, ne mogu dodati praznu ključnu riječ</string>
     <string name="quickbar_expand">Dodirnite za proširenje</string>
     <string name="restore_purchase">Vrati kupnju</string>
+
+    <string name="power_website">Facebook verzija</string>
+
+    <string name="twitter_theme">Tema na Twitteru</string>
+    <string name="twitter_theme_summary">Primjena prilagođene teme na Twitteru</string>
 </resources>

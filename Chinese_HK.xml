@@ -268,8 +268,6 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <string name="maki_plus_default">Maki Plus 標準版</string>
     <string name="remove_keyword">移除關鍵詞</string>
     <string name="remove_keyword_summary">是否移除此關鍵詞？</string>
-    <string name="free_facebook">使用 free.facebook.com</string>
-    <string name="mbasic_facebook">使用 mbasic.facebook.com</string>
     <string name="list_empty">此處空無一物！</string>
     <string name="quiet_hours">零打擾</string>
     <string name="quiet_hours_summary">選擇你不想接收任何通知的時間範圍</string>
@@ -436,4 +434,8 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <string name="quickbar_expand">點擊以展開</string>
     <string name="restore_purchase">恢復購買</string>
 
+    <string name="power_website">Facebook版本</string>
+
+    <string name="twitter_theme">Twitter主題</string>
+    <string name="twitter_theme_summary">在Twitter上應用自定義主題</string>
 </resources>

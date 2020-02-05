@@ -296,9 +296,6 @@
     <string name="remove_keyword">키워드 삭제</string>
     <string name="remove_keyword_summary">이 키워드를 정말로 삭제 하시겠습니까?</string>
 
-    <string name="free_facebook">free.facebook.com을 사용하십시오</string>
-    <string name="mbasic_facebook">mbasic.facebook.com 사용</string>
-
     <string name="list_empty">아무것도 여기에 없다!</string>
 
     <string name="quiet_hours">방해하지 마</string>
@@ -311,11 +308,11 @@
 
     <string name="lock_background">패스 코드 배경</string>
     <string name="lock_background_summary">이미지를 패스 코드 배경으로 선택하십시오.</string>
-    
+
     <string name="highlight_posts">소식 강조 표시</string>
     <string name="highlight_posts_summary">모든 키워드로 뉴스 피드의 발행물 강조 표시</string>
     <string name="highlighted_post">강조 표시된 게시물</string>
-    
+
     <string name="tap_target_social">계정 변경.</string>
     <string name="tap_target_social_summary">소셜 미디어를 선택하려면 여기를 누르십시오.</string>
     <string name="auto_night_plus">눈을 보호하십시오.</string>
@@ -497,4 +494,9 @@
     <string name="quickbar_expand">클릭하여 확장</string>
 
     <string name="restore_purchase">구매 복구</string>
+
+    <string name="power_website">페이스 북 버전</string>
+
+    <string name="twitter_theme">트위터 테마</string>
+    <string name="twitter_theme_summary">트위터에 커스텀 테마 적용</string>
 </resources>

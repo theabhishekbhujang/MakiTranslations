@@ -315,9 +315,6 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="remove_keyword">キーワードを削除</string>
     <string name="remove_keyword_summary">このキーワードを本当に削除しますか？</string>
 
-    <string name="free_facebook">free.facebook.comを使用する</string>
-    <string name="mbasic_facebook">mbasic.facebook.comを使う</string>
-
     <string name="list_empty">何もない！</string>
 
     <string name="quiet_hours">邪魔しないでください</string>
@@ -517,5 +514,9 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="quickbar_expand">クリックして展開</string>
 
     <string name="restore_purchase">購入商品を復元する</string>
-</resources>
 
+    <string name="power_website">Facebook版</string>
+
+    <string name="twitter_theme">Twitterテーマ</string>
+    <string name="twitter_theme_summary">Twitterでカスタムテーマを適用する</string>
+</resources>

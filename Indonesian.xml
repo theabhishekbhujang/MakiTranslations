@@ -291,9 +291,6 @@ Dengan salam, Aplikasi Sunshine
     <string name="remove_keyword">Hapus kata kunci</string>
     <string name="remove_keyword_summary">Apakah Anda benar-benar ingin menghapus kata kunci ini?</string>
 
-    <string name="free_facebook">Gunakan free.facebook.com</string>
-    <string name="mbasic_facebook">Gunakan mbasic.facebook.com</string>
-
     <string name="list_empty">Tidak ada apa-apa di sini!</string>
 
     <string name="quiet_hours">Jangan ganggu</string>
@@ -490,4 +487,9 @@ Dengan salam, Aplikasi Sunshine
     <string name="cant_add_keyword">Maaf, saya tidak dapat menambahkan kata kunci kosong</string>
     <string name="quickbar_expand">Ketuk untuk meluaskan</string>
     <string name="restore_purchase">Kembalikan pembelian</string>
+
+    <string name="power_website">Versi Facebook</string>
+
+    <string name="twitter_theme">Tampilan Twitter</string>
+    <string name="twitter_theme_summary">Terapkan tema khusus di Twitter</string>
 </resources>

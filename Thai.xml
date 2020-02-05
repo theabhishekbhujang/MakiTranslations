@@ -295,9 +295,6 @@
     <string name="remove_keyword">ลบคำค้นหา</string>
     <string name="remove_keyword_summary">คุณต้องการลบคำหลักนี้จริง ๆ หรือไม่?</string>
 
-    <string name="free_facebook">ใช้ free.facebook.com</string>
-    <string name="mbasic_facebook">ใช้ mbasic.facebook.com</string>
-
     <string name="list_empty">ไม่มีอะไรอยู่ที่นี่!</string>
 
     <string name="quiet_hours">ห้ามรบกวน</string>
@@ -310,11 +307,11 @@
 
     <string name="lock_background">พื้นหลังรหัสผ่าน</string>
     <string name="lock_background_summary">เลือกรูปภาพเป็นพื้นหลังรหัสผ่าน</string>
-    
+
     <string name="highlight_posts">เน้นโพสต์</string>
     <string name="highlight_posts_summary">เน้นสื่อสิ่งพิมพ์ในฟีดข่าวด้วยคำหลัก</string>
     <string name="highlighted_post">โพสต์ที่ไฮไลต์</string>
-    
+
     <string name="tap_target_social">เปลี่ยนโซเชียลมีเดีย</string>
     <string name="tap_target_social_summary">แตะที่นี่เพื่อเลือกโซเชียลใด ๆ</string>
     <string name="auto_night_plus">ปกป้องดวงตาของคุณ</string>
@@ -492,4 +489,9 @@
     <string name="cant_add_keyword">ขออภัยฉันไม่สามารถเพิ่มคำหลักที่ว่างเปล่า</string>
     <string name="quickbar_expand">แตะเพื่อขยาย</string>
     <string name="restore_purchase">คืนค่าการซื้อ</string>
+
+    <string name="power_website">เวอร์ชั่น Facebook</string>
+
+    <string name="twitter_theme">ชุดรูปแบบ Twitter</string>
+    <string name="twitter_theme_summary">ใช้ชุดรูปแบบที่กำหนดเองบน Twitter</string>
 </resources>

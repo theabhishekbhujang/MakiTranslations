@@ -296,9 +296,6 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="remove_keyword">Trefwoord verwijderen</string>
     <string name="remove_keyword_summary">Wilt u dit zoekwoord echt verwijderen?</string>
 
-    <string name="free_facebook">Gebruik free.facebook.com</string>
-    <string name="mbasic_facebook">Gebruik mbasic.facebook.com</string>
-
     <string name="list_empty">Niets is hier!</string>
 
     <string name="quiet_hours">Niet storen</string>
@@ -311,11 +308,11 @@ Met vriendelijke groeten, Sunshine Apps
 
     <string name="lock_background">Wachtwoord achtergrond</string>
     <string name="lock_background_summary">Selecteer een afbeelding als wachtwoordcode achtergrond</string>
-    
+
     <string name="highlight_posts">Markeer berichten</string>
     <string name="highlight_posts_summary">Markeer publicaties in de nieuwsfeed met een willekeurig zoekwoord</string>
     <string name="highlighted_post">Gemarkeerde post</string>
-    
+
     <string name="tap_target_social">Wissel sociaal</string>
     <string name="tap_target_social_summary">Tik hier om een sociaal netwerk te selecteren</string>
 
@@ -496,4 +493,9 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="cant_add_keyword">Sorry, ik kan geen leeg trefwoord toevoegen</string>
     <string name="quickbar_expand">Tik om uit te vouwen</string>
     <string name="restore_purchase">Herstel aankoop</string>
+
+    <string name="power_website">Facebook-versie</string>
+
+    <string name="twitter_theme">Twitter-thema</string>
+    <string name="twitter_theme_summary">Gebruik een aangepast thema op Twitter</string>
 </resources>

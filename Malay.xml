@@ -298,9 +298,6 @@ Dengan salam, Sunshine Apps
     <string name="remove_keyword">Alih keluar kata kunci</string>
     <string name="remove_keyword_summary">Adakah anda benar-benar mahu mengeluarkan kata kunci ini?</string>
 
-    <string name="free_facebook">Gunakan free.facebook.com</string>
-    <string name="mbasic_facebook">Gunakan mbasic.facebook.com</string>
-
     <string name="list_empty">Tiada apa-apa di sini!</string>
 
     <string name="quiet_hours">Jangan ganggu</string>
@@ -313,11 +310,11 @@ Dengan salam, Sunshine Apps
 
     <string name="lock_background">Latar belakang kata laluan</string>
     <string name="lock_background_summary">Pilih imej sebagai latar belakang kata laluan</string>
-    
+
     <string name="highlight_posts">Sorakan catatan</string>
     <string name="highlight_posts_summary">Serlahkan penerbitan dalam suapan berita dengan kata kunci apa pun</string>
     <string name="highlighted_post">Siaran yang disorot</string>
-    
+
     <string name="tap_target_social">Suis media sosial</string>
     <string name="tap_target_social_summary">Ketik sini untuk memilih mana-mana sosial</string>
     <string name="auto_night_plus">Simpan mata anda</string>
@@ -497,4 +494,9 @@ Dengan salam, Sunshine Apps
     <string name="cant_add_keyword">Maaf, saya tidak boleh menambah kata kunci kosong</string>
     <string name="quickbar_expand">Ketik untuk berkembang</string>
     <string name="restore_purchase">Pulihkan pembelian</string>
+
+    <string name="power_website">Versi Facebook</string>
+
+    <string name="twitter_theme">Tema Twitter</string>
+    <string name="twitter_theme_summary">Guna tema tersuai di Twitter</string>
 </resources>

@@ -314,9 +314,6 @@ Com os melhores cumprimentos, Sunshine Apps
     <string name="remove_keyword">Remover palavra-chave</string>
     <string name="remove_keyword_summary">Você realmente quer remover essa palavra-chave?</string>
 
-    <string name="free_facebook">Use free.facebook.com</string>
-    <string name="mbasic_facebook">Use mbasic.facebook.com</string>
-
     <string name="list_empty">Nada está aqui!</string>
 
     <string name="quiet_hours">Não perturbe</string>
@@ -516,5 +513,9 @@ Com os melhores cumprimentos, Sunshine Apps
     <string name="quickbar_expand">Clique para expandir</string>
 
     <string name="restore_purchase">Restaurar compra</string>
-</resources>
 
+    <string name="power_website">Versão do Facebook</string>
+
+    <string name="twitter_theme">Tema do Twitter</string>
+    <string name="twitter_theme_summary">Aplicar tema personalizado no Twitter</string>
+</resources>

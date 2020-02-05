@@ -311,9 +311,6 @@
     <string name="remove_keyword">Удалить ключевое слово</string>
     <string name="remove_keyword_summary">Вы действительно хотите удалить это ключевое слово?</string>
 
-    <string name="free_facebook">Открывать free.facebook.com</string>
-    <string name="mbasic_facebook">Открывать mbasic.facebook.com</string>
-
     <string name="list_empty">Здесь пустенько!</string>
 
     <string name="quiet_hours">Не беспокоить</string>
@@ -509,4 +506,9 @@
     <string name="cant_add_keyword">Извините, я не могу добавить пустое ключевое слово</string>
     <string name="quickbar_expand">Нажмите, чтобы развернуть</string>
     <string name="restore_purchase">Восстановить покупку</string>
+
+    <string name="power_website">Версия Facebook</string>
+
+    <string name="twitter_theme">Оформление Twitter</string>
+    <string name="twitter_theme_summary">Примените собственный стиль оформления в Twitter</string>
 </resources>

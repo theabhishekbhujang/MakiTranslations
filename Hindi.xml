@@ -299,9 +299,6 @@
     <string name="remove_keyword">कीवर्ड निकालें</string>
     <string name="remove_keyword_summary">क्या आप वास्तव में इस कीवर्ड को हटाना चाहते हैं?</string>
 
-    <string name="free_facebook">free.facebook.com का उपयोग करें</string>
-    <string name="mbasic_facebook">mbasic.facebook.com का उपयोग करें</string>
-
     <string name="list_empty">यहाँ कुछ भी नहीं है!</string>
 
     <string name="quiet_hours">परेशान न करें</string>
@@ -314,11 +311,11 @@
 
     <string name="lock_background">पासवर्ड की पृष्ठभूमि</string>
     <string name="lock_background_summary">पासकोड बैकग्राउंड के रूप में एक छवि चुनें</string>
-    
+
     <string name="highlight_posts">पोस्ट हाइलाइट करें</string>
     <string name="highlight_posts_summary">किसी भी कीवर्ड द्वारा समाचार फ़ीड में प्रकाशनों को हाइलाइट करें</string>
     <string name="highlighted_post">हाइलाइट की गई पोस्ट</string>
-    
+
     <string name="tap_target_social">किसी भी सोशल मीडिया का चयन करने के लिए यहां टैप करें</string>
     <string name="tap_target_social_summary">किसी भी सामाजिक का चयन करने के लिए यहां टैप करें</string>
 
@@ -498,4 +495,9 @@
     <string name="cant_add_keyword">क्षमा करें, मैं एक खाली कीवर्ड नहीं जोड़ सकता</string>
     <string name="quickbar_expand">का विस्तार करने के लिए टैप करें</string>
     <string name="restore_purchase">पुनःस्थापन क्रय</string>
+
+    <string name="power_website">फेसबुक संस्करण</string>
+
+    <string name="twitter_theme">ट्विटर थीम</string>
+    <string name="twitter_theme_summary">ट्विटर पर कस्टम थीम लागू करें</string>
 </resources>

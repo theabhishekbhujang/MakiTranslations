@@ -155,7 +155,7 @@
 3) Якщо не спрацювало нічого - напишіть нам! Разом ми точно знайдемо найкраще вирішення.
 \n\n
 Наша пошта: makifeedback@gmail.com\n
-Сторінка Facebook: m.facebook.com/sunshineappsst 
+Сторінка Facebook: m.facebook.com/sunshineappsst
 \n\n
 З найкращими побажаннями, Sunshine Apps
 
@@ -306,9 +306,6 @@
     <string name="maki_plus_default">Стандартна Maki Plus</string>
     <string name="remove_keyword">Усунути ключове слово</string>
     <string name="remove_keyword_summary">Ви справді хочете усунути це ключеве слово?</string>
-
-    <string name="free_facebook">Відкривати free.facebook.com</string>
-    <string name="mbasic_facebook">Відкривати mbasic.facebook.com</string>
 
     <string name="list_empty">Хіба ревуть воли, як слів немає?</string>
 
@@ -506,5 +503,9 @@
     <string name="cant_add_keyword">На жаль, я не можу додати порожнє ключове слово</string>
     <string name="quickbar_expand">Торкніться, щоб розгорнути</string>
     <string name="restore_purchase">Відновити покупку</string>
-</resources>
 
+    <string name="power_website">Версія Facebook</string>
+
+    <string name="twitter_theme">Оформлення Twitter</string>
+    <string name="twitter_theme_summary">Застосуйте обраний стиль в Twitter</string>
+</resources>

@@ -294,8 +294,6 @@ Saygılarımızla, Sunshine Apps
     <string name="remove_keyword">Anahtar kelimeyi kaldır</string>
     <string name="remove_keyword_summary">Bu anahtar kelimeyi gerçekten kaldırmak istiyor musunuz?</string>
 
-    <string name="free_facebook">free.facebook.com kullanın</string>
-    <string name="mbasic_facebook">mbasic.facebook.com adresini kullanın</string>
     <string name="list_empty">Burada hiçbir şey yok!</string>
 
     <string name="quiet_hours">Rahatsız etmeyin</string>
@@ -492,4 +490,8 @@ Saygılarımızla, Sunshine Apps
     <string name="quickbar_expand">Genişletmek için hafifçe vurun</string>
     <string name="restore_purchase">Satın almayı geri yükle</string>
 
+    <string name="power_website">Facebook sürümü</string>
+
+    <string name="twitter_theme">Twitter teması</string>
+    <string name="twitter_theme_summary">Twitter\'da özel tema uygulama</string>
 </resources>

@@ -266,8 +266,6 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="maki_plus_default">Maki Plus Alapértelmezett</string>
     <string name="remove_keyword">Kulcsszó eltávolítása</string>
     <string name="remove_keyword_summary">Tényleg el akarja távolítani ezt a kulcsszót?</string>
-    <string name="free_facebook">Használja a free.facebook.com oldalt</string>
-    <string name="mbasic_facebook">Használja az mbasic.facebook.com szolgáltatást</string>
     <string name="list_empty">Nincs itt semmi!</string>
     <string name="quiet_hours">Ne zavarj</string>
     <string name="quiet_hours_summary">Válassza ki az időintervallumokat, ha nem szeretne értesítést kapni</string>
@@ -443,4 +441,9 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="cant_add_keyword">Sajnálom, nem tudok hozzáadni egy üres kulcsszót</string>
     <string name="quickbar_expand">Érintse meg a kibontáshoz</string>
     <string name="restore_purchase">Vásárlás visszaállítása</string>
+
+    <string name="power_website">Facebook verzió</string>
+
+    <string name="twitter_theme">Twitter téma</string>
+    <string name="twitter_theme_summary">Alkalmazzon egyedi témát a Twitteren</string>
 </resources>

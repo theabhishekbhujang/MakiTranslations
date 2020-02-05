@@ -316,9 +316,6 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="remove_keyword">Stichwort entfernen</string>
     <string name="remove_keyword_summary">Möchten Sie dieses Stichwort wirklich entfernen?</string>
 
-    <string name="free_facebook">Benutzen free.facebook.com</string>
-    <string name="mbasic_facebook">Benutzen mbasic.facebook.com</string>
-
     <string name="list_empty">Nichts ist da!</string>
 
     <string name="quiet_hours">Bitte nicht stören</string>
@@ -516,5 +513,9 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="cant_add_keyword">Ich kann leider kein leeres Keyword hinzufügen</string>
     <string name="quickbar_expand">Zum Erweitern tippen</string>
     <string name="restore_purchase">Kauf wiederherstellen</string>
-</resources>
 
+    <string name="power_website">Facebook-Version</string>
+
+    <string name="twitter_theme">Twitter-Thema</string>
+    <string name="twitter_theme_summary">Wende ein benutzerdefiniertes Thema auf Twitter an</string>
+</resources>

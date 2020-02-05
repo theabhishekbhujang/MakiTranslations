@@ -295,9 +295,6 @@ S pozdravem, Sunshine Apps.
     <string name="remove_keyword">Odebrat klíčové slovo</string>
     <string name="remove_keyword_summary">Opravdu chcete toto klíčové slovo odstranit?</string>
 
-    <string name="free_facebook">Použijte free.facebook.com</string>
-    <string name="mbasic_facebook">Použijte mbasic.facebook.com</string>
-
     <string name="list_empty">Nic není tady!</string>
 
     <string name="quiet_hours">Nerušit</string>
@@ -310,11 +307,11 @@ S pozdravem, Sunshine Apps.
 
     <string name="lock_background">Heslo na pozadí</string>
     <string name="lock_background_summary">Vyberte obrázek jako pozadí přístupového kódu</string>
-    
+
     <string name="highlight_posts">Zvýrazněte příspěvky</string>
     <string name="highlight_posts_summary">Zvýrazněte publikace ve zdroji zpráv libovolným klíčovým slovem</string>
     <string name="highlighted_post">Zvýrazněný příspěvek</string>
-    
+
     <string name="tap_target_social">Změna sociálních médií</string>
     <string name="tap_target_social_summary">Klepnutím sem vyberte jakoukoli sociální skupinu</string>
 
@@ -496,4 +493,9 @@ S pozdravem, Sunshine Apps.
     <string name="cant_add_keyword">Litujeme, ale nemohu přidat prázdné klíčové slovo</string>
     <string name="quickbar_expand">Klepnutím rozbalte</string>
     <string name="restore_purchase">Obnovit nákup</string>
+
+    <string name="power_website">Verze na Facebooku</string>
+
+    <string name="twitter_theme">Twitter téma</string>
+    <string name="twitter_theme_summary">Použít vlastní motiv na Twitteru</string>
 </resources>

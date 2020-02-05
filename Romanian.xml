@@ -266,8 +266,6 @@ Cu respect, Sunshine Apps</string>
     <string name="maki_plus_default">Maki Plus Standard</string>
     <string name="remove_keyword">Eliminați cuvântul cheie</string>
     <string name="remove_keyword_summary">Chiar doriți să eliminați acest cuvânt cheie?</string>
-    <string name="free_facebook">Utilizați free.facebook.com</string>
-    <string name="mbasic_facebook">Utilizați mbasic.facebook.com</string>
     <string name="list_empty">Nu este nimic aici!</string>
     <string name="quiet_hours">Nu deranja</string>
     <string name="quiet_hours_summary">Selectați intervale de timp atunci când nu doriți să primiți notificări</string>
@@ -437,4 +435,9 @@ Cu respect, Sunshine Apps</string>
     <string name="quickbar_expand">Faceți clic pentru a extinde</string>
 
     <string name="restore_purchase">Restabili cumpărare</string>
+
+    <string name="power_website">Versiunea Facebook</string>
+
+    <string name="twitter_theme">Tema Twitter</string>
+    <string name="twitter_theme_summary">Aplicați tema personalizată pe Twitter</string>
 </resources>

@@ -299,9 +299,6 @@
     <string name="remove_keyword">শব্দ সরান</string>
     <string name="remove_keyword_summary">আপনি কি সত্যিই এই শব্দটি মুছে ফেলতে চান?</string>
 
-    <string name="free_facebook">free.facebook.com ব্যবহার করুন</string>
-    <string name="mbasic_facebook">mbasic.facebook.com ব্যবহার করুন</string>
-
     <string name="list_empty">এখানে কিছুই নেই!</string>
 
     <string name="quiet_hours">বিরক্ত করবেন না</string>
@@ -314,11 +311,11 @@
 
     <string name="lock_background">পাসওয়ার্ড পটভূমি</string>
     <string name="lock_background_summary">একটি পাসওয়ার্ড পটভূমি হিসাবে একটি ইমেজ নির্বাচন করুন</string>
-    
+
     <string name="highlight_posts">পোস্ট হাইলাইট</string>
     <string name="highlight_posts_summary">কোনো শব্দ দ্বারা নিউজ ফিড প্রকাশনার হাইলাইট</string>
     <string name="highlighted_post">হাইলাইট পোস্ট</string>
-    
+
     <string name="tap_target_social">অ্যাকাউন্ট পরিবর্তন করুন</string>
     <string name="tap_target_social_summary">কোন সামাজিক নির্বাচন করতে এখানে ট্যাপ করুন</string>
     <string name="auto_night_plus">আপনার চোখ সংরক্ষণ করুন</string>
@@ -499,4 +496,9 @@
     <string name="cant_add_keyword">দুঃখিত, আমি একটি খালি কীওয়ার্ড যোগ করতে পারি না</string>
     <string name="quickbar_expand">প্রসারিত করতে আলতো চাপুন</string>
     <string name="restore_purchase">ক্রয় পুনরুদ্ধার</string>
+
+    <string name="power_website">ফেসবুক সংস্করণ</string>
+
+    <string name="twitter_theme">টুইটার থিম</string>
+    <string name="twitter_theme_summary">টুইটারে কাস্টম থিম প্রয়োগ করুন</string>
 </resources>

@@ -291,9 +291,6 @@ Trân trọng, Sunshine Apps
     <string name="remove_keyword">Xóa từ khóa</string>
     <string name="remove_keyword_summary">Bạn có thực sự muốn loại bỏ từ khóa này?</string>
 
-    <string name="free_facebook">Sử dụng free.facebook.com</string>
-    <string name="mbasic_facebook">Sử dụng mbasic.facebook.com</string>
-
     <string name="list_empty">Không có gì ở đây!</string>
 
     <string name="quiet_hours">Đừng làm phiền</string>
@@ -491,4 +488,8 @@ Trân trọng, Sunshine Apps
     <string name="quickbar_expand">Nhấn để mở rộng</string>
     <string name="restore_purchase">Khôi phục mua hàng</string>
 
+    <string name="power_website">Phiên bản Facebook</string>
+
+    <string name="twitter_theme">Chủ đề Twitter</string>
+    <string name="twitter_theme_summary">Áp dụng chủ đề tùy chỉnh trên Twitter</string>
 </resources>
