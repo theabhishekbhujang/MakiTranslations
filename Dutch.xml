@@ -115,8 +115,6 @@
     <string name="support">Ondersteuning</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Help om te vertalen</string>
-    <string name="open_in">In-app-browser</string>
-    <string name="open_in_more">Open externe links binnen Maki</string>
 
     <string name="top_tabs">Top navigatie</string>
     <string name="top_tabs_more">Toon navigatie tabblad bovenaan</string>
@@ -132,19 +130,19 @@
 
     <string name="problems_purchase">
 
-Heel erg bedankt voor het steunen van ons! Helaas lijkt het erop dat je wat problemen hebt met de aankoop. Nou, deze pagina is speciaal gemaakt om dit probleem op te lossen.
-\n\n
-We hebben een paar mogelijke oplossingen:\n\n
-1) Start Maki opnieuw. Sluit een applicatie en start deze helemaal opnieuw, open instellingen en probeer elke Plus-functie in te schakelen.
-\n\n
-2) Als de eerste oplossing niet werkt, probeer dan opnieuw op "Koop Maki Plus" te klikken. Met deze actie wordt uw aankoop hersteld (u zult uw geld niet opnieuw uitgeven, maak u geen zorgen). Daarna herstart toepassing en probeer een Plus-functie in te schakelen.
-\n\n
-3) Immers, als niets van dit niet werkt - neem dan contact met ons op! We zullen zeker samen de beste oplossing vinden.
-\n\n
-Onze e-mail: makifeedback@gmail.com\n
-Facebook pagina: m.facebook.com/sunshineappsst
-\n\n
-Met vriendelijke groeten, Sunshine Apps
+        Heel erg bedankt voor het steunen van ons! Helaas lijkt het erop dat je wat problemen hebt met de aankoop. Nou, deze pagina is speciaal gemaakt om dit probleem op te lossen.
+        \n\n
+        We hebben een paar mogelijke oplossingen:\n\n
+        1) Start Maki opnieuw. Sluit een applicatie en start deze helemaal opnieuw, open instellingen en probeer elke Plus-functie in te schakelen.
+        \n\n
+        2) Als de eerste oplossing niet werkt, probeer dan opnieuw op "Koop Maki Plus" te klikken. Met deze actie wordt uw aankoop hersteld (u zult uw geld niet opnieuw uitgeven, maak u geen zorgen). Daarna herstart toepassing en probeer een Plus-functie in te schakelen.
+        \n\n
+        3) Immers, als niets van dit niet werkt - neem dan contact met ons op! We zullen zeker samen de beste oplossing vinden.
+        \n\n
+        Onze e-mail: makifeedback@gmail.com\n
+        Facebook pagina: m.facebook.com/sunshineappsst
+        \n\n
+        Met vriendelijke groeten, Sunshine Apps
 
     </string>
 
@@ -162,7 +160,6 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="interval_pref_description_new">Meldingen worden elke %s gecontroleerd.</string>
     <string name="notification_sound_msg">Bericht geluid</string>
     <string name="blacklist_title">Zetten op zwarte lijst</string>
-    <string name="new_black_word">Schrijf een nieuw woord om te blokkeren</string>
     <string name="blacklist_summary">Lijst met woorden om de meldingen te blokkeren</string>
     <string name="exact">Exacte tijd</string>
     <string name="exact_summary">Verkort de melding vertraging. Is niet batterij vriendelijk</string>
@@ -260,11 +257,8 @@ Met vriendelijke groeten, Sunshine Apps
 
     <!--Maki 3.0-->
     <string name="call">Telefoontje</string>
-    <string name="falcon_view">Falcon-weergave</string>
-    <string name="falcon_view_summary">Lees artikelen zonder een website te bezoeken</string>
     <string name="special">Speciaal</string>
     <string name="hide_linkedin">Verberg LinkedIn</string>
-    <string name="cant_call">Sorry dat je hier niet kunt bellen</string>
     <string name="features_beta">Opties in bèta</string>
     <string name="features_beta_summary">Die opties zijn nog in ontwikkeling en zijn misschien niet stabiel, dus probeer ze alleen als je echt wilt!</string>
     <string name="warning">Waarschuwing!</string>
@@ -291,7 +285,6 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="blocked_keywords">Geblokkeerde zoekwoorden</string>
 
     <string name="active_friends">Actieve vrienden</string>
-    <string name="maki_plus_default">Maki Plus Standaard</string>
 
     <string name="remove_keyword">Trefwoord verwijderen</string>
     <string name="remove_keyword_summary">Wilt u dit zoekwoord echt verwijderen?</string>
@@ -313,9 +306,6 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="highlight_posts_summary">Markeer publicaties in de nieuwsfeed met een willekeurig zoekwoord</string>
     <string name="highlighted_post">Gemarkeerde post</string>
 
-    <string name="tap_target_social">Wissel sociaal</string>
-    <string name="tap_target_social_summary">Tik hier om een sociaal netwerk te selecteren</string>
-
     <string name="auto_night_plus">Bewaar je ogen</string>
     <string name="quickbar_plus">Binnen handbereik</string>
 
@@ -332,9 +322,6 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="blocked_hours_notify">Verwittigen</string>
     <string name="blocked_hours_notify_summary">Ontvang een melding wanneer het geblokkeerde uur is afgelopen en je de app opnieuw kunt gebruiken</string>
 
-    <string name="block_links">Blokkeer pagina\'s</string>
-    <string name="block_links_summary">Blokkeer pagina\'s die u niet wilt gebruiken</string>
-
     <string name="blocked_hours_finish">Tijd om terug te gaan!</string>
     <string name="blocked_hours_finish_summary">Nu kun je Maki opnieuw gebruiken</string>
 
@@ -344,24 +331,10 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="maki_is_locked">Maki zit op slot</string>
     <string name="blocked_description">U stelt een interval in van %1$s tot %2$s uur om de app te blokkeren - gebruik die tijd om iets geweldigs te doen!</string>
 
-    <string name="blocked_links">Geblokkeerde pagina\'s</string>
-    <string name="blocked_links_summary">Lijst van geblokkeerde pagina\'s door jou</string>
-
-    <string name="blocked_links_add">Blokkeer deze link</string>
-
-    <string name="play_gifs">Speel GIFs</string>
-    <string name="play_gifs_summary">Open GIFs in Maki</string>
-
-    <string name="blocked_page">Geblokkeerde pagina</string>
-    <string name="blocked_page_summary">Deze pagina is door jou geblokkeerd</string>
-
     <string name="blocked_hour">Geblokkeerd interval</string>
     <string name="lock_usage_title">Naam van het interval</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Cache wissen bij afsluiten</string>
-    <string name="clearcache_summary">Het duurt langer om de app te openen.</string>
-
     <string name="last_opened">Laatst geopend</string>
 
     <string name="remove_bookmark">Bladwijzer verwijderen?</string>
@@ -377,22 +350,10 @@ Met vriendelijke groeten, Sunshine Apps
     <string name="facebook_play">Video\'s op Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Veeg om te sluiten</string>
-    <string name="enable_swipe_close">Sluit de pagina\'s door van links naar rechts te vegen</string>
-
     <!--3.7-->
     <string name="enabled">Ingeschakeld</string>
-    <string name="donate_maki">Steun Maki-ontwikkeling</string>
-    <string name="donate_maki_more">Hoi! Mijn naam is Roman, ik ben een ontwikkelaar van Maki en ik ben erg blij dat je Maki blijft gebruiken en ervan genieten. Als je het echt doet, kun je Maki en toekomstige projecten nog meer ondersteunen met een extra donation.</string>
 
     <!--4.0-->
-    <string name="plus_block">Tijd besparen</string>
-    <string name="plus_block_description">Beperk je gebruik van Facebook en besteed die tijd op een betere manier: vrienden, familie, hobby, werk, etc.</string>
-
-    <string name="plus_block_pages">Geen afleiding</string>
-    <string name="plus_block_pages_description">Blokkeer makkelijk pagina\'s die u niet wilt bezoeken</string>
-
     <string name="autoplay_videos">Video\'s automatisch afspelen</string>
     <string name="autoplay_videos_summary">Schakel autoplay-videos in. Je kunt geen video\'s downloaden en delen wanneer deze zijn ingeschakeld.</string>
 
@@ -498,4 +459,7 @@ Met vriendelijke groeten, Sunshine Apps
 
     <string name="twitter_theme">Twitter-thema</string>
     <string name="twitter_theme_summary">Gebruik een aangepast thema op Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Verberg Instagram-verhalen</string>
 </resources>

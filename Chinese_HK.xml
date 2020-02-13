@@ -111,8 +111,6 @@
     <string name="support">支援</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">幫助翻譯</string>
-    <string name="open_in">內建瀏覽器</string>
-    <string name="open_in_more">在 Maki 中開啟外部連結</string>
     <string name="top_tabs">頂部導航</string>
     <string name="top_tabs_more">在頂部顯示導航欄</string>
     <string name="fbpage">Facebook 粉絲專頁</string>
@@ -124,18 +122,18 @@
         <item>Disa Messager</item>
     </string-array>
     <string name="problems_purchase">非常感謝您對我們的支持！不幸的是，您在購買上存在些許問題。當然，這個頁面就是為了您能夠解決問題而建立的。
-\n\n
-我們有一些可能的解決方案：\n\n
-1) 重啟 Maki。只要關閉程序再從設備上啟動，然後打開設定並嘗試啟用任意一項 Plus 功能。
-\n\n
-2) 如果第一種方案不起作用 - 嘗試重新點擊“購買 Maki Plus”。此操作將恢復您的購買 (您不會產生任何附加費用，請不要擔心)。操作後嘗試重啟應用程式並啟用任意 Plus 功能。
-\n\n
-3) 最後 - 如果什麼都沒有發生或是無法正常工作 - 請聯絡我們！我們定將協同找出最佳的解決方案。
-\n\n
-我們的電郵: makifeedback@gmail.com\n
-Facebook 主頁: m.facebook.com/sunshineappsst
-\n\n
-以最誠摯的敬意，來自 Sunshine Apps 團隊</string>
+        \n\n
+        我們有一些可能的解決方案：\n\n
+        1) 重啟 Maki。只要關閉程序再從設備上啟動，然後打開設定並嘗試啟用任意一項 Plus 功能。
+        \n\n
+        2) 如果第一種方案不起作用 - 嘗試重新點擊“購買 Maki Plus”。此操作將恢復您的購買 (您不會產生任何附加費用，請不要擔心)。操作後嘗試重啟應用程式並啟用任意 Plus 功能。
+        \n\n
+        3) 最後 - 如果什麼都沒有發生或是無法正常工作 - 請聯絡我們！我們定將協同找出最佳的解決方案。
+        \n\n
+        我們的電郵: makifeedback@gmail.com\n
+        Facebook 主頁: m.facebook.com/sunshineappsst
+        \n\n
+        以最誠摯的敬意，來自 Sunshine Apps 團隊</string>
     <string name="social_medias">社交媒體</string>
     <string name="hide_twitter">隱藏 Twitter</string>
     <string name="hide_instagram">隱藏 Instagram</string>
@@ -149,7 +147,6 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <string name="interval_pref_description_new">將在每%s檢查一次通知。</string>
     <string name="notification_sound_msg">訊息音效</string>
     <string name="blacklist_title">黑名單</string>
-    <string name="new_black_word">記錄新的封鎖詞</string>
     <string name="blacklist_summary">通知封鎖詞列表</string>
     <string name="exact">精確時間</string>
     <string name="exact_summary">減少通知延時。對電池不太友好</string>
@@ -238,11 +235,8 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <!--Maki 3.0-->
     <string name="chat_bubbles">聊天大頭貼</string>
     <string name="call">通話</string>
-    <string name="falcon_view">獵鷹視圖</string>
-    <string name="falcon_view_summary">無需開啟網站即可閱讀文章。若無法取得內容將開啟預設頁面。</string>
     <string name="special">特殊</string>
     <string name="hide_linkedin">隱藏 LinkedIn</string>
-    <string name="cant_call">很抱歉，你不能在這裡進行通話</string>
     <string name="features_beta">測試選項</string>
     <string name="features_beta_summary">這些選項仍在開發中並且可能不穩定，所以除非迫切需要請不要使用！</string>
     <string name="warning">警告！</string>
@@ -265,7 +259,6 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <string name="blocked_keywords">已封鎖關鍵詞</string>
     <string name="active_friends">上線的朋友</string>
     <string name="images_play">禁用 Maki 圖片查看器</string>
-    <string name="maki_plus_default">Maki Plus 標準版</string>
     <string name="remove_keyword">移除關鍵詞</string>
     <string name="remove_keyword_summary">是否移除此關鍵詞？</string>
     <string name="list_empty">此處空無一物！</string>
@@ -280,8 +273,6 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <string name="highlight_posts">高亮貼文</string>
     <string name="highlight_posts_summary">使用關鍵詞高亮顯示動態匯總中內容</string>
     <string name="highlighted_post">已高亮貼文</string>
-    <string name="tap_target_social">切換社交媒體</string>
-    <string name="tap_target_social_summary">點擊此處選擇任意社交媒體</string>
     <string name="remove_sponsored_plus">拒絕廣告</string>
     <string name="auto_night_plus">保護視力</string>
     <string name="quickbar_plus">在於指尖</string>
@@ -300,25 +291,13 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <string name="blocked_hours_disable_notifications_summary">在限制使用應用程式的時段中禁用通知</string>
     <string name="maki_is_locked">Maki 已鎖定</string>
     <string name="blocked_description">你已設定於 %1$s 至 %2$s 時段限制使用應用程式 - 去做什麼更棒的事情吧！</string>
-    <string name="blocked_links">已封鎖頁面</string>
-    <string name="blocked_links_summary">你設定的已封鎖頁面列表</string>
-    <string name="blocked_links_add">封鎖此連結</string>
-    <string name="play_gifs">播放 GIF</string>
-    <string name="play_gifs_summary">在 Maki 中開啟 GIF</string>
     <string name="blocked_hour">封鎖時段</string>
     <string name="lock_usage_title">時段名稱</string>
     <!--3.4.1-->
-    <string name="clearcache">退出時清除快取</string>
-    <string name="clearcache_summary">開啟應用程式將耗費更多時間。</string>
     <string name="last_opened">最近開啟</string>
     <string name="remove_bookmark">是否移除書籤？</string>
     <string name="are_you_sure">確定要從收藏中移除 %1$s 嗎？</string>
     <string name="update_link">https://makisocial.com/category/updates/</string>
-    <!--3.6-->
-    <string name="block_links">封鎖頁面</string>
-    <string name="block_links_summary">封鎖你不想訪問的社團和個人。所有對應貼文也將被封鎖。</string>
-    <string name="blocked_page">已封鎖粉絲專頁</string>
-    <string name="blocked_page_summary">Oops! 看起來你已經封鎖了對於此粉絲專頁的訪問。好吧，還有更多精彩的粉絲專頁可以訪問呢，但這個除外。今天就別訪問了吧，我的好夥伴。</string>
     <!--Intro-->
     <string name="privacy_policy">隱私政策</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
@@ -326,21 +305,10 @@ Facebook 主頁: m.facebook.com/sunshineappsst
     <string name="intro_description">一個更加優秀的 Facebook 應用程式</string>
     <string name="facebook_play">Watch 影片</string>
     <string name="marketplace">Marketplace</string>
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">滑動以關閉</string>
-    <string name="enable_swipe_close">從左至右滑動以關閉頁面</string>
     <!--3.7-->
     <string name="enabled">已啟用</string>
-    <string name="donate_maki">支援 Maki 開發</string>
-    <string name="donate_maki_more">嗨！我是 Roman，我是 Maki 的開發者一員，我很高興你堅持使用並享受 Maki。如果你真的這麼做，通過額外捐助你可以更多地支援 Maki 及未來項目。</string>
     <string name="help">幫助</string>
     <!--3.9-->
-    <string name="plus_block">節省時間</string>
-    <string name="plus_block_description">限制您對 Facebook 的使用，並以更好的方式花費時間：朋友、家人、愛好、工作等。</string>
-
-    <string name="plus_block_pages">請勿分心</string>
-    <string name="plus_block_pages_description">輕鬆阻止您不想訪問的頁面</string>
-
     <string name="autoplay_videos">自動播放影片</string>
     <string name="autoplay_videos_summary">啟用自動播放影片。啟用後，您將無法下載和分享影片。</string>
     <string name="images_play_summary">使用圖像下方的 \"查看完整大小\" 按鈕開啟圖像</string>
@@ -438,4 +406,7 @@ Facebook 主頁: m.facebook.com/sunshineappsst
 
     <string name="twitter_theme">Twitter主題</string>
     <string name="twitter_theme_summary">在Twitter上應用自定義主題</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">隱藏Instagram故事</string>
 </resources>

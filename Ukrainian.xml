@@ -34,14 +34,14 @@
         <item>Чорний (AMOLED)</item>
         <item>Чорний та білий</item>
         <item>Червоний</item>
-		<item>Falcon</item>
+        <item>Falcon</item>
         <item>Рожевий</item>
         <item>Фіолетовий</item>
-		<item>Темно-зелений</item>
-		<item>Світло-зелений</item>
-		<item>Жовтий</item>
-		<item>Оранжевий</item>
-		<item>Морський</item>
+        <item>Темно-зелений</item>
+        <item>Світло-зелений</item>
+        <item>Жовтий</item>
+        <item>Оранжевий</item>
+        <item>Морський</item>
         <item>Viber</item>
         <item>WhatsApp</item>
         <item>Telegram</item>
@@ -76,10 +76,10 @@
 
     <string name="hide_ads">Прибрати рекламу</string>
     <string name="hide_ads_more">Вимкніть усю рекламу Facebook в стрічці новин</string>
-	<string name="exit_message">Ви справді хочете закрити Maki?</string>
+    <string name="exit_message">Ви справді хочете закрити Maki?</string>
     <string name="privacy">Приватність</string>
 
-	<string name="welcome">Привіт</string>
+    <string name="welcome">Привіт</string>
     <string name="saved_pin_message">Якщо Ви забули пін-код, будь ласка, очистіть дані додатку Maki в налаштуваннях пристрою.</string>
     <string name="pin_code_step_disable">Вимкнути пін-код</string>
     <string name="pin_code_step_create">Створіть пін-код</string>
@@ -129,8 +129,6 @@
     <string name="maki_plus">Maki Плюс</string>
 
     <string name="help_translate">Допомогти з перекладом</string>
-    <string name="open_in">Внутрішній браузер</string>
-    <string name="open_in_more">Відкривати зовнішні посилання в Maki</string>
     <string name="top_tabs">Навігація зверху</string>
     <string name="top_tabs_more">Показувати панель навігації зверху</string>
     <string name="fbpage">Сторінка Facebook</string>
@@ -146,18 +144,18 @@
     <string name="problems_purchase">
 
 
-Спасибі Вам велике за підтримку в розробці Maki! На жаль, схоже на те, що у Вас виникли проблеми з отриманням Maki Плюс. Саме ця сторінка призвана допомогти вирішити цю прикрість.
-\n\n
-Ми маємо декілька варіантів вирішення проблеми:\n\n
-1) Перезапустіть додаток. Просто закрийте Maki та запустіть її з нуля, після чого відкрийте налаштування та спробуйте увімкнути будь-яку функцію Maki Плюс.
-\n\n
-2) Якщо перший спосіб не спрацював - спробуйте натиснути на кнопку "Придбати Maki Плюс" ще один раз. Це відновить Ваше попереднє придбання (не турбуйтесь, Ви не заплатите двічі за один і той самий продукт). Після цього перезапустіть додаток та спробуйте увімкнути будь-яку функцію Maki Плюс. \n\n
-3) Якщо не спрацювало нічого - напишіть нам! Разом ми точно знайдемо найкраще вирішення.
-\n\n
-Наша пошта: makifeedback@gmail.com\n
-Сторінка Facebook: m.facebook.com/sunshineappsst
-\n\n
-З найкращими побажаннями, Sunshine Apps
+        Спасибі Вам велике за підтримку в розробці Maki! На жаль, схоже на те, що у Вас виникли проблеми з отриманням Maki Плюс. Саме ця сторінка призвана допомогти вирішити цю прикрість.
+        \n\n
+        Ми маємо декілька варіантів вирішення проблеми:\n\n
+        1) Перезапустіть додаток. Просто закрийте Maki та запустіть її з нуля, після чого відкрийте налаштування та спробуйте увімкнути будь-яку функцію Maki Плюс.
+        \n\n
+        2) Якщо перший спосіб не спрацював - спробуйте натиснути на кнопку "Придбати Maki Плюс" ще один раз. Це відновить Ваше попереднє придбання (не турбуйтесь, Ви не заплатите двічі за один і той самий продукт). Після цього перезапустіть додаток та спробуйте увімкнути будь-яку функцію Maki Плюс. \n\n
+        3) Якщо не спрацювало нічого - напишіть нам! Разом ми точно знайдемо найкраще вирішення.
+        \n\n
+        Наша пошта: makifeedback@gmail.com\n
+        Сторінка Facebook: m.facebook.com/sunshineappsst
+        \n\n
+        З найкращими побажаннями, Sunshine Apps
 
     </string>
 
@@ -173,7 +171,6 @@
     <string name="interval_pref_description_new">Наявність нових сповіщень буде провірятись кожні %s.</string>
     <string name="notification_sound_msg">Звук сповіщень</string>
     <string name="blacklist_title">Чорний список</string>
-    <string name="new_black_word">Додайте нове слово до ЧС</string>
     <string name="blacklist_summary">Список ключових слів для блокування сповіщень</string>
     <string name="exact">Вчасно</string>
     <string name="exact_summary">Перевірка на наявність нових сповіщень відбувається постійно. Підвищує споживання заряду батареї</string>
@@ -270,11 +267,8 @@
 
     <!--Maki 3.0-->
     <string name="call">Подзвонити</string>
-    <string name="falcon_view">Вид Сокола</string>
-    <string name="falcon_view_summary">Читайте статті без відвідування веб-сайтів</string>
     <string name="special">Особливості</string>
     <string name="hide_linkedin">Прибрати LinkedIn</string>
-    <string name="cant_call">Вибачте, Ви не можете здійснити виклик цій особі</string>
 
     <string name="features_beta">Бета</string>
     <string name="features_beta_summary">Ці налаштування досі в розробці, тому користуйтесь ними на свій страх та ризик!</string>
@@ -303,7 +297,6 @@
     <string name="blocked_keywords">Заблоковані слова</string>
 
     <string name="active_friends">Активні друзі</string>
-    <string name="maki_plus_default">Стандартна Maki Plus</string>
     <string name="remove_keyword">Усунути ключове слово</string>
     <string name="remove_keyword_summary">Ви справді хочете усунути це ключеве слово?</string>
 
@@ -324,9 +317,6 @@
     <string name="highlight_posts_summary">Виділяти публікації в стрічці новин по будь-якому ключовому слову</string>
     <string name="highlighted_post">Виділена публікація</string>
 
-    <string name="tap_target_social">Змінити соцмережу</string>
-    <string name="tap_target_social_summary">Натисніть сюди, щоб змінити соціальну мережу</string>
-
     <!--3.3-->
     <string name="auto_night_plus">Побережіть очі</string>
     <string name="quickbar_plus">На кінчиках пальців</string>
@@ -342,9 +332,6 @@
     <string name="blocked_hours_notify">Сповіщувати</string>
     <string name="blocked_hours_notify_summary">Отримати сповіщення коли блокування додатку закінчується та Ви знову можете користуватись Макі</string>
 
-    <string name="block_links">Заблоковані сторінки</string>
-    <string name="block_links_summary">Блокуйте сторінки які не бажаєте відвідувати</string>
-
     <string name="blocked_hours_finish">Час повертатись!</string>
     <string name="blocked_hours_finish_summary">Тепер Ви можете користуватись Maki знову</string>
 
@@ -354,24 +341,10 @@
     <string name="maki_is_locked">Maki заблокована</string>
     <string name="blocked_description">Ви задали інтервал блокування додатку з %1$s до %2$s. Проведіть цей час з користю!</string>
 
-    <string name="blocked_links">Заблоковані сторінки</string>
-    <string name="blocked_links_summary">Список заблокованих Вами сторінок</string>
-
-    <string name="blocked_links_add">Заблокувати цю сторінку</string>
-
-    <string name="play_gifs">Відкривати гіфки</string>
-    <string name="play_gifs_summary">Відкривати гіф-зображення в Макі</string>
-
-    <string name="blocked_page">Заблокована сторінка</string>
-    <string name="blocked_page_summary">Ви заблокували відкриття цієї сторінки</string>
-
     <string name="blocked_hour">Заблокований інтервал</string>
     <string name="lock_usage_title">Назва інтервалу</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Очистити кеш під час виходу</string>
-    <string name="clearcache_summary">Додаток може відкриватись довше.</string>
-
     <string name="last_opened">Остання відкрита</string>
 
     <string name="remove_bookmark">Усунути закладку?</string>
@@ -387,22 +360,10 @@
     <string name="facebook_play">Відео у Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Проведіть для закриття</string>
-    <string name="enable_swipe_close">Проведіть з лівого до правого краю для закриття сторінки</string>
-
     <!--3.7-->
     <string name="enabled">Увімкнено</string>
-    <string name="donate_maki">Підтримайте розробку Maki</string>
-    <string name="donate_maki_more">Привіт! Спасибі Вам за те, що Ви обрали Макі. Якщо Ви справді насолоджуєтесь Макі, Ви також можете підтримати розробку цього та майбутніх проектів за допомогою добровільного пожертвування.</string>
 
     <!--4.0-->
-    <string name="plus_block">Економте час</string>
-    <string name="plus_block_description">Обмежте час використання Facebook і витрачайте цей час краще: друзі, сім\'я, хобі тощо. </string>
-
-    <string name="plus_block_pages">Не відволікайтесь</string>
-    <string name="plus_block_pages_description">Легко заблокуйте сторінки, які ви не хочете відвідувати</string>
-
     <string name="autoplay_videos">Автовідтворення відео</string>
     <string name="autoplay_videos_summary">Увімкнути автоматичне відтворення відео. Ви не зможете завантажувати та ділитися відео, коли ця опція увімкнена.</string>
 
@@ -508,4 +469,8 @@
 
     <string name="twitter_theme">Оформлення Twitter</string>
     <string name="twitter_theme_summary">Застосуйте обраний стиль в Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Приховати історії в Instagram</string>
 </resources>
+

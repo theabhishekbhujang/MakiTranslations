@@ -35,14 +35,14 @@
         <item>AMOLED</item>
         <item>Schwarz und weiß</item>
         <item>Rot</item>
-		<item>Falke</item>
+        <item>Falke</item>
         <item>Rosa</item>
         <item>Dunkles Violet</item>
-		<item>Dunkelgrün</item>
-		<item>Hellgrün</item>
-		<item>Bernstein</item>
-		<item>Orange</item>
-		<item>Cyan</item>
+        <item>Dunkelgrün</item>
+        <item>Hellgrün</item>
+        <item>Bernstein</item>
+        <item>Orange</item>
+        <item>Cyan</item>
         <item>Viber</item>
         <item>WhatsApp</item>
         <item>Telegram</item>
@@ -79,8 +79,8 @@
     <string name="download_manager_disabled">Download Manager deaktiviert</string>
     <string name="hide_ads">Entfernen Sponsored Posts</string>
     <string name="hide_ads_more">Entfernen Sie alle Werbung in Facebook Newsfeed</string>
-	<string name="exit_message">Bist du sicher, dass du Maki schließen willst?</string>
-	<string name="welcome">Hallo</string>
+    <string name="exit_message">Bist du sicher, dass du Maki schließen willst?</string>
+    <string name="welcome">Hallo</string>
     <string name="saved_pin_message">Wenn Sie Ihren Pin vergessen, bitte löschen Sie Maki Daten von Ihrem Handys Anwendungsmanager.</string>
 
     <string name="pin_code_step_disable">Deaktivieren Sie Ihren Passcode</string>
@@ -134,9 +134,6 @@
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Hilfe übersetzen</string>
 
-    <string name="open_in">In-App-Browser</string>
-    <string name="open_in_more">Öffnen Sie externe Links in Maki</string>
-
     <string name="top_tabs">Top navigation</string>
     <string name="top_tabs_more">Navigations-Tab auf der Oberseite anzeigen</string>
     <string name="fbpage">Facebook Seite</string>
@@ -151,19 +148,19 @@
 
     <string name="problems_purchase">
 
-Vielen Dank für die Unterstützung von uns! Leider scheint es, dass Sie einige Probleme mit dem Kauf haben. Nun, diese Seite erstellt nur für Sie, um dieses Problem zu lösen.
-\n\n
-Wir haben ein paar mögliche Lösungen:\n\n
-1) Neustart Maki. Schließen Sie einfach eine Anwendung und starten Sie sie von Grund auf neu, öffnen Sie Einstellungen und versuchen Sie, jede Plus-Funktion zu aktivieren.
-\n\n
-2) Wenn die erste Lösung nicht funktioniert, klicken Sie erneut auf "Maki Plus kaufen". Diese Aktion wird Ihren Kauf wiederherstellen (du wirst dein Geld nicht wieder ausgeben, mach dir keine Sorgen). Nach dem Neustart der Anwendung und versuchen, jede Plus-Funktion zu aktivieren.
-\n\n
-3) Immerhin, wenn nichts davon nicht funktioniert - kontaktieren Sie uns! Wir werden auf jeden Fall die beste Lösung finden.
-\n\n
-Unsere mail: makifeedback@gmail.com\n
-Facebook-Seite: m.facebook.com/sunshineappsst
-\n\n
-Mit freundlichen Grüßen, Sunshine Apps
+        Vielen Dank für die Unterstützung von uns! Leider scheint es, dass Sie einige Probleme mit dem Kauf haben. Nun, diese Seite erstellt nur für Sie, um dieses Problem zu lösen.
+        \n\n
+        Wir haben ein paar mögliche Lösungen:\n\n
+        1) Neustart Maki. Schließen Sie einfach eine Anwendung und starten Sie sie von Grund auf neu, öffnen Sie Einstellungen und versuchen Sie, jede Plus-Funktion zu aktivieren.
+        \n\n
+        2) Wenn die erste Lösung nicht funktioniert, klicken Sie erneut auf "Maki Plus kaufen". Diese Aktion wird Ihren Kauf wiederherstellen (du wirst dein Geld nicht wieder ausgeben, mach dir keine Sorgen). Nach dem Neustart der Anwendung und versuchen, jede Plus-Funktion zu aktivieren.
+        \n\n
+        3) Immerhin, wenn nichts davon nicht funktioniert - kontaktieren Sie uns! Wir werden auf jeden Fall die beste Lösung finden.
+        \n\n
+        Unsere mail: makifeedback@gmail.com\n
+        Facebook-Seite: m.facebook.com/sunshineappsst
+        \n\n
+        Mit freundlichen Grüßen, Sunshine Apps
     </string>
 
     <string name="social_medias">Soziale Medien</string>
@@ -178,7 +175,6 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="interval_pref_description_new">Benachrichtigunen werden alle %s kontrolliert.</string>
     <string name="notification_sound_msg">Nachrichtenton</string>
     <string name="blacklist_title">Schwarze Liste</string>
-    <string name="new_black_word">Schreibe ein neues Wort zum Blockieren</string>
     <string name="blacklist_summary">Liste der Wörter zum Blockieren der Benachrichtigungen</string>
     <string name="exact">Genaue Zeit</string>
     <string name="exact_summary">Reduzieren Sie die Benachrichtigungsverzögerung. Ist nicht batteriefreundlich</string>
@@ -278,11 +274,8 @@ Mit freundlichen Grüßen, Sunshine Apps
 
     <!--Maki 3.0-->
     <string name="call">Anruf</string>
-    <string name="falcon_view">Falkenblick</string>
-    <string name="falcon_view_summary">Lesen Sie Artikel, ohne eine Website zu besuchen</string>
     <string name="special">Besondere</string>
     <string name="hide_linkedin">Verbergen LinkedIn</string>
-    <string name="cant_call">Leider können Sie hier nicht anrufen</string>
 
     <string name="features_beta">Optionen in der Betaversion</string>
     <string name="features_beta_summary">Diese Optionen entwickeln sich noch und sind möglicherweise nicht stabil, also versuchen Sie sie nur, wenn Sie wirklich wollen!</string>
@@ -311,7 +304,6 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="blocked_keywords">Blockierte Keywords</string>
 
     <string name="active_friends">Aktive Freunde</string>
-    <string name="maki_plus_default">Maki Plus Standard</string>
 
     <string name="remove_keyword">Stichwort entfernen</string>
     <string name="remove_keyword_summary">Möchten Sie dieses Stichwort wirklich entfernen?</string>
@@ -333,9 +325,6 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="highlight_posts_summary">Markieren Sie Publikationen im Newsfeed durch ein beliebiges Stichwort</string>
     <string name="highlighted_post">Markierter Beitrag</string>
 
-    <string name="tap_target_social">Social Media wechseln</string>
-    <string name="tap_target_social_summary">Tippen Sie hier, um ein soziales Umfeld auszuwählen</string>
-
     <!--3.3-->
     <string name="auto_night_plus">Rette deine Augen</string>
     <string name="quickbar_plus">An deinen Fingerspitzen</string>
@@ -352,9 +341,6 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="blocked_hours_notify">Benachrichtigen</string>
     <string name="blocked_hours_notify_summary">Erhalten Sie eine Benachrichtigung, wenn die gesperrte Stunde beendet ist und Sie die App erneut verwenden können</string>
 
-    <string name="block_links">Seiten blockieren</string>
-    <string name="block_links_summary">Blockieren Sie Seiten, die Sie nicht verwenden möchten</string>
-
     <string name="blocked_hours_finish">Zeit zurück zu kommen!</string>
     <string name="blocked_hours_finish_summary">Jetzt können Sie Maki wieder verwenden</string>
 
@@ -364,24 +350,10 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="maki_is_locked">Maki ist gesperrt</string>
     <string name="blocked_description">Sie können ein Intervall zwischen %1$s und %2$s Uhr einstellen, um die App zu blockieren - nutzen Sie diese Zeit, um etwas Großartiges zu tun!</string>
 
-    <string name="blocked_links">Blockierte Seiten</string>
-    <string name="blocked_links_summary">Liste der von Ihnen gesperrten Seiten</string>
-
-    <string name="blocked_links_add">Blockieren Sie diesen Link</string>
-
-    <string name="play_gifs">GIFs abspielen</string>
-    <string name="play_gifs_summary">Öffnen Sie GIFs in Maki</string>
-
-    <string name="blocked_page">Blockierte Seite</string>
-    <string name="blocked_page_summary">Diese Seite wurde von Ihnen blockiert</string>
-
     <string name="blocked_hour">Blockiertes Intervall</string>
     <string name="lock_usage_title">Name des Intervalls</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Cache beim Beenden löschen</string>
-    <string name="clearcache_summary">Es dauert länger, die App zu öffnen.</string>
-
     <string name="last_opened">Zuletzt geöffnet</string>
 
     <string name="remove_bookmark">Lesezeichen entfernen?</string>
@@ -397,22 +369,10 @@ Mit freundlichen Grüßen, Sunshine Apps
     <string name="facebook_play">Videos auf Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Zum Schließen wischen</string>
-    <string name="enable_swipe_close">Schließen Sie die Seiten, indem Sie von links nach rechts wischen</string>
-
     <!--3.7-->
     <string name="enabled">Aktiviert</string>
-    <string name="donate_maki">Unterstütze die Entwicklung von Maki</string>
-    <string name="donate_maki_more">Hallo! Mein Name ist Roman, ich bin ein Entwickler von Maki und ich bin sehr froh, dass Sie Maki weiterhin verwenden und genießen. Wenn Sie das wirklich tun, können Sie Maki und zukünftige Projekte mit einer zusätzlichen Spende noch mehr unterstützen.</string>
 
     <!--4.0-->
-    <string name="plus_block">Sparen Sie Ihre Zeit</string>
-    <string name="plus_block_description">Beschränken Sie Ihre Nutzung von Facebook und verbringen Sie diese Zeit besser: Freunde, Familie, Hobby, Arbeit usw.</string>
-
-    <string name="plus_block_pages">Keine Ablenkung</string>
-    <string name="plus_block_pages_description">Blockieren Sie ganz einfach Seiten, die Sie nicht besuchen möchten</string>
-
     <string name="autoplay_videos">Videos automatisch abspielen</string>
     <string name="autoplay_videos_summary">Aktivieren Sie die automatische Wiedergabe von Videos. Sie können keine Videos herunterladen und freigeben, wenn diese aktiviert sind.</string>
 
@@ -518,4 +478,8 @@ Mit freundlichen Grüßen, Sunshine Apps
 
     <string name="twitter_theme">Twitter-Thema</string>
     <string name="twitter_theme_summary">Wende ein benutzerdefiniertes Thema auf Twitter an</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Verstecke Instagram-Geschichten</string>
 </resources>
+

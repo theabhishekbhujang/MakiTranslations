@@ -117,9 +117,6 @@
     <string name="support">Sokongan</string>
     <string name="maki_plus">Mako Plus</string>
 
-    <string name="open_in">Penyemak imbas dalam apl</string>
-    <string name="open_in_more">Buka pautan luaran di Mako</string>
-
     <string name="top_tabs">Navigasi teratas</string>
     <string name="top_tabs_more">Tunjukkan tab navigasi di bahagian atas</string>
     <string name="fbpage">Halaman Facebook</string>
@@ -134,19 +131,19 @@
 
     <string name="problems_purchase">
 
-  Terima kasih kerana menyokong kami! Malangnya, nampaknya anda mempunyai beberapa masalah dengan pembelian. Nah, halaman ini dibuat untuk anda menyelesaikan masalah ini.
-\n\n
-Kami mempunyai beberapa penyelesaian yang mungkin:\n\n
-1) Mulakan semula Mako. Cukup tutup aplikasi dan lancarkan dari awal, buka tetapan dan cuba untuk membolehkan sebarang ciri Plus.
-\n\n
-2) Jika penyelesaian pertama tidak berfungsi - cuba klik pada "Buy Mako Plus" sekali lagi. Tindakan ini akan memulihkan pembelian anda (anda tidak akan membelanjakan wang anda sekali lagi, jangan risau). Selepas itu mulakan semula aplikasi dan cuba untuk membolehkan sebarang ciri Plus.
-\n\n
-3) Lagipun, jika tiada perkara ini tidak berfungsi - hubungi kami! Kami pasti akan mencari penyelesaian terbaik bersama-sama.
-\n\n
-E-mel kami: makifeedback@gmail.com\n
-Halaman Facebook: m.facebook.com/sunshineappsst
-\n\n
-Dengan salam, Sunshine Apps
+        Terima kasih kerana menyokong kami! Malangnya, nampaknya anda mempunyai beberapa masalah dengan pembelian. Nah, halaman ini dibuat untuk anda menyelesaikan masalah ini.
+        \n\n
+        Kami mempunyai beberapa penyelesaian yang mungkin:\n\n
+        1) Mulakan semula Mako. Cukup tutup aplikasi dan lancarkan dari awal, buka tetapan dan cuba untuk membolehkan sebarang ciri Plus.
+        \n\n
+        2) Jika penyelesaian pertama tidak berfungsi - cuba klik pada "Buy Mako Plus" sekali lagi. Tindakan ini akan memulihkan pembelian anda (anda tidak akan membelanjakan wang anda sekali lagi, jangan risau). Selepas itu mulakan semula aplikasi dan cuba untuk membolehkan sebarang ciri Plus.
+        \n\n
+        3) Lagipun, jika tiada perkara ini tidak berfungsi - hubungi kami! Kami pasti akan mencari penyelesaian terbaik bersama-sama.
+        \n\n
+        E-mel kami: makifeedback@gmail.com\n
+        Halaman Facebook: m.facebook.com/sunshineappsst
+        \n\n
+        Dengan salam, Sunshine Apps
 
     </string>
     <string name="social_medias">Media sosial</string>
@@ -162,7 +159,6 @@ Dengan salam, Sunshine Apps
     <string name="interval_pref_description_new">Pemberitahuan akan diperiksa setiap %s.</string>
     <string name="notification_sound_msg">Bunyi mesej</string>
     <string name="blacklist_title">Senarai Hitam</string>
-    <string name="new_black_word">Tulis perkataan baru untuk disekat</string>
     <string name="blacklist_summary">Senarai perkataan untuk menyekat pemberitahuan</string>
     <string name="exact">Masa yang tepat</string>
     <string name="exact_summary">Kurangkan kelewatan pemberitahuan. Tidak bateri mesra</string>
@@ -262,11 +258,8 @@ Dengan salam, Sunshine Apps
 
     <!--Mako 3.0-->
     <string name="call">Panggilan</string>
-    <string name="falcon_view">Falcon view</string>
-    <string name="falcon_view_summary">Baca artikel tanpa melawat laman web. Halaman lalai akan dibuka jika tiada apa yang diambil.</string>
     <string name="special">Khas</string>
     <string name="hide_linkedin">Sembunyikan LinkedIn</string>
-    <string name="cant_call">Maaf, anda tidak boleh membuat panggilan di sini</string>
     <string name="features_beta">Pilihan dalam beta</string>
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
     <string name="warning">Amaran!</string>
@@ -293,7 +286,6 @@ Dengan salam, Sunshine Apps
     <string name="blocked_keywords">Kata kunci yang disekat</string>
 
     <string name="active_friends">Rakan aktif</string>
-    <string name="maki_plus_default">Mako Plus Standard</string>
 
     <string name="remove_keyword">Alih keluar kata kunci</string>
     <string name="remove_keyword_summary">Adakah anda benar-benar mahu mengeluarkan kata kunci ini?</string>
@@ -315,8 +307,6 @@ Dengan salam, Sunshine Apps
     <string name="highlight_posts_summary">Serlahkan penerbitan dalam suapan berita dengan kata kunci apa pun</string>
     <string name="highlighted_post">Siaran yang disorot</string>
 
-    <string name="tap_target_social">Suis media sosial</string>
-    <string name="tap_target_social_summary">Ketik sini untuk memilih mana-mana sosial</string>
     <string name="auto_night_plus">Simpan mata anda</string>
     <string name="quickbar_plus">Di hujung jari anda</string>
 
@@ -333,9 +323,6 @@ Dengan salam, Sunshine Apps
     <string name="blocked_hours_notify">Beritahu</string>
     <string name="blocked_hours_notify_summary">Dapatkan pemberitahuan apabila jam disekat selesai dan anda boleh menggunakan apl itu lagi.</string>
 
-    <string name="block_links">Blok halaman</string>
-    <string name="block_links_summary">Sekat halaman yang anda tidak mahu gunakan</string>
-
     <string name="blocked_hours_finish">Masa untuk kembali!</string>
     <string name="blocked_hours_finish_summary">Sekarang anda dapat menggunakan Mako lagi</string>
 
@@ -345,24 +332,10 @@ Dengan salam, Sunshine Apps
     <string name="maki_is_locked">Mako dikunci</string>
     <string name="blocked_description">Anda menetapkan selang waktu antara pukul %1$s hingga %2$s untuk menyekat aplikasinya. Gunakan masa itu untuk melakukan sesuatu yang hebat!</string>
 
-    <string name="blocked_links">Halaman yang disekat</string>
-    <string name="blocked_links_summary">Senarai halaman yang disekat oleh anda</string>
-
-    <string name="blocked_links_add">Sekat pautan ini</string>
-
-    <string name="play_gifs">Main GIFs</string>
-    <string name="play_gifs_summary">Buka GIFs di Mako</string>
-
-    <string name="blocked_page">Halaman yang disekat</string>
-    <string name="blocked_page_summary">Laman ini telah disekat oleh anda</string>
-
     <string name="blocked_hour">Selang disekat</string>
     <string name="lock_usage_title">Nama selang</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Kosongkan cache semasa keluar</string>
-    <string name="clearcache_summary">Ia akan mengambil lebih banyak masa untuk membuka aplikasi.</string>
-
     <string name="last_opened">Terakhir dibuka</string>
 
     <string name="remove_bookmark">Alih keluar penanda buku?</string>
@@ -378,22 +351,10 @@ Dengan salam, Sunshine Apps
     <string name="facebook_play">Video di Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Leret untuk menutup</string>
-    <string name="enable_swipe_close">Tutup halaman dengan meleret dari kiri ke kanan</string>
-
     <!--3.7-->
     <string name="enabled">Dihidupkan</string>
-    <string name="donate_maki">Menyokong pembangunan Mako</string>
-    <string name="donate_maki_more">Jika anda benar-benar menikmati menggunakan Mako, anda boleh menyokong pembangunan Mako dan projek masa depan dengan sumbangan tambahan.</string>
 
     <!--4.0-->
-    <string name="plus_block">Menjimatkan masa</string>
-    <string name="plus_block_description">Hadkan penggunaan Facebook anda dan habiskan masa itu dengan cara yang lebih baik: rakan, keluarga, hobi, kerja, dll.</string>
-
-    <string name="plus_block_pages">Tiada gangguan</string>
-    <string name="plus_block_pages_description">Mudah menghalang halaman yang anda tidak mahu lawati</string>
-
     <string name="autoplay_videos">Video Autoplay</string>
     <string name="autoplay_videos_summary">Dayakan video autoplay. Anda tidak akan dapat memuat turun dan berkongsi video apabila diaktifkan.</string>
 
@@ -499,4 +460,7 @@ Dengan salam, Sunshine Apps
 
     <string name="twitter_theme">Tema Twitter</string>
     <string name="twitter_theme_summary">Guna tema tersuai di Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Sembunyikan cerita Instagram</string>
 </resources>

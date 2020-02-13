@@ -115,8 +115,6 @@
     <string name="support">Podrška</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Pomoć pri prevođenju</string>
-    <string name="open_in">Preglednik u aplikaciji</string>
-    <string name="open_in_more">Otvorite vanjske veze unutar Makii</string>
 
     <string name="top_tabs">Vrh navigacije</string>
     <string name="top_tabs_more">Pokaži navigacijsku karticu na vrhu</string>
@@ -132,19 +130,19 @@
 
     <string name="problems_purchase">
 
-  Hvala vam što ste nas podržali! Nažalost, čini se da imate problema s kupnjom. Pa, ova stranica je stvorena samo za vas da riješite ovaj problem.
-\n\n
-Imamo nekoliko mogućih rješenja:\n\n
-1) Ponovno pokrenite Maki. Samo zatvorite program i pokrenite ga od nule, otvorite postavke i pokušajte omogućiti bilo koju značajku Plus.
-\n\n
-2) Ako prvo rješenje ne uspije - pokušajte ponovno kliknuti na "Kupi Maki Plus". Ova će akcija vratiti vašu kupnju. Nakon toga ponovno pokrenute programe i pokušajte omogućiti bilo koju značajku Plus.
-\n\n
-3) Uostalom, ako ništa od ovoga ne uspije - kontaktirajte nas! Definitivno ćemo zajedno pronaći najbolje rješenje.
-\n\n
-Naša e-pošta: makifeedback@gmail.com\n
-Facebook stranica: m.facebook.com/sunshineappsst
-\n\n
-Sa srdačnim pozdravom, Sunshine Apps.
+        Hvala vam što ste nas podržali! Nažalost, čini se da imate problema s kupnjom. Pa, ova stranica je stvorena samo za vas da riješite ovaj problem.
+        \n\n
+        Imamo nekoliko mogućih rješenja:\n\n
+        1) Ponovno pokrenite Maki. Samo zatvorite program i pokrenite ga od nule, otvorite postavke i pokušajte omogućiti bilo koju značajku Plus.
+        \n\n
+        2) Ako prvo rješenje ne uspije - pokušajte ponovno kliknuti na "Kupi Maki Plus". Ova će akcija vratiti vašu kupnju. Nakon toga ponovno pokrenute programe i pokušajte omogućiti bilo koju značajku Plus.
+        \n\n
+        3) Uostalom, ako ništa od ovoga ne uspije - kontaktirajte nas! Definitivno ćemo zajedno pronaći najbolje rješenje.
+        \n\n
+        Naša e-pošta: makifeedback@gmail.com\n
+        Facebook stranica: m.facebook.com/sunshineappsst
+        \n\n
+        Sa srdačnim pozdravom, Sunshine Apps.
     </string>
 
     <string name="social_medias">Društvene mreže</string>
@@ -161,7 +159,6 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="interval_pref_description_new">Obavijesti će se provjeravati svakih %s.</string>
     <string name="notification_sound_msg">Zvuk poruke</string>
     <string name="blacklist_title">Staviti na crnu listu</string>
-    <string name="new_black_word">Napišite novu riječ koju želite blokirati</string>
     <string name="blacklist_summary">Popis riječi za blokiranje obavijesti</string>
     <string name="exact">Točno vrijeme</string>
     <string name="exact_summary">Smanjite kašnjenje obavijesti. Nije prijateljski prema bateriji</string>
@@ -262,11 +259,8 @@ Sa srdačnim pozdravom, Sunshine Apps.
 
     <!--Maki 3.0-->
     <string name="call">Poziv</string>
-    <string name="falcon_view">Pogled na sokol</string>
-    <string name="falcon_view_summary">Čitajte članke bez posjete web-lokaciji</string>
     <string name="special">Poseban</string>
     <string name="hide_linkedin">Sakriti LinkedIn</string>
-    <string name="cant_call">Žao nam je što ne možete nazvati ovdje</string>
 
     <string name="features_beta">Opcije u beta verziji</string>
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
@@ -295,7 +289,6 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="blocked_keywords">Blokirane ključne riječi</string>
 
     <string name="active_friends">Aktivni prijatelji</string>
-    <string name="maki_plus_default">Maki Plus Standard</string>
 
     <string name="remove_keyword">Ukloni ključnu riječ</string>
     <string name="remove_keyword_summary">Želite li zaista ukloniti ovu ključnu riječ?</string>
@@ -317,8 +310,6 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="highlight_posts_summary">Označite publikacije u feedu vijesti bilo kojom ključnom riječi</string>
     <string name="highlighted_post">Istaknuto je post</string>
 
-    <string name="tap_target_social">Promijeni društveni</string>
-    <string name="tap_target_social_summary">Dodirnite ovdje da biste odabrali bilo koji društveni</string>
     <string name="auto_night_plus">Spasite oči</string>
     <string name="quickbar_plus">Na dohvat ruke</string>
 
@@ -334,9 +325,6 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="blocked_hours_notify">Obavijestiti</string>
     <string name="blocked_hours_notify_summary">Nabavite obavijest kada završi blokirani sat i možete ponovno upotrebljavati aplikaciju</string>
 
-    <string name="block_links">Blokiraj stranice</string>
-    <string name="block_links_summary">Blokirajte stranice koje ne želite koristiti</string>
-
     <string name="blocked_hours_finish">Vrijeme je za povratak!</string>
     <string name="blocked_hours_finish_summary">Sada možete ponovno koristiti Maki</string>
 
@@ -346,24 +334,10 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="maki_is_locked">Maki je zaključan</string>
     <string name="blocked_description">Možete postaviti interval od %1$s do %2$s da biste blokirali aplikaciju - iskoristite to vrijeme za nešto veliko!</string>
 
-    <string name="blocked_links">Blokirane stranice</string>
-    <string name="blocked_links_summary">Popis blokiranih stranica</string>
-
-    <string name="blocked_links_add">Blokiraj ovu vezu</string>
-
-    <string name="play_gifs">Igrajte GIF-ove</string>
-    <string name="play_gifs_summary">Otvorite GIF-ove u Maki</string>
-
-    <string name="blocked_page">Blokirana stranica</string>
-    <string name="blocked_page_summary">Vi ste blokirali ovu stranicu</string>
-
     <string name="blocked_hour">Blokirani interval</string>
     <string name="lock_usage_title">Naziv intervala</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Očisti predmemoriju na izlazu</string>
-    <string name="clearcache_summary">Trebat će više vremena za otvaranje aplikacije.</string>
-
     <string name="last_opened">Posljednje otvoreno</string>
 
     <string name="remove_bookmark">Želite li ukloniti oznaku?</string>
@@ -379,21 +353,10 @@ Sa srdačnim pozdravom, Sunshine Apps.
     <string name="facebook_play">Videozapisi na platformi Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Prijeđite prstom za zatvaranje</string>
-    <string name="enable_swipe_close">Zatvorite stranice pomicanjem s lijeva na desno</string>
-
     <!--3.7-->
     <string name="enabled">Omogućeno</string>
-    <string name="donate_maki">Podrška Maki razvoj</string>
-    <string name="donate_maki_more">Bok! Ako zaista uživate u korištenju Makija, Maki i budućim projektima možete dodatno podržati dodatnu donaciju.</string>
 
     <!--4.0-->
-    <string name="plus_block">Uštedite vrijeme</string>
-    <string name="plus_block_description">Ograničite korištenje Facebooka i provedite to vrijeme na bolji način: prijatelji, obitelj, hobi, posao itd.</string>
-
-    <string name="plus_block_pages">Bez ometanja</string>
-    <string name="plus_block_pages_description">Jednostavno blokirati stranice koje ne želite posjetiti</string>
 
     <string name="autoplay_videos">Automatska reprodukcija videozapisa</string>
     <string name="autoplay_videos_summary">Omogući videozapise s automatskim igranjem. Kada je omogućeno, nećete moći preuzeti i dijeliti videozapise.</string>
@@ -500,4 +463,7 @@ Sa srdačnim pozdravom, Sunshine Apps.
 
     <string name="twitter_theme">Tema na Twitteru</string>
     <string name="twitter_theme_summary">Primjena prilagođene teme na Twitteru</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Sakrijte Instagram priče</string>
 </resources>

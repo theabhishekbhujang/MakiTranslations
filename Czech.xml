@@ -116,8 +116,6 @@
     <string name="support">Pomoc</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Pomoc při překladu</string>
-    <string name="open_in">Prohlížeč v aplikaci</string>
-    <string name="open_in_more">Otevřete vnější odkazy uvnitř Maki</string>
     <string name="top_tabs">Horní navigace</string>
     <string name="top_tabs_more">Zobrazit navigační kartu v horní části stránky</string>
     <string name="fbpage">Facebooková stránka</string>
@@ -132,19 +130,19 @@
 
     <string name="problems_purchase">
 
-  Děkujeme vám za podporu! Bohužel se zdá, že s nákupem máte nějaké problémy. Tato stránka byla vytvořena právě proto, abyste tento problém vyřešili.
-\n\n
-Máme několik možných řešení:\n\n
-1) Restartujte Maki. Stačí zavřít aplikaci a spustit ji od začátku, otevřít nastavení a pokusit se povolit libovolnou funkci Plus.
-\n\n
-2) Pokud první řešení nefunguje - zkuste znovu kliknout na tlačítko "Koupit Maki Plus". Tato akce obnoví váš nákup. Po této restartování aplikace a zkuste povolit libovolnou funkci Plus.
-\n\n
-3) Koneckonců, pokud nic z toho nefunguje - kontaktujte nás! Určitě najdeme nejlepší řešení společně.
-\n\n
-Náš email: makifeedback@gmail.com\n
-Facebooková stránka: m.facebook.com/sunshineappsst
-\n\n
-S pozdravem, Sunshine Apps.
+        Děkujeme vám za podporu! Bohužel se zdá, že s nákupem máte nějaké problémy. Tato stránka byla vytvořena právě proto, abyste tento problém vyřešili.
+        \n\n
+        Máme několik možných řešení:\n\n
+        1) Restartujte Maki. Stačí zavřít aplikaci a spustit ji od začátku, otevřít nastavení a pokusit se povolit libovolnou funkci Plus.
+        \n\n
+        2) Pokud první řešení nefunguje - zkuste znovu kliknout na tlačítko "Koupit Maki Plus". Tato akce obnoví váš nákup. Po této restartování aplikace a zkuste povolit libovolnou funkci Plus.
+        \n\n
+        3) Koneckonců, pokud nic z toho nefunguje - kontaktujte nás! Určitě najdeme nejlepší řešení společně.
+        \n\n
+        Náš email: makifeedback@gmail.com\n
+        Facebooková stránka: m.facebook.com/sunshineappsst
+        \n\n
+        S pozdravem, Sunshine Apps.
     </string>
 
     <string name="social_medias">Sociální</string>
@@ -160,7 +158,6 @@ S pozdravem, Sunshine Apps.
     <string name="interval_pref_description_new">Oznámení budou kontrolována každých %s.</string>
     <string name="notification_sound_msg">Zvuk zprávy</string>
     <string name="blacklist_title">Černá listina</string>
-    <string name="new_black_word">Napište nové slovo, které chcete zablokovat</string>
     <string name="blacklist_summary">Seznam slov, která mají zablokovat oznámení</string>
     <string name="exact">Přesný čas</string>
     <string name="exact_summary">Zkrátit zpoždění oznámení. Není vhodný pro baterie</string>
@@ -258,11 +255,8 @@ S pozdravem, Sunshine Apps.
 
     <!--Maki 3.0-->
     <string name="call">Volání</string>
-    <string name="falcon_view">Falcon view</string>
-    <string name="falcon_view_summary">Přečtěte si články bez návštěvy webových stránek. Výchozí stránka se otevře, pokud není nic načíst.</string>
     <string name="special">Speciální</string>
     <string name="hide_linkedin">Skrýt LinkedIn</string>
-    <string name="cant_call">Promiňte, že nemůžete volat</string>
 
     <string name="features_beta">Možnosti v beta verzi</string>
     <string name="features_beta_summary">Tyto možnosti se stále vyvíjejí a nemusí být stabilní, takže je vyzkoušejte pouze, pokud to opravdu chcete!</string>
@@ -290,7 +284,6 @@ S pozdravem, Sunshine Apps.
     <string name="blocked_keywords">Blokované klíčová slova</string>
 
     <string name="active_friends">Aktivní přátelé</string>
-    <string name="maki_plus_default">Maki Plus Standard</string>
 
     <string name="remove_keyword">Odebrat klíčové slovo</string>
     <string name="remove_keyword_summary">Opravdu chcete toto klíčové slovo odstranit?</string>
@@ -312,9 +305,6 @@ S pozdravem, Sunshine Apps.
     <string name="highlight_posts_summary">Zvýrazněte publikace ve zdroji zpráv libovolným klíčovým slovem</string>
     <string name="highlighted_post">Zvýrazněný příspěvek</string>
 
-    <string name="tap_target_social">Změna sociálních médií</string>
-    <string name="tap_target_social_summary">Klepnutím sem vyberte jakoukoli sociální skupinu</string>
-
     <string name="auto_night_plus">Uložte oči</string>
     <string name="quickbar_plus">Na dosah ruky</string>
 
@@ -331,9 +321,6 @@ S pozdravem, Sunshine Apps.
     <string name="blocked_hours_notify">Oznámit</string>
     <string name="blocked_hours_notify_summary">Po dokončení zablokované hodiny získáte upozornění a budete moci aplikaci znovu používat</string>
 
-    <string name="block_links">Blokovat stránky</string>
-    <string name="block_links_summary">Blokovat stránky, které nechcete používat</string>
-
     <string name="blocked_hours_finish">Je čas vrátit se!</string>
     <string name="blocked_hours_finish_summary">Nyní můžete Maki znovu použít</string>
 
@@ -343,24 +330,10 @@ S pozdravem, Sunshine Apps.
     <string name="maki_is_locked">Maki je zamčený</string>
     <string name="blocked_description">Můžete nastavit interval od %1$s do %2$s pro zablokování aplikace - použijte ten čas, abyste provedli něco skvělého!</string>
 
-    <string name="blocked_links">Blokované stránky</string>
-    <string name="blocked_links_summary">Seznam blokovaných stránek</string>
-
-    <string name="blocked_links_add">Blokovat tento odkaz</string>
-
-    <string name="play_gifs">Přehrát GIFs</string>
-    <string name="play_gifs_summary">Otevřete GIF v Maki</string>
-
-    <string name="blocked_page">Blokovaná stránka</string>
-    <string name="blocked_page_summary">Tato stránka byla zablokována vámi</string>
-
     <string name="blocked_hour">Blokovaný interval</string>
     <string name="lock_usage_title">Název intervalu</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Vymažte mezipaměť při ukončení</string>
-    <string name="clearcache_summary">Zpracování aplikace bude trvat déle.</string>
-
     <string name="last_opened">Poslední otevření</string>
 
     <string name="remove_bookmark">Odstranit záložku?</string>
@@ -376,23 +349,10 @@ S pozdravem, Sunshine Apps.
     <string name="facebook_play">Videa na Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Přejetím zavřete</string>
-    <string name="enable_swipe_close">Zavřete stránky posunutím zleva doprava</string>
-
     <!--3.7-->
     <string name="enabled">Povoleno</string>
-    <string name="donate_maki">Podpora Maki rozvoje</string>
-    <string name="donate_maki_more">Ahoj! Jmenuji se Roman, jsem vývojář Maki a jsem velmi rád, že si Maki užíváte. Pokud opravdu děláte, můžete Maki a budoucí projekty podpořit ještě více s nadačním darem.</string>
-
 
     <!--4.0-->
-    <string name="plus_block">Ušetřit čas</string>
-    <string name="plus_block_description">Omezte využití Facebooku a strávit tento čas lépe: přátelé, rodina, koníčky, atd.</string>
-
-    <string name="plus_block_pages">Žádné rozptýlení</string>
-    <string name="plus_block_pages_description">Snadno blokuje stránky, které nechcete navštívit</string>
-
     <string name="autoplay_videos">Automaticky přehrávaná videa</string>
     <string name="autoplay_videos_summary">Povolit automatické přehrávání videí. Po aktivaci nebudete moci stahovat a sdílet videa.</string>
 
@@ -498,4 +458,7 @@ S pozdravem, Sunshine Apps.
 
     <string name="twitter_theme">Twitter téma</string>
     <string name="twitter_theme_summary">Použít vlastní motiv na Twitteru</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Skrýt příběhy Instagramu</string>
 </resources>

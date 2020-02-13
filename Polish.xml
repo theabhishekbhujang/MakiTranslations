@@ -126,28 +126,25 @@
     <string name="maki_plus">Maki Plus</string>
 
     <string name="help_translate">Pomóż tłumaczyć</string>
-    <string name="open_in">Przeglądarka w aplikacji</string>
-    <string name="open_in_more">Otwórz zewnętrzne linki w Maki</string>
-
 
     <string name="top_tabs">Najnowsza nawigacja</string>
     <string name="top_tabs_more">Pokaż kartę nawigacji u góry</string>
     <string name="fbpage">Strona Facebooka</string>
 
     <string name="problems_purchase">
-  Dziękujęmy bardzo za wsparcie! Niestety wygląda na to, że masz problemy z zakupem. Cóż, ta strona została stworzona tylko dla Ciebie, aby rozwiązać ten problem.
-\n\n
-Mamy kilka możliwych rozwiązań:\n
-1) Uruchom Maki ponownie. Wystarczy zamknąć aplikację i uruchomić ją od podstaw, otworzyć ustawienia i spróbować włączyć funkcję Plus.
-\n\n
-2) Jeśli pierwsze rozwiązanie nie zadziała - spróbuj ponownie kliknąć "Kup Maki Plus". Ta czynność przywróci Ci zakup (nie będziesz już musiał wydawać pieniędzy, nie martw się). Po ponownym uruchomieniu aplikacji, włącz funkcję Plus.
-\n\n
-3) Jeśli żadne z powyższych rozwiązań nie zadziała - skontaktuj się z nami! Z całą pewnością znajdziemy najlepsze rozwiązanie.
-\n\n
-Nasz email: makifeedback@gmail.com\n
-Strona Facebook: m.facebook.com/sunshineappsst
-\n\n
-Z poważaniem Sunshine Apps\n\n
+        Dziękujęmy bardzo za wsparcie! Niestety wygląda na to, że masz problemy z zakupem. Cóż, ta strona została stworzona tylko dla Ciebie, aby rozwiązać ten problem.
+        \n\n
+        Mamy kilka możliwych rozwiązań:\n
+        1) Uruchom Maki ponownie. Wystarczy zamknąć aplikację i uruchomić ją od podstaw, otworzyć ustawienia i spróbować włączyć funkcję Plus.
+        \n\n
+        2) Jeśli pierwsze rozwiązanie nie zadziała - spróbuj ponownie kliknąć "Kup Maki Plus". Ta czynność przywróci Ci zakup (nie będziesz już musiał wydawać pieniędzy, nie martw się). Po ponownym uruchomieniu aplikacji, włącz funkcję Plus.
+        \n\n
+        3) Jeśli żadne z powyższych rozwiązań nie zadziała - skontaktuj się z nami! Z całą pewnością znajdziemy najlepsze rozwiązanie.
+        \n\n
+        Nasz email: makifeedback@gmail.com\n
+        Strona Facebook: m.facebook.com/sunshineappsst
+        \n\n
+        Z poważaniem Sunshine Apps\n\n
     </string>
 
     <string name="social_medias">Media społecznościowe</string>
@@ -165,7 +162,6 @@ Z poważaniem Sunshine Apps\n\n
     <string name="vibrate">Wibracje</string>
     <string name="led_light">Dioda LED</string>
     <string name="blacklist_title">Czarna lista</string>
-    <string name="new_black_word">Napisz nowe słowo do zablokowania</string>
     <string name="blacklist_summary">Lista słów blokujących powiadomienia</string>
     <string name="exact">Dokładny czas</string>
     <string name="exact_summary">Zmniejsz opóźnienie powiadomienia. Zużywa więcej baterii</string>
@@ -272,11 +268,8 @@ Z poważaniem Sunshine Apps\n\n
 
     <!--Maki 3.0-->
     <string name="call">Zadzwoń</string>
-    <string name="falcon_view">Falcon</string>
-    <string name="falcon_view_summary">Czytaj artykuły bez odwiedzania strony internetowej</string>
     <string name="special">Specjalne</string>
     <string name="hide_linkedin">Ukryj LinkedIn</string>
-    <string name="cant_call">Niestety nie możesz zadzwonić tutaj</string>
     <string name="update_link">https://makisocial.com/category/updates/</string>
     <string name="features_beta">Opcje w wersji beta</string>
     <string name="features_beta_summary">Te opcje są nadal rozwijane i mogą nie być stabilne, więc wypróbuj je jeśli bardzo tego chcesz!</string>
@@ -306,7 +299,6 @@ Z poważaniem Sunshine Apps\n\n
 
     <string name="active_friends">Aktywni znajomi</string>
     <string name="images_play">Wyłącz przeglądarkę obrazów Maki</string>
-    <string name="maki_plus_default">Maki Plus Standard</string>
     <string name="remove_keyword">Usuń słowo kluczowe</string>
     <string name="remove_keyword_summary">Czy na pewno chcesz usunąć to słowo kluczowe?</string>
 
@@ -327,9 +319,6 @@ Z poważaniem Sunshine Apps\n\n
     <string name="highlight_posts_summary">Wyróżnij publikacje w kanale aktualności za pomocą dowolnego słowa kluczowego</string>
     <string name="highlighted_post">Wyróżniona publikacja</string>
 
-    <string name="tap_target_social">Zmień media społecznościowe</string>
-    <string name="tap_target_social_summary">Dotknij tutaj, aby wybrać dowolne media społecznościowe</string>
-
     <!--3.3-->
     <string name="auto_night_plus">Oszczędzaj oczy</string>
     <string name="quickbar_plus">Na wyciągnięcie ręki</string>
@@ -346,9 +335,6 @@ Z poważaniem Sunshine Apps\n\n
     <string name="blocked_hours_notify">Powiadomienia</string>
     <string name="blocked_hours_notify_summary">Otrzymaj powiadomienie, gdy zablokowana godzina się zakończy i będziesz mógł ponownie korzystać z aplikacji</string>
 
-    <string name="block_links">Zablokuj strony</string>
-    <string name="block_links_summary">Blokuj strony, których nie chcesz używać</string>
-
     <string name="blocked_hours_finish">Czas wrócić!</string>
     <string name="blocked_hours_finish_summary">Teraz możesz ponownie użyć Maki</string>
 
@@ -358,29 +344,14 @@ Z poważaniem Sunshine Apps\n\n
     <string name="maki_is_locked">Maki jest zablokowana</string>
     <string name="blocked_description">Ustawiłeś przedział od %1$s do %2$s, aby zablokować aplikację. Wykorzystaj ten czas, aby zrobić coś wspaniałego!</string>
 
-    <string name="blocked_links">Zablokowane strony</string>
-    <string name="blocked_links_summary">Lista zablokowanych stron</string>
-
-    <string name="blocked_links_add">Zablokuj ten link</string>
-
-    <string name="play_gifs">GIFy</string>
-    <string name="play_gifs_summary">Otwórz GIFy w Maki</string>
-
-    <string name="blocked_page">Zablokowana strona</string>
-    <string name="blocked_page_summary">Ta strona została zablokowana</string>
-
     <string name="blocked_hour">Zablokowany przedział</string>
     <string name="lock_usage_title">Nazwa przedziału</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Wyczyść pamięć podręczną przy wyjściu</string>
-    <string name="clearcache_summary">Otworzenie aplikacji zajmie więcej czasu.</string>
-
     <string name="last_opened">Ostatnio otwarty</string>
 
     <string name="remove_bookmark">Usunąć zakładkę?</string>
     <string name="are_you_sure">Czy na pewno chcesz usunąć %1$s ze swoich ulubionych?</string>
-
 
     <!--Intro-->
     <string name="privacy_policy">Polityka prywatności</string>
@@ -390,22 +361,10 @@ Z poważaniem Sunshine Apps\n\n
     <string name="facebook_play">Wideo z Facebooka</string>
     <string name="marketplace">Oferty sprzedaży</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Przesuń, aby zamknąć</string>
-    <string name="enable_swipe_close">Zamknij strony, przesuwając od lewej do prawej</string>
-
     <!--3.7-->
     <string name="enabled">Włączone</string>
-    <string name="donate_maki">Wspieraj rozwój Maki</string>
-    <string name="donate_maki_more">Cześć! Nazywam się Roman, jestem programistą Maki i jestem bardzo szczęśliwy, że nadal używasz Maki. Możesz wesprzeć Maki i przyszłe projekty jeszcze bardziej dzięki dodatkowej dotacji.</string>
 
     <!--4.0-->
-    <string name="plus_block">Oszczędzaj czas</string>
-    <string name="plus_block_description">Ogranicz korzystanie z Facebooka i spędź ten czas w lepszy sposób: przyjaciele, rodzina, hobby itp.</string>
-
-    <string name="plus_block_pages">Bez rozproszenia</string>
-    <string name="plus_block_pages_description">Łatwo blokuj strony, których nie chcesz odwiedzać</string>
-
     <string name="autoplay_videos">Autoodtwarzanie filmów</string>
     <string name="autoplay_videos_summary">Włącz automatyczne odtwarzanie filmów. Po włączeniu nie będzie można pobierać ani udostępniać filmów.</string>
 
@@ -510,4 +469,8 @@ Z poważaniem Sunshine Apps\n\n
 
     <string name="twitter_theme">Motyw na Twitterze</string>
     <string name="twitter_theme_summary">Zastosuj niestandardowy motyw na Twitterze</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Ukryj historie na Instagramie</string>
 </resources>
+

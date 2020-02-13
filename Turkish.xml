@@ -117,8 +117,6 @@
     <string name="support">Destek</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Tercüme etmek için yardım</string>
-    <string name="open_in">Uygulama içi tarayıcı</string>
-    <string name="open_in_more">Maki içindeki harici bağlantıları aç</string>
     <string name="top_tabs">Üst gezinme</string>
     <string name="top_tabs_more">Üstte gezinme sekmesini göster</string>
     <string name="fbpage">Facebook Sayfası</string>
@@ -132,20 +130,20 @@
     </string-array>
 
     <string name="problems_purchase">
-Bizi desteklediğiniz için çok teşekkür ederiz! Ne yazık ki, satın alma ile ilgili bazı sorunlar var gibi görünüyor. Eh, bu sayfa sadece bu sorunu çözmek için oluşturuldu.
-\n\n
-Birkaç olası çözümümüz var:\n\n
-1) Maki\'yi tekrar başlatın. Bir uygulamayı kapatın ve sıfırdan başlatın, ayarları açın ve herhangi bir Artı özelliğini etkinleştirmeyi deneyin.
-\n\n
-2) İlk çözüm işe yaramazsa - "Maki Plus Al" a tekrar basmayı deneyin. Bu işlem satın alma işleminizi geri yükleyecektir (paranızı bir daha harcamazsınız, endişelenmeyin). Bundan sonra uygulamayı yeniden başlatın ve herhangi bir Artı özelliğini etkinleştirmeyi deneyin.
-\n\n
-3) Sonuçta, bunun hiçbiri işe yaramıyorsa - bize ulaşın! Birlikte en iyi çözümü kesinlikle bulacağız.
-\n\n
-Bizim e-posta: makifeedback@gmail.com\n
-Facebook sayfası: m.facebook.com/sunshineappsst
-\n\n
-Saygılarımızla, Sunshine Apps
-\n\n
+        Bizi desteklediğiniz için çok teşekkür ederiz! Ne yazık ki, satın alma ile ilgili bazı sorunlar var gibi görünüyor. Eh, bu sayfa sadece bu sorunu çözmek için oluşturuldu.
+        \n\n
+        Birkaç olası çözümümüz var:\n\n
+        1) Maki\'yi tekrar başlatın. Bir uygulamayı kapatın ve sıfırdan başlatın, ayarları açın ve herhangi bir Artı özelliğini etkinleştirmeyi deneyin.
+        \n\n
+        2) İlk çözüm işe yaramazsa - "Maki Plus Al" a tekrar basmayı deneyin. Bu işlem satın alma işleminizi geri yükleyecektir (paranızı bir daha harcamazsınız, endişelenmeyin). Bundan sonra uygulamayı yeniden başlatın ve herhangi bir Artı özelliğini etkinleştirmeyi deneyin.
+        \n\n
+        3) Sonuçta, bunun hiçbiri işe yaramıyorsa - bize ulaşın! Birlikte en iyi çözümü kesinlikle bulacağız.
+        \n\n
+        Bizim e-posta: makifeedback@gmail.com\n
+        Facebook sayfası: m.facebook.com/sunshineappsst
+        \n\n
+        Saygılarımızla, Sunshine Apps
+        \n\n
     </string>
 
     <string name="social_medias">Sosyal medya</string>
@@ -161,7 +159,6 @@ Saygılarımızla, Sunshine Apps
     <string name="interval_pref_description_new">Bildirimler her %s olarak işaretlenecektir.</string>
     <string name="notification_sound_msg">Mesaj sesi</string>
     <string name="blacklist_title">Kara liste</string>
-    <string name="new_black_word">Engellemek için yeni bir kelime yaz</string>
     <string name="blacklist_summary">Bildirimleri engellemek için kelimeler listesi</string>
     <string name="exact">Tam zamanı</string>
     <string name="exact_summary">Bildirim gecikmesini azaltın. Pil dostu değil</string>
@@ -257,11 +254,8 @@ Saygılarımızla, Sunshine Apps
 
     <!--Maki 3.0-->
     <string name="call">Telefon etmek</string>
-    <string name="falcon_view">Şahin görünümü</string>
-    <string name="falcon_view_summary">Bir web sitesini ziyaret etmeden makaleleri okuyun</string>
     <string name="special">Özel</string>
     <string name="hide_linkedin">Saklamak LinkedIn</string>
-    <string name="cant_call">Üzgünüz, bu kişiye çağrı yapamazsınız</string>
 
     <string name="features_beta">Beta’daki seçenekler</string>
     <string name="features_beta_summary">Bu seçenekler hala gelişiyor ve kararlı olmayabilir, bu yüzden onları sadece gerçekten istiyorsan deneyin!</string>
@@ -290,7 +284,6 @@ Saygılarımızla, Sunshine Apps
     <string name="blocked_keywords">Engellenen anahtar kelimeler</string>
 
     <string name="active_friends">Aktif arkadaşlar</string>
-    <string name="maki_plus_default">Maki Plus Standart</string>
     <string name="remove_keyword">Anahtar kelimeyi kaldır</string>
     <string name="remove_keyword_summary">Bu anahtar kelimeyi gerçekten kaldırmak istiyor musunuz?</string>
 
@@ -311,9 +304,6 @@ Saygılarımızla, Sunshine Apps
     <string name="highlight_posts_summary">Haber akışındaki yayınları herhangi bir anahtar kelimeyle vurgulayın</string>
     <string name="highlighted_post">Vurgulanan yayın</string>
 
-    <string name="tap_target_social">Sosyal medyayı değiştir</string>
-    <string name="tap_target_social_summary">Herhangi bir sosyal medya seçmek için buraya dokunun</string>
-
     <!--3.3-->
     <string name="auto_night_plus">Gözlerini kurtar</string>
     <string name="quickbar_plus">Parmaklarınızın ucunda</string>
@@ -329,9 +319,6 @@ Saygılarımızla, Sunshine Apps
     <string name="blocked_hours_notify">Bildirmek</string>
     <string name="blocked_hours_notify_summary">Engellenen saat bittiğinde ve uygulamayı tekrar kullanabildiğiniz zaman bir bildirim alın</string>
 
-    <string name="block_links">Sayfaları engelle</string>
-    <string name="block_links_summary">Kullanmak istemediğiniz sayfaları engelleyin</string>
-
     <string name="blocked_hours_finish">Geri dönme zamanı!</string>
     <string name="blocked_hours_finish_summary">Şimdi Maki\'yi tekrar kullanabiliyorsun.</string>
 
@@ -341,22 +328,8 @@ Saygılarımızla, Sunshine Apps
     <string name="maki_is_locked">Maki kilitli</string>
     <string name="blocked_description">Uygulamayı engellemek için %1$s - %2$s arasında bir aralık ayarladınız. Harika bir şey yapmak için bu zamanı kullanın!</string>
 
-    <string name="blocked_links">Engellenen sayfalar</string>
-    <string name="blocked_links_summary">Engellenen sayfalar</string>
-
-    <string name="blocked_links_add">Bu bağlantıyı engelle</string>
-
-    <string name="play_gifs">GIF Oynat</string>
-    <string name="play_gifs_summary">Maki\'de GIF\'leri Aç</string>
-
-    <string name="blocked_page">Engellenen sayfa</string>
-    <string name="blocked_page_summary">Bu sayfa sizin tarafınızdan engellendi</string>
-
     <string name="blocked_hour">Engellenen aralık</string>
     <string name="lock_usage_title">Aralığın adı</string>
-
-    <string name="clearcache">Çıkışta önbelleği temizle</string>
-    <string name="clearcache_summary">Uygulamayı açmak daha fazla zaman alacaktır.</string>
 
     <string name="last_opened">Son Açılan</string>
 
@@ -373,22 +346,9 @@ Saygılarımızla, Sunshine Apps
     <string name="facebook_play">Watch\'taki Videolar</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Kapatmak için kaydır</string>
-    <string name="enable_swipe_close">Sayfaları soldan sağa kaydırarak kapatın</string>
-
     <!--3.7-->
     <string name="enabled">Etkin</string>
-    <string name="donate_maki">Maki gelişimini destekleyin</string>
-    <string name="donate_maki_more">Maki\'yi kullanmaktan gerçekten zevk alıyorsanız, Maki\'yi ve gelecekteki projelere ekstra bir bağışla daha fazla destek olabilirsiniz.</string>
-
     <!--4.0-->
-    <string name="plus_block">Zamandan tasarruf</string>
-    <string name="plus_block_description">Facebook kullanımını sınırlandıran ve bu zamanı daha iyi bir şekilde geçirin: arkadaşlar, aile, hobi, iş vb.</string>
-
-    <string name="plus_block_pages">Dikkat dağıtmak yok</string>
-    <string name="plus_block_pages_description">Ziyaret etmek istemediğiniz sayfaları kolayca engelleyin</string>
-
     <string name="autoplay_videos">Otomatik oynatma videoları</string>
     <string name="autoplay_videos_summary">Otomatik oynat videolarını etkinleştirin. Etkinleştirildiğinde videoları indiremez ve paylaşamazsınız.</string>
 
@@ -494,4 +454,7 @@ Saygılarımızla, Sunshine Apps
 
     <string name="twitter_theme">Twitter teması</string>
     <string name="twitter_theme_summary">Twitter\'da özel tema uygulama</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">İnstagramdaki hikayeleri gizle</string>
 </resources>

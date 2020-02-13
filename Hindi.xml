@@ -116,8 +116,6 @@
     <string name="support">समर्थन</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">अनुवाद करने में सहायता करें</string>
-    <string name="open_in">इन-ऐप ब्राउज़र</string>
-    <string name="open_in_more">माकी के अंदर बाहरी लिंक खोलें</string>
 
     <string name="top_tabs">शीर्ष नेविगेशन</string>
     <string name="top_tabs_more">शीर्ष पर नेविगेशन टैब दिखाएं</string>
@@ -133,19 +131,19 @@
 
     <string name="problems_purchase">
 
-  हमें समर्थन देने के लिए बहुत बहुत धन्यवाद! दुर्भाग्य से, ऐसा लगता है कि आपको खरीदारी में कुछ समस्याएं हैं। ठीक है, इस पृष्ठ ने इस समस्या को हल करने के लिए सिर्फ आपके लिए बनाया है।
-\n\n
-हमारे पास कुछ संभावित उपाय हैं:\n\n
-1) माकी को पुनः आरंभ करें। बस एक एप्लिकेशन को बंद करें और इसे खरोंच, खुली सेटिंग्स से लॉन्च करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
-\n\n
-2) यदि पहला समाधान काम नहीं करता है - फिर से "खरीदें माकी प्लस" पर क्लिक करने का प्रयास करें। यह क्रिया आपकी खरीदारी को पुनर्स्थापित करेगी (आप फिर से अपना पैसा खर्च नहीं करेंगे, चिंता न करें). इसके बाद एप्लिकेशन को पुनरारंभ करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
-\n\n
-3) आखिरकार, अगर इसमें से कुछ भी काम नहीं करता है - हमसे संपर्क करें! हम निश्चित रूप से सबसे अच्छा समाधान एक साथ मिल जाएगा।
-\n\n
-हमारा ईमेल: makifeedback@gmail.com\n
-फेसबुक पेज: m.facebook.com/sunshineappsst
-\n\n
-सबसे अच्छा संबंध है, सनशाइन ऐप्स
+        हमें समर्थन देने के लिए बहुत बहुत धन्यवाद! दुर्भाग्य से, ऐसा लगता है कि आपको खरीदारी में कुछ समस्याएं हैं। ठीक है, इस पृष्ठ ने इस समस्या को हल करने के लिए सिर्फ आपके लिए बनाया है।
+        \n\n
+        हमारे पास कुछ संभावित उपाय हैं:\n\n
+        1) माकी को पुनः आरंभ करें। बस एक एप्लिकेशन को बंद करें और इसे खरोंच, खुली सेटिंग्स से लॉन्च करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
+        \n\n
+        2) यदि पहला समाधान काम नहीं करता है - फिर से "खरीदें माकी प्लस" पर क्लिक करने का प्रयास करें। यह क्रिया आपकी खरीदारी को पुनर्स्थापित करेगी (आप फिर से अपना पैसा खर्च नहीं करेंगे, चिंता न करें). इसके बाद एप्लिकेशन को पुनरारंभ करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
+        \n\n
+        3) आखिरकार, अगर इसमें से कुछ भी काम नहीं करता है - हमसे संपर्क करें! हम निश्चित रूप से सबसे अच्छा समाधान एक साथ मिल जाएगा।
+        \n\n
+        हमारा ईमेल: makifeedback@gmail.com\n
+        फेसबुक पेज: m.facebook.com/sunshineappsst
+        \n\n
+        सबसे अच्छा संबंध है, सनशाइन ऐप्स
 
     </string>
     <string name="social_medias">सामाजिक मीडिया</string>
@@ -162,7 +160,7 @@
     <string name="interval_pref_description_new">हर %s में नोटिफिकेशन चेक किए जाएंगे</string>
     <string name="notification_sound_msg">संदेश ध्वनि</string>
     <string name="blacklist_title">काला सूची में डालना</string>
-    <string name="new_black_word">काला सूची में डालना</string>
+
     <string name="blacklist_summary">नोटिफिकेशन को ब्लॉक करने के लिए शब्दों की सूची</string>
     <string name="exact">सही समय</string>
     <string name="exact_summary">अधिसूचना में देरी को कम करें। बैटरी के अनुकूल नहीं है</string>
@@ -261,11 +259,8 @@
 
     <!--Maki 3.0-->
     <string name="call">कॉल</string>
-    <string name="falcon_view">Falcon view</string>
-    <string name="falcon_view_summary">वेबसाइट पर जाएँ बिना लेख पढ़ें। डिफॉल्ट पेज खुल जाएगा अगर कुछ नहीं मिलेगा।</string>
     <string name="special">विशेष</string>
     <string name="hide_linkedin">लिंक्डइन छिपाएं</string>
-    <string name="cant_call">क्षमा करें, आप यहां कॉल नहीं कर सकते</string>
 
     <string name="features_beta">बीटा में विकल्प</string>
     <string name="features_beta_summary">वे विकल्प अभी भी विकसित हो रहे हैं और स्थिर नहीं हो सकते हैं, इसलिए उन्हें केवल तभी आज़माएं जब आप वास्तव में चाहते हैं!</string>
@@ -294,7 +289,6 @@
     <string name="blocked_keywords">ब्लॉक किए गए कीवर्ड</string>
 
     <string name="active_friends">सक्रिय मित्र</string>
-    <string name="maki_plus_default">Maki Plus मानक</string>
 
     <string name="remove_keyword">कीवर्ड निकालें</string>
     <string name="remove_keyword_summary">क्या आप वास्तव में इस कीवर्ड को हटाना चाहते हैं?</string>
@@ -316,9 +310,6 @@
     <string name="highlight_posts_summary">किसी भी कीवर्ड द्वारा समाचार फ़ीड में प्रकाशनों को हाइलाइट करें</string>
     <string name="highlighted_post">हाइलाइट की गई पोस्ट</string>
 
-    <string name="tap_target_social">किसी भी सोशल मीडिया का चयन करने के लिए यहां टैप करें</string>
-    <string name="tap_target_social_summary">किसी भी सामाजिक का चयन करने के लिए यहां टैप करें</string>
-
     <string name="auto_night_plus">अपनी आँखें बचाओ</string>
     <string name="quickbar_plus">तुम्हारी उँगलियों पर</string>
 
@@ -334,9 +325,6 @@
     <string name="blocked_hours_notify">सूचित करें</string>
     <string name="blocked_hours_notify_summary">अवरुद्ध घंटे समाप्त होने पर एक सूचना प्राप्त करें और आप फिर से ऐप का उपयोग करने में सक्षम हैं</string>
 
-    <string name="block_links">पृष्ठों को अवरुद्ध करें</string>
-    <string name="block_links_summary">उन पृष्ठों को ब्लॉक करें जिनका आप उपयोग नहीं करना चाहते हैं</string>
-
     <string name="blocked_hours_finish">वापस आने का समय!</string>
     <string name="blocked_hours_finish_summary">अब आप फिर से माकी का उपयोग करने में सक्षम हैं</string>
 
@@ -346,24 +334,10 @@
     <string name="maki_is_locked">माकी बंद है</string>
     <string name="blocked_description">आपने ऐप को ब्लॉक करने के लिए %1$s से %2$s बजे तक अंतराल निर्धारित किया है। कुछ महान करने के लिए उस समय का उपयोग करें!</string>
 
-    <string name="blocked_links">अवरुद्ध पृष्ठ</string>
-    <string name="blocked_links_summary">आपके द्वारा अवरुद्ध पृष्ठों की सूची</string>
-
-    <string name="blocked_links_add">इस लिंक को ब्लॉक करें</string>
-
-    <string name="play_gifs">GIF खेलें</string>
-    <string name="play_gifs_summary">माकी में जीआईएफ खोलें</string>
-
-    <string name="blocked_page">अवरुद्ध पृष्ठ</string>
-    <string name="blocked_page_summary">यह पृष्ठ आपके द्वारा अवरोधित किया गया था</string>
-
     <string name="blocked_hour">अवरुद्ध अंतराल</string>
     <string name="lock_usage_title">अंतराल का नाम</string>
 
     <!--3.4.1-->
-    <string name="clearcache">निकास पर स्पष्ट कैश</string>
-    <string name="clearcache_summary">ऐप को खोलने में अधिक समय लगेगा।</string>
-
     <string name="last_opened">अंतिम बार खोला गया</string>
 
     <string name="remove_bookmark">बुकमार्क निकालें?</string>
@@ -379,22 +353,10 @@
     <string name="facebook_play">Watch पर वीडियो</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">बंद करने के लिए स्वाइप करें</string>
-    <string name="enable_swipe_close">बाएं से दाएं स्वाइप करके पेज बंद करें</string>
-
     <!--3.7-->
     <string name="enabled">सक्रिय</string>
-    <string name="donate_maki">माकी विकास का समर्थन करें</string>
-    <string name="donate_maki_more">यदि आप वास्तव में माकी का उपयोग करने का आनंद लेते हैं, तो आप अतिरिक्त दान के साथ माकी और भविष्य की परियोजनाओं का समर्थन कर सकते हैं।</string>
 
     <!--4.0-->
-    <string name="plus_block">समय बचाओ</string>
-    <string name="plus_block_description">फेसबुक के अपने उपयोग को सीमित करें और उस समय को बेहतर तरीके से बिताएं: दोस्त, परिवार, शौक, काम, आदि।</string>
-
-    <string name="plus_block_pages">कोई व्याकुलता नहीं</string>
-    <string name="plus_block_pages_description">उन पृष्ठों को आसानी से ब्लॉक करें जिन्हें आप देखना नहीं चाहते हैं</string>
-
     <string name="autoplay_videos">ऑटोप्ले वीडियो</string>
     <string name="autoplay_videos_summary">ऑटोप्ले वीडियो सक्षम करें। सक्षम होने पर आप वीडियो डाउनलोड और साझा नहीं कर पाएंगे।</string>
 
@@ -500,4 +462,7 @@
 
     <string name="twitter_theme">ट्विटर थीम</string>
     <string name="twitter_theme_summary">ट्विटर पर कस्टम थीम लागू करें</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Instagram की कहानियों को छिपाएँ</string>
 </resources>

@@ -109,8 +109,6 @@
     <string name="support">Suport</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Ajutați la traducere</string>
-    <string name="open_in">Navigare în aplicație</string>
-    <string name="open_in_more">Deschideți legături externe în Maki</string>
     <string name="top_tabs">Navigare sus</string>
     <string name="top_tabs_more">Afișați fila de navigare în partea de sus</string>
     <string name="fbpage">Pagina de Facebook</string>
@@ -122,18 +120,18 @@
         <item>Disa Messenger</item>
     </string-array>
     <string name="problems_purchase">Vă mulțumim foarte mult că ne-ați susținut! Din păcate, se pare că aveți unele probleme cu achiziția. Ei bine, această pagină a fost creată doar pentru a rezolva această problemă.
-\n\n
-Avem câteva soluții posibile:\n\n
-1) Reporniți Maki. Închideți aplicația și lansați-o de la zero, deschideți setările și încercați să activați orice caracteristică Plus.
-\n\n
-2) Dacă prima soluție nu funcționează - încercați să faceți din nou clic pe „Cumpărați Maki Plus”. Această acțiune vă va restabili achiziția (nu veți cheltui banii din nou, nu vă faceți griji). După, reporniți aplicația și încercați să activați orice caracteristică Plus.
-\n\n
-3) După ce ați urmat pașii de mai sus, dacă nimic din toate acestea nu funcționează - contactați-ne! Cu siguranță vom găsi împreună cea mai bună soluție.
-\n\n
-E-mailul nostru: makifeedback@gmail.com\n
-Pagina de Facebook: m.facebook.com/sunshineappsst
-\n\n
-Cu respect, Sunshine Apps</string>
+        \n\n
+        Avem câteva soluții posibile:\n\n
+        1) Reporniți Maki. Închideți aplicația și lansați-o de la zero, deschideți setările și încercați să activați orice caracteristică Plus.
+        \n\n
+        2) Dacă prima soluție nu funcționează - încercați să faceți din nou clic pe „Cumpărați Maki Plus”. Această acțiune vă va restabili achiziția (nu veți cheltui banii din nou, nu vă faceți griji). După, reporniți aplicația și încercați să activați orice caracteristică Plus.
+        \n\n
+        3) După ce ați urmat pașii de mai sus, dacă nimic din toate acestea nu funcționează - contactați-ne! Cu siguranță vom găsi împreună cea mai bună soluție.
+        \n\n
+        E-mailul nostru: makifeedback@gmail.com\n
+        Pagina de Facebook: m.facebook.com/sunshineappsst
+        \n\n
+        Cu respect, Sunshine Apps</string>
 
     <string name="social_medias">Rețele de socializare</string>
     <string name="hide_twitter">Ascunde Twitter</string>
@@ -148,7 +146,6 @@ Cu respect, Sunshine Apps</string>
     <string name="interval_pref_description_new">Notificările vor fi verificate la fiecare %s.</string>
     <string name="notification_sound_msg">Sunet pentru mesaje</string>
     <string name="blacklist_title">Lista neagră</string>
-    <string name="new_black_word">Scrie un nou cuvânt pentru blocare</string>
     <string name="blacklist_summary">Lista cuvinte pentru a bloca notificările</string>
     <string name="exact">Timp exact</string>
     <string name="exact_summary">Reduceți întârzierea notificării. Nu este prietenos cu bateria</string>
@@ -237,11 +234,8 @@ Cu respect, Sunshine Apps</string>
     <string name="hide_birthdays_summary">Eliminați notificările zilelor de naștere din fluxul de noutăți</string>
     <!--Maki 3.0-->
     <string name="call">Apel</string>
-    <string name="falcon_view">Vizualizare Falcon</string>
-    <string name="falcon_view_summary">Citiți articole fără a vizita un site web. Pagina implicită va fi deschisă dacă nu se adaugă nimic.</string>
     <string name="special">Special</string>
     <string name="hide_linkedin">Ascundeți  LinkedIn</string>
-    <string name="cant_call">Ne pare rău, nu puteți efectua un apel aici</string>
     <string name="features_beta">Opțiuni beta</string>
     <string name="features_beta_summary">Aceste opțiuni sunt încă în curs de dezvoltare și posibil nu sunt stabile, deci încercați-le doar dacă doriți cu adevărat!</string>
     <string name="warning">Avertizare!</string>
@@ -263,7 +257,6 @@ Cu respect, Sunshine Apps</string>
     <string name="keyword_post_summary">Ascundeți publicațiile din fluxul de știri prin orice cuvânt cheie</string>
     <string name="blocked_keywords">Cuvinte cheie blocate</string>
     <string name="active_friends">Prieteni activi</string>
-    <string name="maki_plus_default">Maki Plus Standard</string>
     <string name="remove_keyword">Eliminați cuvântul cheie</string>
     <string name="remove_keyword_summary">Chiar doriți să eliminați acest cuvânt cheie?</string>
     <string name="list_empty">Nu este nimic aici!</string>
@@ -278,8 +271,6 @@ Cu respect, Sunshine Apps</string>
     <string name="highlight_posts">Evidențiați postările</string>
     <string name="highlight_posts_summary">Evidențiați publicațiile din fluxul de știri prin orice cuvânt cheie</string>
     <string name="highlighted_post">Mesaj evidențiat</string>
-    <string name="tap_target_social">Comutați social media</string>
-    <string name="tap_target_social_summary">Apăsați aici pentru a selecta orice social media</string>
     <string name="auto_night_plus">Protejează-ți ochii</string>
     <string name="quickbar_plus">La vârful degetelor</string>
     <!--3.3-->
@@ -291,26 +282,15 @@ Cu respect, Sunshine Apps</string>
     <string name="blocked_hours_summary">Stabiliți intervale de timp atunci când nu doriți să vă petreceți timpul în social</string>
     <string name="blocked_hours_notify">Notifică</string>
     <string name="blocked_hours_notify_summary">Obțineți o notificare atunci când ora blocată s-a terminat și puteți utiliza din nou aplicația</string>
-    <string name="block_links">Blocați paginile</string>
-    <string name="block_links_summary">Blocați paginile pe care nu doriți să le utilizați</string>
     <string name="blocked_hours_finish">E timpul să ne întoarcem!</string>
     <string name="blocked_hours_finish_summary">Acum poți folosi Maki din nou</string>
     <string name="blocked_hours_disable_notifications">Dezactivați notificările în orele blocate</string>
     <string name="blocked_hours_disable_notifications_summary">Dezactivați notificările atunci când nu puteți utiliza aplicația în orele blocate</string>
     <string name="maki_is_locked">Maki este blocat</string>
     <string name="blocked_description">Ați setat un interval de la %1$s până la %2$s pentru a bloca aplicația - utilizați acel timp pentru a face ceva grozav!</string>
-    <string name="blocked_links">Pagini blocate</string>
-    <string name="blocked_links_summary">Lista paginilor blocate de dvs.</string>
-    <string name="blocked_links_add">Blocați această legătură</string>
-    <string name="play_gifs">Redați GIF-uri</string>
-    <string name="play_gifs_summary">Deschideți GIF-urile în Maki</string>
-    <string name="blocked_page">Pagină blocată</string>
-    <string name="blocked_page_summary">Oops! Se pare că ați decis să blocați această pagină. Sunt destule alte pagini grozave pe care le puteți vizita, dar nu aceasta. Nu astăzi.</string>
     <string name="blocked_hour">Interval blocat</string>
     <string name="lock_usage_title">Numele intervalului</string>
     <!--3.4.1-->
-    <string name="clearcache">Ștergeți memoria cache la ieșire</string>
-    <string name="clearcache_summary">Va dura mai mult timp pentru a se deschide aplicația.</string>
     <string name="last_opened">Ultima deschidere</string>
     <string name="remove_bookmark">Eliminați marcajul?</string>
     <string name="are_you_sure">Sigur doriți să eliminați %1$s din preferatele dvs.?</string>
@@ -322,18 +302,9 @@ Cu respect, Sunshine Apps</string>
     <string name="intro_description">Pur și simplu o aplicație mai bună pentru Facebook</string>
     <string name="facebook_play">Facebook Watch</string>
     <string name="marketplace">Marketplace</string>
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Glisați pentru a închide</string>
-    <string name="enable_swipe_close">Închideți paginile prin glisare de la stânga la dreapta</string>
     <!--3.7-->
     <string name="enabled">Activat</string>
-    <string name="donate_maki">Susțineți dezvoltarea Maki</string>
-    <string name="donate_maki_more">Salut! Numele meu este Roman, sunt un dezvoltator Maki și sunt foarte fericit că folosiți și vă bucurați de Maki. Dacă într-adevăr o faceți, puteți susține Maki și mai multe proiecte viitoare cu o donație suplimentară.</string>
     <!--3.9-->
-    <string name="plus_block">Economisiți timp</string>
-    <string name="plus_block_description">Limitaţi utilizarea de Facebook şi petreceți acel timp într-un mod mai bun: prieteni, familie, hobby, muncă etc.</string>
-    <string name="plus_block_pages">Fără distragere</string>
-    <string name="plus_block_pages_description">Blocați cu ușurință paginile pe care nu doriți să le vizitați</string>
     <string name="autoplay_videos">Redare automată a videoclipurilor</string>
     <string name="autoplay_videos_summary">Activați videoclipuri cu redare automată. Nu veți putea descărca și partaja videoclipuri atunci când este activat.</string>
     <string name="images_play">Dezactivați vizualizatorul de imagini Maki</string>
@@ -440,4 +411,7 @@ Cu respect, Sunshine Apps</string>
 
     <string name="twitter_theme">Tema Twitter</string>
     <string name="twitter_theme_summary">Aplicați tema personalizată pe Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Ascundeți poveștile Instagram</string>
 </resources>

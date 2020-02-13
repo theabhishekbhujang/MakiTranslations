@@ -114,8 +114,6 @@
     <string name="support">Mendukung</string>
     <string name="maki_plus">Mako Plus</string>
     <string name="help_translate">Bantu menerjemahkan</string>
-    <string name="open_in">Browser dalam aplikasi</string>
-    <string name="open_in_more">Buka tautan eksternal di dalam Mako</string>
     <string name="top_tabs">Navigasi teratas</string>
     <string name="top_tabs_more">Tampilkan tab navigasi di bagian atas</string>
     <string name="fbpage">Halaman Facebook</string>
@@ -129,20 +127,20 @@
     </string-array>
 
     <string name="problems_purchase">
- Terima kasih banyak untuk mendukung kami! Sayangnya, tampaknya Anda mengalami masalah dengan pembelian. Nah, halaman ini dibuat hanya untuk Anda untuk memecahkan masalah ini.
-\n\n
-Kami memiliki beberapa kemungkinan solusi:\n
-1) Mulai ulang Mako. Cukup tutup aplikasi dan luncurkan dari awal, buka pengaturan, dan coba aktifkan fitur Plus apa pun.
-\n\n
-2) Jika solusi pertama tidak berfungsi - coba klik "Beli Mako Plus" lagi. Tindakan ini akan memulihkan pembelian Anda (Anda tidak akan membelanjakan uang lagi, jangan khawatir). Setelah itu restart aplikasi dan coba aktifkan fitur Plus apa saja.
-\n\n
-3) Setelah semua, jika tidak ada yang tidak berhasil - hubungi kami! Kami pasti akan menemukan solusi terbaik bersama.
-\n\n
-Email kami: makifeedback@gmail.com\n
-Halaman Facebook: m.facebook.com/sunshineappsst
-\n\n
-Dengan salam, Aplikasi Sunshine
-\n
+        Terima kasih banyak untuk mendukung kami! Sayangnya, tampaknya Anda mengalami masalah dengan pembelian. Nah, halaman ini dibuat hanya untuk Anda untuk memecahkan masalah ini.
+        \n\n
+        Kami memiliki beberapa kemungkinan solusi:\n
+        1) Mulai ulang Mako. Cukup tutup aplikasi dan luncurkan dari awal, buka pengaturan, dan coba aktifkan fitur Plus apa pun.
+        \n\n
+        2) Jika solusi pertama tidak berfungsi - coba klik "Beli Mako Plus" lagi. Tindakan ini akan memulihkan pembelian Anda (Anda tidak akan membelanjakan uang lagi, jangan khawatir). Setelah itu restart aplikasi dan coba aktifkan fitur Plus apa saja.
+        \n\n
+        3) Setelah semua, jika tidak ada yang tidak berhasil - hubungi kami! Kami pasti akan menemukan solusi terbaik bersama.
+        \n\n
+        Email kami: makifeedback@gmail.com\n
+        Halaman Facebook: m.facebook.com/sunshineappsst
+        \n\n
+        Dengan salam, Aplikasi Sunshine
+        \n
     </string>
 
     <string name="social_medias">Media sosial</string>
@@ -158,7 +156,7 @@ Dengan salam, Aplikasi Sunshine
     <string name="interval_pref_description_new">Pemberitahuan akan diperiksa setiap %s.</string>
     <string name="notification_sound_msg">Suara pesan</string>
     <string name="blacklist_title">Daftar hitam</string>
-    <string name="new_black_word">Tulis kata baru untuk diblokir</string>
+
     <string name="blacklist_summary">Daftar kata-kata untuk memblokir pemberitahuan</string>
     <string name="exact">Waktu tepatnya</string>
     <string name="exact_summary">Kurangi penundaan notifikasi. Tidak ramah baterai</string>
@@ -253,11 +251,8 @@ Dengan salam, Aplikasi Sunshine
 
     <!--Mako 3.0-->
     <string name="call">Panggilan</string>
-    <string name="falcon_view">Melihat Falcon</string>
-    <string name="falcon_view_summary">Baca artikel tanpa mengunjungi situs web.</string>
     <string name="special">Khusus</string>
     <string name="hide_linkedin">Sembunyikan LinkedIn</string>
-    <string name="cant_call">Maaf, Anda tidak dapat melakukan panggilan di sini</string>
 
     <string name="features_beta">Pilihan dalam versi beta</string>
     <string name="features_beta_summary">Opsi-opsi tersebut masih berkembang dan mungkin tidak stabil, jadi cobalah hanya jika Anda benar-benar ingin!</string>
@@ -286,7 +281,6 @@ Dengan salam, Aplikasi Sunshine
     <string name="blocked_keywords">Kata kunci yang diblokir</string>
 
     <string name="active_friends">Teman aktif</string>
-    <string name="maki_plus_default">Mako Plus Standar</string>
 
     <string name="remove_keyword">Hapus kata kunci</string>
     <string name="remove_keyword_summary">Apakah Anda benar-benar ingin menghapus kata kunci ini?</string>
@@ -308,9 +302,6 @@ Dengan salam, Aplikasi Sunshine
     <string name="highlight_posts_summary">Sorot publikasi dalam umpan berita dengan kata kunci apa pun</string>
     <string name="highlighted_post">Posting yang disorot</string>
 
-    <string name="tap_target_social">Ganti media sosial</string>
-    <string name="tap_target_social_summary">Ketuk di sini untuk memilih media sosial apa pun</string>
-
     <!--3.3-->
     <string name="auto_night_plus">Simpan matamu</string>
     <string name="quickbar_plus">Di ujung jari Anda</string>
@@ -326,9 +317,6 @@ Dengan salam, Aplikasi Sunshine
     <string name="blocked_hours_notify">Memberitahukan</string>
     <string name="blocked_hours_notify_summary">Dapatkan pemberitahuan saat jam yang diblokir selesai dan Anda dapat menggunakan aplikasi lagi</string>
 
-    <string name="block_links">Blokir halaman</string>
-    <string name="block_links_summary">Blokir halaman yang tidak ingin Anda gunakan</string>
-
     <string name="blocked_hours_finish">Waktunya untuk kembali!</string>
     <string name="blocked_hours_finish_summary">Sekarang Anda dapat menggunakan Mako lagi.</string>
 
@@ -338,24 +326,10 @@ Dengan salam, Aplikasi Sunshine
     <string name="maki_is_locked">Mako terkunci</string>
     <string name="blocked_description">Anda mengatur interval dari pukul %1$s - %2$s untuk memblokir aplikasi. Gunakan waktu itu untuk melakukan sesuatu yang hebat!</string>
 
-    <string name="blocked_links">Halaman yang diblokir</string>
-    <string name="blocked_links_summary">Daftar halaman yang diblokir oleh Anda</string>
-
-    <string name="blocked_links_add">Blokir tautan ini</string>
-
-    <string name="play_gifs">Mainkan GIFs</string>
-    <string name="play_gifs_summary">Buka GIFs di Mako</string>
-
-    <string name="blocked_page">Halaman yang diblokir</string>
-    <string name="blocked_page_summary">Halaman ini diblokir oleh Anda</string>
-
     <string name="blocked_hour">Interval yang diblokir</string>
     <string name="lock_usage_title">Nama interval</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Bersihkan cache saat keluar</string>
-    <string name="clearcache_summary">Akan lebih banyak waktu untuk membuka aplikasi.</string>
-
     <string name="last_opened">Terakhir dibuka</string>
 
     <string name="remove_bookmark">Hapus bookmark?</string>
@@ -371,21 +345,10 @@ Dengan salam, Aplikasi Sunshine
     <string name="facebook_play">Video di Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Gesek untuk menutup</string>
-    <string name="enable_swipe_close">Tutup halaman dengan menggesekkan dari kiri ke kanan</string>
-
     <!--3.7-->
     <string name="enabled">Diaktifkan</string>
-    <string name="donate_maki">Mendukung pengembangan Mako</string>
-    <string name="donate_maki_more">Hai! Nama saya Roman, saya adalah pengembang Mako dan saya sangat senang Anda terus menggunakan dan menikmati Mako. Jika Anda benar-benar melakukannya, Anda dapat mendukung Mako dan proyek masa depan lebih banyak lagi dengan sumbangan tambahan.</string>
 
     <!--4.0-->
-    <string name="plus_block">Menghemat waktu</string>
-    <string name="plus_block_description">Batasi penggunaan Facebook Anda dan habiskan waktu itu dengan cara yang lebih baik: teman, keluarga, hobi, pekerjaan, dll.</string>
-
-    <string name="plus_block_pages">Tidak ada gangguan</string>
-    <string name="plus_block_pages_description">Dengan mudah memblokir halaman yang tidak ingin Anda kunjungi</string>
 
     <string name="autoplay_videos">Putar video secara otomatis</string>
     <string name="autoplay_videos_summary">Aktifkan video putar otomatis. Anda tidak akan dapat mengunduh dan berbagi video saat diaktifkan.</string>
@@ -492,4 +455,7 @@ Dengan salam, Aplikasi Sunshine
 
     <string name="twitter_theme">Tampilan Twitter</string>
     <string name="twitter_theme_summary">Terapkan tema khusus di Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Sembunyikan cerita Instagram</string>
 </resources>

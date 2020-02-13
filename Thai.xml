@@ -116,8 +116,6 @@
     <string name="support">สนับสนุน</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">ช่วยแปล</string>
-    <string name="open_in">เบราว์เซอร์ในแอป</string>
-    <string name="open_in_more">เปิดลิงก์ภายนอกภายใน Maki</string>
     <string name="top_tabs">การนำทางยอดนิยม</string>
     <string name="top_tabs_more">แสดงแท็บการนำทางที่ด้านบน</string>
     <string name="fbpage">หน้า Facebook</string>
@@ -132,19 +130,19 @@
 
     <string name="problems_purchase">
 
-  ขอบคุณมากที่สนับสนุนพวกเรา! น่าเสียดายที่คุณมีปัญหากับการซื้อ. หน้านี้สร้างขึ้นเพื่อคุณในการแก้ปัญหานี้!
-\n\n
-เรามีวิธีแก้ปัญหาที่เป็นไปได้สองสามข้อ:\n\n
-1) รีสตาร์ท Maki. เพียงปิดแอปพลิเคชั่นและเปิดใช้งานตั้งแต่เริ่มต้นเปิดการตั้งค่าและลองเปิดใช้งานฟีเจอร์ Plus ใด ๆ
-\n\n
-2) หากวิธีแรกไม่ได้ผลให้ลองคลิกที่ "ซื้อ Maki Plus" อีกครั้ง. การดำเนินการนี้จะคืนค่าการซื้อของคุณ (คุณไม่ต้องใช้เงินอีกไม่ต้องกังวล). หลังจากรีสตาร์ทแอปพลิเคชั่นแล้วลองเปิดใช้งานฟีเจอร์ Plus.
-\n\n
-3) หลังจากทั้งหมดหากสิ่งนี้ไม่ได้ผล - ติดต่อเรา! เราจะหาทางออกที่ดีที่สุดร่วมกันอย่างแน่นอน.
-\n\n
-อีเมลของเรา: makifeedback@gmail.com\n
-หน้า Facebook: m.facebook.com/sunshineappsst
-\n\n
-ด้วยความนับถือ Sunshine Apps
+        ขอบคุณมากที่สนับสนุนพวกเรา! น่าเสียดายที่คุณมีปัญหากับการซื้อ. หน้านี้สร้างขึ้นเพื่อคุณในการแก้ปัญหานี้!
+        \n\n
+        เรามีวิธีแก้ปัญหาที่เป็นไปได้สองสามข้อ:\n\n
+        1) รีสตาร์ท Maki. เพียงปิดแอปพลิเคชั่นและเปิดใช้งานตั้งแต่เริ่มต้นเปิดการตั้งค่าและลองเปิดใช้งานฟีเจอร์ Plus ใด ๆ
+        \n\n
+        2) หากวิธีแรกไม่ได้ผลให้ลองคลิกที่ "ซื้อ Maki Plus" อีกครั้ง. การดำเนินการนี้จะคืนค่าการซื้อของคุณ (คุณไม่ต้องใช้เงินอีกไม่ต้องกังวล). หลังจากรีสตาร์ทแอปพลิเคชั่นแล้วลองเปิดใช้งานฟีเจอร์ Plus.
+        \n\n
+        3) หลังจากทั้งหมดหากสิ่งนี้ไม่ได้ผล - ติดต่อเรา! เราจะหาทางออกที่ดีที่สุดร่วมกันอย่างแน่นอน.
+        \n\n
+        อีเมลของเรา: makifeedback@gmail.com\n
+        หน้า Facebook: m.facebook.com/sunshineappsst
+        \n\n
+        ด้วยความนับถือ Sunshine Apps
 
     </string>
 
@@ -161,7 +159,6 @@
     <string name="interval_pref_description_new">การแจ้งเตือนจะถูกตรวจสอบทุกครั้ง %s.</string>
     <string name="notification_sound_msg">เสียงข้อความ</string>
     <string name="blacklist_title">บัญชีดำ</string>
-    <string name="new_black_word">เขียนคำใหม่เพื่อบล็อก</string>
     <string name="blacklist_summary">รายการคำศัพท์ที่จะบล็อกการแจ้งเตือน</string>
     <string name="exact">เวลาที่แน่นอน</string>
     <string name="exact_summary">ลดความล่าช้าในการแจ้งเตือน. ไม่เป็นมิตรกับแบตเตอรี่</string>
@@ -258,11 +255,8 @@
 
     <!--Maki 3.0-->
     <string name="call">โทร</string>
-    <string name="falcon_view">มุมมองเหยี่ยว</string>
-    <string name="falcon_view_summary">อ่านบทความโดยไม่ต้องไปที่เว็บไซต์. หน้าเริ่มต้นจะเปิดขึ้นหากไม่มีการดึงข้อมูล</string>
     <string name="special">พิเศษ</string>
     <string name="hide_linkedin">ซ่อน LinkedIn</string>
-    <string name="cant_call">ขออภัยคุณไม่สามารถโทรได้ที่นี่</string>
 
     <string name="features_beta">ตัวเลือกในรุ่นเบต้า</string>
     <string name="features_beta_summary">ตัวเลือกเหล่านั้นยังคงพัฒนาและอาจไม่เสถียรดังนั้นให้ลองเฉพาะเมื่อคุณต้องการ!</string>
@@ -290,7 +284,6 @@
     <string name="keyword_post_summary">ซ่อนสิ่งพิมพ์ในฟีดข่าวโดยใช้คำสำคัญ</string>
     <string name="blocked_keywords">คำหลักที่ถูกบล็อก</string>
     <string name="active_friends">เพื่อนที่กระตือรือร้น</string>
-    <string name="maki_plus_default">Maki Plus มาตรฐาน</string>
 
     <string name="remove_keyword">ลบคำค้นหา</string>
     <string name="remove_keyword_summary">คุณต้องการลบคำหลักนี้จริง ๆ หรือไม่?</string>
@@ -312,8 +305,6 @@
     <string name="highlight_posts_summary">เน้นสื่อสิ่งพิมพ์ในฟีดข่าวด้วยคำหลัก</string>
     <string name="highlighted_post">โพสต์ที่ไฮไลต์</string>
 
-    <string name="tap_target_social">เปลี่ยนโซเชียลมีเดีย</string>
-    <string name="tap_target_social_summary">แตะที่นี่เพื่อเลือกโซเชียลใด ๆ</string>
     <string name="auto_night_plus">ปกป้องดวงตาของคุณ</string>
     <string name="quickbar_plus">ที่ปลายนิ้วของคุณ</string>
 
@@ -328,9 +319,6 @@
     <string name="blocked_hours_notify">แจ้ง</string>
     <string name="blocked_hours_notify_summary">รับการแจ้งเตือนเมื่อชั่วโมงที่ถูกบล็อกเสร็จสิ้นและคุณสามารถใช้แอปอีกครั้ง</string>
 
-    <string name="block_links">บล็อกหน้า</string>
-    <string name="block_links_summary">บล็อกเพจที่คุณไม่ต้องการใช้</string>
-
     <string name="blocked_hours_finish">ได้เวลากลับมาแล้ว!</string>
     <string name="blocked_hours_finish_summary">ตอนนี้คุณสามารถใช้ Maki ได้อีกครั้ง</string>
 
@@ -340,24 +328,10 @@
     <string name="maki_is_locked">Maki ถูกล็อค</string>
     <string name="blocked_description">คุณตั้งช่วงเวลาจาก %1$s น. ถึง %2$s น. เพื่อบล็อกแอป. ใช้เวลานั้นทำสิ่งที่ยอดเยี่ยม!</string>
 
-    <string name="blocked_links">หน้าที่ถูกบล็อก</string>
-    <string name="blocked_links_summary">รายการหน้าเว็บที่ถูกปิดกั้นโดยคุณ</string>
-
-    <string name="blocked_links_add">บล็อกลิงค์นี้</string>
-
-    <string name="play_gifs">เล่น GIF</string>
-    <string name="play_gifs_summary">เปิด GIF ใน Maki</string>
-
-    <string name="blocked_page">หน้าที่ถูกบล็อก</string>
-    <string name="blocked_page_summary">คุณถูกบล็อกหน้านี้</string>
-
     <string name="blocked_hour">ช่วงเวลาที่ถูกบล็อก</string>
     <string name="lock_usage_title">ชื่อของช่วงเวลา</string>
 
     <!--3.4.1-->
-    <string name="clearcache">ล้างแคชเมื่อออก</string>
-    <string name="clearcache_summary">ใช้เวลาในการเปิดแอปมากขึ้น</string>
-
     <string name="last_opened">เปิดล่าสุด</string>
 
     <string name="remove_bookmark">ลบบุ๊คมาร์คหรือไม่</string>
@@ -373,22 +347,10 @@
     <string name="facebook_play">วิดีโอบน Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">ปัดเพื่อปิด</string>
-    <string name="enable_swipe_close">ปิดหน้าโดยปัดจากซ้ายไปขวา</string>
-
     <!--3.7-->
     <string name="enabled">เปิดการใช้งาน</string>
-    <string name="donate_maki">สนับสนุนการพัฒนา Maki</string>
-    <string name="donate_maki_more">หากคุณสนุกกับการใช้ Maki จริงๆคุณสามารถสนับสนุน Maki และโครงการในอนาคตได้มากขึ้นด้วยการบริจาคพิเศษ</string>
 
     <!--4.0-->
-    <string name="plus_block">ประหยัดเวลา</string>
-    <string name="plus_block_description">จำกัด การใช้ Facebook ของคุณและใช้เวลาในวิธีที่ดีกว่า: เพื่อนครอบครัวงานอดิเรกงาน ฯลฯ</string>
-
-    <string name="plus_block_pages">ไม่มีความฟุ้งซ่าน</string>
-    <string name="plus_block_pages_description">บล็อกหน้าเว็บที่คุณไม่ต้องการเยี่ยมชมได้อย่างง่ายดาย</string>
-
     <string name="autoplay_videos">เล่นวิดีโออัตโนมัติ</string>
     <string name="autoplay_videos_summary">เปิดใช้งานวิดีโอเล่นอัตโนมัติ คุณจะไม่สามารถดาวน์โหลดและแชร์วิดีโอเมื่อเปิดใช้งาน</string>
 
@@ -494,4 +456,7 @@
 
     <string name="twitter_theme">ชุดรูปแบบ Twitter</string>
     <string name="twitter_theme_summary">ใช้ชุดรูปแบบที่กำหนดเองบน Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">ซ่อนเรื่องราวของ Instagram</string>
 </resources>

@@ -115,8 +115,6 @@
     <string name="support">지원하다</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">번역 도움</string>
-    <string name="open_in">인앱 브라우저</string>
-    <string name="open_in_more">마키 내부의 외부 링크 열기</string>
 
     <string name="top_tabs">탑 네비게이션</string>
     <string name="top_tabs_more">상단에 탐색 탭 표시</string>
@@ -131,19 +129,19 @@
     </string-array>
 
     <string name="problems_purchase">
-  우리를 지원해 주셔서 대단히 감사합니다! 불행히도 구매에 문제가있는 것으로 보입니다. 글쎄,이 페이지는이 문제를 풀기 위해 만들어졌다.
-\n\n
-가능한 해결책이 몇 가지 있습니다.\n\n
-1) 마키를 다시 시작하십시오. 응용 프로그램을 닫고 처음부터 실행하고 설정을 열고 Plus 기능을 활성화하십시오.
-\n\n
-2) 첫 번째 해결 방법이 작동하지 않으면 "마키 플러스 받기"를 다시 클릭하십시오. 이 작업은 구매를 복구합니다. 그 후 응용 프로그램을 다시 시작하고 Plus 기능을 활성화하십시오.
-\n\n
-3) 결국 이것이 작동하지 않는다면 저희에게 연락하십시오! 우리는 함께 최상의 솔루션을 찾을 것입니다.
-\n\n
-우리의 이메일 : makifeedback@gmail.com\n
-페이스 북 페이지 : m.facebook.com/sunshineappsst
-\n\n
-안부와 함께, 선샤인 애플 리케이션.
+        우리를 지원해 주셔서 대단히 감사합니다! 불행히도 구매에 문제가있는 것으로 보입니다. 글쎄,이 페이지는이 문제를 풀기 위해 만들어졌다.
+        \n\n
+        가능한 해결책이 몇 가지 있습니다.\n\n
+        1) 마키를 다시 시작하십시오. 응용 프로그램을 닫고 처음부터 실행하고 설정을 열고 Plus 기능을 활성화하십시오.
+        \n\n
+        2) 첫 번째 해결 방법이 작동하지 않으면 "마키 플러스 받기"를 다시 클릭하십시오. 이 작업은 구매를 복구합니다. 그 후 응용 프로그램을 다시 시작하고 Plus 기능을 활성화하십시오.
+        \n\n
+        3) 결국 이것이 작동하지 않는다면 저희에게 연락하십시오! 우리는 함께 최상의 솔루션을 찾을 것입니다.
+        \n\n
+        우리의 이메일 : makifeedback@gmail.com\n
+        페이스 북 페이지 : m.facebook.com/sunshineappsst
+        \n\n
+        안부와 함께, 선샤인 애플 리케이션.
     </string>
 
     <string name="social_medias">소셜 미디어</string>
@@ -160,7 +158,6 @@
     <string name="interval_pref_description_new">알림은 %s 번마다 확인됩니다.</string>
     <string name="notification_sound_msg">메시지 소리</string>
     <string name="blacklist_title">블랙리스트</string>
-    <string name="new_black_word">차단할 새 단어 쓰기</string>
     <string name="blacklist_summary">알림을 차단할 단어 목록</string>
     <string name="exact">정확한 시간</string>
     <string name="exact_summary">알림 지연을 줄입니다. 배터리가 친화적이지 않습니까</string>
@@ -260,11 +257,8 @@
 
     <!--Maki 3.0-->
     <string name="call">요구</string>
-    <string name="falcon_view">Falcon view</string>
-    <string name="falcon_view_summary">웹 사이트를 방문하지 않고 기사를 읽으십시오. 가져올 데이터가 없으면 기본 페이지가 열립니다.</string>
     <string name="special">특별한</string>
     <string name="hide_linkedin">LinkedIn 숨기기</string>
-    <string name="cant_call">죄송합니다. 여기 전화를 걸 수 없습니다.</string>
 
     <string name="features_beta">베타 버전의 옵션</string>
     <string name="features_beta_summary">이러한 옵션은 여전히 개발 중이며 안정적이지 않을 수 있습니다. 따라서 정말로 원하는 경우에만 시도하십시오!</string>
@@ -292,7 +286,6 @@
     <string name="blocked_keywords">차단 된 키워드</string>
 
     <string name="active_friends">활발한 친구</string>
-    <string name="maki_plus_default">Maki Plus 표준</string>
     <string name="remove_keyword">키워드 삭제</string>
     <string name="remove_keyword_summary">이 키워드를 정말로 삭제 하시겠습니까?</string>
 
@@ -313,8 +306,6 @@
     <string name="highlight_posts_summary">모든 키워드로 뉴스 피드의 발행물 강조 표시</string>
     <string name="highlighted_post">강조 표시된 게시물</string>
 
-    <string name="tap_target_social">계정 변경.</string>
-    <string name="tap_target_social_summary">소셜 미디어를 선택하려면 여기를 누르십시오.</string>
     <string name="auto_night_plus">눈을 보호하십시오.</string>
     <string name="quickbar_plus">손끝에서</string>
 
@@ -330,9 +321,6 @@
     <string name="blocked_hours_notify">알림</string>
     <string name="blocked_hours_notify_summary">차단 된 시간이 끝나고 앱을 다시 사용할 수있게되면 알림을받습니다.</string>
 
-    <string name="block_links">페이지 차단</string>
-    <string name="block_links_summary">사용하고 싶지 않은 페이지 차단</string>
-
     <string name="blocked_hours_finish">돌아올 시간이야!</string>
     <string name="blocked_hours_finish_summary">이제 다시 마키를 사용할 수 있습니다.</string>
 
@@ -342,24 +330,10 @@
     <string name="maki_is_locked">마키가 잠겨있다.</string>
     <string name="blocked_description">앱을 차단하기 위해 간격을 %1$s 에서 %2$s 사이로 설정했습니다. 위대한 일을 위해 그 시간을 사용하십시오!</string>
 
-    <string name="blocked_links">차단 된 페이지</string>
-    <string name="blocked_links_summary">차단 된 페이지 목록</string>
-
-    <string name="blocked_links_add">이 링크 차단</string>
-
-    <string name="play_gifs">GIF 재생</string>
-    <string name="play_gifs_summary">마키의 오픈 GIF</string>
-
-    <string name="blocked_page">차단 된 페이지</string>
-    <string name="blocked_page_summary">이 페이지는 귀하가 차단했습니다.</string>
-
     <string name="blocked_hour">차단 된 간격</string>
     <string name="lock_usage_title">간격 이름</string>
 
     <!--3.4.1-->
-    <string name="clearcache">이탈시 캐시 지우기</string>
-    <string name="clearcache_summary">앱을 여는 데는 더 많은 시간이 걸립니다.</string>
-
     <string name="last_opened">마지막으로 열었습니다.</string>
 
     <string name="remove_bookmark">북마크를 삭제 하시겠습니까?</string>
@@ -375,22 +349,10 @@
     <string name="facebook_play">Watch 동영상</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">스 와이프하여 닫습니다.</string>
-    <string name="enable_swipe_close">왼쪽에서 오른쪽으로 스 와이프하여 페이지를 닫습니다.</string>
-
     <!--3.7-->
     <string name="enabled">사용</string>
-    <string name="donate_maki">마키 개발 지원</string>
-    <string name="donate_maki_more">Maki를 사용하여 실제로 즐기는 경우 추가 기부금으로 마키와 새로운 프로젝트의 발전을 지원할 수 있습니다.</string>
 
     <!--4.0-->
-    <string name="plus_block">시간을 절약</string>
-    <string name="plus_block_description">페이스 북의 사용을 제한하고 친구, 가족, 취미, 직장 등 더 좋은 방법으로 시간을 보냅니다.</string>
-
-    <string name="plus_block_pages">산만 함없이</string>
-    <string name="plus_block_pages_description">방문하고 싶지 않은 페이지를 쉽게 차단하십시오.</string>
-
     <string name="autoplay_videos">동영상 자동 재생</string>
     <string name="autoplay_videos_summary">자동 재생 동영상을 사용합니다. 사용하도록 설정하면 동영상을 다운로드하고 공유 할 수 없습니다.</string>
 
@@ -499,4 +461,7 @@
 
     <string name="twitter_theme">트위터 테마</string>
     <string name="twitter_theme_summary">트위터에 커스텀 테마 적용</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Instagram 이야기 숨기기</string>
 </resources>

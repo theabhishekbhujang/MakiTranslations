@@ -109,8 +109,6 @@
     <string name="support">Támogatás</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Segítség a fordításhoz</string>
-    <string name="open_in">Beépített böngésző</string>
-    <string name="open_in_more">Külső hivatkozások megnyitása a Makiban</string>
     <string name="top_tabs">Felső navigáció</string>
     <string name="top_tabs_more">Navigációs fül megjelenítése fent</string>
     <string name="fbpage">Facebook oldal</string>
@@ -122,18 +120,18 @@
         <item>Disa Messenger</item>
     </string-array>
     <string name="problems_purchase">A fejlesztők köszönik a támogatást! Sajnos problémák merültek fel a vásárlással kapcsolatban. Ez az oldal a problémák megoldásához készült.
-\n\n
-Van néhány megoldás:\n\n
-1) Maki újra indítása. Zárjuk be az alkalmazást és indítsuk el elölről kezdve, nyissuk meg a beállításokat és próbáljuk meg engedélyezni bármelyik Plus elemet.
-\n\n
-2) Ha az első megoldás nem működik - kattintsunk ismét a \"Maki Plus megvásárlása lehetőségre\". Ez a művelet visszaállítja a vásárlást (nem kell ismét fizetni). Ezután ismét indítsuk újra az alkalmazást és próbáljuk meg engedélyezni bármelyik Plus elemet.
-\n\n
-3) Ezek után, ha egyik megoldás sem működik - vegyük fel a kapcsolatot a fejlesztőkkel! Így biztosan megoldásra kerül a probléma.
-\n\n
-Email cím: makifeedback@gmail.com\n
-Facebook oldal: m.facebook.com/sunshineappsst
-\n\n
-Üdvözlettek, Sunshine Apps</string>
+        \n\n
+        Van néhány megoldás:\n\n
+        1) Maki újra indítása. Zárjuk be az alkalmazást és indítsuk el elölről kezdve, nyissuk meg a beállításokat és próbáljuk meg engedélyezni bármelyik Plus elemet.
+        \n\n
+        2) Ha az első megoldás nem működik - kattintsunk ismét a \"Maki Plus megvásárlása lehetőségre\". Ez a művelet visszaállítja a vásárlást (nem kell ismét fizetni). Ezután ismét indítsuk újra az alkalmazást és próbáljuk meg engedélyezni bármelyik Plus elemet.
+        \n\n
+        3) Ezek után, ha egyik megoldás sem működik - vegyük fel a kapcsolatot a fejlesztőkkel! Így biztosan megoldásra kerül a probléma.
+        \n\n
+        Email cím: makifeedback@gmail.com\n
+        Facebook oldal: m.facebook.com/sunshineappsst
+        \n\n
+        Üdvözlettek, Sunshine Apps</string>
 
     <string name="social_medias">Közösségi médiumok</string>
     <string name="hide_twitter">Twitter elrejtése</string>
@@ -148,7 +146,6 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="interval_pref_description_new">Az értesítések ellenőrzése minden %s után.</string>
     <string name="notification_sound_msg">Üzenet hangja</string>
     <string name="blacklist_title">Feketelista</string>
-    <string name="new_black_word">Új blokkolandó szó megadása</string>
     <string name="blacklist_summary">Az értesítések blokkolásához használt szavak listája</string>
     <string name="exact">Pontos időpont</string>
     <string name="exact_summary">Az értesítési késleltetés csökkentése nem akkumulátor barát megoldás.</string>
@@ -237,11 +234,8 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="hide_birthdays_summary">Születésnap értesítések eltávolítása a hírcsatornából</string>
     <!--Maki 3.0-->
     <string name="call">Hívás</string>
-    <string name="falcon_view">Sólyom nézet</string>
-    <string name="falcon_view_summary">Olvassunk a cikkeket webhely felkeresése nélkül. A címlap jelenik meg, ha a hivatkozás nem érhető el.</string>
     <string name="special">Speciális</string>
     <string name="hide_linkedin">LinkedIn elrejtése</string>
-    <string name="cant_call">Nem lehet hívást kezdeményezni</string>
     <string name="features_beta">Beállítások béta verzióban</string>
     <string name="features_beta_summary">Ezek a lehetőségek még mindig fejlesztés alatt állnak, ezért csak akkor próbáljuk ki ezeket, ha valóban szeretnénk!</string>
     <string name="warning">Figyelem!</string>
@@ -263,7 +257,6 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="keyword_post_summary">Bármely kulcsszóval elrejtheti a hírcsatornában található kiadványokat</string>
     <string name="blocked_keywords">Blokkolt kulcsszavak</string>
     <string name="active_friends">Aktív barátok</string>
-    <string name="maki_plus_default">Maki Plus Alapértelmezett</string>
     <string name="remove_keyword">Kulcsszó eltávolítása</string>
     <string name="remove_keyword_summary">Tényleg el akarja távolítani ezt a kulcsszót?</string>
     <string name="list_empty">Nincs itt semmi!</string>
@@ -278,8 +271,6 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="highlight_posts">Jelölje ki a bejegyzéseket</string>
     <string name="highlight_posts_summary">Bármely kulcsszóval jelölje ki a hírcsatornában található kiadványokat</string>
     <string name="highlighted_post">Kiemelt üzenet</string>
-    <string name="tap_target_social">Kapcsolja be a szociális médiát</string>
-    <string name="tap_target_social_summary">Érintse meg ide a közösségi média kiválasztásához</string>
     <string name="auto_night_plus">Mentsd meg a szemed</string>
     <string name="quickbar_plus">Karnyújtásnyira</string>
     <!--3.3-->
@@ -291,26 +282,15 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="blocked_hours_summary">Állítsa be az időintervallumokat, amikor nem akarja tölteni az időt a társadalomban</string>
     <string name="blocked_hours_notify">Értesítést</string>
     <string name="blocked_hours_notify_summary">Értesítést kapjon, amikor a blokkolt óra befejeződött, és újra használhatja az alkalmazást</string>
-    <string name="block_links">Blokkolja az oldalakat</string>
-    <string name="block_links_summary">Blokkolja azokat az oldalakat, amelyeket nem kíván használni</string>
     <string name="blocked_hours_finish">Ideje visszatérni!</string>
     <string name="blocked_hours_finish_summary">Most ismét használhatja a Makit</string>
     <string name="blocked_hours_disable_notifications">Tiltsa le az értesítéseket blokkolt órákban</string>
     <string name="blocked_hours_disable_notifications_summary">Tiltsa le az értesítéseket, ha nem tudja blokkolt órákban használni az alkalmazást</string>
     <string name="maki_is_locked">Maki zárva van</string>
     <string name="blocked_description">Az alkalmazás letiltásához %1$s - %2$s között kell beállítani. Használd ezt az időt, hogy valami nagyszerűt csinálj!</string>
-    <string name="blocked_links">Blokkolt oldalak</string>
-    <string name="blocked_links_summary">Az Ön által letiltott oldalak listája</string>
-    <string name="blocked_links_add">Blokkolja ezt a linket</string>
-    <string name="play_gifs">Játsszon GIF-eket</string>
-    <string name="play_gifs_summary">Nyissa meg a GIF alkalmazásokat</string>
-    <string name="blocked_page">Blokkolt oldal</string>
-    <string name="blocked_page_summary">Ezt az oldalt letiltotta</string>
     <string name="blocked_hour">Blokkolt intervallum</string>
     <string name="lock_usage_title">Az intervallum neve</string>
     <!--3.4.1-->
-    <string name="clearcache">Törli a gyorsítótárat a kilépéskor</string>
-    <string name="clearcache_summary">Az alkalmazás megnyitása több időt vesz igénybe.</string>
     <string name="last_opened">Utoljára megnyílt</string>
     <string name="remove_bookmark">Könyvjelző eltávolítása?</string>
     <string name="are_you_sure">Biztosan szeretné eltávolítani a %1$s a kedvencek közül?</string>
@@ -325,22 +305,9 @@ Facebook oldal: m.facebook.com/sunshineappsst
     <string name="facebook_play">Videók a Watch funkcióban</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">A bezáráshoz húzza</string>
-    <string name="enable_swipe_close">Zárja be az oldalakat balról jobbra húzva</string>
-
     <!--3.7-->
     <string name="enabled">Bekapcsolt</string>
-    <string name="donate_maki">Támogassa a Maki fejlesztését</string>
-    <string name="donate_maki_more">Szia! A nevem római, Maki fejlesztője, és nagyon örülök, hogy folyamatosan használod és élvezed a Makit. A Maki és a jövőbeni projektek fejlesztése további adományokkal is támogatható.</string>
-
     <!--4.0-->
-    <string name="plus_block">Időt takarít meg</string>
-    <string name="plus_block_description">Korlátozza a Facebook használatát, és az időt jobban töltheti: barátok, család, hobbi, munka stb.</string>
-
-    <string name="plus_block_pages">Nincs figyelemelterelés</string>
-    <string name="plus_block_pages_description">Könnyen blokkolja azokat a lapokat, amelyeket nem szeretne meglátogatni</string>
-
     <string name="autoplay_videos">Videók automatikus lejátszása</string>
     <string name="autoplay_videos_summary">Automatikus lejátszási videók engedélyezése. Ha engedélyezve van, akkor nem tölthet le videókat és nem oszthat meg videókat.</string>
 
@@ -446,4 +413,7 @@ Facebook oldal: m.facebook.com/sunshineappsst
 
     <string name="twitter_theme">Twitter téma</string>
     <string name="twitter_theme_summary">Alkalmazzon egyedi témát a Twitteren</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Az Instagram történeteinek elrejtése</string>
 </resources>

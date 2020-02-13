@@ -133,8 +133,6 @@
     <string name="maki_plus">Maki Plus</string>
 
     <string name="help_translate">مساعدة لترجمة</string>
-    <string name="open_in">متصفح داخل التطبيق</string>
-    <string name="open_in_more">فتح روابط خارجية داخل ماكي</string>
 
     <string name="top_tabs">أعلى الملاحة</string>
     <string name="top_tabs_more">عرض علامة التبويب التنقل في الأعلى</string>
@@ -152,22 +150,22 @@
 
     <string name="problems_purchase">
 
- شكرا جزيلا على دعمنا! للأسف ، يبدو أن لديك بعض المشكلات في عملية الشراء. حسنًا ، هذه الصفحة تم إنشاؤها خصيصًا لك لحل هذه المشكلة.
-\n\n
-لدينا بعض الحلول الممكنة:
+        شكرا جزيلا على دعمنا! للأسف ، يبدو أن لديك بعض المشكلات في عملية الشراء. حسنًا ، هذه الصفحة تم إنشاؤها خصيصًا لك لحل هذه المشكلة.
         \n\n
-1) إعادة تشغيل ماكي. ما عليك سوى إغلاق التطبيق وتشغيله من الصفر ، وفتح الإعدادات ومحاولة تمكين أي ميزة إضافية.
-\n\n
-2) إذا كان الحل الأول لا يعمل - حاول النقر على "شراء ماكي زائد" مرة أخرى. سيعيد هذا الإجراء عملية الشراء (لن تنفق أموالك مرة أخرى ، ولا تقلق). بعد ذلك تطبيق إعادة التشغيل ومحاولة تمكين أي ميزة إضافية.
-\n\n
-3) بعد كل شيء ، إذا لم ينجح شيء من هذا - اتصل بنا! سوف نجد بالتأكيد أفضل حل معا.
-\n\n
-البريد الإلكتروني لدينا: makifeedback@gmail.com
+        لدينا بعض الحلول الممكنة:
+        \n\n
+        1) إعادة تشغيل ماكي. ما عليك سوى إغلاق التطبيق وتشغيله من الصفر ، وفتح الإعدادات ومحاولة تمكين أي ميزة إضافية.
+        \n\n
+        2) إذا كان الحل الأول لا يعمل - حاول النقر على "شراء ماكي زائد" مرة أخرى. سيعيد هذا الإجراء عملية الشراء (لن تنفق أموالك مرة أخرى ، ولا تقلق). بعد ذلك تطبيق إعادة التشغيل ومحاولة تمكين أي ميزة إضافية.
+        \n\n
+        3) بعد كل شيء ، إذا لم ينجح شيء من هذا - اتصل بنا! سوف نجد بالتأكيد أفضل حل معا.
+        \n\n
+        البريد الإلكتروني لدينا: makifeedback@gmail.com
         \n
-صفحة الفيسبوك: m.facebook.com/sunshineappsst
-\n\n
-مع أطيب التحيات ، Sunshine Apps
-\n\n
+        صفحة الفيسبوك: m.facebook.com/sunshineappsst
+        \n\n
+        مع أطيب التحيات ، Sunshine Apps
+        \n\n
     </string>
 
     <string name="social_medias">سيالز</string>
@@ -184,7 +182,6 @@
     <string name="interval_pref_description_new">سيتم فحص الإشعارات كل٪s.</string>
     <string name="notification_sound_msg">صوت الرسالة</string>
     <string name="blacklist_title">القائمة السوداء</string>
-    <string name="new_black_word">اكتب كلمة جديدة للحظر</string>
     <string name="blacklist_summary">قائمة الكلمات لمنع الإخطارات</string>
     <string name="exact">الوقت بالضبط</string>
     <string name="exact_summary">تقليل تأخير الإشعار. ليست صديقة للبطارية</string>
@@ -282,11 +279,8 @@
 
     <!--Maki 3.0-->
     <string name="call">مكالمة</string>
-    <string name="falcon_view">عرض فالكون</string>
-    <string name="falcon_view_summary">قراءة المقالات دون زيارة موقع على شبكة الانترنت</string>
     <string name="special">خاص</string>
     <string name="hide_linkedin">إخفاء LinkedIn</string>
-    <string name="cant_call">آسف لا يمكنك إجراء مكالمة هنا</string>
 
     <string name="features_beta">خيارات في الإصدار التجريبي</string>
     <string name="features_beta_summary">هذه الخيارات لا تزال في طور النمو وقد لا تكون مستقرة ، لذا حاول استخدامها فقط إذا كنت تريد ذلك حقًا!</string>
@@ -315,7 +309,6 @@
     <string name="blocked_keywords">الكلمات الرئيسية المحظورة</string>
 
     <string name="active_friends">الأصدقاء النشطين</string>
-    <string name="maki_plus_default">Maki Plus اساسي</string>
 
     <string name="remove_keyword">قم بإزالة الكلمة الرئيسية</string>
     <string name="remove_keyword_summary">هل تريد حقًا إزالة هذه الكلمة الرئيسية؟</string>
@@ -337,9 +330,6 @@
     <string name="highlight_posts_summary">تسليط الضوء على المنشورات في الخلاصة الإخبارية بأي كلمة رئيسية</string>
     <string name="highlighted_post">وظيفة مميزة</string>
 
-    <string name="tap_target_social">التبديل الاجتماعي</string>
-    <string name="tap_target_social_summary">انقر هنا لتحديد أي اجتماعية</string>
-
     <!--3.3-->
     <string name="auto_night_plus">احفظ عينيك</string>
     <string name="quickbar_plus">في متناول يدك</string>
@@ -356,9 +346,6 @@
     <string name="blocked_hours_notify">أبلغ</string>
     <string name="blocked_hours_notify_summary">احصل على إشعار عندما تنتهي الساعة المحظورة ويمكنك استخدام التطبيق مرة أخرى</string>
 
-    <string name="block_links">صفحات كتلة</string>
-    <string name="block_links_summary">منع الصفحات التي لا تريد استخدامها</string>
-
     <string name="blocked_hours_finish">حان وقت العودة!</string>
     <string name="blocked_hours_finish_summary">الآن يمكنك استخدام ماكي مرة أخرى</string>
 
@@ -368,24 +355,10 @@
     <string name="maki_is_locked">ماكي مقفل</string>
     <string name="blocked_description">قمت بتعيين الفاصل من لمنع التطبيق - استخدم هذا الوقت للقيام بشيء عظيم!</string>
 
-    <string name="blocked_links">الصفحات المحظورة</string>
-    <string name="blocked_links_summary">قائمة الصفحات المحظورة بواسطتك</string>
-
-    <string name="blocked_links_add">منع هذا الرابط</string>
-
-    <string name="play_gifs">لعب صور GIF</string>
-    <string name="play_gifs_summary">فتح ملفات GIF في ماكي</string>
-
-    <string name="blocked_page">الصفحة المحظورة</string>
-    <string name="blocked_page_summary">تم حظر هذه الصفحة بواسطتك</string>
-
     <string name="blocked_hour">فاصل محظور</string>
     <string name="lock_usage_title">اسم الفاصل</string>
 
     <!--3.4.1-->
-    <string name="clearcache">مسح ذاكرة التخزين المؤقت على الخروج</string>
-    <string name="clearcache_summary">سيستغرق الأمر المزيد من الوقت لفتح التطبيق.</string>
-
     <string name="last_opened">آخر ما تم فتحه</string>
 
     <string name="remove_bookmark">إزالة المرجعية؟</string>
@@ -401,22 +374,10 @@
     <string name="facebook_play">مقاطع الفيديو على Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">اسحب للإغلاق</string>
-    <string name="enable_swipe_close">أغلق الصفحات بالضغط من اليمين إلى اليسار</string>
-
     <!--3.7-->
     <string name="enabled">تمكين</string>
-    <string name="donate_maki">دعم تطوير ماكي</string>
-    <string name="donate_maki_more">مرحبا! إذا كنت تستمتع باستخدام Maki ، فيمكنك دعم التطوير أكثر من خلال تبرع إضافي.</string>
 
     <!--4.0-->
-    <string name="plus_block">توفير الوقت</string>
-    <string name="plus_block_description">حدد استخدامك لـ Facebook وقضاء ذلك الوقت بطريقة أفضل: الأصدقاء والعائلة والهواية وما إلى ذلك.</string>
-
-    <string name="plus_block_pages">لا الهاء</string>
-    <string name="plus_block_pages_description">حظر الصفحات التي لا تريد زيارتها</string>
-
     <string name="autoplay_videos">تشغيل مقاطع الفيديو تلقائيًا</string>
     <string name="autoplay_videos_summary">تمكين مقاطع الفيديو التشغيل التلقائي. لن تتمكن من تنزيل مقاطع الفيديو ومشاركتها عند التمكين.</string>
 
@@ -523,4 +484,7 @@
 
     <string name="twitter_theme">التغريد الموضوع</string>
     <string name="twitter_theme_summary">تطبيق سمة مخصصة على تويتر</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">إخفاء القصص على Instagram</string>
 </resources>

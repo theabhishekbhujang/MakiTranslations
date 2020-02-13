@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="maki_name">Maki</string>
+
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="choose_email_client">Choose e-mail client</string>
@@ -90,10 +91,8 @@
     <string name="feedback_mail">Feedback</string>
     <string name="messenger_app">Facebook Messenger App</string>
     <string name="messenger_app_more">Use Facebook Messenger App instead of built-in Messenger</string>
-
     <string name="addHome">Add to home screen</string>
     <string name="power_saving_mode">Power saving mode</string>
-
     <string name="thanks_support">Thanks for your support!</string>
     <string name="unable_purchase">Purchase canceled</string>
     <string name="added">Saved to favorites</string>
@@ -115,11 +114,8 @@
     <string name="support">Support</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Help to translate</string>
-    <string name="open_in">In-app browser</string>
-    <string name="open_in_more">Open external links inside Maki</string>
-
     <string name="top_tabs">Top navigation</string>
-    <string name="top_tabs_more">Show navigation tab on the top</string>
+    <string name="top_tabs_more">Show navigation panel on the top</string>
     <string name="fbpage">Facebook Page</string>
 
     <string-array name="messenger_choice">
@@ -132,19 +128,19 @@
 
     <string name="problems_purchase">
 
-  Thank you very much for supporting us! Unfortunately, it seems that you have some problems with the purchase. Well, this page created just for you to solve this problem.
-\n\n
-We have a few possible solutions:\n\n
-1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
-\n\n
-2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
-\n\n
-3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
-\n\n
-Our email: makifeedback@gmail.com\n
-Facebook page: m.facebook.com/sunshineappsst
-\n\n
-With best regards, Sunshine Apps
+        Thank you very much for supporting us! Unfortunately, it seems that you have some problems with the purchase. Well, this page created just for you to solve this problem.
+        \n\n
+        We have a few possible solutions:\n\n
+        1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
+        \n\n
+        2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
+        \n\n
+        3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
+        \n\n
+        Our email: makifeedback@gmail.com\n
+        Facebook page: m.facebook.com/sunshineappsst
+        \n\n
+        With best regards, Sunshine Apps
 
     </string>
 
@@ -161,7 +157,6 @@ With best regards, Sunshine Apps
     <string name="interval_pref_description_new">Notifications will be checked every %s.</string>
     <string name="notification_sound_msg">Message sound</string>
     <string name="blacklist_title">Blacklist</string>
-    <string name="new_black_word">Write a new word to block</string>
     <string name="blacklist_summary">List of words to block the notifications</string>
     <string name="exact">Exact time</string>
     <string name="exact_summary">Reduce the notification delay. Isn\'t battery friendly</string>
@@ -188,7 +183,6 @@ With best regards, Sunshine Apps
     <!--2.4.6-->
     <string name="font_details">Enter font size in a range from 50 to 170 %</string>
     <string name="problems_with_purchase">Problems with purchase?</string>
-
     <!--2.5-->
     <string name="switch_profile">Switch profile</string>
     <string name="launch_social">Start Maki with</string>
@@ -198,7 +192,6 @@ With best regards, Sunshine Apps
     <!--2.5.2-->
     <string name="notif">Notifications</string>
     <!--Maki 2.6.1-->
-    <!--New settings-->
     <string name="top_news">Top stories</string>
     <string name="top_news_firstly">Show top stories in the news feed</string>
     <string name="hide_people">People you may know</string>
@@ -225,7 +218,6 @@ With best regards, Sunshine Apps
     <string name="notifications_channel_summary">Set importance, a sound of notifications and more</string>
     <string name="messages_channel_summary">Set importance, a sound of messages and more</string>
 
-    <!--New menu-->
     <string name="view_profile">View your profile</string>
     <string name="groups_nav">Groups</string>
     <string name="find_friends_nav">Find friends</string>
@@ -242,7 +234,6 @@ With best regards, Sunshine Apps
     <string name="hide_stories_summary">Hide stories from your news feed</string>
 
     <!--Intro-->
-
     <string name="welcome_plus">Hello!</string>
     <string name="plus_what">What will you get?</string>
     <string name="plus_support">Every Maki Plus buying makes Maki better - it\'s a great motivation for me to add new features faster and improve Maki!</string>
@@ -259,13 +250,9 @@ With best regards, Sunshine Apps
     <string name="hide_birthdays_summary">Remove birthdays notifications from the news feed</string>
 
     <!--Maki 3.0-->
-
     <string name="call">Call</string>
-    <string name="falcon_view">Falcon view</string>
-    <string name="falcon_view_summary">Read articles without visiting a website. Default page will be opened if nothing to fetch.</string>
     <string name="special">Special</string>
     <string name="hide_linkedin">Hide LinkedIn</string>
-    <string name="cant_call">Sorry you can\'t make a call here</string>
 
     <string name="features_beta">Options in beta</string>
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
@@ -294,7 +281,6 @@ With best regards, Sunshine Apps
     <string name="blocked_keywords">Blocked keywords</string>
 
     <string name="active_friends">Active friends</string>
-    <string name="maki_plus_default">Maki Plus Standard</string>
     <string name="remove_keyword">Remove keyword</string>
     <string name="remove_keyword_summary">Do you really want to remove this keyword?</string>
 
@@ -314,9 +300,6 @@ With best regards, Sunshine Apps
     <string name="highlight_posts">Highlight posts</string>
     <string name="highlight_posts_summary">Highlight publications in the news feed by any keyword</string>
     <string name="highlighted_post">Highlighted post</string>
-
-    <string name="tap_target_social">Switch social</string>
-    <string name="tap_target_social_summary">Tap here to select any social</string>
 
     <string name="auto_night_plus">Save your eyes</string>
     <string name="quickbar_plus">At your fingertips</string>
@@ -343,33 +326,14 @@ With best regards, Sunshine Apps
     <string name="maki_is_locked">Maki is locked</string>
     <string name="blocked_description">You set an interval from %1$s to %2$s to block the app - use that time for doing something great!</string>
 
-    <string name="blocked_links">Blocked pages</string>
-    <string name="blocked_links_summary">List of blocked pages by you</string>
-
-    <string name="blocked_links_add">Block this link</string>
-
-    <string name="play_gifs">Play GIFs</string>
-    <string name="play_gifs_summary">Open GIFs in Maki</string>
-
     <string name="blocked_hour">Blocked interval</string>
     <string name="lock_usage_title">Name of interval</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Clear cache on exit</string>
-    <string name="clearcache_summary">It will take more time to open the app.</string>
-
     <string name="last_opened">Last Opened</string>
-
     <string name="remove_bookmark">Remove bookmark?</string>
     <string name="are_you_sure">Are you sure you would like to remove %1$s from your favorites?</string>
     <string name="update_link">https://makisocial.com/category/updates/</string>
-
-    <!--3.6-->
-    <string name="block_links">Block pages</string>
-    <string name="block_links_summary">Block groups and profiles which you do not want to visit. All the publications will be blocked as well.</string>
-
-    <string name="blocked_page">Blocked page</string>
-    <string name="blocked_page_summary">Oops! Looks like you decided to block that page from visiting. Well, there is a lot of other awesome pages that you can visit, but not this one. Not today, buddy.</string>
 
     <!--Intro-->
     <string name="privacy_policy">Privacy policy</string>
@@ -380,22 +344,9 @@ With best regards, Sunshine Apps
     <string name="facebook_play">Facebook Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Swipe to close</string>
-    <string name="enable_swipe_close">Close pages by swiping from left to right</string>
-
     <!--3.7-->
     <string name="enabled">Enabled</string>
-    <string name="donate_maki">Support Maki development</string>
-    <string name="donate_maki_more">Hi! My name is Roman, I am a developer of Maki and I\'m very happy that you keep using and enjoying Maki. If you really do, you can support Maki and future projects even more with an extra donation.</string>
-
     <!--3.9-->
-    <string name="plus_block">Save your time</string>
-    <string name="plus_block_description">Limit your usage of Facebook and spend that time in a better way: friends, family, hobby, work, etc.</string>
-
-    <string name="plus_block_pages">No distraction</string>
-    <string name="plus_block_pages_description">Easily block pages you don\'t want to visit</string>
-
     <string name="autoplay_videos">Autoplay videos</string>
     <string name="autoplay_videos_summary">Enable autoplay videos. You will not be able to download and share videos when enabled.</string>
 
@@ -422,7 +373,6 @@ With best regards, Sunshine Apps
     <!--3.9.5-->
     <string name="disable_swipe_tabs">Disable swipe</string>
     <string name="disable_swipe_tabs_summary">Disable swiping between pages on a home screen of Maki</string>
-
 
     <string name="maki_update">An update is available!</string>
     <string name="maki_update_summary">Get the latest version of Maki with improvements and bug fixes on Google Play. Tap here to update.</string>
@@ -533,4 +483,7 @@ With best regards, Sunshine Apps
 
     <string name="twitter_theme">Twitter theme</string>
     <string name="twitter_theme_summary">Apply custom theme on Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Hide Instagram stories</string>
 </resources>

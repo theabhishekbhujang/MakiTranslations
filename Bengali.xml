@@ -116,8 +116,6 @@
     <string name="support">সমর্থন</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">অনুবাদ করতে সাহায্য করুন</string>
-    <string name="open_in">ইন অ্যাপ্লিকেশন ব্রাউজার</string>
-    <string name="open_in_more">Maki ভিতরে বাইরের লিঙ্ক খুলুন</string>
 
     <string name="top_tabs">শীর্ষ নেভিগেশান</string>
     <string name="top_tabs_more">উপরে নেভিগেশন ন্যাভিগেশন ট্যাব দেখান</string>
@@ -133,19 +131,19 @@
 
     <string name="problems_purchase">
 
-  আমাদের সমর্থন করার জন্য আপনাকে অনেক ধন্যবাদ! দুর্ভাগ্যবশত, মনে হচ্ছে আপনি ক্রয়ের সাথে কিছু সমস্যা আছে। আচ্ছা, এই পৃষ্ঠাটি আপনার জন্য এই সমস্যার সমাধান করার জন্য তৈরি করেছে।
-\n\n
-আমরা কয়েক সম্ভাব্য সমাধান আছে:\n\n
-1) Maki পুনরায় আরম্ভ করুন। শুধু একটি অ্যাপ্লিকেশন বন্ধ করুন এবং স্ক্র্যাচ থেকে এটি আরম্ভ, খোলা সেটিংস এবং কোন প্লাস বৈশিষ্ট্য সক্রিয় করার চেষ্টা করুন।
-\n\n
-2) যদি প্রথম সমাধান কাজ করে না - আবার "মাকি প্লাস কিনুন" -এ ক্লিক করার চেষ্টা করুন। এই পদক্ষেপটি আপনার ক্রয় পুনরুদ্ধার করবে (আপনি আবার আপনার অর্থ ব্যয় করবেন না, চিন্তা করবেন না)। যে পরে অ্যাপ্লিকেশন পুনরায় আরম্ভ করুন এবং কোন প্লাস বৈশিষ্ট্য সক্রিয় করার চেষ্টা করুন।
-\n\n
-3) সব পরে, যদি কিছুই কাজ করে না - আমাদের সাথে যোগাযোগ করুন! আমরা স্পষ্টভাবে একসাথে সেরা সমাধান খুঁজে বের করতে হবে।
-\n\n
-আমাদের ইমেইল: makifeedback@gmail.com\n
-ফেসবুক পাতা: m.facebook.com/sunshineappsst
-\n\n
-সেরা সম্মান সঙ্গে, Sunshine Apps
+        আমাদের সমর্থন করার জন্য আপনাকে অনেক ধন্যবাদ! দুর্ভাগ্যবশত, মনে হচ্ছে আপনি ক্রয়ের সাথে কিছু সমস্যা আছে। আচ্ছা, এই পৃষ্ঠাটি আপনার জন্য এই সমস্যার সমাধান করার জন্য তৈরি করেছে।
+        \n\n
+        আমরা কয়েক সম্ভাব্য সমাধান আছে:\n\n
+        1) Maki পুনরায় আরম্ভ করুন। শুধু একটি অ্যাপ্লিকেশন বন্ধ করুন এবং স্ক্র্যাচ থেকে এটি আরম্ভ, খোলা সেটিংস এবং কোন প্লাস বৈশিষ্ট্য সক্রিয় করার চেষ্টা করুন।
+        \n\n
+        2) যদি প্রথম সমাধান কাজ করে না - আবার "মাকি প্লাস কিনুন" -এ ক্লিক করার চেষ্টা করুন। এই পদক্ষেপটি আপনার ক্রয় পুনরুদ্ধার করবে (আপনি আবার আপনার অর্থ ব্যয় করবেন না, চিন্তা করবেন না)। যে পরে অ্যাপ্লিকেশন পুনরায় আরম্ভ করুন এবং কোন প্লাস বৈশিষ্ট্য সক্রিয় করার চেষ্টা করুন।
+        \n\n
+        3) সব পরে, যদি কিছুই কাজ করে না - আমাদের সাথে যোগাযোগ করুন! আমরা স্পষ্টভাবে একসাথে সেরা সমাধান খুঁজে বের করতে হবে।
+        \n\n
+        আমাদের ইমেইল: makifeedback@gmail.com\n
+        ফেসবুক পাতা: m.facebook.com/sunshineappsst
+        \n\n
+        সেরা সম্মান সঙ্গে, Sunshine Apps
 
     </string>
 
@@ -163,7 +161,6 @@
     <string name="interval_pref_description_new">বিজ্ঞপ্তি প্রতি %s চেক করা হবে।</string>
     <string name="notification_sound_msg">বার্তা শব্দ</string>
     <string name="blacklist_title">নিষিদ্ধ জিনিসের তালিকা</string>
-    <string name="new_black_word">ব্লক একটি নতুন শব্দ লিখুন</string>
     <string name="blacklist_summary">বিজ্ঞপ্তি ব্লক শব্দ তালিকা</string>
     <string name="exact">সঠিক সময়</string>
     <string name="exact_summary">বিজ্ঞপ্তি বিলম্ব হ্রাস করুন। ব্যাটারি বন্ধুত্বপূর্ণ নয়</string>
@@ -263,11 +260,8 @@
 
     <!--Maki 3.0-->
     <string name="call">কল</string>
-    <string name="falcon_view">ফ্যালকন দেখুন</string>
-    <string name="falcon_view_summary">একটি ওয়েবসাইট পরিদর্শন ছাড়া নিবন্ধ পড়ুন। যদি না আনা হয়, ডিফল্ট পৃষ্ঠা খোলা হবে।</string>
     <string name="special">বিশেষ</string>
     <string name="hide_linkedin">লিঙ্কডইন লুকান</string>
-    <string name="cant_call">দুঃখিত আপনি এখানে একটি কল করতে পারবেন না</string>
 
     <string name="features_beta">বিটা অপশন</string>
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
@@ -295,7 +289,6 @@
     <string name="blocked_keywords">অবরুদ্ধ কীওয়ার্ড</string>
 
     <string name="active_friends">সক্রিয় বন্ধুদের</string>
-    <string name="maki_plus_default">Maki Plus মান</string>
     <string name="remove_keyword">শব্দ সরান</string>
     <string name="remove_keyword_summary">আপনি কি সত্যিই এই শব্দটি মুছে ফেলতে চান?</string>
 
@@ -316,8 +309,6 @@
     <string name="highlight_posts_summary">কোনো শব্দ দ্বারা নিউজ ফিড প্রকাশনার হাইলাইট</string>
     <string name="highlighted_post">হাইলাইট পোস্ট</string>
 
-    <string name="tap_target_social">অ্যাকাউন্ট পরিবর্তন করুন</string>
-    <string name="tap_target_social_summary">কোন সামাজিক নির্বাচন করতে এখানে ট্যাপ করুন</string>
     <string name="auto_night_plus">আপনার চোখ সংরক্ষণ করুন</string>
     <string name="quickbar_plus">আপনার নখদর্পণে</string>
 
@@ -334,9 +325,6 @@
     <string name="blocked_hours_notify">অবহিত</string>
     <string name="blocked_hours_notify_summary">অবরুদ্ধ ঘন্টাটি শেষ হওয়ার পরে একটি বিজ্ঞপ্তি পান এবং আপনি আবার অ্যাপটি ব্যবহার করতে পারবেন</string>
 
-    <string name="block_links">ব্লক পৃষ্ঠা</string>
-    <string name="block_links_summary">আপনি ব্যবহার করতে চান না ব্লক পেজ</string>
-
     <string name="blocked_hours_finish">ফিরে পেতে সময়!</string>
     <string name="blocked_hours_finish_summary">এখন আপনি আবার মাকি ব্যবহার করতে পারবেন</string>
 
@@ -346,24 +334,10 @@
     <string name="maki_is_locked">মাকি লক করা হয়</string>
     <string name="blocked_description">আপনি অ্যাপ্লিকেশনটি অবরোধ করতে %1$s থেকে %2$s পর্যন্ত একটি ব্যবধান সেট করুন - কিছু দুর্দান্ত করার জন্য সেই সময়টি ব্যবহার করুন!</string>
 
-    <string name="blocked_links">ব্লক পৃষ্ঠা</string>
-    <string name="blocked_links_summary">আপনার দ্বারা ব্লক পেজ তালিকা</string>
-
-    <string name="blocked_links_add">এই লিঙ্ক ব্লক করুন</string>
-
-    <string name="play_gifs">GIFs খেলুন</string>
-    <string name="play_gifs_summary">মাখিতে খোলা জিআইএফ</string>
-
-    <string name="blocked_page">ব্লক পৃষ্ঠা</string>
-    <string name="blocked_page_summary">এই পৃষ্ঠাটি আপনার দ্বারা অবরুদ্ধ ছিল</string>
-
     <string name="blocked_hour">অবরুদ্ধ ব্যবধান</string>
     <string name="lock_usage_title">ব্যবধানের নাম</string>
 
     <!--3.4.1-->
-    <string name="clearcache">প্রস্থান নেভিগেশন ক্যাশে সাফ করুন</string>
-    <string name="clearcache_summary">অ্যাপটি খুলতে আরও সময় লাগবে।</string>
-
     <string name="last_opened">শেষ খোলা</string>
 
     <string name="remove_bookmark">বুকমার্ক সরান?</string>
@@ -379,22 +353,9 @@
     <string name="facebook_play">Watch-এ ভিডিওগুলো</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">বন্ধ করতে সোয়াইপ করুন</string>
-    <string name="enable_swipe_close">বাম থেকে ডানে সোয়াইপ করে পৃষ্ঠা বন্ধ করুন</string>
-
     <!--3.7-->
     <string name="enabled">সক্ষম করা</string>
-    <string name="donate_maki">সমর্থন মাকি উন্নয়ন</string>
-    <string name="donate_maki_more">নমস্কার! আপনি যদি মাকি ব্যবহার করে সত্যিই উপভোগ করেন, তবে আপনি অতিরিক্ত দান দিয়ে আরও বেশি মাকি এবং ভবিষ্যতের প্রকল্পগুলিকে সমর্থন করতে পারেন।</string>
-
     <!--4.0-->
-    <string name="plus_block">সময় বাঁচাতে</string>
-    <string name="plus_block_description">ফেসবুকের ব্যবহার সীমিত করুন এবং সে সময়টি আরও ভালো ভাবে ব্যয় করুন: বন্ধু, পরিবার, শখ, কাজ ইত্যাদি।</string>
-
-    <string name="plus_block_pages">বিক্ষোভ ছাড়া</string>
-    <string name="plus_block_pages_description">নির্বাচিত পৃষ্ঠা ব্লক করুন</string>
-
     <string name="autoplay_videos">অটো প্লে ভিডিও</string>
     <string name="autoplay_videos_summary">অটোপ্লে ভিডিওগুলি সক্ষম করুন। সক্ষম করার সময় আপনি ভিডিও ডাউনলোড এবং ভাগ করতে পারবেন না।</string>
 
@@ -501,4 +462,7 @@
 
     <string name="twitter_theme">টুইটার থিম</string>
     <string name="twitter_theme_summary">টুইটারে কাস্টম থিম প্রয়োগ করুন</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">ইনস্টাগ্রামের গল্পগুলি লুকান</string>
 </resources>

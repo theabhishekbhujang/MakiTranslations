@@ -115,8 +115,6 @@
     <string name="support">Ủng hộ</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Giúp dịch</string>
-    <string name="open_in">Trình duyệt trong ứng dụng</string>
-    <string name="open_in_more">Mở liên kết bên ngoài bên trong Maki</string>
     <string name="top_tabs">Điều hướng trên cùng</string>
     <string name="top_tabs_more">Hiển thị tab điều hướng ở trên cùng</string>
     <string name="fbpage">Trang Facebook</string>
@@ -131,20 +129,20 @@
 
     <string name="problems_purchase">
 
-  Cảm ơn bạn rất nhiều vì đã ủng hộ chúng tôi! Thật không may, có vẻ như bạn có một số vấn đề với việc mua. Vâng, trang này được tạo ra chỉ để bạn giải quyết vấn đề này.
-\n\n
-Chúng tôi có một số giải pháp khả thi:\n
-1) Khởi động lại Maki. Chỉ cần đóng một ứng dụng và khởi động nó từ đầu, mở cài đặt và thử kích hoạt bất kỳ tính năng Plus nào.
-\n\n
-2) Nếu giải pháp đầu tiên không hoạt động - hãy thử nhấp vào "Mua Maki Plus" một lần nữa. Hành động này sẽ khôi phục giao dịch mua của bạn (bạn sẽ không chi tiêu tiền của mình nữa, đừng lo lắng). Sau ứng dụng khởi động lại đó và thử kích hoạt bất kỳ tính năng Plus nào.
-\n\n
-3) Sau khi tất cả, nếu không có gì trong số này không làm việc - liên hệ với chúng tôi! Chúng tôi chắc chắn sẽ tìm ra giải pháp tốt nhất với nhau.
-\n\n
-Email của chúng tôi: makifeedback@gmail.com\n
-Trang Facebook: m.facebook.com/sunshineappsst
-\n\n
-Trân trọng, Sunshine Apps
-\n\n
+        Cảm ơn bạn rất nhiều vì đã ủng hộ chúng tôi! Thật không may, có vẻ như bạn có một số vấn đề với việc mua. Vâng, trang này được tạo ra chỉ để bạn giải quyết vấn đề này.
+        \n\n
+        Chúng tôi có một số giải pháp khả thi:\n
+        1) Khởi động lại Maki. Chỉ cần đóng một ứng dụng và khởi động nó từ đầu, mở cài đặt và thử kích hoạt bất kỳ tính năng Plus nào.
+        \n\n
+        2) Nếu giải pháp đầu tiên không hoạt động - hãy thử nhấp vào "Mua Maki Plus" một lần nữa. Hành động này sẽ khôi phục giao dịch mua của bạn (bạn sẽ không chi tiêu tiền của mình nữa, đừng lo lắng). Sau ứng dụng khởi động lại đó và thử kích hoạt bất kỳ tính năng Plus nào.
+        \n\n
+        3) Sau khi tất cả, nếu không có gì trong số này không làm việc - liên hệ với chúng tôi! Chúng tôi chắc chắn sẽ tìm ra giải pháp tốt nhất với nhau.
+        \n\n
+        Email của chúng tôi: makifeedback@gmail.com\n
+        Trang Facebook: m.facebook.com/sunshineappsst
+        \n\n
+        Trân trọng, Sunshine Apps
+        \n\n
     </string>
 
     <string name="social_medias">Phương tiện xã hội</string>
@@ -160,7 +158,6 @@ Trân trọng, Sunshine Apps
     <string name="interval_pref_description_new">Thông báo sẽ được kiểm tra mỗi %s.</string>
     <string name="notification_sound_msg">Âm thanh tin nhắn</string>
     <string name="blacklist_title">Danh sách đen</string>
-    <string name="new_black_word">Viết một từ mới để chặn</string>
     <string name="blacklist_summary">Danh sách các từ để chặn các thông báo</string>
     <string name="exact">Thời gian chính xác</string>
     <string name="exact_summary">Giảm độ trễ thông báo. Không thân thiện với pin</string>
@@ -255,11 +252,8 @@ Trân trọng, Sunshine Apps
 
     <!--Maki 3.0-->
     <string name="call">Gọi điện</string>
-    <string name="falcon_view">Chế độ xem Falcon</string>
-    <string name="falcon_view_summary">Đọc các bài viết mà không cần truy cập trang web</string>
     <string name="special">Đặc biệt</string>
     <string name="hide_linkedin">Ẩn giấu LinkedIn</string>
-    <string name="cant_call">Rất tiếc, bạn không thể gọi điện tại đây</string>
 
     <string name="features_beta">Tùy chọn trong phiên bản beta</string>
     <string name="features_beta_summary">Các tùy chọn đó vẫn đang phát triển và có thể không ổn định, vì vậy hãy thử chúng chỉ khi bạn thực sự muốn!</string>
@@ -287,7 +281,6 @@ Trân trọng, Sunshine Apps
     <string name="blocked_keywords">Từ khóa bị chặn</string>
 
     <string name="active_friends">Những người bạn năng động</string>
-    <string name="maki_plus_default">Maki Plus Tiêu chuẩn</string>
     <string name="remove_keyword">Xóa từ khóa</string>
     <string name="remove_keyword_summary">Bạn có thực sự muốn loại bỏ từ khóa này?</string>
 
@@ -308,9 +301,6 @@ Trân trọng, Sunshine Apps
     <string name="highlight_posts_summary">Làm nổi bật các ấn phẩm trong nguồn cấp tin tức bằng bất kỳ từ khóa nào</string>
     <string name="highlighted_post">Bài viết nổi bật</string>
 
-    <string name="tap_target_social">Chuyển đổi phương tiện truyền thông xã hội</string>
-    <string name="tap_target_social_summary">Nhấn vào đây để chọn bất kỳ phương tiện truyền thông xã hội</string>
-
     <!--3.3-->
     <string name="auto_night_plus">Giữ mắt của bạn</string>
     <string name="quickbar_plus">Trong tầm tay của bạn</string>
@@ -326,9 +316,6 @@ Trân trọng, Sunshine Apps
     <string name="blocked_hours_notify">Thông báo</string>
     <string name="blocked_hours_notify_summary">Nhận thông báo khi hết giờ kết thúc và bạn có thể sử dụng lại ứng dụng</string>
 
-    <string name="block_links">Chặn trang</string>
-    <string name="block_links_summary">Chặn các trang mà bạn không muốn sử dụng</string>
-
     <string name="blocked_hours_finish">Thời gian để trở lại!</string>
     <string name="blocked_hours_finish_summary">Bây giờ bạn có thể sử dụng Maki một lần nữa</string>
 
@@ -338,24 +325,10 @@ Trân trọng, Sunshine Apps
     <string name="maki_is_locked">Maki bị khóa</string>
     <string name="blocked_description">Bạn đặt khoảng thời gian từ %1$s đến %2$s để chặn ứng dụng. Sử dụng thời gian đó để làm một cái gì đó tuyệt vời!</string>
 
-    <string name="blocked_links">Các trang bị chặn</string>
-    <string name="blocked_links_summary">Danh sách các trang bị chặn của bạn</string>
-
-    <string name="blocked_links_add">Chặn liên kết này</string>
-
-    <string name="play_gifs">Chơi ảnh GIF</string>
-    <string name="play_gifs_summary">Mở GIF trong Maki</string>
-
-    <string name="blocked_page">Trang bị chặn</string>
-    <string name="blocked_page_summary">Trang này đã bị chặn bởi bạn</string>
-
     <string name="blocked_hour">Chặn khoảng</string>
     <string name="lock_usage_title">Tên của khoảng</string>
 
     <!--3.4.1-->
-    <string name="clearcache">Xóa bộ nhớ cache khi thoát</string>
-    <string name="clearcache_summary">Sẽ mất nhiều thời gian hơn để mở ứng dụng.</string>
-
     <string name="last_opened">Lần mở cuối cùng</string>
 
     <string name="remove_bookmark">Xóa dấu trang?</string>
@@ -371,22 +344,9 @@ Trân trọng, Sunshine Apps
     <string name="facebook_play">Video trên Watch</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">Vuốt để đóng</string>
-    <string name="enable_swipe_close">Đóng trang bằng cách vuốt từ trái sang phải</string>
-
     <!--3.7-->
     <string name="enabled">Đã bật</string>
-    <string name="donate_maki">Hỗ trợ Maki phát triển</string>
-    <string name="donate_maki_more">Nếu bạn thực sự thích sử dụng Maki, bạn có thể hỗ trợ Maki và các dự án trong tương lai nhiều hơn với sự đóng góp thêm.</string>
-
     <!--4.0-->
-    <string name="plus_block">Tiết kiệm thời gian của bạn</string>
-    <string name="plus_block_description">Hạn chế sử dụng Facebook của bạn và dành thời gian đó theo cách tốt hơn: bạn bè, gia đình, sở thích, công việc, v.v.</string>
-
-    <string name="plus_block_pages">Không phân tâm</string>
-    <string name="plus_block_pages_description">Dễ dàng chặn các trang bạn không muốn truy cập</string>
-
     <string name="autoplay_videos">Video phát tự động</string>
     <string name="autoplay_videos_summary">Cho phép tự động phát video. Bạn sẽ không thể tải xuống và chia sẻ video khi được bật.</string>
 
@@ -492,4 +452,7 @@ Trân trọng, Sunshine Apps
 
     <string name="twitter_theme">Chủ đề Twitter</string>
     <string name="twitter_theme_summary">Áp dụng chủ đề tùy chỉnh trên Twitter</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Ẩn những câu chuyện trên Instagram</string>
 </resources>

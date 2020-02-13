@@ -34,14 +34,14 @@
         <item>AMOLED</item>
         <item>黒と白</item>
         <item>赤</item>
-		<item>ファルコン</item>
+        <item>ファルコン</item>
         <item>ピンク</item>
         <item>ディープ・パープル</item>
-		<item>濃い緑色</item>
-		<item>ライトグリーン</item>
-		<item>アンバー</item>
-		<item>深いオレンジ</item>
-		<item>シアン</item>
+        <item>濃い緑色</item>
+        <item>ライトグリーン</item>
+        <item>アンバー</item>
+        <item>深いオレンジ</item>
+        <item>シアン</item>
         <item>Viber</item>
         <item>WhatsApp</item>
         <item>Telegram</item>
@@ -77,9 +77,9 @@
 
     <string name="hide_ads">スポンサー投稿を削除</string>
     <string name="hide_ads_more">Facebookニュースフィードのすべての広告を削除</string>
-	<string name="exit_message">Makiを閉じたいですか？</string>
+    <string name="exit_message">Makiを閉じたいですか？</string>
 
-	<string name="welcome">こんにちは！</string>
+    <string name="welcome">こんにちは！</string>
     <string name="saved_pin_message">ピンを忘れた場合は、携帯電話のアプリケーションマネージャからMakiデータを消去してください。</string>
 
     <string name="pin_code_step_disable">パスコードを無効にする</string>
@@ -137,26 +137,24 @@
     <string name="maki_plus">Maki Plus</string>
 
     <string name="help_translate">翻訳の手助け</string>
-    <string name="open_in">アプリ内ブラウザ</string>
-    <string name="open_in_more">Makiの外部リンクを開く</string>
 
     <string name="top_tabs">トップナビゲーション</string>
     <string name="top_tabs_more">トップにナビゲーションタブを表示する</string>
     <string name="fbpage">Facebookページ</string>
     <string name="problems_purchase">
-私たちをサポートしてくれてありがとう！ 残念ながら、購入に関するいくつかの問題があるようです。 さて、このページはこの問題を解決するために作成されたものです。
-\n\n
-可能な解決策がいくつかあります。\n
-1）Makiを再起動します。 アプリケーションを閉じて最初から起動し、設定を開き、Plus機能を有効にしてみてください。
-\n\n
-2）最初の解決策がうまくいかない場合は、「Maki Plusを購入する」をもう一度クリックしてみてください。 この行動はあなたの購入を元に戻します（あなたはあなたのお金をもう一度使うことはありません、心配しないでください）。 その後、アプリケーションを再起動し、Plus機能を有効にしてみてください。
-\n\n
-3）結局のところ、これの何もうまくいかない場合 - 私達に連絡してください！ 我々は間違いなく最高の解決策を見つけるでしょう。
-\n\n
-私たちのメールアドレス：makifeedback@gmail.com\n
-Facebookページ：m.facebook.com/sunshineappsst
-\n\n
-最高の点として、Sunshine Apps
+        私たちをサポートしてくれてありがとう！ 残念ながら、購入に関するいくつかの問題があるようです。 さて、このページはこの問題を解決するために作成されたものです。
+        \n\n
+        可能な解決策がいくつかあります。\n
+        1）Makiを再起動します。 アプリケーションを閉じて最初から起動し、設定を開き、Plus機能を有効にしてみてください。
+        \n\n
+        2）最初の解決策がうまくいかない場合は、「Maki Plusを購入する」をもう一度クリックしてみてください。 この行動はあなたの購入を元に戻します（あなたはあなたのお金をもう一度使うことはありません、心配しないでください）。 その後、アプリケーションを再起動し、Plus機能を有効にしてみてください。
+        \n\n
+        3）結局のところ、これの何もうまくいかない場合 - 私達に連絡してください！ 我々は間違いなく最高の解決策を見つけるでしょう。
+        \n\n
+        私たちのメールアドレス：makifeedback@gmail.com\n
+        Facebookページ：m.facebook.com/sunshineappsst
+        \n\n
+        最高の点として、Sunshine Apps
     </string>
 
     <string name="social_medias">社会的メディア</string>
@@ -171,7 +169,7 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="interval_pref_description_new">通知は毎回チェックされます %s.</string>
     <string name="notification_sound_msg">メッセージ音</string>
     <string name="blacklist_title">ブラックリスト</string>
-    <string name="new_black_word">ブロックする新しい単語を書く</string>
+
     <string name="blacklist_summary">通知をブロックする単語のリスト</string>
     <string name="exact">正確な時間</string>
     <string name="exact_summary">通知の遅延を減らします。 バッテリーに優しいものではありません</string>
@@ -279,11 +277,8 @@ Facebookページ：m.facebook.com/sunshineappsst
 
     <!--Maki 3.0-->
     <string name="call">コール</string>
-    <string name="falcon_view">ファルコンの眺め</string>
-    <string name="falcon_view_summary">ウェブサイトにアクセスせずに記事を読む</string>
     <string name="special">特殊</string>
     <string name="hide_linkedin">LinkedInを非表示にする</string>
-    <string name="cant_call">申し訳ありませんが、ここで電話をかけることはできません</string>
 
     <string name="features_beta">ベータ版のオプション</string>
     <string name="features_beta_summary">これらのオプションはまだ開発中であり、安定していない可能性があるので、本当にしたい場合にのみ試してみてください！</string>
@@ -311,7 +306,6 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="blocked_keywords">ブロックされたキーワード</string>
 
     <string name="active_friends">アクティブな友達</string>
-    <string name="maki_plus_default">Maki Plus 標準</string>
     <string name="remove_keyword">キーワードを削除</string>
     <string name="remove_keyword_summary">このキーワードを本当に削除しますか？</string>
 
@@ -332,9 +326,6 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="highlight_posts_summary">ニュースフィード内の出版物をキーワードで強調表示</string>
     <string name="highlighted_post">強調表示された投稿</string>
 
-    <string name="tap_target_social">ソーシャルを切り替える</string>
-    <string name="tap_target_social_summary">ソーシャルを選択するにはここをクリック</string>
-
     <!--3.3-->
     <string name="auto_night_plus">あなたの目を救う</string>
     <string name="quickbar_plus">あなたの指先で</string>
@@ -350,9 +341,6 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="blocked_hours_notify">通知する</string>
     <string name="blocked_hours_notify_summary">ブロックされた時間が終了したときに通知を受け取ると、あなたは再びアプリを使用することができます</string>
 
-    <string name="block_links">ブロックページ</string>
-    <string name="block_links_summary">使用したくないブロックページ</string>
-
     <string name="blocked_hours_finish">戻る時間です！</string>
     <string name="blocked_hours_finish_summary">今、あなたはマキを再び使うことができます</string>
 
@@ -362,24 +350,10 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="maki_is_locked">マキはロックされています</string>
     <string name="blocked_description">アプリをブロックするには、%1$s〜%2$s の間隔を設定します。その時間を使って素晴らしいことをしましょう。</string>
 
-    <string name="blocked_links">ブロックされたページ</string>
-    <string name="blocked_links_summary">あなたがブロックしたページのリスト</string>
-
-    <string name="blocked_links_add">このリンクをブロック</string>
-
-    <string name="play_gifs">GIFを再生する</string>
-    <string name="play_gifs_summary">アプリでGIFを開く</string>
-
-    <string name="blocked_page">ブロックされたページ</string>
-    <string name="blocked_page_summary">このページはあなたによってブロックされました</string>
-
     <string name="blocked_hour">ブロック間隔</string>
     <string name="lock_usage_title">間隔の名前</string>
 
     <!--3.4.1-->
-    <string name="clearcache">終了時にキャッシュをクリア</string>
-    <string name="clearcache_summary">アプリを開くのにより多くの時間がかかります。</string>
-
     <string name="last_opened">最後に開いた</string>
 
     <string name="remove_bookmark">ブックマークを削除しますか？</string>
@@ -395,22 +369,10 @@ Facebookページ：m.facebook.com/sunshineappsst
     <string name="facebook_play">Watchの動画</string>
     <string name="marketplace">Marketplace</string>
 
-    <!--3.6.3 Sakura-->
-    <string name="enable_swipe">スワイプして閉じる</string>
-    <string name="enable_swipe_close">左から右にスワイプしてページを閉じる</string>
-
     <!--3.7-->
     <string name="enabled">有効</string>
-    <string name="donate_maki">マキ開発支援</string>
-    <string name="donate_maki_more">こんにちは！私はローマ人です。私はMakiの開発者であり、Makiの使い方に感謝します。 あなたは追加の寄付でマキのさらなる発展と新しいプロジェクトを支援することができます。</string>
 
     <!--4.0-->
-    <string name="plus_block">あなたの時間を節約</string>
-    <string name="plus_block_description">Facebookの使用を制限し、友人、家族、趣味、仕事など、より良い方法でその時間を過ごしてください。</string>
-
-    <string name="plus_block_pages">気を散らさない</string>
-    <string name="plus_block_pages_description">訪問したくないページを簡単にブロック</string>
-
     <string name="autoplay_videos">自動再生動画</string>
     <string name="autoplay_videos_summary">動画の自動再生を有効にします。 有効にすると、動画をダウンロードして共有できなくなります。</string>
 
@@ -519,4 +481,8 @@ Facebookページ：m.facebook.com/sunshineappsst
 
     <string name="twitter_theme">Twitterテーマ</string>
     <string name="twitter_theme_summary">Twitterでカスタムテーマを適用する</string>
+
+    <!--Maki 4.1.6 Hortensia-->
+    <string name="hide_ig_stories">Instagramのストーリーを隠す</string>
 </resources>
+
