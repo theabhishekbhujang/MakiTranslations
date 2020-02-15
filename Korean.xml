@@ -464,4 +464,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Instagram 이야기 숨기기</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">인앱 브라우저</string>
+
+    <string name="label_main">Maki는 Plus로 무엇을 할 수 있습니까?</string>
+    <string name="label_ads">그녀는 광고를 차단</string>
+    <string name="label_night">그녀는 밤에 어두운 테마를 활성화.</string>
+    <string name="label_support">그리고 그녀는 너무 귀엽다♥</string>
+
+    <string name="plus_menu_label">Maki+ 로 업그레이드</string>
+    <string name="plus_menu_label_summary">더 보려면 여기를 누르십시오</string>
+
+    <string name="swipe_to_learn">더 많이 스 와이프</string>
+    <string name="buy_button">마키 플러스 받기</string>
 </resources>

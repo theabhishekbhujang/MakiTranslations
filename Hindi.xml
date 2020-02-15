@@ -465,4 +465,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Instagram की कहानियों को छिपाएँ</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">इन-ऐप ब्राउज़र</string>
+
+    <string name="label_main">माकी प्लस के साथ क्या कर सकती है?</string>
+    <string name="label_ads">विज्ञापन अवरोधक</string>
+    <string name="label_night">स्वचालित रात का विषय</string>
+    <string name="label_support">और वह बहुत प्यारा है♥</string>
+
+    <string name="plus_menu_label">Maki Plus हो जाओ</string>
+    <string name="plus_menu_label_summary">अधिक के लिए यहां टैप करें</string>
+
+    <string name="swipe_to_learn">अधिक के लिए स्वाइप करें</string>
+    <string name="buy_button">Maki+ को अनलॉक करें</string>
 </resources>

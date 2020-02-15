@@ -457,4 +457,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">İnstagramdaki hikayeleri gizle</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Uygulama içi tarayıcı</string>
+
+    <string name="label_main">Maki Plus ile neler yapabilir?</string>
+    <string name="label_ads">Reklamları engeller</string>
+    <string name="label_night">Geceleri karanlık bir temayı aktive ediyor</string>
+    <string name="label_support">Ve o çok tatlı♥</string>
+
+    <string name="plus_menu_label">Maki Plus\'a yükseltme</string>
+    <string name="plus_menu_label_summary">Daha fazla bilgi edin</string>
+
+    <string name="swipe_to_learn">Bilgi almak için hızlıca kaydırın</string>
+    <string name="buy_button">Maki Plus\'ın kilidini aç</string>
 </resources>

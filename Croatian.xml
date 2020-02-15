@@ -466,4 +466,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Sakrijte Instagram priče</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Preglednik u aplikaciji</string>
+
+    <string name="label_main">Što Maki može učiniti s Plusom?</string>
+    <string name="label_ads">Blokira oglase</string>
+    <string name="label_night">Noću aktivira tamnu temu</string>
+    <string name="label_support">A ona je tako slatka♥</string>
+
+    <string name="plus_menu_label">Nadogradite na Maki+</string>
+    <string name="plus_menu_label_summary">Dodirnite ovdje za više</string>
+
+    <string name="swipe_to_learn">Prijeđite prstom za više</string>
+    <string name="buy_button">Otključajte Maki Plus</string>
 </resources>

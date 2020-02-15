@@ -412,4 +412,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Masquer l\'histoire Instagram</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Navigateur intégré à l\'application</string>
+
+    <string name="label_main">Que peut faire Maki avec Plus?</string>
+    <string name="label_ads">Elle bloque les publicités</string>
+    <string name="label_night">Elle activer un thème sombre la nuit</string>
+    <string name="label_support">Et elle est si mignonne♥</string>
+
+    <string name="plus_menu_label">Passez à Maki Plus</string>
+    <string name="plus_menu_label_summary">Appuyez pour en savoir plus</string>
+
+    <string name="swipe_to_learn">Glissez pour plus</string>
+    <string name="buy_button">Débloquer Maki Plus</string>
 </resources>

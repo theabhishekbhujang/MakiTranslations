@@ -414,4 +414,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Ascundeți poveștile Instagram</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Navigare în aplicație</string>
+
+    <string name="label_main">Ce poate face Maki cu Plus?</string>
+    <string name="label_ads">Blochează reclame</string>
+    <string name="label_night">Ea activează o temă întunecată noaptea</string>
+    <string name="label_support">Și este atât de drăguță♥</string>
+
+    <string name="plus_menu_label">Obțineți Maki Plus</string>
+    <string name="plus_menu_label_summary">Atingeți aici pentru mai multe</string>
+
+    <string name="swipe_to_learn">Glisați pentru mai multe</string>
+    <string name="buy_button">Deblocați Maki+</string>
 </resources>

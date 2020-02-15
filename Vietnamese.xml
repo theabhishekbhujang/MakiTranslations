@@ -455,4 +455,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Ẩn những câu chuyện trên Instagram</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Trình duyệt trong ứng dụng</string>
+
+    <string name="label_main">Maki có thể làm gì với Plus?</string>
+    <string name="label_ads">Cô chặn quảng cáo</string>
+    <string name="label_night">Cô kích hoạt một chủ đề tối vào ban đêm</string>
+    <string name="label_support">Và cô ấy thật dễ thương♥</string>
+
+    <string name="plus_menu_label">Nâng cấp lên Maki+</string>
+    <string name="plus_menu_label_summary">Nhấn để biết thêm</string>
+
+    <string name="swipe_to_learn">Vuốt để biết thêm</string>
+    <string name="buy_button">Mở khóa Maki Plus</string>
 </resources>

@@ -461,4 +461,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Skrýt příběhy Instagramu</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Prohlížeč v aplikaci</string>
+
+    <string name="label_main">Co může Maki dělat s Plus?</string>
+    <string name="label_ads">Blokuje reklamy</string>
+    <string name="label_night">V noci aktivuje temné téma</string>
+    <string name="label_support">A ona je tak roztomilá♥</string>
+
+    <string name="plus_menu_label">Upgradujte na Maki Plus</string>
+    <string name="plus_menu_label_summary">Klepnutím sem získáte další informace</string>
+
+    <string name="swipe_to_learn">Více přejeďte prstem</string>
+    <string name="buy_button">Odemkněte Maki Plus</string>
 </resources>

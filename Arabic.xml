@@ -487,4 +487,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">إخفاء القصص على Instagram</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">متصفح داخل التطبيق</string>
+
+    <string name="label_main">ماذا يمكن أن تفعل ماكي مع بلس؟</string>
+    <string name="label_ads">انها كتل الإعلانات</string>
+    <string name="label_night">انها ينشط موضوع الظلام في الليل</string>
+    <string name="label_support">وانها لطيفة جدا♥</string>
+
+    <string name="plus_menu_label">الترقية إلى Maki Plus</string>
+    <string name="plus_menu_label_summary">اضغط هنا لمعرفة المزيد</string>
+
+    <string name="swipe_to_learn">انتقد لمعرفة المزيد</string>
+    <string name="buy_button">الحصول على ماكي بلس</string>
 </resources>

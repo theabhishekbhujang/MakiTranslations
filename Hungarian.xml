@@ -416,4 +416,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Az Instagram történeteinek elrejtése</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Beépített böngésző</string>
+
+    <string name="label_main">Mit tehet Maki a Plus-szal?</string>
+    <string name="label_ads">Blokkolja a hirdetéseket</string>
+    <string name="label_night">Éjjel aktivál egy sötét témát</string>
+    <string name="label_support">És annyira aranyos♥</string>
+
+    <string name="plus_menu_label">Frissítsen a Maki+</string>
+    <string name="plus_menu_label_summary">Érintse meg a információkat</string>
+
+    <string name="swipe_to_learn">Csúsztasson tovább</string>
+    <string name="buy_button">Kinyit</string>
 </resources>

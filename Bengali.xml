@@ -465,4 +465,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">ইনস্টাগ্রামের গল্পগুলি লুকান</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">ইন অ্যাপ্লিকেশন ব্রাউজার</string>
+
+    <string name="label_main">মাকি প্লাস কেন?</string>
+    <string name="label_ads">সফেসবুক বিজ্ঞাপন ছাড়া</string>
+    <string name="label_night">সস্বয়ংক্রিয় রাতের থিম</string>
+    <string name="label_support">বিকাশকারী সমর্থন♥</string>
+
+    <string name="plus_menu_label">আপগ্রেড করুন!</string>
+    <string name="plus_menu_label_summary">আরও জানার জন্য আলতো চাপুন</string>
+
+    <string name="swipe_to_learn">আরও জানতে সোয়াইপ করুন</string>
+    <string name="buy_button">মাকি প্লাস পান</string>
 </resources>

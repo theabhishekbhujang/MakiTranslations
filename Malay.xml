@@ -461,6 +461,20 @@
     <string name="twitter_theme">Tema Twitter</string>
     <string name="twitter_theme_summary">Guna tema tersuai di Twitter</string>
 
-    <!--Maki 4.1.6 Hortensia-->
+    <!--Mako 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Sembunyikan cerita Instagram</string>
+
+    <!--Mako 4.2 Hortensia-->
+    <string name="open_in">Penyemak imbas dalam apl</string>
+
+    <string name="label_main">Apa yang boleh Mako lakukan dengan Plus?</string>
+    <string name="label_ads">Dia menyekat iklan</string>
+    <string name="label_night">Dia mengaktifkan tema gelap pada waktu malam</string>
+    <string name="label_support">Dan dia sangat comel♥</string>
+
+    <string name="plus_menu_label">Naik taraf ke Mako+</string>
+    <string name="plus_menu_label_summary">Ketik untuk lebih</string>
+
+    <string name="swipe_to_learn">Leret untuk lebih</string>
+    <string name="buy_button">Dapatkan Mako+</string>
 </resources>

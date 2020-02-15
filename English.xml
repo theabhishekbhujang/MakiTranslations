@@ -449,29 +449,6 @@
     <string name="quickbar_expand">Tap to expand</string>
     <string name="restore_purchase">Restore purchase</string>
 
-    <!--Maki Plus labels-->
-    <string name="label_main">Our next step</string>
-    <string name="label_main_description">Hello! Want to know how to make me even better?</string>
-
-    <string name="label_ads">Bye-bye, ads!</string>
-    <string name="label_ads_description">I will take care of ads - enjoy your clean news feed</string>
-
-    <string name="label_night">Cool at night</string>
-    <string name="label_night_description">Auto dark mode to save your beautiful eyes</string>
-
-    <string name="label_support">Support us</string>
-    <string name="label_support_description">Take care of my creator and I will take care of you♥</string>
-
-    <string name="plus_menu_label">Upgrade to Maki Plus</string>
-    <string name="plus_menu_label_summary">Tap here to learn more</string>
-
-    <string name="swipe_to_learn">Swipe to learn more</string>
-    <string name="buy_button">Upgrade me, senpai</string>
-
-    <string name="plus_thanks">Thank you!</string>
-    <string name="restart_maki">Restart</string>
-    <string name="restart_maki_summary">Congratulations! I feel so good now! Restart me and open settings to enable anything you want.</string>
-
     <!--Maki 4.1.3 Hortensia-->
     <string-array name="pref_power_modes_entries">
         <item>m.facebook.com</item>
@@ -486,4 +463,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Hide Instagram stories</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">In-app browser</string>
+
+    <string name="label_main">What can Maki do with Plus?</string>
+    <string name="label_ads">She blocks ads</string>
+    <string name="label_night">She turns a dark theme at night</string>
+    <string name="label_support">And she is so cute♥</string>
+
+    <string name="plus_menu_label">Upgrade to Maki Plus</string>
+    <string name="plus_menu_label_summary">Tap here to learn more</string>
+
+    <string name="swipe_to_learn">Swipe to learn more</string>
+    <string name="buy_button">Unlock Maki Plus</string>
 </resources>

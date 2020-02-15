@@ -474,4 +474,18 @@
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Скрыть истории в Instagram</string>
+
+    <!--Maki 4.2 Hortensia-->
+    <string name="open_in">Внутренний браузер</string>
+
+    <string name="label_main">На что способна Маки с Plus?</string>
+    <string name="label_ads">Она блокирует рекламу</string>
+    <string name="label_night">Она включает темную тему ночью</string>
+    <string name="label_support">И она очень милая♥</string>
+
+    <string name="plus_menu_label">Обновитесь на Maki+</string>
+    <string name="plus_menu_label_summary">Узнать больше</string>
+
+    <string name="swipe_to_learn">Проведите для деталей</string>
+    <string name="buy_button">Получить Maki Plus</string>
 </resources>
