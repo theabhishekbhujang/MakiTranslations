@@ -21,7 +21,6 @@
     <string name="refresh">Verversen</string>
     <string name="notifications">Meldingen</string>
     <string name="search">Zoeken</string>
-    <string name="exit">Dichtbij</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -345,7 +344,6 @@
     <string name="privacy_policy">Privacybeleid</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Welkom bij Maki</string>
-    <string name="intro_description">Gewoon een betere Facebook-applicatie</string>
 
     <string name="facebook_play">Video\'s op Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -476,4 +474,10 @@
 
     <string name="swipe_to_learn">Veeg voor meer</string>
     <string name="buy_button">Ontgrendel Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Hartelijk dank voor het kiezen van Maki!</string>
+    <string name="maki_helper_title">Welkom bij Maki!</string>
+    <string name="maki_helper_description">Open de app-instellingen om de donkere modus in te schakelen, Facebook-advertenties uit te schakelen, app-kleur te selecteren en meer.</string>
+    <string name="maki_open_settings">Instellingen</string>
 </resources>

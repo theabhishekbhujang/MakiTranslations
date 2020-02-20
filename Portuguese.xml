@@ -25,7 +25,6 @@
 
     <string name="notifications">Notificações</string>
     <string name="search">Pesquisa</string>
-    <string name="exit">Fechar</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -362,7 +361,6 @@
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Bem-vindo ao Maki</string>
-    <string name="intro_description">Simplesmente um aplicativo melhor para o Facebook</string>
 
     <string name="facebook_play">Vídeos no Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -495,4 +493,11 @@
 
     <string name="swipe_to_learn">Deslize para obter mais</string>
     <string name="buy_button">Desbloquear Maki+</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Muito obrigado por escolher o Maki!</string>
+    <string name="maki_helper_title">Bem-vindo ao Maki!</string>
+    <string name="maki_helper_description">Abra as configurações do aplicativo para ativar o modo escuro, desativar os anúncios do Facebook, selecionar a cor do aplicativo e muito mais.</string>
+    <string name="maki_open_settings">Configurações</string>
 </resources>
+

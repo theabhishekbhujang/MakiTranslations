@@ -21,7 +21,6 @@
     <string name="refresh">새롭게 하다</string>
     <string name="notifications">알림</string>
     <string name="search">수색</string>
-    <string name="exit">닫기</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -344,7 +343,6 @@
     <string name="privacy_policy">개인 정보 정책</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">마키에 오신 것을 환영합니다.</string>
-    <string name="intro_description">그냥 좋은 페이 스북 응용 프로그램</string>
 
     <string name="facebook_play">Watch 동영상</string>
     <string name="marketplace">Marketplace</string>
@@ -478,4 +476,10 @@
 
     <string name="swipe_to_learn">더 많이 스 와이프</string>
     <string name="buy_button">마키 플러스 받기</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Maki를 선택해 주셔서 감사합니다!</string>
+    <string name="maki_helper_title">어서 오십시오!</string>
+    <string name="maki_helper_description">앱 설정을 열어 다크 모드를 활성화하고, Facebook 광고를 비활성화하고, 앱 색상 등을 선택하십시오.</string>
+    <string name="maki_open_settings">설정</string>
 </resources>

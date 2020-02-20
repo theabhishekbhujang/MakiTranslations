@@ -21,7 +21,6 @@
     <string name="refresh">Làm tươi</string>
     <string name="notifications">Thông báo</string>
     <string name="search">Tìm kiếm</string>
-    <string name="exit">Thoát</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -339,7 +338,6 @@
     <string name="privacy_policy">Chính sách bảo mật</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Chào mừng đến với Maki</string>
-    <string name="intro_description">Đơn giản chỉ là một ứng dụng tốt hơn cho Facebook</string>
 
     <string name="facebook_play">Video trên Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -469,4 +467,10 @@
 
     <string name="swipe_to_learn">Vuốt để biết thêm</string>
     <string name="buy_button">Mở khóa Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Cảm ơn bạn rất nhiều vì đã chọn Maki!</string>
+    <string name="maki_helper_title">Chào mừng bạn!</string>
+    <string name="maki_helper_description">Mở cài đặt ứng dụng để bật chế độ tối, tắt quảng cáo Facebook, chọn màu ứng dụng và hơn thế nữa.</string>
+    <string name="maki_open_settings">Mở cài đặt</string>
 </resources>

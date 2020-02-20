@@ -24,7 +24,6 @@
     <string name="refresh">تحديث</string>
     <string name="notifications">إخطارات</string>
     <string name="search">بحث</string>
-    <string name="exit">قريب</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -369,7 +368,6 @@
     <string name="privacy_policy">سياسة خاصة</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">مرحبًا بك في Maki</string>
-    <string name="intro_description">مجرد تطبيق Facebook أفضل</string>
 
     <string name="facebook_play">مقاطع الفيديو على Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -501,4 +499,10 @@
 
     <string name="swipe_to_learn">انتقد لمعرفة المزيد</string>
     <string name="buy_button">الحصول على ماكي بلس</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">شكرا جزيلا لاختيار ماكي!</string>
+    <string name="maki_helper_title">مرحبا بكم في ماكي!</string>
+    <string name="maki_helper_description">افتح إعدادات التطبيق لتمكين الوضع المظلم ، وتعطيل إعلانات Facebook ، وتحديد لون التطبيق وأكثر من ذلك.</string>
+    <string name="maki_open_settings">أفتح الإعدادات</string>
 </resources>

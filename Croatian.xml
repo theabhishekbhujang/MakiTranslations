@@ -21,7 +21,6 @@
     <string name="refresh">Osvježiti</string>
     <string name="notifications">Obavijesti</string>
     <string name="search">Traži</string>
-    <string name="exit">Zatvoriti</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -348,7 +347,6 @@
     <string name="privacy_policy">Pravila o privatnosti</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Dobrodošli u Maki!</string>
-    <string name="intro_description">Samo bolja Facebook aplikacija</string>
 
     <string name="facebook_play">Videozapisi na platformi Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -480,4 +478,10 @@
 
     <string name="swipe_to_learn">Prijeđite prstom za više</string>
     <string name="buy_button">Otključajte Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Puno hvala što ste odabrali Maki!</string>
+    <string name="maki_helper_title">Dobrodošli u Maki!</string>
+    <string name="maki_helper_description">Otvorite postavke aplikacije da biste omogućili tamni način rada, onemogućili Facebook oglase, odabrali boju aplikacije i još mnogo toga.</string>
+    <string name="maki_open_settings">Postavke</string>
 </resources>

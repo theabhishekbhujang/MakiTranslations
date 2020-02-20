@@ -21,7 +21,6 @@
     <string name="refresh">Refresh</string>
     <string name="notifications">Pemberitahuan</string>
     <string name="search">Carian</string>
-    <string name="exit">Tutup</string>
 
     <string-array name="pref_theme_entries">
         <item>Mako</item>
@@ -346,7 +345,6 @@
     <string name="privacy_policy">Dasar privasi</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Selamat datang ke Mako</string>
-    <string name="intro_description">Hanya aplikasi Facebook yang lebih baik</string>
 
     <string name="facebook_play">Video di Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -477,4 +475,10 @@
 
     <string name="swipe_to_learn">Leret untuk lebih</string>
     <string name="buy_button">Dapatkan Mako+</string>
+
+    <!--Mako 4.2.3 Hortensia-->
+    <string name="intro_summary">Terima kasih kerana memilih Mako!</string>
+    <string name="maki_helper_title">Selamat datang ke Mako!</string>
+    <string name="maki_helper_description">Buka tetapan aplikasi untuk membolehkan mod gelap, nyahdayakan iklan Facebook, pilih warna apl dan banyak lagi.</string>
+    <string name="maki_open_settings">Tetapan</string>
 </resources>

@@ -21,7 +21,6 @@
     <string name="refresh">ताज़ा करना</string>
     <string name="notifications">सूचनाएं</string>
     <string name="search">खोज</string>
-    <string name="exit">बंद करे</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -55,7 +54,7 @@
     <string name="vibrate">कांपना</string>
     <string name="led_light">LED</string>
     <string name="maki_lock">पासवर्ड सक्षम करें</string>
-    <string name="lock_text_new">माकी को पासवर्ड से सुरक्षित रखें</string>
+    <string name="lock_text_new">Maki को पासवर्ड से सुरक्षित रखें</string>
     <string name="lock_text_new_fingerprint">या आप अपने फिंगरप्रिंट का उपयोग कर सकते हैं</string>
     <string name="context_save_image">छवि डाउनलोड करें</string>
     <string name="context_share_image">चित्र साझा करें</string>
@@ -67,9 +66,9 @@
     <string name="download_manager_disabled">डाउनलोड प्रबंधक अक्षम</string>
     <string name="hide_ads">विज्ञापन निकालें</string>
     <string name="hide_ads_more">फेसबुक समाचार फ़ीड में सभी विज्ञापन निकालें</string>
-    <string name="exit_message">क्या आप वास्तव में माकी को बंद करना चाहते हैं?</string>
+    <string name="exit_message">क्या आप वास्तव में Maki को बंद करना चाहते हैं?</string>
     <string name="welcome">नमस्ते</string>
-    <string name="saved_pin_message">यदि आप अपना पिन भूल जाते हैं, तो कृपया अपने फोन के एप्लिकेशन मैनेजर से माकी डेटा को साफ़ करें।</string>
+    <string name="saved_pin_message">यदि आप अपना पिन भूल जाते हैं, तो कृपया अपने फोन के एप्लिकेशन मैनेजर से Maki डेटा को साफ़ करें।</string>
 
     <string name="pin_code_step_disable">पासवर्ड अक्षम करें</string>
     <string name="pin_code_step_create">एक पासवर्ड बनाएं</string>
@@ -104,7 +103,7 @@
     <string name="locked">बंद</string>
     <string name="please_enter_passcode">पासवर्ड ङालें</string>
     <string name="buy_plus">पासवर्ड ङालें</string>
-    <string name="buy_plus_more">प्लस वर्जन के साथ माकी को और भी बेहतर बनाने का समय आ गया है - विज्ञापन निकालें, शॉर्टकट बनाएं, ऑटो नाइट थीम को सक्षम करें और डेवलपर्स को सपोर्ट करें।</string>
+    <string name="buy_plus_more">प्लस वर्जन के साथ Maki को और भी बेहतर बनाने का समय आ गया है - विज्ञापन निकालें, शॉर्टकट बनाएं, ऑटो नाइट थीम को सक्षम करें और डेवलपर्स को सपोर्ट करें।</string>
     <string name="lets_do_it">हो जाए!</string>
     <string name="later">बाद में</string>
 
@@ -134,9 +133,9 @@
         हमें समर्थन देने के लिए बहुत बहुत धन्यवाद! दुर्भाग्य से, ऐसा लगता है कि आपको खरीदारी में कुछ समस्याएं हैं। ठीक है, इस पृष्ठ ने इस समस्या को हल करने के लिए सिर्फ आपके लिए बनाया है।
         \n\n
         हमारे पास कुछ संभावित उपाय हैं:\n\n
-        1) माकी को पुनः आरंभ करें। बस एक एप्लिकेशन को बंद करें और इसे खरोंच, खुली सेटिंग्स से लॉन्च करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
+        1) Maki को पुनः आरंभ करें। बस एक एप्लिकेशन को बंद करें और इसे खरोंच, खुली सेटिंग्स से लॉन्च करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
         \n\n
-        2) यदि पहला समाधान काम नहीं करता है - फिर से "खरीदें माकी प्लस" पर क्लिक करने का प्रयास करें। यह क्रिया आपकी खरीदारी को पुनर्स्थापित करेगी (आप फिर से अपना पैसा खर्च नहीं करेंगे, चिंता न करें). इसके बाद एप्लिकेशन को पुनरारंभ करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
+        2) यदि पहला समाधान काम नहीं करता है - फिर से "खरीदें Maki प्लस" पर क्लिक करने का प्रयास करें। यह क्रिया आपकी खरीदारी को पुनर्स्थापित करेगी (आप फिर से अपना पैसा खर्च नहीं करेंगे, चिंता न करें). इसके बाद एप्लिकेशन को पुनरारंभ करें और किसी भी प्लस सुविधा को सक्षम करने का प्रयास करें।
         \n\n
         3) आखिरकार, अगर इसमें से कुछ भी काम नहीं करता है - हमसे संपर्क करें! हम निश्चित रूप से सबसे अच्छा समाधान एक साथ मिल जाएगा।
         \n\n
@@ -189,7 +188,7 @@
     <string name="problems_with_purchase">खरीद में समस्या?</string>
     <!--2.5-->
     <string name="switch_profile">खाता बदलें</string>
-    <string name="launch_social">माकी से शुरू करें</string>
+    <string name="launch_social">Maki से शुरू करें</string>
     <string name="hide_reddit">Reddit छिपाएँ</string>
     <string name="hide_facebook">फेसबुक छिपाओ</string>
     <string name="thanks_to">सुंदरता</string>
@@ -216,7 +215,7 @@
     <string name="enable_fab_summary">फेसबुक स्टेटस अपडेटर के बजाय नीचे दाएं कोने में एक छोटे बटन का उपयोग करें</string>
     <string name="power_saving_mode_more">अधिक बैटरी बचाने के लिए अधिकांश सुविधाओं को अक्षम करें</string>
     <string name="enable_location">स्थान</string>
-    <string name="enable_location_summary">माकी को चेक-इन में इसका उपयोग करने के लिए अपने स्थान पर पहुँच दें</string>
+    <string name="enable_location_summary">Maki को चेक-इन में इसका उपयोग करने के लिए अपने स्थान पर पहुँच दें</string>
 
     <!--Notification channels-->
     <string name="notifications_channel">सूचनाएं चैनल सेटिंग्स</string>
@@ -244,12 +243,12 @@
 
     <string name="welcome_plus">नमस्कार!</string>
     <string name="plus_what">क्या मिलेगा?</string>
-    <string name="plus_support">प्रत्येक माकी प्लस खरीदने से माकी बेहतर हो जाती है - यह मेरे लिए एक बड़ी प्रेरणा है कि नई सुविधाओं को तेजी से जोड़ें और माकी में सुधार करें!</string>
-    <string name="thanks_more">आप के सहयोग के लिए बहुत धन्यवाद! अब आप माकी प्लस की अपनी प्रति का आनंद ले सकते हैं। प्यार के साथ, Sunshine Apps</string>
+    <string name="plus_support">प्रत्येक Maki प्लस खरीदने से Maki बेहतर हो जाती है - यह मेरे लिए एक बड़ी प्रेरणा है कि नई सुविधाओं को तेजी से जोड़ें और Maki में सुधार करें!</string>
+    <string name="thanks_more">आप के सहयोग के लिए बहुत धन्यवाद! अब आप Maki प्लस की अपनी प्रति का आनंद ले सकते हैं। प्यार के साथ, Sunshine Apps</string>
 
     <!--2.6.4-->
     <string name="keep_screen">स्क्रीन को चालू रखें</string>
-    <string name="keep_screen_summary">माकी का उपयोग करते समय स्क्रीन को हमेशा चालू रखने के लिए इस विकल्प को सक्षम करें</string>
+    <string name="keep_screen_summary">Maki का उपयोग करते समय स्क्रीन को हमेशा चालू रखने के लिए इस विकल्प को सक्षम करें</string>
 
     <string name="hide_telegram">टेलीग्राम छुपाएं</string>
     <string name="hide_pinterest">Pinterest छिपाएँ</string>
@@ -267,12 +266,12 @@
     <string name="warning">चेतावनी!</string>
 
     <string name="plus_buy">मकी प्लस हो जाओ</string>
-    <string name="plus_shortcuts">माकी का तेजी से उपयोग करें - होम स्क्रीन पर संदेशों और सूचनाओं के लिए शॉर्टकट बनाएं।</string>
+    <string name="plus_shortcuts">Maki का तेजी से उपयोग करें - होम स्क्रीन पर संदेशों और सूचनाओं के लिए शॉर्टकट बनाएं।</string>
     <string name="plus_ads">अपनी पसंदीदा सामग्री पर ध्यान केंद्रित करने के लिए अपने समाचार फ़ीड पर फेसबुक से सभी विज्ञापन अक्षम करें</string>
     <string name="quickbar_more">कहीं से भी सामाजिक पहुंच प्राप्त करें।</string>
 
     <string name="plus_dark">स्वचालित अंधेरे विषय के साथ रात के समय में अपनी आंखों को सुरक्षित रखें और बचाएं।</string>
-    <string name="plus_summary">माकी का उपयोग करने का एक नया अनुभव प्राप्त करें - कभी भी बनाया गया सबसे अच्छा सामाजिक ऐप - प्लस एक्सटेंशन के साथ।</string>
+    <string name="plus_summary">Maki का उपयोग करने का एक नया अनुभव प्राप्त करें - कभी भी बनाया गया सबसे अच्छा सामाजिक ऐप - प्लस एक्सटेंशन के साथ।</string>
 
     <string name="give_permission">अनुमतियाँ आवश्यक हैं</string>
     <string name="give_permission_summary">आपको अपने दोस्तों को कॉल करने से पहले कुछ अनुमति देने की आवश्यकता है</string>
@@ -316,7 +315,7 @@
     <!--3.3-->
     <string name="see_more_results">और नतीजे</string>
     <string name="remove_this_ad">यह विज्ञापन निकालें</string>
-    <string name="no_google_play">क्षमा करें, लेकिन आप माकी को खरीदने में सक्षम नहीं हैं। ऐसा लगता है कि Google Play सेवाएं आपके डिवाइस पर इंस्टॉल नहीं हैं</string>
+    <string name="no_google_play">क्षमा करें, लेकिन आप Maki को खरीदने में सक्षम नहीं हैं। ऐसा लगता है कि Google Play सेवाएं आपके डिवाइस पर इंस्टॉल नहीं हैं</string>
 
     <!--3.4-->
     <string name="blocked_hours">सीमित एप्लिकेशन उपयोग</string>
@@ -326,12 +325,12 @@
     <string name="blocked_hours_notify_summary">अवरुद्ध घंटे समाप्त होने पर एक सूचना प्राप्त करें और आप फिर से ऐप का उपयोग करने में सक्षम हैं</string>
 
     <string name="blocked_hours_finish">वापस आने का समय!</string>
-    <string name="blocked_hours_finish_summary">अब आप फिर से माकी का उपयोग करने में सक्षम हैं</string>
+    <string name="blocked_hours_finish_summary">अब आप फिर से Maki का उपयोग करने में सक्षम हैं</string>
 
     <string name="blocked_hours_disable_notifications">अवरुद्ध घंटों में सूचनाएं अक्षम करें</string>
     <string name="blocked_hours_disable_notifications_summary">जब आप अवरुद्ध घंटों में ऐप का उपयोग नहीं कर पा रहे हैं तो सूचनाएं अक्षम करें</string>
 
-    <string name="maki_is_locked">माकी बंद है</string>
+    <string name="maki_is_locked">Maki बंद है</string>
     <string name="blocked_description">आपने ऐप को ब्लॉक करने के लिए %1$s से %2$s बजे तक अंतराल निर्धारित किया है। कुछ महान करने के लिए उस समय का उपयोग करें!</string>
 
     <string name="blocked_hour">अवरुद्ध अंतराल</string>
@@ -348,7 +347,6 @@
     <string name="privacy_policy">गोपनीयता नीति</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Maki में आपका स्वागत है</string>
-    <string name="intro_description">बस एक बेहतर फेसबुक ऐप</string>
 
     <string name="facebook_play">Watch पर वीडियो</string>
     <string name="marketplace">Marketplace</string>
@@ -360,7 +358,7 @@
     <string name="autoplay_videos">ऑटोप्ले वीडियो</string>
     <string name="autoplay_videos_summary">ऑटोप्ले वीडियो सक्षम करें। सक्षम होने पर आप वीडियो डाउनलोड और साझा नहीं कर पाएंगे।</string>
 
-    <string name="images_play">माकी छवि दर्शक को अक्षम करें</string>
+    <string name="images_play">Maki छवि दर्शक को अक्षम करें</string>
     <string name="images_play_summary">चित्र खोलने के लिए छवि के नीचे \"पूर्ण आकार देखें\" बटन का उपयोग करें</string>
 
     <string name="hide_navigation">नेविगेशन छिपाएँ</string>
@@ -388,7 +386,7 @@
     <string name="maki_sale_summary">छूट के साथ Maki Plus पाने का मौका न गवाएं। इसे पाने के लिए यहां टैप करें।</string>
 
     <string name="maki_update">एक अपडेट उपलब्ध है!</string>
-    <string name="maki_update_summary">Google Play से सुधार और बग फिक्स के साथ माकी का नवीनतम संस्करण प्राप्त करें। अपडेट करने के लिए यहां टैप करें।</string>
+    <string name="maki_update_summary">Google Play से सुधार और बग फिक्स के साथ Maki का नवीनतम संस्करण प्राप्त करें। अपडेट करने के लिए यहां टैप करें।</string>
 
     <string name="check_for_updates">अद्यतन के लिए जाँच</string>
     <string name="check_for_updates_summary">नए अपडेट के बारे में सूचित करें</string>
@@ -399,7 +397,7 @@
 
     <!--4.0-->
     <string name="donation_title">फेसबुक और मैसेंजर एक साथ ❤️</string>
-    <string name="about_description">आपको फेसबुक और मैसेंजर का अलग से उपयोग करने की आवश्यकता क्यों है यदि वे इतने प्यारे जोड़े हो सकते हैं और माकी में एक साथ रह सकते हैं?</string>
+    <string name="about_description">आपको फेसबुक और मैसेंजर का अलग से उपयोग करने की आवश्यकता क्यों है यदि वे इतने प्यारे जोड़े हो सकते हैं और Maki में एक साथ रह सकते हैं?</string>
     <string name="auto_power_saving">स्वचालित बिजली की बचत</string>
 
     <string-array name="pref_auto_power_entries">
@@ -434,7 +432,7 @@
 
     <string name="chat_bubbles_foreground">चैट हेड पृष्ठभूमि में चल रहे हैं</string>
     <string name="privacy_plus">हकीकत में दोस्ताना</string>
-    <string name="privacy_plus_summary">माकी आपकी व्यक्तिगत जानकारी एकत्र और बेचता नहीं है - आपकी गोपनीयता हमारे राजस्व की तुलना में बहुत अधिक महत्वपूर्ण है</string>
+    <string name="privacy_plus_summary">Maki आपकी व्यक्तिगत जानकारी एकत्र और बेचता नहीं है - आपकी गोपनीयता हमारे राजस्व की तुलना में बहुत अधिक महत्वपूर्ण है</string>
 
     <string name="remove_sponsored_plus">अलविदा, विज्ञापन!</string>
 
@@ -469,7 +467,7 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">इन-ऐप ब्राउज़र</string>
 
-    <string name="label_main">माकी प्लस के साथ क्या कर सकती है?</string>
+    <string name="label_main">Maki प्लस के साथ क्या कर सकती है?</string>
     <string name="label_ads">विज्ञापन अवरोधक</string>
     <string name="label_night">स्वचालित रात का विषय</string>
     <string name="label_support">और वह बहुत प्यारा है♥</string>
@@ -479,4 +477,10 @@
 
     <string name="swipe_to_learn">अधिक के लिए स्वाइप करें</string>
     <string name="buy_button">Maki+ को अनलॉक करें</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Maki चुनने के लिए बहुत बहुत धन्यवाद!</string>
+    <string name="maki_helper_title">स्वागत हे!</string>
+    <string name="maki_helper_description">डार्क मोड सक्षम करने के लिए ऐप सेटिंग खोलें, फेसबुक विज्ञापनों को अक्षम करें, ऐप का रंग चुनें और बहुत कुछ।</string>
+    <string name="maki_open_settings">सेटिंग्स खोलें</string>
 </resources>

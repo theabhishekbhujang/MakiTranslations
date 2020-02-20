@@ -24,7 +24,6 @@
 
     <string name="notifications">通知</string>
     <string name="search">サーチ</string>
-    <string name="exit">閉じる</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -364,7 +363,6 @@
     <string name="privacy_policy">個人情報保護方針</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">マキへようこそ</string>
-    <string name="intro_description">より良いFacebookアプリケーション</string>
 
     <string name="facebook_play">Watchの動画</string>
     <string name="marketplace">Marketplace</string>
@@ -498,4 +496,11 @@
 
     <string name="swipe_to_learn">スワイプしてもっと</string>
     <string name="buy_button">Maki Plusのロックを解除</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">アプリをお選びいただきありがとうございます！</string>
+    <string name="maki_helper_title">マキへようこそ！</string>
+    <string name="maki_helper_description">アプリ設定を開いて、ダークモードを有効にし、Facebook広告を無効にし、アプリの色を選択します。</string>
+    <string name="maki_open_settings">設定を開く</string>
 </resources>
+

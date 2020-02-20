@@ -24,7 +24,6 @@
 
     <string name="notifications">Powiadomienia</string>
     <string name="search">Szukaj</string>
-    <string name="exit">Zamknij</string>
 
     <string-array name="pref_theme_entries">
         <item>Błękitny - Maki</item>
@@ -357,7 +356,6 @@
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Witamy w Maki!</string>
-    <string name="intro_description">Po prostu lepsza aplikacja dla Facebooka</string>
     <string name="facebook_play">Wideo z Facebooka</string>
     <string name="marketplace">Oferty sprzedaży</string>
 
@@ -486,5 +484,11 @@
 
     <string name="swipe_to_learn">Przesuń, aby uzyskać więcej</string>
     <string name="buy_button">Uzyskaj Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Dziękujemy bardzo za wybranie Maki!</string>
+    <string name="maki_helper_title">Witamy!</string>
+    <string name="maki_helper_description">Otwórz ustawienia aplikacji, aby włączyć tryb ciemny, wyłączyć reklamy na Facebooku, wybrać kolor aplikacji i więcej.</string>
+    <string name="maki_open_settings">Ustawienia</string>
 </resources>
 

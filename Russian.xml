@@ -23,7 +23,6 @@
 
     <string name="notifications">Оповещения</string>
     <string name="search">Поиск</string>
-    <string name="exit">Закрыть</string>
 
     <string-array name="pref_theme_entries">
         <item>Оформление Maki</item>
@@ -358,7 +357,6 @@
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_policy_link">https://sfilmak.ru/pf/</string>
     <string name="intro_title">Добро пожаловать в Maki!</string>
-    <string name="intro_description">Просто лучшее приложение для Facebook\'а</string>
 
     <string name="facebook_play">Видео Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -488,4 +486,10 @@
 
     <string name="swipe_to_learn">Проведите для деталей</string>
     <string name="buy_button">Получить Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Большое спасибо за выбор Maki!</string>
+    <string name="maki_helper_title">Добро пожаловать!</string>
+    <string name="maki_helper_description">Откройте настройки приложения, чтобы включить темную тему, отключить рекламу в Facebook, выбрать цвет приложения и многое другое.</string>
+    <string name="maki_open_settings">Настройки</string>
 </resources>

@@ -20,7 +20,7 @@
     <string name="refresh">Frissítés</string>
     <string name="notifications">Értesítések</string>
     <string name="search">Keresés</string>
-    <string name="exit">Bezárás</string>
+
     <string-array name="pref_theme_entries">
         <item>Maki</item>
         <item>Facebook kék</item>
@@ -300,7 +300,6 @@
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Üdvözöljük a Maki!</string>
-    <string name="intro_description">Csak egy jobb Facebook alkalmazás</string>
 
     <string name="facebook_play">Videók a Watch funkcióban</string>
     <string name="marketplace">Marketplace</string>
@@ -430,4 +429,10 @@
 
     <string name="swipe_to_learn">Csúsztasson tovább</string>
     <string name="buy_button">Kinyit</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Nagyon köszönöm, hogy kiválasztottál Maki!</string>
+    <string name="maki_helper_title">Üdvözöljük Maki-ban!</string>
+    <string name="maki_helper_description">Nyissa meg az alkalmazás beállításait a sötét mód engedélyezéséhez, a Facebook hirdetések letiltásához, az alkalmazás színének kiválasztásához és így tovább.</string>
+    <string name="maki_open_settings">Beállítások</string>
 </resources>

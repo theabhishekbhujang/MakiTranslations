@@ -21,7 +21,6 @@
     <string name="refresh">সতেজ করা</string>
     <string name="notifications">বিজ্ঞপ্তিগুলি</string>
     <string name="search">অনুসন্ধান</string>
-    <string name="exit">ঘনিষ্ঠ</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -348,7 +347,6 @@
     <string name="privacy_policy">গোপনীয়তা নীতি</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Maki স্বাগতম</string>
-    <string name="intro_description">পশুধু একটি ভাল ফেসবুক অ্যাপ্লিকেশন</string>
 
     <string name="facebook_play">Watch-এ ভিডিওগুলো</string>
     <string name="marketplace">Marketplace</string>
@@ -479,4 +477,10 @@
 
     <string name="swipe_to_learn">আরও জানতে সোয়াইপ করুন</string>
     <string name="buy_button">মাকি প্লাস পান</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">মাকি নির্বাচনের জন্য আপনাকে অনেক ধন্যবাদ!</string>
+    <string name="maki_helper_title">Maki স্বাগতম!</string>
+    <string name="maki_helper_description">অন্ধকার মোড সক্ষম করতে, ফেসবুক বিজ্ঞাপনগুলি অক্ষম করতে, অ্যাপ্লিকেশনের রঙ নির্বাচন করুন এবং আরও অনেক কিছুতে অ্যাপ্লিকেশন সেটিংসটি খুলুন।</string>
+    <string name="maki_open_settings">ওপেন সেটিংস</string>
 </resources>

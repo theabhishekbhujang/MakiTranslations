@@ -20,7 +20,6 @@
     <string name="refresh">重新載入</string>
     <string name="notifications">通知</string>
     <string name="search">搜尋</string>
-    <string name="exit">關閉</string>
     <string-array name="pref_theme_entries">
         <item>Maki</item>
         <item>Facebook 藍</item>
@@ -302,7 +301,6 @@
     <string name="privacy_policy">隱私政策</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">歡迎來到 Maki</string>
-    <string name="intro_description">一個更加優秀的 Facebook 應用程式</string>
     <string name="facebook_play">Watch 影片</string>
     <string name="marketplace">Marketplace</string>
     <!--3.7-->
@@ -423,4 +421,10 @@
 
     <string name="swipe_to_learn">滑動即可了解更多</string>
     <string name="buy_button">解鎖Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">非常感謝您選擇Maki！</string>
+    <string name="maki_helper_title">歡迎來到真希！</string>
+    <string name="maki_helper_description">打開應用程序設置以啟用黑暗模式，禁用Facebook廣告，選擇應用程序顏色等等。</string>
+    <string name="maki_open_settings">設定值</string>
 </resources>

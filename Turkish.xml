@@ -21,7 +21,6 @@
     <string name="refresh">Yenile</string>
     <string name="notifications">Bildirimler</string>
     <string name="search">Arama</string>
-    <string name="exit">Kapat</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki Tema</item>
@@ -341,7 +340,6 @@
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Maki\'ye Hoşgeldiniz</string>
-    <string name="intro_description">Facebook için daha iyi bir uygulama</string>
 
     <string name="facebook_play">Watch\'taki Videolar</string>
     <string name="marketplace">Marketplace</string>
@@ -471,4 +469,10 @@
 
     <string name="swipe_to_learn">Bilgi almak için hızlıca kaydırın</string>
     <string name="buy_button">Maki Plus\'ın kilidini aç</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Maki\'yi seçtiğiniz için çok teşekkür ederiz!</string>
+    <string name="maki_helper_title">Maki\'ye Hoşgeldiniz!</string>
+    <string name="maki_helper_description">Karanlık modu etkinleştirmek, Facebook reklamlarını devre dışı bırakmak, uygulama rengini seçmek ve daha fazlasını yapmak için uygulama ayarlarını açın.</string>
+    <string name="maki_open_settings">Ayarları aç</string>
 </resources>

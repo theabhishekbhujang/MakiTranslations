@@ -21,7 +21,6 @@
     <string name="refresh">Obnovit</string>
     <string name="notifications">Oznámení</string>
     <string name="search">Vyhledávání</string>
-    <string name="exit">Zavřít</string>
 
     <string-array name="pref_theme_entries">
         <item>Maki</item>
@@ -344,7 +343,6 @@
     <string name="privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Vítejte v Maki</string>
-    <string name="intro_description">Jen lepší Facebook app</string>
 
     <string name="facebook_play">Videa na Watch</string>
     <string name="marketplace">Marketplace</string>
@@ -475,4 +473,10 @@
 
     <string name="swipe_to_learn">Více přejeďte prstem</string>
     <string name="buy_button">Odemkněte Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Děkujeme, že jste si vybrali Maki!</string>
+    <string name="maki_helper_title">Vítejte v Maki!</string>
+    <string name="maki_helper_description">Otevřete nastavení aplikace a aktivujte tmavý režim, deaktivujte reklamy na Facebooku, vyberte barvu aplikace a další.</string>
+    <string name="maki_open_settings">Nastavení</string>
 </resources>

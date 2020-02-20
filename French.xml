@@ -20,7 +20,7 @@
     <string name="refresh">Rafraîchir</string>
     <string name="notifications">Notifications</string>
     <string name="search">Rechercher…</string>
-    <string name="exit">Quitter</string>
+
     <string-array name="pref_theme_entries">
         <item>Maki</item>
         <item>Facebook bleu</item>
@@ -301,7 +301,6 @@
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Bienvenue chez Maki</string>
-    <string name="intro_description">Juste la meilleure application Facebook</string>
     <string name="facebook_play">Vidéos sur Watch</string>
     <string name="marketplace">Marketplace</string>
     <!--3.7-->
@@ -426,4 +425,10 @@
 
     <string name="swipe_to_learn">Glissez pour plus</string>
     <string name="buy_button">Débloquer Maki Plus</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Merci beaucoup d\'avoir choisi Maki!</string>
+    <string name="maki_helper_title">Bienvenue chez Maki!</string>
+    <string name="maki_helper_description">Ouvrez les paramètres de l\'application pour activer le mode sombre, désactiver les publicités Facebook, sélectionner la couleur de l\'application et plus encore.</string>
+    <string name="maki_open_settings">Réglages</string>
 </resources>

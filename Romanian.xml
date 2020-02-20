@@ -20,7 +20,7 @@
     <string name="refresh">Împrospătare</string>
     <string name="notifications">Notificări</string>
     <string name="search">Căutare</string>
-    <string name="exit">Închide</string>
+
     <string-array name="pref_theme_entries">
         <item>Maki</item>
         <item>Facebook albastru</item>
@@ -299,7 +299,6 @@
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">Bun venit la Maki</string>
-    <string name="intro_description">Pur și simplu o aplicație mai bună pentru Facebook</string>
     <string name="facebook_play">Facebook Watch</string>
     <string name="marketplace">Marketplace</string>
     <!--3.7-->
@@ -428,4 +427,10 @@
 
     <string name="swipe_to_learn">Glisați pentru mai multe</string>
     <string name="buy_button">Deblocați Maki+</string>
+
+    <!--Maki 4.2.3 Hortensia-->
+    <string name="intro_summary">Vă mulțumesc foarte mult pentru că ați ales Maki!</string>
+    <string name="maki_helper_title">Bine ați venit la Maki!</string>
+    <string name="maki_helper_description">Deschideți setările aplicației pentru a activa modul întunecat, dezactivați anunțurile Facebook, selectați culoarea aplicației și multe altele.</string>
+    <string name="maki_open_settings">Setări</string>
 </resources>
