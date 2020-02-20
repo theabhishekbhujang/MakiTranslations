@@ -400,31 +400,31 @@
     <string name="quickbar_expand">點擊以展開</string>
     <string name="restore_purchase">恢復購買</string>
 
-    <string name="power_website">Facebook版本</string>
+    <string name="power_website">Facebook 版本</string>
 
-    <string name="twitter_theme">Twitter主題</string>
-    <string name="twitter_theme_summary">在Twitter上應用自定義主題</string>
+    <string name="twitter_theme">Twitter 主題</string>
+    <string name="twitter_theme_summary">在 Twitter 上套用自訂主題</string>
 
     <!--Maki 4.1.6 Hortensia-->
-    <string name="hide_ig_stories">隱藏Instagram故事</string>
+    <string name="hide_ig_stories">隱藏 Instagram 故事</string>
 
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">內建瀏覽器</string>
 
-    <string name="label_main">Maki Plus可以做什麼？</string>
-    <string name="label_ads">她屏蔽廣告</string>
-    <string name="label_night">她在晚上激活了一个黑暗的主题</string>
+    <string name="label_main">Maki Plus 可以做什麼？</string>
+    <string name="label_ads">她可以屏蔽廣告</string>
+    <string name="label_night">她可以在晚上啟用暗色主题</string>
     <string name="label_support">她是如此可愛♥</string>
 
-    <string name="plus_menu_label">升級到Maki Plus</string>
-    <string name="plus_menu_label_summary">點按此處了解更多信息</string>
+    <string name="plus_menu_label">升級到 Maki Plus</string>
+    <string name="plus_menu_label_summary">點按此處了解更多資訊</string>
 
     <string name="swipe_to_learn">滑動即可了解更多</string>
-    <string name="buy_button">解鎖Maki Plus</string>
+    <string name="buy_button">解鎖 Maki Plus</string>
 
     <!--Maki 4.2.3 Hortensia-->
-    <string name="intro_summary">非常感謝您選擇Maki！</string>
-    <string name="maki_helper_title">歡迎來到真希！</string>
-    <string name="maki_helper_description">打開應用程序設置以啟用黑暗模式，禁用Facebook廣告，選擇應用程序顏色等等。</string>
-    <string name="maki_open_settings">設定值</string>
+    <string name="intro_summary">非常感謝您選擇 Maki！</string>
+    <string name="maki_helper_title">歡迎來到 Maki！</string>
+    <string name="maki_helper_description">打開應用程式設定以啟用暗色模式，禁用 Facebook 廣告，選擇應用程式配色等等。</string>
+    <string name="maki_open_settings">開啟設定</string>
 </resources>
