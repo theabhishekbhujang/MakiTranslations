@@ -100,8 +100,6 @@
 
     <string name="locked">Locked</string>
     <string name="please_enter_passcode">Enter a passcode</string>
-    <string name="buy_plus">Maki can be better</string>
-    <string name="buy_plus_more">You can make Maki even better with Plus version - control your usage of the app, remove advertising, create shortcuts, enable auto night theme and support developers.</string>
     <string name="lets_do_it">Let\'s do it!</string>
     <string name="later">Later</string>
 
@@ -157,8 +155,6 @@
     <string name="notification_sound_msg">Message sound</string>
     <string name="blacklist_title">Blacklist</string>
     <string name="blacklist_summary">List of words to block the notifications</string>
-    <string name="exact">Exact time</string>
-    <string name="exact_summary">Reduce the notification delay. Isn\'t battery friendly</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 seconds</item>
@@ -257,8 +253,6 @@
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
     <string name="warning" >Warning!</string>
 
-    <string name="plus_buy">Get Maki Plus</string>
-    <string name="plus_shortcuts">Use Maki faster - create shortcuts for messages and notifications on the home screen.</string>
     <string name="plus_ads">Remove all advertising from Facebook on your news feed to focus on your favorite content</string>
     <string name="quickbar_more">Get access to socials from anywhere.</string>
 
@@ -481,4 +475,27 @@
     <string name="maki_helper_title">Welcome to Maki!</string>
     <string name="maki_helper_description">Open the app settings to enable dark mode, disable Facebook ads, select app color and more.</string>
     <string name="maki_open_settings">Open settings</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Please, wait…</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problems at Facebook</string>
+    <string name="facebook_problems_summary">Facebook may have issues at the moment (not Maki). Tap to get more info.</string>
+
+    <string name="thanks_one">Thank you!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow, thank you so much!</string>
+    <string name="thanks_four">Wow, are you sure?!</string>
+
+    <string name="support_developer">Support development</string>
+    <string name="support_developer_summary">Your support is very important. Thank you!</string>
+
+    <string name="maki_plus_helper_description">You can make Maki even better with Plus version - remove advertising, enable automatic night theme and support future updates.</string>
+    <string name="upgrade">Upgrade</string>
+
+    <string name="select_price">Select Price</string>
+    <string name="upgrade_button">Upgrade for only %1$s</string>
+    <string name="plus_subtitle">Remove ads and more</string>
+
 </resources>

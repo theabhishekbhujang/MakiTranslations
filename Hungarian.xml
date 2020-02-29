@@ -147,8 +147,7 @@
     <string name="notification_sound_msg">Üzenet hangja</string>
     <string name="blacklist_title">Feketelista</string>
     <string name="blacklist_summary">Az értesítések blokkolásához használt szavak listája</string>
-    <string name="exact">Pontos időpont</string>
-    <string name="exact_summary">Az értesítési késleltetés csökkentése nem akkumulátor barát megoldás.</string>
+
     <string-array name="intervalPrefTitles">
         <item>30 másodperc</item>
         <item>60 másodperc</item>
@@ -435,4 +434,26 @@
     <string name="maki_helper_title">Üdvözöljük Maki-ban!</string>
     <string name="maki_helper_description">Nyissa meg az alkalmazás beállításait a sötét mód engedélyezéséhez, a Facebook hirdetések letiltásához, az alkalmazás színének kiválasztásához és így tovább.</string>
     <string name="maki_open_settings">Beállítások</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Kérlek várj</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problémák a Facebookon</string>
+    <string name="facebook_problems_summary">A Facebook-nak jelenleg problémái lehetnek (nem Maki). Koppintson további információkért.</string>
+
+    <string name="thanks_one">Köszönöm!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow, köszönöm szépen!</string>
+    <string name="thanks_four">Wow, biztos vagy benne?!</string>
+
+    <string name="support_developer">Támogassa a fejlesztést</string>
+    <string name="support_developer_summary">A támogatása nagyon fontos. Köszönöm!</string>
+
+    <string name="maki_plus_helper_description">A Plus verzióval még jobbá teheti a Maki: távolítsa el a hirdetéseket engedélyezze az automatikus éjszakai témát és támogassa a jövőbeli frissítéseket.</string>
+    <string name="upgrade">Frissítés</string>
+
+    <string name="select_price">Válassza ki az árat</string>
+    <string name="upgrade_button">Frissítés csak az %1$s</string>
+    <string name="plus_subtitle">Távolítsa el a hirdetéseket és így tovább</string>
 </resources>

@@ -166,8 +166,6 @@
     <string name="notification_sound_msg">Som de mensagens</string>
     <string name="blacklist_title">Lista negra</string>
     <string name="blacklist_summary">Lista de palavras para bloquear as notificações</string>
-    <string name="exact">Tempo exato</string>
-    <string name="exact_summary">Reduza o atraso da notificação. Não é compatível com bateria</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 segundos</item>
@@ -499,5 +497,26 @@
     <string name="maki_helper_title">Bem-vindo ao Maki!</string>
     <string name="maki_helper_description">Abra as configurações do aplicativo para ativar o modo escuro, desativar os anúncios do Facebook, selecionar a cor do aplicativo e muito mais.</string>
     <string name="maki_open_settings">Configurações</string>
-</resources>
 
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Por favor, espere</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problemas no Facebook</string>
+    <string name="facebook_problems_summary">O Facebook pode ter problemas no momento (não Maki). Toque para obter mais informações.</string>
+
+    <string name="thanks_one">Obrigado!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Uau, muito obrigado!</string>
+    <string name="thanks_four">Uau, você tem certeza?!</string>
+
+    <string name="support_developer">Apoiar o desenvolvimento</string>
+    <string name="support_developer_summary">O seu apoio é muito importante. Obrigado!</string>
+
+    <string name="maki_plus_helper_description">Você pode melhorar ainda mais o Maki com a versão Plus - remova a publicidade, ative o tema noturno automático e dê suporte a atualizações futuras.</string>
+    <string name="upgrade">Melhoria</string>
+
+    <string name="select_price">Selecionar Preço</string>
+    <string name="upgrade_button">Upgrade por apenas %1$s</string>
+    <string name="plus_subtitle">Remova anúncios e muito mais</string>
+</resources>

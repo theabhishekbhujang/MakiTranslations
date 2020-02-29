@@ -122,8 +122,6 @@
     <string name="locked">ロックされた</string>
     <string name="please_enter_passcode">パスコードを入力してください</string>
 
-    <string name="buy_plus">マキプラスの時間です</string>
-    <string name="buy_plus_more">プラスバージョンでは、Makiをより良くする時間です。広告を削除し、ショートカットを作成し、自動夜のテーマを有効にし、開発者をサポートします。</string>
     <string name="lets_do_it">やってみましょう！</string>
     <string name="later">後で</string>
 
@@ -170,8 +168,6 @@
     <string name="blacklist_title">ブラックリスト</string>
 
     <string name="blacklist_summary">通知をブロックする単語のリスト</string>
-    <string name="exact">正確な時間</string>
-    <string name="exact_summary">通知の遅延を減らします。 バッテリーに優しいものではありません</string>
 
     <string-array name="intervalPrefTitles">
         <item>30秒</item>
@@ -283,8 +279,6 @@
     <string name="features_beta_summary">これらのオプションはまだ開発中であり、安定していない可能性があるので、本当にしたい場合にのみ試してみてください！</string>
     <string name="warning" >警告！</string>
 
-    <string name="plus_buy">取得する</string>
-    <string name="plus_shortcuts">Makiの高速化 - ホーム画面のメッセージや通知のショートカットを作成します。</string>
     <string name="plus_ads">ニュースフィードのFacebookからすべての広告を削除して、お気に入りのコンテンツに集中する</string>
     <string name="quickbar_more">どこからでもソーシャルにアクセスできます。</string>
 
@@ -502,5 +496,26 @@
     <string name="maki_helper_title">マキへようこそ！</string>
     <string name="maki_helper_description">アプリ設定を開いて、ダークモードを有効にし、Facebook広告を無効にし、アプリの色を選択します。</string>
     <string name="maki_open_settings">設定を開く</string>
-</resources>
 
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">お待ちください</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Facebookでの問題</string>
+    <string name="facebook_problems_summary">Facebookには現時点で問題があるかもしれません（Makiではありません）。 タップして詳細を表示します。</string>
+
+    <string name="thanks_one">ありがとう！</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">わ、どうもありがとう!</string>
+    <string name="thanks_four">わあ、本当に？！</string>
+
+    <string name="support_developer">開発をサポート</string>
+    <string name="support_developer_summary">あなたのサポートは非常に重要です。 ありがとうございました！</string>
+
+    <string name="maki_plus_helper_description">PlusバージョンでMakiをさらに改善できます。広告を削除し、自動ナイトテーマを有効にして、今後の更新をサポートします。</string>
+    <string name="upgrade">アップグレード</string>
+
+    <string name="select_price">価格を選択</string>
+    <string name="upgrade_button">%1$sのみのアップグレード</string>
+    <string name="plus_subtitle">広告などを削除する</string>
+</resources>

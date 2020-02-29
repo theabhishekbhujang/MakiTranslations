@@ -117,8 +117,6 @@
     <string name="locked">Eingesperrt</string>
     <string name="please_enter_passcode">Geben Sie einen Passcode ein</string>
 
-    <string name="buy_plus">Es ist Zeit für Maki Plus</string>
-    <string name="buy_plus_more">Es ist Zeit, Maki noch besser zu machen mit Plus-Version - entfernen Sie Werbung, erstellen Sie Verknüpfungen, aktivieren Sie auto night theme und unterstützen Sie Entwickler.</string>
     <string name="lets_do_it">Machen wir das!</string>
     <string name="later">Später</string>
 
@@ -174,8 +172,6 @@
     <string name="notification_sound_msg">Nachrichtenton</string>
     <string name="blacklist_title">Schwarze Liste</string>
     <string name="blacklist_summary">Liste der Wörter zum Blockieren der Benachrichtigungen</string>
-    <string name="exact">Genaue Zeit</string>
-    <string name="exact_summary">Reduzieren Sie die Benachrichtigungsverzögerung. Ist nicht batteriefreundlich</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 Sekunden</item>
@@ -498,5 +494,26 @@
     <string name="maki_helper_title">Willkommen bei Maki!</string>
     <string name="maki_helper_description">Öffnen Sie die App-Einstellungen, um den Dunkelmodus zu aktivieren, Facebook-Anzeigen zu deaktivieren, die App-Farbe auszuwählen und vieles mehr.</string>
     <string name="maki_open_settings">Einstellungen öffnen</string>
-</resources>
 
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Warten Sie mal</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Probleme bei Facebook</string>
+    <string name="facebook_problems_summary">Wichtig! Facebook kann im Moment Probleme haben (nicht Maki). Tippen Sie auf, um weitere Informationen zu erhalten.</string>
+
+    <string name="thanks_one">Danke!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow vielen Dank!</string>
+    <string name="thanks_four">Wow, bist du sicher?!</string>
+
+    <string name="support_developer">Unterstützung der Entwicklung</string>
+    <string name="support_developer_summary">Ihre Unterstützung ist sehr wichtig. Vielen Dank!</string>
+
+    <string name="maki_plus_helper_description">Mit der Plus-Version können Sie Maki noch besser machen - entfernen Sie Anzeigen, aktivieren Sie das Auto Night-Thema und unterstützen Sie zukünftige Updates.</string>
+    <string name="upgrade">Aktualisierung</string>
+
+    <string name="select_price">Preis auswählen</string>
+    <string name="upgrade_button">Upgrade nur für %1$s</string>
+    <string name="plus_subtitle">Entfernen Sie Anzeigen und mehr</string>
+</resources>

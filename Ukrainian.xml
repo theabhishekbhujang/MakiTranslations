@@ -170,8 +170,6 @@
     <string name="notification_sound_msg">Звук сповіщень</string>
     <string name="blacklist_title">Чорний список</string>
     <string name="blacklist_summary">Список ключових слів для блокування сповіщень</string>
-    <string name="exact">Вчасно</string>
-    <string name="exact_summary">Перевірка на наявність нових сповіщень відбувається постійно. Підвищує споживання заряду батареї</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 секунд</item>
@@ -489,5 +487,26 @@
     <string name="maki_helper_title">Ласкаво просимо!</string>
     <string name="maki_helper_description">Відкрийте налаштування програми, щоб увімкнути темний режим, вимкнути рекламу Facebook, вибрати колір програми та змінити додаткові налаштування.</string>
     <string name="maki_open_settings">Налаштування</string>
-</resources>
 
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Будь ласка, зачекайте</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Проблеми з Facebook</string>
+    <string name="facebook_problems_summary">На даний момент у Facebook можуть бути проблеми (не в Maki). Натисніть, щоб отримати більше інформації.</string>
+
+    <string name="thanks_one">Дякую!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Вау, спасибі велике!</string>
+    <string name="thanks_four">Вау, Ви впевнені?!</string>
+
+    <string name="support_developer">Підтримайте розробку</string>
+    <string name="support_developer_summary">Ваша підтримка неймовірно важлива. Спасибі!</string>
+
+    <string name="maki_plus_helper_description">Ви можете зробити Maki ще краще за допомогою версії Plus - прибрати рекламу, включити автоматичну нічну тему та підтримати майбутні оновлення.</string>
+    <string name="upgrade">Оновити</string>
+
+    <string name="select_price">Оберіть вартість</string>
+    <string name="upgrade_button">Оновити усього за %1$s</string>
+    <string name="plus_subtitle">Приберіть рекламу та більше</string>
+</resources>

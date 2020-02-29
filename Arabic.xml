@@ -116,8 +116,6 @@
     <string name="locked">مقفل</string>
     <string name="please_enter_passcode">أدخل رمز المرور</string>
 
-    <string name="buy_plus">حان الوقت لماكي بلس</string>
-    <string name="buy_plus_more">حان الوقت لجعل Maki أفضل مع إصدار Plus - قم بإزالة الإعلانات ، وإنشاء اختصارات ، وتمكين موضوع ليلة السيارات ومطوري الدعم.</string>
     <string name="lets_do_it">دعنا نقوم به!</string>
     <string name="later">في وقت لاحق</string>
 
@@ -182,8 +180,7 @@
     <string name="notification_sound_msg">صوت الرسالة</string>
     <string name="blacklist_title">القائمة السوداء</string>
     <string name="blacklist_summary">قائمة الكلمات لمنع الإخطارات</string>
-    <string name="exact">الوقت بالضبط</string>
-    <string name="exact_summary">تقليل تأخير الإشعار. ليست صديقة للبطارية</string>
+
 
     <string-array name="intervalPrefTitles">
         <item>30 ثانية</item>
@@ -285,8 +282,6 @@
     <string name="features_beta_summary">هذه الخيارات لا تزال في طور النمو وقد لا تكون مستقرة ، لذا حاول استخدامها فقط إذا كنت تريد ذلك حقًا!</string>
     <string name="warning">تحذير!</string>
 
-    <string name="plus_buy">يشترى</string>
-    <string name="plus_shortcuts">استخدم Maki بشكل أسرع - أنشئ اختصارات للرسائل والإشعارات على الشاشة الرئيسية.</string>
     <string name="plus_ads">تعطيل جميع الإعلانات من Facebook على موجز الأخبار للتركيز على المحتوى المفضل لديك</string>
     <string name="quickbar_more">الحصول على الوصول إلى الاجتماعية من كل مكان.</string>
 
@@ -505,4 +500,26 @@
     <string name="maki_helper_title">مرحبا بكم في ماكي!</string>
     <string name="maki_helper_description">افتح إعدادات التطبيق لتمكين الوضع المظلم ، وتعطيل إعلانات Facebook ، وتحديد لون التطبيق وأكثر من ذلك.</string>
     <string name="maki_open_settings">أفتح الإعدادات</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">أرجو الإنتظار</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">مشاكل في الفيسبوك</string>
+    <string name="facebook_problems_summary">قد تواجه Facebook مشكلات في الوقت الحالي (وليس Maki). انقر للحصول على مزيد من المعلومات.</string>
+
+    <string name="thanks_one">شكرا لكم!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">نجاح باهر شكرا جزيلا!</string>
+    <string name="thanks_four">واو ، هل أنت متأكد؟!</string>
+
+    <string name="support_developer">دعم التنمية</string>
+    <string name="support_developer_summary">دعمكم مهم جدا. شكرا لكم!</string>
+
+    <string name="maki_plus_helper_description">يمكنك جعل Maki أفضل من خلال إصدار Plus - إزالة الإعلانات ، وتمكين المظهر الليلي التلقائي ودعم المطورين.</string>
+    <string name="upgrade">تطوير</string>
+
+    <string name="select_price">اختر السعر</string>
+    <string name="upgrade_button">الترقية فقط %1$s</string>
+    <string name="plus_subtitle">إزالة الإعلانات وأكثر من ذلك</string>
 </resources>

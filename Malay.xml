@@ -159,8 +159,6 @@
     <string name="notification_sound_msg">Bunyi mesej</string>
     <string name="blacklist_title">Senarai Hitam</string>
     <string name="blacklist_summary">Senarai perkataan untuk menyekat pemberitahuan</string>
-    <string name="exact">Masa yang tepat</string>
-    <string name="exact_summary">Kurangkan kelewatan pemberitahuan. Tidak bateri mesra</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 saat</item>
@@ -481,4 +479,26 @@
     <string name="maki_helper_title">Selamat datang ke Mako!</string>
     <string name="maki_helper_description">Buka tetapan aplikasi untuk membolehkan mod gelap, nyahdayakan iklan Facebook, pilih warna apl dan banyak lagi.</string>
     <string name="maki_open_settings">Tetapan</string>
+
+    <!--Mako 4.3.1 Hortensia-->
+    <string name="wait">Sila tunggu</string>
+
+    <!--Mako 4.3.2 Hortensia-->
+    <string name="facebook_problems">Masalah di Facebook</string>
+    <string name="facebook_problems_summary">Facebook mungkin mempunyai masalah pada masa ini (bukan Mako). Ketik untuk mendapatkan maklumat lanjut.</string>
+
+    <string name="thanks_one">Terima kasih!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow, terima kasih banyak!</string>
+    <string name="thanks_four">Wow, anda pasti?!</string>
+
+    <string name="support_developer">Pembangunan sokongan</string>
+    <string name="support_developer_summary">Sokongan anda sangat penting. Terima kasih!</string>
+
+    <string name="maki_plus_helper_description">Anda boleh membuat Mako lebih baik dengan versi Plus - mengeluarkan iklan, dayakan tema malam automatik dan menyokong kemas kini masa depan.</string>
+    <string name="upgrade">Naik taraf</string>
+
+    <string name="select_price">Pilih Harga</string>
+    <string name="upgrade_button">Naik taraf UAH50 %1$s</string>
+    <string name="plus_subtitle">Keluarkan iklan dan banyak lagi</string>
 </resources>

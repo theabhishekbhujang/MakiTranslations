@@ -159,8 +159,6 @@
     <string name="notification_sound_msg">Zvuk poruke</string>
     <string name="blacklist_title">Staviti na crnu listu</string>
     <string name="blacklist_summary">Popis riječi za blokiranje obavijesti</string>
-    <string name="exact">Točno vrijeme</string>
-    <string name="exact_summary">Smanjite kašnjenje obavijesti. Nije prijateljski prema bateriji</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 sekundi</item>
@@ -484,4 +482,26 @@
     <string name="maki_helper_title">Dobrodošli u Maki!</string>
     <string name="maki_helper_description">Otvorite postavke aplikacije da biste omogućili tamni način rada, onemogućili Facebook oglase, odabrali boju aplikacije i još mnogo toga.</string>
     <string name="maki_open_settings">Postavke</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Molimo pričekajte</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problemi na Facebooku</string>
+    <string name="facebook_problems_summary">Facebook trenutno može imati problema (ne Maki). Dodirnite za dobivanje više informacija.</string>
+
+    <string name="thanks_one">Hvala vam!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow, hvala ti puno!</string>
+    <string name="thanks_four">Vau, jesi li siguran?!</string>
+
+    <string name="support_developer">Podrška razvoju</string>
+    <string name="support_developer_summary">Vaša je podrška vrlo važna. Hvala vam!</string>
+
+    <string name="maki_plus_helper_description">Pomoću verzije Plus možete učiniti Maki još boljim - uklonite oglašavanje, omogućite automatsku noćnu temu i podržite buduća ažuriranja.</string>
+    <string name="upgrade">Nadogradnja</string>
+
+    <string name="select_price">Odaberite cijenu</string>
+    <string name="upgrade_button">Nadogradite za %1$s</string>
+    <string name="plus_subtitle">Uklanjanje oglasa i više</string>
 </resources>

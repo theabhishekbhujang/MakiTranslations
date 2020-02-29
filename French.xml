@@ -100,10 +100,10 @@
     <string name="please_enter_passcode">Entrer un code d\'accès</string>
     <string name="buy_plus">Maki pourrait être amélioré</string>
     <string name="buy_plus_more">Vous pouvez rendre Maki plus fonctionnel avec la version Plus, supprimer la publicité, créer des raccourcis, activer le thème sombre automatique et soutenir les développeurs.</string>
-    <string name="lets_do_it">Allons-y !</string>
+    <string name="lets_do_it">Allons-y!</string>
     <string name="later">Plus tard</string>
-    <string name="start">Allons-y !</string>
-    <string name="thanks">Merci beaucoup !</string>
+    <string name="start">Allons-y!</string>
+    <string name="thanks">Merci beaucoup!</string>
     <string name="web">Contact</string>
     <string name="shortcuts">Raccourcis</string>
     <string name="close">Fermer</string>
@@ -151,8 +151,7 @@
     <string name="notification_sound_msg">Sonnerie de message</string>
     <string name="blacklist_title">Liste noire</string>
     <string name="blacklist_summary">Liste des mots pour bloquer les notifications</string>
-    <string name="exact">Heure exacte</string>
-    <string name="exact_summary">Réduire le délai de notification, pas conseiller pour la batterie.</string>
+
     <string-array name="intervalPrefTitles">
         <item>30 secondes</item>
         <item>1 minute</item>
@@ -431,4 +430,26 @@
     <string name="maki_helper_title">Bienvenue chez Maki!</string>
     <string name="maki_helper_description">Ouvrez les paramètres de l\'application pour activer le mode sombre, désactiver les publicités Facebook, sélectionner la couleur de l\'application et plus encore.</string>
     <string name="maki_open_settings">Réglages</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">S\'il vous plaît, attendez</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problèmes avec Facebook</string>
+    <string name="facebook_problems_summary">Facebook peut avoir des problèmes pour le moment (pas Maki). Appuyez pour obtenir plus d\'informations.</string>
+
+    <string name="thanks_one">Merci!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Woah, merci beaucoup!</string>
+    <string name="thanks_four">Wow, tu es sûr?!</string>
+
+    <string name="support_developer">Soutenir le développement</string>
+    <string name="support_developer_summary">Votre soutien est très important. Je vous remercie!</string>
+
+    <string name="maki_plus_helper_description">Vous pouvez rendre Maki encore meilleur avec la version Plus - supprimez la publicité, activez le thème de nuit automatique et prenez en charge les futures mises à jour.</string>
+    <string name="upgrade">Améliorer</string>
+
+    <string name="select_price">Sélectionnez le prix</string>
+    <string name="upgrade_button">Débloquer pour %1$s</string>
+    <string name="plus_subtitle">Supprimer les publicités et plus</string>
 </resources>

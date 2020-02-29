@@ -158,8 +158,6 @@
     <string name="notification_sound_msg">Âm thanh tin nhắn</string>
     <string name="blacklist_title">Danh sách đen</string>
     <string name="blacklist_summary">Danh sách các từ để chặn các thông báo</string>
-    <string name="exact">Thời gian chính xác</string>
-    <string name="exact_summary">Giảm độ trễ thông báo. Không thân thiện với pin</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 giây</item>
@@ -473,4 +471,26 @@
     <string name="maki_helper_title">Chào mừng bạn!</string>
     <string name="maki_helper_description">Mở cài đặt ứng dụng để bật chế độ tối, tắt quảng cáo Facebook, chọn màu ứng dụng và hơn thế nữa.</string>
     <string name="maki_open_settings">Mở cài đặt</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Xin vui lòng chờ</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Sự cố tại Facebook</string>
+    <string name="facebook_problems_summary">Facebook có thể có vấn đề tại thời điểm này (không phải Maki). Nhấn để nhận thêm thông tin.</string>
+
+    <string name="thanks_one">Thank you!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow, thank you so much!</string>
+    <string name="thanks_four">Wow, are you sure?!</string>
+
+    <string name="support_developer">Support development</string>
+    <string name="support_developer_summary">Your support is very important. Thank you!</string>
+
+    <string name="maki_plus_helper_description">You can make Maki even better with Plus version - remove advertising, enable automatic night theme and support future updates.</string>
+    <string name="upgrade">Upgrade</string>
+
+    <string name="select_price">Select Price</string>
+    <string name="upgrade_button">Upgrade for only %1$s</string>
+    <string name="plus_subtitle">Remove ads and more</string>
 </resources>

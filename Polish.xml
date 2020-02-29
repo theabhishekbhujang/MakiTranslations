@@ -110,13 +110,11 @@
     <string name="locked">Zablokowano</string>
     <string name="please_enter_passcode">Wprowadź hasło</string>
 
-    <string name="buy_plus">Nadszedł czas na Maki Plus</string>
-    <string name="buy_plus_more">Nadszedł czas, aby Maki był jeszcze lepszy w wersji Plus - usuń reklamy, twórz skróty, włącz motyw nocny i wspieraj programistów.</string>
     <string name="lets_do_it">Zróbmy to!</string>
     <string name="later">Później</string>
 
     <string name="start">Chodźmy</string>
-    <string name="thanks">Dziękuję Ci bardzo!</string>
+    <string name="thanks">Dziękuję bardzo!</string>
     <string name="web">Kontakt</string>
     <string name="shortcuts">Skróty</string>
 
@@ -162,8 +160,6 @@
     <string name="led_light">Dioda LED</string>
     <string name="blacklist_title">Czarna lista</string>
     <string name="blacklist_summary">Lista słów blokujących powiadomienia</string>
-    <string name="exact">Dokładny czas</string>
-    <string name="exact_summary">Zmniejsz opóźnienie powiadomienia. Zużywa więcej baterii</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 sekund</item>
@@ -490,5 +486,26 @@
     <string name="maki_helper_title">Witamy!</string>
     <string name="maki_helper_description">Otwórz ustawienia aplikacji, aby włączyć tryb ciemny, wyłączyć reklamy na Facebooku, wybrać kolor aplikacji i więcej.</string>
     <string name="maki_open_settings">Ustawienia</string>
-</resources>
 
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Proszę czekać</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problemy na Facebooku</string>
+    <string name="facebook_problems_summary">Facebook może mieć w tej chwili problemy (nie Maki). Stuknij, aby uzyskać więcej informacji.</string>
+
+    <string name="thanks_one">Dziękuję!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow, bardzo dziękuję!</string>
+    <string name="thanks_four">Wow, jesteś pewien?!</string>
+
+    <string name="support_developer">Wspieraj rozwój</string>
+    <string name="support_developer_summary">Wasze wsparcie jest bardzo ważne. Dziękuję!</string>
+
+    <string name="maki_plus_helper_description">Możesz ulepszyć Maki w wersji Plus - usuwaj reklamy, włącz automatyczny motyw nocny i obsługuj przyszłe aktualizacje.</string>
+    <string name="upgrade">Ulepszyć</string>
+
+    <string name="select_price">Wybierz cenę</string>
+    <string name="upgrade_button">Zdobądź za %1$s</string>
+    <string name="plus_subtitle">Usuń reklamy i nie tylko</string>
+</resources>

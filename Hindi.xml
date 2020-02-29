@@ -161,8 +161,6 @@
     <string name="blacklist_title">काला सूची में डालना</string>
 
     <string name="blacklist_summary">नोटिफिकेशन को ब्लॉक करने के लिए शब्दों की सूची</string>
-    <string name="exact">सही समय</string>
-    <string name="exact_summary">अधिसूचना में देरी को कम करें। बैटरी के अनुकूल नहीं है</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 सेकंड</item>
@@ -483,4 +481,26 @@
     <string name="maki_helper_title">स्वागत हे!</string>
     <string name="maki_helper_description">डार्क मोड सक्षम करने के लिए ऐप सेटिंग खोलें, फेसबुक विज्ञापनों को अक्षम करें, ऐप का रंग चुनें और बहुत कुछ।</string>
     <string name="maki_open_settings">सेटिंग्स खोलें</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">कृपया प्रतीक्षा करें</string>
+
+    <!--Maki 4.3.2 Hortensia-->
+    <string name="facebook_problems">फेसबुक के साथ समस्याएं</string>
+    <string name="facebook_problems_summary">फेसबुक के पास इस समय मुद्दे हो सकते हैं (Maki नहीं)। अधिक जानकारी प्राप्त करने के लिए टैप करें।</string>
+
+    <string name="thanks_one">धन्यवाद!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">वाह, बहुत बहुत धन्यवाद!</string>
+    <string name="thanks_four">वाह, क्या आपको यकीन है?!</string>
+
+    <string name="support_developer">विकास का समर्थन करें</string>
+    <string name="support_developer_summary">आपका समर्थन बहुत महत्वपूर्ण है। धन्यवाद!</string>
+
+    <string name="maki_plus_helper_description">आप प्लस संस्करण के साथ Maki को और बेहतर बना सकते हैं - विज्ञापन निकालें, स्वचालित रात विषय को सक्षम करें और भविष्य के अपडेट का समर्थन करें।</string>
+    <string name="upgrade">अपग्रेड</string>
+
+    <string name="select_price">मूल्य का चयन करें</string>
+    <string name="upgrade_button">%1$s के लिए अपग्रेड करें</string>
+    <string name="plus_subtitle">विज्ञापन और अधिक हटाएं</string>
 </resources>

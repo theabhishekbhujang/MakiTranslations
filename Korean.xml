@@ -158,8 +158,6 @@
     <string name="notification_sound_msg">메시지 소리</string>
     <string name="blacklist_title">블랙리스트</string>
     <string name="blacklist_summary">알림을 차단할 단어 목록</string>
-    <string name="exact">정확한 시간</string>
-    <string name="exact_summary">알림 지연을 줄입니다. 배터리가 친화적이지 않습니까</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 초</item>
@@ -482,4 +480,26 @@
     <string name="maki_helper_title">어서 오십시오!</string>
     <string name="maki_helper_description">앱 설정을 열어 다크 모드를 활성화하고, Facebook 광고를 비활성화하고, 앱 색상 등을 선택하십시오.</string>
     <string name="maki_open_settings">설정</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">기다려주세요</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">페이스 북 문제</string>
+    <string name="facebook_problems_summary">페이스 북에 현재 문제가있을 수 있습니다 (Maki 아님). 자세한 정보를 보려면 누르십시오.</string>
+
+    <string name="thanks_one">감사합니다!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">와, 정말 고마워요!</string>
+    <string name="thanks_four">와, 확실해?!</string>
+
+    <string name="support_developer">지원 개발</string>
+    <string name="support_developer_summary">당신의 지원은 매우 중요합니다. 감사합니다!</string>
+
+    <string name="maki_plus_helper_description">Plus 버전으로 Maki를 더욱 향상시킬 수 있습니다: 광고를 제거하고 자동 야간 테마를 사용하며 향후 업데이트를 지원하십시오.</string>
+    <string name="upgrade">업그레이드</string>
+
+    <string name="select_price">가격 선택</string>
+    <string name="upgrade_button">Upgrade for only %1$s</string>
+    <string name="plus_subtitle">광고 등을 제거</string>
 </resources>

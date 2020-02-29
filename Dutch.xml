@@ -160,8 +160,6 @@
     <string name="notification_sound_msg">Bericht geluid</string>
     <string name="blacklist_title">Zetten op zwarte lijst</string>
     <string name="blacklist_summary">Lijst met woorden om de meldingen te blokkeren</string>
-    <string name="exact">Exacte tijd</string>
-    <string name="exact_summary">Verkort de melding vertraging. Is niet batterij vriendelijk</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 seconden</item>
@@ -480,4 +478,26 @@
     <string name="maki_helper_title">Welkom bij Maki!</string>
     <string name="maki_helper_description">Open de app-instellingen om de donkere modus in te schakelen, Facebook-advertenties uit te schakelen, app-kleur te selecteren en meer.</string>
     <string name="maki_open_settings">Instellingen</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Wacht alsjeblieft</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problemen bij Facebook</string>
+    <string name="facebook_problems_summary">Facebook kan momenteel problemen hebben (niet Maki). Tik om meer info te krijgen.</string>
+
+    <string name="thanks_one">Bedankt!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow dank je wel!</string>
+    <string name="thanks_four">Wauw, weet je het zeker ?!</string>
+
+    <string name="support_developer">Ondersteuning ontwikkeling</string>
+    <string name="support_developer_summary">Uw steun is erg belangrijk. Dank je!</string>
+
+    <string name="maki_plus_helper_description">U kunt Maki nog beter maken met de Plus-versie - verwijder advertenties, schakel automatisch nachtthema in en ondersteun toekomstige updates.</string>
+    <string name="upgrade">Upgrade</string>
+
+    <string name="select_price">Selecteer prijs</string>
+    <string name="upgrade_button">Krijg voor %1$s</string>
+    <string name="plus_subtitle">Verwijder advertenties en meer</string>
 </resources>

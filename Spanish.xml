@@ -176,8 +176,6 @@
     <string name="notification_sound_msg">Sonido de mensaje</string>
     <string name="blacklist_title">Bloqueo por palabra</string>
     <string name="blacklist_summary">Lista de palabras para bloquear las notificaciones</string>
-    <string name="exact">Tiempo exacto</string>
-    <string name="exact_summary">Disminuye el delay de las notificaciones. Consume más bateria.</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 segundos</item>
@@ -499,5 +497,26 @@
     <string name="maki_helper_title">¡Bienvenido a Maki!</string>
     <string name="maki_helper_description">Abra la configuración de la aplicación para habilitar el modo oscuro, deshabilite los anuncios de Facebook, seleccione el color de la aplicación y más.</string>
     <string name="maki_open_settings">Configuraciones</string>
-</resources>
 
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Por favor espera</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problemas en Facebook</string>
+    <string name="facebook_problems_summary">¡Importante! Facebook puede tener problemas en este momento (no Maki). Toque para obtener más información.</string>
+
+    <string name="thanks_one">¡Gracias!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">¡Vaya, muchas gracias!</string>
+    <string name="thanks_four">Wow estas seguro?!</string>
+
+    <string name="support_developer">Apoyar el desarrollo</string>
+    <string name="support_developer_summary">Tu apoyo es muy importante. ¡Gracias!</string>
+
+    <string name="maki_plus_helper_description">Puede hacer que Maki sea aún mejor con la versión Plus: elimine la publicidad, habilite el tema nocturno automático y admita actualizaciones futuras.</string>
+    <string name="upgrade">Potenciar</string>
+
+    <string name="select_price">Seleccionar precio</string>
+    <string name="upgrade_button">Mejora por solo %1$s</string>
+    <string name="plus_subtitle">Eliminar anuncios y más</string>
+</resources>

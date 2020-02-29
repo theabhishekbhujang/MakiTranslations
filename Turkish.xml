@@ -159,8 +159,6 @@
     <string name="notification_sound_msg">Mesaj sesi</string>
     <string name="blacklist_title">Kara liste</string>
     <string name="blacklist_summary">Bildirimleri engellemek için kelimeler listesi</string>
-    <string name="exact">Tam zamanı</string>
-    <string name="exact_summary">Bildirim gecikmesini azaltın. Pil dostu değil</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 saniye</item>
@@ -475,4 +473,26 @@
     <string name="maki_helper_title">Maki\'ye Hoşgeldiniz!</string>
     <string name="maki_helper_description">Karanlık modu etkinleştirmek, Facebook reklamlarını devre dışı bırakmak, uygulama rengini seçmek ve daha fazlasını yapmak için uygulama ayarlarını açın.</string>
     <string name="maki_open_settings">Ayarları aç</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Lütfen bekle</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Facebook\'taki Sorunlar</string>
+    <string name="facebook_problems_summary">Facebook\'un şu anda sorunları olabilir (Maki değil). Daha fazla bilgi almak için dokunun.</string>
+
+    <string name="thanks_one">Teşekkür ederim!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Vay canına, çok teşekkür ederim!</string>
+    <string name="thanks_four">Wow, emin misin?!</string>
+
+    <string name="support_developer">Gelişimin desteklenmesi</string>
+    <string name="support_developer_summary">Desteğiniz çok önemlidir. Teşekkür ederim!</string>
+
+    <string name="maki_plus_helper_description">Plus sürümü ile Maki\'yi daha da iyi hale getirebilirsiniz - reklamları kaldırın, otomatik gece temasını etkinleştirin ve gelecekteki güncellemeleri destekleyin.</string>
+    <string name="upgrade">Yükselt</string>
+
+    <string name="select_price">Fiyat Seçin</string>
+    <string name="upgrade_button">%1$s için satın al</string>
+    <string name="plus_subtitle">Reklamları ve daha fazlasını kaldırın</string>
 </resources>

@@ -169,8 +169,6 @@
     <string name="notification_sound_msg">Звук оповещений</string>
     <string name="blacklist_title">Черный список</string>
     <string name="blacklist_summary">Список ключевых слов для блокировки</string>
-    <string name="exact">Вовремя</string>
-    <string name="exact_summary">Постоянная проверка на оповещения. Повышает расход батареи</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 секунд</item>
@@ -492,4 +490,26 @@
     <string name="maki_helper_title">Добро пожаловать!</string>
     <string name="maki_helper_description">Откройте настройки приложения, чтобы включить темную тему, отключить рекламу в Facebook, выбрать цвет приложения и многое другое.</string>
     <string name="maki_open_settings">Настройки</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Пожалуйста, подождите</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Проблемы с Facebook</string>
+    <string name="facebook_problems_summary">У Facebook могут быть проблемы на данный момент (не в Маки). Нажмите, чтобы получить больше информации.</string>
+
+    <string name="thanks_one">Спасибо!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Вау, спасибо большое!</string>
+    <string name="thanks_four">Вау, Вы уверены?!</string>
+
+    <string name="support_developer">Поддержите разработку</string>
+    <string name="support_developer_summary">Ваша поддержка очень важна. Спасибо!</string>
+
+    <string name="maki_plus_helper_description">Вы можете сделать Maki еще лучше с версией Plus - убрать рекламу, включить автоматическую ночную тему и поддержать будущие обновления.</string>
+    <string name="upgrade">Обновить</string>
+
+    <string name="select_price">Выберите цену</string>
+    <string name="upgrade_button">Обновить всего за %1$s</string>
+    <string name="plus_subtitle">Заблокируйте рекламу и больше</string>
 </resources>

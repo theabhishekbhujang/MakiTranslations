@@ -147,8 +147,7 @@
     <string name="notification_sound_msg">Sunet pentru mesaje</string>
     <string name="blacklist_title">Lista neagră</string>
     <string name="blacklist_summary">Lista cuvinte pentru a bloca notificările</string>
-    <string name="exact">Timp exact</string>
-    <string name="exact_summary">Reduceți întârzierea notificării. Nu este prietenos cu bateria</string>
+
     <string-array name="intervalPrefTitles">
         <item>30 secunde</item>
         <item>60 secunde</item>
@@ -433,4 +432,26 @@
     <string name="maki_helper_title">Bine ați venit la Maki!</string>
     <string name="maki_helper_description">Deschideți setările aplicației pentru a activa modul întunecat, dezactivați anunțurile Facebook, selectați culoarea aplicației și multe altele.</string>
     <string name="maki_open_settings">Setări</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Te rog asteapta</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Probleme la Facebook</string>
+    <string name="facebook_problems_summary">Facebook poate avea probleme în acest moment (nu Maki). Atingeți pentru a obține mai multe informații.</string>
+
+    <string name="thanks_one">Mulțumesc!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Uau, mulțumesc mult!</string>
+    <string name="thanks_four">Uau, ești sigur?!</string>
+
+    <string name="support_developer">Sprijinirea dezvoltării</string>
+    <string name="support_developer_summary">Suportul dvs. este foarte important. Mulțumesc!</string>
+
+    <string name="maki_plus_helper_description">Puteți face Maki și mai bine cu versiunea Plus - eliminați anunțul, activați tema automată a nopții și susțineți actualizările viitoare.</string>
+    <string name="upgrade">Actualizare</string>
+
+    <string name="select_price">Selectați Preț</string>
+    <string name="upgrade_button">Upgrade pentru %1$s</string>
+    <string name="plus_subtitle">Eliminați publicitatea și multe altele</string>
 </resources>

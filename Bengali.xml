@@ -101,8 +101,7 @@
 
     <string name="locked">লক</string>
     <string name="please_enter_passcode">একটি পাসওয়ার্ড লিখুন</string>
-    <string name="buy_plus">এটা Maki প্লাস জন্য সময়</string>
-    <string name="buy_plus_more">প্লাস সংস্করণের সাথে মাকির আরও ভাল করার সময় এসেছে - বিজ্ঞাপন সরান, শর্টকাট তৈরি করুন, স্বয়ংক্রিয় রাতের থিম সক্ষম করুন এবং ডেভেলপারদের সমর্থন করুন।</string>
+
     <string name="lets_do_it">চল এটা করি!</string>
     <string name="later">পরবর্তীতে</string>
 
@@ -161,8 +160,6 @@
     <string name="notification_sound_msg">বার্তা শব্দ</string>
     <string name="blacklist_title">নিষিদ্ধ জিনিসের তালিকা</string>
     <string name="blacklist_summary">বিজ্ঞপ্তি ব্লক শব্দ তালিকা</string>
-    <string name="exact">সঠিক সময়</string>
-    <string name="exact_summary">বিজ্ঞপ্তি বিলম্ব হ্রাস করুন। ব্যাটারি বন্ধুত্বপূর্ণ নয়</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 সেকেন্ড</item>
@@ -266,8 +263,6 @@
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
     <string name="warning">সতর্কবাণী!</string>
 
-    <string name="plus_buy">মাকি প্লাস পান</string>
-    <string name="plus_shortcuts">মাচি দ্রুত ব্যবহার করুন - হোম স্ক্রীনে বার্তা এবং বিজ্ঞপ্তিগুলির জন্য শর্টকাট তৈরি করুন।</string>
     <string name="plus_ads">আপনার প্রিয় সামগ্রীতে ফোকাস করতে নিউজ ফিডে ফেসবুক থেকে সমস্ত বিজ্ঞাপন অক্ষম করুন</string>
     <string name="quickbar_more">কোথাও থেকে সমাজের অ্যাক্সেস পান।</string>
 
@@ -483,4 +478,26 @@
     <string name="maki_helper_title">Maki স্বাগতম!</string>
     <string name="maki_helper_description">অন্ধকার মোড সক্ষম করতে, ফেসবুক বিজ্ঞাপনগুলি অক্ষম করতে, অ্যাপ্লিকেশনের রঙ নির্বাচন করুন এবং আরও অনেক কিছুতে অ্যাপ্লিকেশন সেটিংসটি খুলুন।</string>
     <string name="maki_open_settings">ওপেন সেটিংস</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">অনুগ্রহপূর্বক অপেক্ষা করুন</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">ফেসবুকে সমস্যা</string>
+    <string name="facebook_problems_summary">এই মুহূর্তে ফেসবুকের সমস্যা থাকতে পারে (মাকি নয়)। আরও তথ্য পেতে আলতো চাপুন।</string>
+
+    <string name="thanks_one">ধন্যবাদ!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">বাহ, আপনাকে অনেক ধন্যবাদ!</string>
+    <string name="thanks_four">বাহ, তুমি কি নিশ্চিত ?!</string>
+
+    <string name="support_developer">সমর্থন উন্নয়ন</string>
+    <string name="support_developer_summary">আপনার সমর্থন খুব গুরুত্বপূর্ণ। ধন্যবাদ!</string>
+
+    <string name="maki_plus_helper_description">আপনি মাকিকে প্লাস সংস্করণ দিয়ে আরও উন্নত করতে পারেন - বিজ্ঞাপন সরান, অটো নাইট থিম সক্ষম করুন এবং বিকাশকারীদের সহায়তা করুন।</string>
+    <string name="upgrade">আপগ্রেড করুন</string>
+
+    <string name="select_price">মূল্য নির্বাচন করুন</string>
+    <string name="upgrade_button">শুধুমাত্র %1$s এর জন্য আপগ্রেড করুন</string>
+    <string name="plus_subtitle">বিজ্ঞাপনগুলি এবং আরও অনেক কিছু সরান</string>
 </resources>

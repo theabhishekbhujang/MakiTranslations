@@ -158,8 +158,6 @@
     <string name="notification_sound_msg">Zvuk zprávy</string>
     <string name="blacklist_title">Černá listina</string>
     <string name="blacklist_summary">Seznam slov, která mají zablokovat oznámení</string>
-    <string name="exact">Přesný čas</string>
-    <string name="exact_summary">Zkrátit zpoždění oznámení. Není vhodný pro baterie</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 sekund</item>
@@ -479,4 +477,26 @@
     <string name="maki_helper_title">Vítejte v Maki!</string>
     <string name="maki_helper_description">Otevřete nastavení aplikace a aktivujte tmavý režim, deaktivujte reklamy na Facebooku, vyberte barvu aplikace a další.</string>
     <string name="maki_open_settings">Nastavení</string>
+
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Prosím, čekejte</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problémy s Facebookem</string>
+    <string name="facebook_problems_summary">Facebook může mít v tuto chvíli problémy (ne Maki). Klepnutím získáte další informace.</string>
+
+    <string name="thanks_one">Děkuji!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Moc vám děkuji!</string>
+    <string name="thanks_four">Jsi si jistá?!</string>
+
+    <string name="support_developer">Podpora rozvoje</string>
+    <string name="support_developer_summary">Vaše podpora je velmi důležitá. Děkuji!</string>
+
+    <string name="maki_plus_helper_description">S verzí Plus můžete vylepšit Maki - odstranit reklamu, povolit téma automatické noci a podporovat budoucí aktualizace.</string>
+    <string name="upgrade">Vylepšit</string>
+
+    <string name="select_price">Vyberte cenu</string>
+    <string name="upgrade_button">Upgradujte pouze za %1$s</string>
+    <string name="plus_subtitle">Odstraňte reklamy a další</string>
 </resources>

@@ -124,8 +124,6 @@
     <string name="locked">Bloccato</string>
     <string name="please_enter_passcode">Inserisci un codice di accesso</string>
 
-    <string name="buy_plus">È ora per Maki Plus</string>
-    <string name="buy_plus_more">È ora di rendere Maki ancora meglio con la versione Plus: rimuovere la pubblicità, creare collegamenti, abilitare il tema della notte auto e gli sviluppatori di supporto.</string>
     <string name="lets_do_it">Facciamolo!</string>
     <string name="later">Dopo</string>
 
@@ -177,8 +175,6 @@
     <string name="notification_sound_msg">Message sound</string>
     <string name="blacklist_title">Lista nera</string>
     <string name="blacklist_summary">Elenco di parole per bloccare le notifiche</string>
-    <string name="exact">Tempo esatto</string>
-    <string name="exact_summary">Riduci il ritardo della notifica. Non è adatto alla batteria</string>
 
     <string-array name="intervalPrefTitles">
         <item>30 secondi</item>
@@ -290,8 +286,6 @@
     <string name="features_beta_summary">Queste opzioni sono ancora in fase di sviluppo e potrebbero non essere stabili, quindi provale solo se lo desideri!</string>
     <string name="warning">Avvertimento!</string>
 
-    <string name="plus_buy">Acquista</string>
-    <string name="plus_shortcuts">Usa più velocemente Maki - crea scorciatoie per messaggi e notifiche sulla schermata principale.</string>
     <string name="plus_ads">Rimuovi tutta la pubblicità da Facebook sul tuo feed di notizie per concentrarti sui tuoi contenuti preferiti</string>
     <string name="quickbar_more">Accedi ai social da qualsiasi luogo.</string>
 
@@ -509,5 +503,26 @@
     <string name="maki_helper_title">Benvenuti a Maki!</string>
     <string name="maki_helper_description">Apri le impostazioni dell\'app per abilitare la modalità oscura, disabilitare gli annunci di Facebook, selezionare il colore dell\'app e altro.</string>
     <string name="maki_open_settings">Impostazioni</string>
-</resources>
 
+    <!--Maki 4.3.1 Hortensia-->
+    <string name="wait">Attendere prego</string>
+
+    <!--Maki 4.4 Hortensia-->
+    <string name="facebook_problems">Problemi su Facebook</string>
+    <string name="facebook_problems_summary">Facebook potrebbe avere problemi al momento (non Maki). Tocca per ottenere maggiori informazioni.</string>
+
+    <string name="thanks_one">Grazie!</string>
+    <string name="thanks_two">@string/thanks</string>
+    <string name="thanks_three">Wow, grazie mille!</string>
+    <string name="thanks_four">Wow, sei sicuro?!</string>
+
+    <string name="support_developer">Supportare lo sviluppo</string>
+    <string name="support_developer_summary">Il tuo supporto è molto importante. Grazie!</string>
+
+    <string name="maki_plus_helper_description">Puoi migliorare ulteriormente Maki con la versione Plus: rimuovi la pubblicità, abilita il tema della notte automatica e supporta gli aggiornamenti futuri.</string>
+    <string name="upgrade">Aggiornamento</string>
+
+    <string name="select_price">Seleziona il prezzo</string>
+    <string name="upgrade_button">Aggiornamento per %1$s</string>
+    <string name="plus_subtitle">Rimuovi annunci e altro</string>
+</resources>
