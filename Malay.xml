@@ -102,8 +102,7 @@
 
     <string name="locked">Terkunci</string>
     <string name="please_enter_passcode">Masukkan kata laluan</string>
-    <string name="buy_plus">Ia adalah masa untuk Mako Plus</string>
-    <string name="buy_plus_more">Sudah tiba masanya untuk membuat Mako lebih baik dengan versi Plus - memadamkan pengiklanan, membuat jalan pintas, membolehkan tema auto malam dan pemaju sokongan.</string>
+
     <string name="lets_do_it">Mari lakukannya!</string>
     <string name="later">Kemudian</string>
 
@@ -261,8 +260,6 @@
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
     <string name="warning">Amaran!</string>
 
-    <string name="plus_buy">Dapatkan Mako Plus</string>
-    <string name="plus_shortcuts">Gunakan Mako lebih cepat - buat jalan pintas untuk mesej dan notifikasi pada skrin utama.</string>
     <string name="plus_ads">Lumpuhkan semua pengiklanan dari Facebook pada suapan berita anda untuk memberi tumpuan kepada kandungan kegemaran anda</string>
     <string name="quickbar_more">Dapatkan akses kepada sosial dari mana-mana sahaja.</string>
 

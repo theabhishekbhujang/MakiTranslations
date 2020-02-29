@@ -101,8 +101,7 @@
 
     <string name="locked">Đã khóa</string>
     <string name="please_enter_passcode">Nhập mật mã</string>
-    <string name="buy_plus">Đã đến lúc cho Maki Plus</string>
-    <string name="buy_plus_more">Đã đến lúc làm cho Maki trở nên tốt hơn với phiên bản Plus - loại bỏ quảng cáo, tạo lối tắt, bật chủ đề đêm tự động và hỗ trợ các nhà phát triển.</string>
+
     <string name="lets_do_it">Hãy làm nó!</string>
     <string name="later">Một lát sau</string>
 
@@ -255,9 +254,6 @@
     <string name="features_beta">Tùy chọn trong phiên bản beta</string>
     <string name="features_beta_summary">Các tùy chọn đó vẫn đang phát triển và có thể không ổn định, vì vậy hãy thử chúng chỉ khi bạn thực sự muốn!</string>
     <string name="warning">Cảnh báo!</string>
-
-    <string name="plus_buy">Mua</string>
-    <string name="plus_shortcuts">Sử dụng Maki nhanh hơn - tạo phím tắt cho tin nhắn và thông báo trên màn hình chính.</string>
     <string name="plus_ads">Xóa tất cả quảng cáo khỏi nguồn tin tức trên Facebook để tập trung vào nội dung yêu thích của bạn</string>
     <string name="quickbar_more">Nhận quyền truy cập vào các mạng xã hội từ mọi nơi.</string>
 

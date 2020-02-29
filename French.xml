@@ -98,8 +98,7 @@
 
     <string name="locked">Verrouiller</string>
     <string name="please_enter_passcode">Entrer un code d\'accès</string>
-    <string name="buy_plus">Maki pourrait être amélioré</string>
-    <string name="buy_plus_more">Vous pouvez rendre Maki plus fonctionnel avec la version Plus, supprimer la publicité, créer des raccourcis, activer le thème sombre automatique et soutenir les développeurs.</string>
+
     <string name="lets_do_it">Allons-y!</string>
     <string name="later">Plus tard</string>
     <string name="start">Allons-y!</string>
@@ -240,8 +239,7 @@
     <string name="features_beta">Options bêta</string>
     <string name="features_beta_summary">Ces options sont encore en développement et peuvent ne pas être stables.</string>
     <string name="warning">Attention !</string>
-    <string name="plus_buy">Achat</string>
-    <string name="plus_shortcuts">Utiliser Maki plus rapidement, créer des raccourcis pour les messages et les notifications sur l\'écran d\'accueil.</string>
+
     <string name="plus_ads">Désactiver toutes les publicités dans votre fil d\'actualité pour vous concentrer sur votre contenu favori</string>
     <string name="quickbar_more">Accédez à vos réseaux sociaux simplement.</string>
     <string name="plus_dark">Protégez vos yeux la nuit avec un thème sombre automatique.</string>

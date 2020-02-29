@@ -103,8 +103,7 @@
 
     <string name="locked">Kilitli</string>
     <string name="please_enter_passcode">Bir şifre girin</string>
-    <string name="buy_plus">Maki Plus\'ın zamanı geldi.</string>
-    <string name="buy_plus_more">Maki\'yı Plus sürümü ile daha da iyi hale getirmenin zamanı geldi - reklamları kaldırın, kısayollar oluşturun, otomatik gece temasını etkinleştirin ve geliştiricileri destekleyin.</string>
+
     <string name="lets_do_it">Haydi Yapalım şunu!</string>
     <string name="later">Sonra</string>
 
@@ -258,8 +257,6 @@
     <string name="features_beta_summary">Bu seçenekler hala gelişiyor ve kararlı olmayabilir, bu yüzden onları sadece gerçekten istiyorsan deneyin!</string>
     <string name="warning">Uyarı!</string>
 
-    <string name="plus_buy">Almak</string>
-    <string name="plus_shortcuts">Maki\'yi daha hızlı kullanın - ana ekranda mesajlar ve bildirimler için kısayollar oluşturun.</string>
     <string name="plus_ads">Favori içeriğinize odaklanmak için haber kaynağındaki tüm reklamları Facebook\'tan kaldırın</string>
     <string name="quickbar_more">Sosyal paylaşımlara her yerden erişin.</string>
 

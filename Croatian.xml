@@ -101,8 +101,7 @@
 
     <string name="locked">Zaključan</string>
     <string name="please_enter_passcode">Unesite lozinku</string>
-    <string name="buy_plus">Maki može biti bolji</string>
-    <string name="buy_plus_more">Možete napraviti Maki još bolje s Plus verzijom - kontrolirajte korištenje aplikacije, uklonite oglašavanje, stvorite prečace, omogućite temu automatske noći i podršku razvojnim programerima.</string>
+
     <string name="lets_do_it">Učinimo to!</string>
     <string name="later">Kasnije</string>
 
@@ -263,8 +262,6 @@
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
     <string name="warning">Upozorenje!</string>
 
-    <string name="plus_buy">Uzmite Maki Plus</string>
-    <string name="plus_shortcuts">Koristite Maki brže - stvorite prečace za poruke i obavijesti na početnom zaslonu.</string>
     <string name="plus_ads">Onemogućite sve oglase s usluge Facebook na feedu vijesti da biste se usredotočili na svoj omiljeni sadržaj</string>
     <string name="quickbar_more">Dobijte pristup društvenim sadržajima s bilo kojeg mjesta.</string>
 

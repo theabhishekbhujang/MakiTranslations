@@ -101,11 +101,9 @@
 
     <string name="locked">Zamčeno</string>
     <string name="please_enter_passcode">Zadejte přístupový kód</string>
-    <string name="buy_plus">Je čas na Maki Plus</string>
-    <string name="buy_plus_more">Je čas udělat Maki ještě lépe s verzí Plus - odstranit reklamu, vytvořit zkratky, povolit auto noční téma a podporovat vývojáře.</string>
+
     <string name="lets_do_it">Pojďme na to!</string>
     <string name="later">Později</string>
-
 
     <string name="start">Pojďme!</string>
     <string name="thanks">Děkuji mnohokrát!</string>
@@ -259,8 +257,6 @@
     <string name="features_beta_summary">Tyto možnosti se stále vyvíjejí a nemusí být stabilní, takže je vyzkoušejte pouze, pokud to opravdu chcete!</string>
     <string name="warning">Varování!</string>
 
-    <string name="plus_buy">Získejte Maki Plus</string>
-    <string name="plus_shortcuts">Používejte Maki rychleji - vytvořte zkratky pro zprávy a oznámení na domovské obrazovce.</string>
     <string name="plus_ads">Zakažte veškerou reklamu z Facebooku ve zdroji zpráv, abyste se soustředili na svůj oblíbený obsah</string>
     <string name="quickbar_more">Získejte přístup k sociálním sítím odkudkoliv.</string>
 

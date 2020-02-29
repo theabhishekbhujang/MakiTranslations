@@ -101,8 +101,7 @@
     <string name="license">Open-sourcelicenties</string>
     <string name="locked">Op slot</string>
     <string name="please_enter_passcode">Vul een wachtwoord in</string>
-    <string name="buy_plus">Maki kan beter zijn</string>
-    <string name="buy_plus_more">Je kunt Maki nog beter maken met de Plus-versie - bepaal je gebruik van de app, verwijder advertenties, maak snelkoppelingen, activeer het thema \'auto-nachts\' en ondersteun ontwikkelaars.</string>
+
     <string name="lets_do_it">Laten we het doen!</string>
     <string name="later">Later</string>
 
@@ -260,8 +259,6 @@
     <string name="features_beta_summary">Die opties zijn nog in ontwikkeling en zijn misschien niet stabiel, dus probeer ze alleen als je echt wilt!</string>
     <string name="warning">Waarschuwing!</string>
 
-    <string name="plus_buy">Koop Maki Plus</string>
-    <string name="plus_shortcuts">Gebruik Maki sneller - maak snelkoppelingen voor berichten en meldingen op het startscherm.</string>
     <string name="plus_ads">Schakel alle advertenties van Facebook op uw nieuwsfeed uit om u te concentreren op uw favoriete inhoud</string>
     <string name="quickbar_more">Krijg overal toegang tot sociale netwerken.</string>
 

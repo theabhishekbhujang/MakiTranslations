@@ -97,8 +97,7 @@
     <string name="license">Licențe open source</string>
     <string name="locked">Blocat</string>
     <string name="please_enter_passcode">Introduceți un cod</string>
-    <string name="buy_plus">Maki poate fi mai bun</string>
-    <string name="buy_plus_more">Puteți face Maki și mai bun cu versiunea Plus - controlați-vă utilizarea aplicației, eliminați publicitatea, creați comenzi rapide, activați tema auto nocturnă și susțineți dezvoltatorii.</string>
+
     <string name="lets_do_it">S-o facem!</string>
     <string name="later">Mai târziu</string>
     <string name="start">Să mergem</string>
@@ -238,8 +237,7 @@
     <string name="features_beta">Opțiuni beta</string>
     <string name="features_beta_summary">Aceste opțiuni sunt încă în curs de dezvoltare și posibil nu sunt stabile, deci încercați-le doar dacă doriți cu adevărat!</string>
     <string name="warning">Avertizare!</string>
-    <string name="plus_buy">Achiziționați Maki Plus</string>
-    <string name="plus_shortcuts">Folosiți Maki mai rapid - creați comenzi rapide pentru mesaje şi notificări pe ecranul de întâmpinare</string>
+
     <string name="plus_ads">Dezactivați toate reclamele de pe Facebook în fluxul dvs. de știri pentru a vă concentra pe conținutul preferat</string>
     <string name="quickbar_more">Obțineți acces la medii sociale de oriunde.</string>
     <string name="plus_dark">Protejați-vă ochii noaptea cu o temă închisă automată.</string>

@@ -97,8 +97,7 @@
     <string name="license">Nyílt forrású licenszek</string>
     <string name="locked">Lezárt</string>
     <string name="please_enter_passcode">Új jelszókód beírása</string>
-    <string name="buy_plus">A Maki jobb is lehet</string>
-    <string name="buy_plus_more">A Maki még jobbá tehető a Plus verzióval - alkalmazás használat vezérlés, hirdetés eltávolítás, gyorslinkek létrehozása, automatikus éjszakai téma engedélyezése és fejlesztői támogatás.</string>
+
     <string name="lets_do_it">Mehet!</string>
     <string name="later">Később</string>
     <string name="start">Indulás</string>
@@ -238,8 +237,7 @@
     <string name="features_beta">Beállítások béta verzióban</string>
     <string name="features_beta_summary">Ezek a lehetőségek még mindig fejlesztés alatt állnak, ezért csak akkor próbáljuk ki ezeket, ha valóban szeretnénk!</string>
     <string name="warning">Figyelem!</string>
-    <string name="plus_buy">Maki Plus megvásárlása</string>
-    <string name="plus_shortcuts">Használjuk a Makit gyorsabban - hozzunk létre parancsikonokat az üzenetekhez és az értesítésekhez a kezdőképernyőn.</string>
+
     <string name="plus_ads">Az összes Facebook hirdetés letiltása a hírcsatornában a kedvenc tartalomra fókuszáláshoz.</string>
     <string name="quickbar_more">Hozzáférés a közösségekhez bárhonnan.</string>
     <string name="plus_dark">Védjük meg szemünket éjjel az automatikus sötét téma használatával.</string>

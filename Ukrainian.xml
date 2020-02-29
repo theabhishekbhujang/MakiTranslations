@@ -110,11 +110,8 @@
     <string name="locked">Заблоковано</string>
     <string name="please_enter_passcode">Введіть пін-код</string>
 
-    <string name="buy_plus">Прийшов час для Maki Плюс</string>
-    <string name="buy_plus_more">Прийшов час зробити Maki ще краще з версією Plus - приберіть рекламу від Facebook, створюйте посилання швидкого доступу, користуйтесь автоматичною нічною темою та підтримайте розробників.</string>
     <string name="lets_do_it">Зробімо це!</string>
     <string name="later">Пізніше</string>
-
 
     <string name="start">Поїхали</string>
     <string name="thanks">Велике спасибі!</string>
@@ -140,8 +137,6 @@
     </string-array>
 
     <string name="problems_purchase">
-
-
         Спасибі Вам велике за підтримку в розробці Maki! На жаль, схоже на те, що у Вас виникли проблеми з отриманням Maki Плюс. Саме ця сторінка призвана допомогти вирішити цю прикрість.
         \n\n
         Ми маємо декілька варіантів вирішення проблеми:\n\n
@@ -270,8 +265,6 @@
     <string name="features_beta_summary">Ці налаштування досі в розробці, тому користуйтесь ними на свій страх та ризик!</string>
     <string name="warning">Увага!</string>
 
-    <string name="plus_buy">Отримати Maki Плюс</string>
-    <string name="plus_shortcuts">Користуйтесь Maki швидше - створюйте ярлики швидкого доступу на головному екрані.</string>
     <string name="plus_ads">Приберіть усю рекламу від Facebook в стрічці новин, щоб не відволікатись від Вашого улюбленого контенту</string>
     <string name="quickbar_more">Користуйтесь соціальними мережами де завгодно.</string>
 

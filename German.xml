@@ -275,8 +275,6 @@
     <string name="features_beta_summary">Diese Optionen entwickeln sich noch und sind möglicherweise nicht stabil, also versuchen Sie sie nur, wenn Sie wirklich wollen!</string>
     <string name="warning">Warnung!</string>
 
-    <string name="plus_buy">Kaufen</string>
-    <string name="plus_shortcuts">Verwenden Sie Maki schneller - erstellen Sie Verknüpfungen für Nachrichten und Benachrichtigungen auf dem Startbildschirm.</string>
     <string name="plus_ads">Deaktivieren Sie alle Werbung von Facebook in Ihrem Newsfeed, um sich auf Ihre Lieblingsinhalte zu konzentrieren</string>
     <string name="quickbar_more">Erhalten Sie von überall Zugang zu sozialen Netzwerken.</string>
 

@@ -116,8 +116,6 @@
     <string name="locked">Bloqueado</string>
     <string name="please_enter_passcode">Insira uma senha</string>
 
-    <string name="buy_plus">É hora de Maki Plus.</string>
-    <string name="buy_plus_more">É hora de tornar o Maki ainda melhor com a versão Plus - remover publicidade, criar atalhos, ativar o tema da noite automática e auxiliar desenvolvedores.</string>
     <string name="lets_do_it">Vamos fazer isso!</string>
     <string name="later">Mais tarde</string>
     <string name="start">Vamos!</string>
@@ -275,8 +273,6 @@
     <string name="features_beta_summary">Essas opções ainda estão em desenvolvimento e podem não ser estáveis, portanto, experimente-as somente se você realmente quiser!</string>
     <string name="warning">Aviso!</string>
 
-    <string name="plus_buy">Comprar</string>
-    <string name="plus_shortcuts">Use a Maki mais rapidamente - crie atalhos para mensagens e notificações na tela inicial.</string>
     <string name="plus_ads">Remova toda a publicidade do Facebook no seu feed de notícias para se concentrar no seu conteúdo favorito</string>
     <string name="quickbar_more">Tenha acesso a redes sociais de qualquer lugar.</string>
 

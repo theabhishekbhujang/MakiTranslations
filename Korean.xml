@@ -101,8 +101,7 @@
     <string name="license">오픈 소스 라이선스</string>
     <string name="locked">잠김</string>
     <string name="please_enter_passcode">비밀번호 입력</string>
-    <string name="buy_plus">마키 플러스를위한 시간이야.</string>
-    <string name="buy_plus_more">플러스 버전으로 마키를 더욱 멋지게 만들 때입니다. 광고를 제거하고, 바로 가기를 만들고, 자동 야간 테마를 활성화하고 개발자를 지원합니다..</string>
+
     <string name="lets_do_it">그것을 해보자!</string>
     <string name="later">후에</string>
 
@@ -261,8 +260,6 @@
     <string name="features_beta_summary">이러한 옵션은 여전히 개발 중이며 안정적이지 않을 수 있습니다. 따라서 정말로 원하는 경우에만 시도하십시오!</string>
     <string name="warning">경고!</string>
 
-    <string name="plus_buy">마키 플러스 받기</string>
-    <string name="plus_shortcuts">마키 빨리 사용 - 홈 화면에서 메시지 및 알림 바로 가기를 만듭니다.</string>
     <string name="plus_ads">좋아하는 콘텐츠에 집중할 수 있도록 뉴스 피드에서 Facebook의 모든 광고를 삭제하십시오.</string>
     <string name="quickbar_more">어디에서나 사회에 액세스하십시오.</string>
 

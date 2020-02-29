@@ -101,11 +101,8 @@
     <string name="license">ใบอนุญาตโอเพนซอร์ส</string>
     <string name="locked">ล็อค</string>
     <string name="please_enter_passcode">ใส่รหัสผ่าน</string>
-    <string name="buy_plus">ได้เวลาของ Maki Plus แล้ว</string>
-    <string name="buy_plus_more">ถึงเวลาที่จะทำให้ Maki ดียิ่งขึ้นด้วยรุ่น Plus - ลบโฆษณาสร้างทางลัดเปิดใช้งานธีมกลางคืนอัตโนมัติ</string>
     <string name="lets_do_it">มาทำกันเถอะ!</string>
     <string name="later">ต่อมา</string>
-
 
     <string name="start">ไปกันเถอะ</string>
     <string name="thanks">ขอบคุณมาก!</string>
@@ -259,8 +256,6 @@
     <string name="features_beta_summary">ตัวเลือกเหล่านั้นยังคงพัฒนาและอาจไม่เสถียรดังนั้นให้ลองเฉพาะเมื่อคุณต้องการ!</string>
     <string name="warning">คำเตือน!</string>
 
-    <string name="plus_buy">รับ Maki Plus</string>
-    <string name="plus_shortcuts">ใช้ Maki เร็วขึ้น - สร้างทางลัดสำหรับข้อความและการแจ้งเตือนบนหน้าจอหลัก</string>
     <string name="plus_ads">ปิดใช้งานการโฆษณาทั้งหมดจาก Facebook ในฟีดข่าวของคุณเพื่อมุ่งเน้นเนื้อหาที่คุณชื่นชอบ</string>
     <string name="quickbar_more">เข้าถึงโซเชียลได้จากทุกที่</string>
 

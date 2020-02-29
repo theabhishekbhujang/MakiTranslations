@@ -100,8 +100,7 @@
     <string name="license">Lisensi sumber terbuka</string>
     <string name="locked">Terkunci</string>
     <string name="please_enter_passcode">Masukkan kode sandi</string>
-    <string name="buy_plus">Sudah waktunya untuk Mako Plus</string>
-    <string name="buy_plus_more">Saatnya membuat Mako menjadi lebih baik dengan versi Plus - hapus iklan, buat pintasan, aktifkan tema malam otomatis dan dukung pengembang.</string>
+
     <string name="lets_do_it">Ayo lakukan!</string>
     <string name="later">Kemudian</string>
 
@@ -255,8 +254,6 @@
     <string name="features_beta_summary">Opsi-opsi tersebut masih berkembang dan mungkin tidak stabil, jadi cobalah hanya jika Anda benar-benar ingin!</string>
     <string name="warning">Peringatan!</string>
 
-    <string name="plus_buy">Membeli</string>
-    <string name="plus_shortcuts">Gunakan Mako lebih cepat - buat pintasan untuk pesan dan pemberitahuan di layar awal.</string>
     <string name="plus_ads">Hapus semua iklan dari Facebook di umpan berita Anda untuk fokus pada konten favorit Anda</string>
     <string name="quickbar_more">Dapatkan akses ke sosial dari mana saja.</string>
 

@@ -111,8 +111,6 @@
     <string name="locked">Заблокировано</string>
     <string name="please_enter_passcode">Введите пин-код</string>
 
-    <string name="buy_plus">Настало время для Maki Плюс</string>
-    <string name="buy_plus_more">Настало время сделать Maki ещё лучше с версией Plus - уберите рекламу, создавайте быстрые иконки, используйте автоматическую ночную тему и поддержите разработчиков.</string>
     <string name="lets_do_it">Сделаем это!</string>
     <string name="later">Позже</string>
     <string name="start">Поехали</string>
@@ -275,8 +273,6 @@
     <string name="features_beta_summary">Эти опции все еще в разработке, поэтому используйте их только на свой страх и риск!</string>
     <string name="warning">Внимание!</string>
 
-    <string name="plus_buy">Получить Maki Plus</string>
-    <string name="plus_shortcuts">Пользуйтесь Maki быстрее - создавайте иконки быстрого доступа на главном экране.</string>
     <string name="plus_ads">Уберите всю рекламу в ленте Facebook - это позволит не отвлекаться от любимого контента</string>
     <string name="quickbar_more">Получайте доступ к соцсетям отовсюду.</string>
 

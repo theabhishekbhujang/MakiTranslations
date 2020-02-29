@@ -99,8 +99,6 @@
     <string name="rate_dialog_more">您覺得 Maki 如何呢？在 Google Play 留下評價，或是聯絡我們來一起解決問題。讓我們共同最佳化 Maki！</string>
     <string name="locked">已鎖定</string>
     <string name="please_enter_passcode">輸入鎖定碼</string>
-    <string name="buy_plus">Maki 可以做得更好</string>
-    <string name="buy_plus_more">您可以通過使用 Plus 版本讓 Maki 做得更好 - 控制應用程式使用，移除廣告，建立捷徑，啟用自動夜間主題並支援開發者。</string>
     <string name="lets_do_it">讓我們完成它！</string>
     <string name="later">稍後</string>
     <string name="start">加入</string>
@@ -239,8 +237,6 @@
     <string name="features_beta">測試選項</string>
     <string name="features_beta_summary">這些選項仍在開發中並且可能不穩定，所以除非迫切需要請不要使用！</string>
     <string name="warning">警告！</string>
-    <string name="plus_buy">取得 Maki Plus</string>
-    <string name="plus_shortcuts">更快捷地使用 Maki - 在主熒幕為訊息和通知建立捷徑。</string>
     <string name="plus_ads">從你的 Facebook 的動態匯總移除所有廣告以專注於你喜愛的內容</string>
     <string name="quickbar_more">隨時隨地訪問社交媒體。</string>
     <string name="plus_dark">在夜晚使用自動深色主題來保護你的雙眼。</string>

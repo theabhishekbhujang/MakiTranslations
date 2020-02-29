@@ -102,8 +102,7 @@
 
     <string name="locked">बंद</string>
     <string name="please_enter_passcode">पासवर्ड ङालें</string>
-    <string name="buy_plus">पासवर्ड ङालें</string>
-    <string name="buy_plus_more">प्लस वर्जन के साथ Maki को और भी बेहतर बनाने का समय आ गया है - विज्ञापन निकालें, शॉर्टकट बनाएं, ऑटो नाइट थीम को सक्षम करें और डेवलपर्स को सपोर्ट करें।</string>
+
     <string name="lets_do_it">हो जाए!</string>
     <string name="later">बाद में</string>
 
@@ -263,8 +262,6 @@
     <string name="features_beta_summary">वे विकल्प अभी भी विकसित हो रहे हैं और स्थिर नहीं हो सकते हैं, इसलिए उन्हें केवल तभी आज़माएं जब आप वास्तव में चाहते हैं!</string>
     <string name="warning">चेतावनी!</string>
 
-    <string name="plus_buy">मकी प्लस हो जाओ</string>
-    <string name="plus_shortcuts">Maki का तेजी से उपयोग करें - होम स्क्रीन पर संदेशों और सूचनाओं के लिए शॉर्टकट बनाएं।</string>
     <string name="plus_ads">अपनी पसंदीदा सामग्री पर ध्यान केंद्रित करने के लिए अपने समाचार फ़ीड पर फेसबुक से सभी विज्ञापन अक्षम करें</string>
     <string name="quickbar_more">कहीं से भी सामाजिक पहुंच प्राप्त करें।</string>
 
