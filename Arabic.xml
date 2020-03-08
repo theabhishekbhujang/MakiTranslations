@@ -522,4 +522,14 @@
     <string name="select_price">اختر السعر</string>
     <string name="upgrade_button">الترقية فقط %1$s</string>
     <string name="plus_subtitle">إزالة الإعلانات وأكثر من ذلك</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">مجلد تنزيل الملفات</string>
+    <string name="choose_pictures_download_folder">تحميل مجلد الصور</string>
+    <string name="choose_movies_download_folder">تحميل مجلد الفيديو</string>
+
+    <string name="wider_images">صور واسعة</string>
+    <string name="wider_images_summary">تكبير الصور</string>
+
+    <string name="log_activity">سجل النشاطات</string>
 </resources>

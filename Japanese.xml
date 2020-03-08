@@ -518,4 +518,7 @@
     <string name="select_price">価格を選択</string>
     <string name="upgrade_button">%1$sのみのアップグレード</string>
     <string name="plus_subtitle">広告などを削除する</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">アクティビティログ</string>
 </resources>

@@ -514,4 +514,14 @@
     <string name="select_price">Preis auswählen</string>
     <string name="upgrade_button">Upgrade nur für %1$s</string>
     <string name="plus_subtitle">Entfernen Sie Anzeigen und mehr</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">Dateien Download-Ordner</string>
+    <string name="choose_pictures_download_folder">Bilder Download-Ordner</string>
+    <string name="choose_movies_download_folder">Videos Download-Ordner</string>
+
+    <string name="wider_images">Breite Bilder</string>
+    <string name="wider_images_summary">Vergrößern Sie die Bilder</string>
+
+    <string name="log_activity">Aktivitätenprotokoll</string>
 </resources>

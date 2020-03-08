@@ -495,4 +495,7 @@
     <string name="select_price">Vyberte cenu</string>
     <string name="upgrade_button">Upgradujte pouze za %1$s</string>
     <string name="plus_subtitle">Odstraňte reklamy a další</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Záznamy o aktivitách</string>
 </resources>

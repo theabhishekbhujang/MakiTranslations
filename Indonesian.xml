@@ -493,4 +493,7 @@
     <string name="select_price">Pilih harga</string>
     <string name="upgrade_button">Perbarui untuk %1$s</string>
     <string name="plus_subtitle">Hapus iklan dan banyak lagi</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Log Aktivitas</string>
 </resources>

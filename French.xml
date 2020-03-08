@@ -450,4 +450,14 @@
     <string name="select_price">Sélectionnez le prix</string>
     <string name="upgrade_button">Débloquer pour %1$s</string>
     <string name="plus_subtitle">Supprimer les publicités et plus</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">Dossier de téléchargement des fichiers</string>
+    <string name="choose_pictures_download_folder">Dossier de téléchargement des photos</string>
+    <string name="choose_movies_download_folder">Dossier de téléchargement des vidéos</string>
+
+    <string name="wider_images">Images larges</string>
+    <string name="wider_images_summary">Agrandir les images</string>
+
+    <string name="log_activity">Historique personnel</string>
 </resources>

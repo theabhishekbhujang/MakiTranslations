@@ -497,4 +497,7 @@
     <string name="select_price">Selecteer prijs</string>
     <string name="upgrade_button">Krijg voor %1$s</string>
     <string name="plus_subtitle">Verwijder advertenties en meer</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Activiteitlogboek</string>
 </resources>

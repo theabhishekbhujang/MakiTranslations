@@ -498,4 +498,13 @@
     <string name="upgrade_button">Upgrade for only %1$s</string>
     <string name="plus_subtitle">Remove ads and more</string>
 
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">Files Download Folder</string>
+    <string name="choose_pictures_download_folder">Pictures Download Folder</string>
+    <string name="choose_movies_download_folder">Videos Download Folder</string>
+
+    <string name="wider_images">Wide images</string>
+    <string name="wider_images_summary">Enlarge the images</string>
+
+    <string name="log_activity">Activity Log</string>
 </resources>

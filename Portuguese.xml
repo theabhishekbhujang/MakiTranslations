@@ -515,4 +515,7 @@
     <string name="select_price">Selecionar Preço</string>
     <string name="upgrade_button">Upgrade por apenas %1$s</string>
     <string name="plus_subtitle">Remova anúncios e muito mais</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Registo de atividade</string>
 </resources>

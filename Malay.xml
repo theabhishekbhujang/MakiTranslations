@@ -498,4 +498,7 @@
     <string name="select_price">Pilih Harga</string>
     <string name="upgrade_button">Naik taraf UAH50 %1$s</string>
     <string name="plus_subtitle">Keluarkan iklan dan banyak lagi</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Rakitry ny Fihetsika</string>
 </resources>

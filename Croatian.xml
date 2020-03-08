@@ -501,4 +501,7 @@
     <string name="select_price">Odaberite cijenu</string>
     <string name="upgrade_button">Nadogradite za %1$s</string>
     <string name="plus_subtitle">Uklanjanje oglasa i više</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Dnevnik aktivnosti</string>
 </resources>

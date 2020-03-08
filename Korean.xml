@@ -499,4 +499,7 @@
     <string name="select_price">가격 선택</string>
     <string name="upgrade_button">Upgrade for only %1$s</string>
     <string name="plus_subtitle">광고 등을 제거</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">활동 로그</string>
 </resources>

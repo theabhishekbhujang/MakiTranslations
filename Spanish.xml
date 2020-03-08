@@ -515,4 +515,14 @@
     <string name="select_price">Seleccionar precio</string>
     <string name="upgrade_button">Mejora por solo %1$s</string>
     <string name="plus_subtitle">Eliminar anuncios y más</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">Carpeta de descarga de archivos</string>
+    <string name="choose_pictures_download_folder">Imágenes Descargar Carpeta</string>
+    <string name="choose_movies_download_folder">Videos Descargar Carpeta</string>
+
+    <string name="wider_images">Imágenes anchas</string>
+    <string name="wider_images_summary">Agrandar las imágenes</string>
+
+    <string name="log_activity">Registro de actividad</string>
 </resources>

@@ -500,4 +500,7 @@
     <string name="select_price">मूल्य का चयन करें</string>
     <string name="upgrade_button">%1$s के लिए अपग्रेड करें</string>
     <string name="plus_subtitle">विज्ञापन और अधिक हटाएं</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">गतिविधि लॉग</string>
 </resources>

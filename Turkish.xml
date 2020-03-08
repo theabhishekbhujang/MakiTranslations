@@ -492,4 +492,7 @@
     <string name="select_price">Fiyat Seçin</string>
     <string name="upgrade_button">%1$s için satın al</string>
     <string name="plus_subtitle">Reklamları ve daha fazlasını kaldırın</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Hareketler Dökümü</string>
 </resources>

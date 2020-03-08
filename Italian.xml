@@ -17,7 +17,6 @@
     <string name="photos">Fotografie</string>
     <string name="privacy">Impostazioni della privacy</string>
 
-
     <string name="fb_chat">Amici attivi</string>
     <string name="pokes">Poke consigliati</string>
     <string name="refresh">Ricaricare</string>
@@ -525,4 +524,14 @@
     <string name="select_price">Seleziona il prezzo</string>
     <string name="upgrade_button">Aggiornamento per %1$s</string>
     <string name="plus_subtitle">Rimuovi annunci e altro</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">Cartella di download dei file</string>
+    <string name="choose_pictures_download_folder">Cartella di download delle immagini</string>
+    <string name="choose_movies_download_folder">Cartella di download dei video</string>
+
+    <string name="wider_images">Immagini ampie</string>
+    <string name="wider_images_summary">Ingrandisci le immagini</string>
+
+    <string name="log_activity">Registro attività</string>
 </resources>

@@ -452,4 +452,7 @@
     <string name="select_price">Selectați Preț</string>
     <string name="upgrade_button">Upgrade pentru %1$s</string>
     <string name="plus_subtitle">Eliminați publicitatea și multe altele</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">Jurnal de activităţi</string>
 </resources>

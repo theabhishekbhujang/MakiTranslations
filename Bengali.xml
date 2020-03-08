@@ -500,4 +500,14 @@
     <string name="select_price">মূল্য নির্বাচন করুন</string>
     <string name="upgrade_button">শুধুমাত্র %1$s এর জন্য আপগ্রেড করুন</string>
     <string name="plus_subtitle">বিজ্ঞাপনগুলি এবং আরও অনেক কিছু সরান</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">ফাইল ডাউনলোড ফোল্ডার</string>
+    <string name="choose_pictures_download_folder">ছবি ডাউনলোড ফোল্ডার</string>
+    <string name="choose_movies_download_folder">ভিডিও ডাউনলোড ফোল্ডার</string>
+
+    <string name="wider_images">প্রশস্ত চিত্র</string>
+    <string name="wider_images_summary">চিত্রগুলি বড় করুন</string>
+
+    <string name="log_activity">অ্যাক্টিভিটি লগ</string>
 </resources>

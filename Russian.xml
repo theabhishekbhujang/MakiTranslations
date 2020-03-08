@@ -508,4 +508,14 @@
     <string name="select_price">Выберите цену</string>
     <string name="upgrade_button">Обновить всего за %1$s</string>
     <string name="plus_subtitle">Заблокируйте рекламу и больше</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">Папка для скачивания файлов</string>
+    <string name="choose_pictures_download_folder">Папка для скачивания картинок</string>
+    <string name="choose_movies_download_folder">Папка для скачивания видео</string>
+
+    <string name="wider_images">Широкие изображения</string>
+    <string name="wider_images_summary">Увеличить изображения</string>
+
+    <string name="log_activity">Журнал активности</string>
 </resources>

@@ -492,4 +492,7 @@
     <string name="select_price">เลือกราคา</string>
     <string name="upgrade_button">อัปเกรดเพียง %1$s</string>
     <string name="plus_subtitle">ลบโฆษณาและอื่น ๆ</string>
+
+    <!--Maki 4.5 Hortensia-->
+    <string name="log_activity">บันทึกกิจกรรม</string>
 </resources>
