@@ -427,23 +427,23 @@
     <string name="wait">請耐心等待</string>
 
     <!--Maki 4.4 Hortensia-->
-    <string name="facebook_problems">Facebook的問題</string>
-    <string name="facebook_problems_summary">Facebook目前可能有問題（不是Maki）。 點按以獲取更多信息。</string>
+    <string name="facebook_problems">Facebook 問題</string>
+    <string name="facebook_problems_summary">Facebook 目前可能存在問題（不是 Maki）。 點按以取得更多資訊。</string>
 
-    <string name="thanks_one">Thank you!</string>
+    <string name="thanks_one">萬分感謝！</string>
     <string name="thanks_two">@string/thanks</string>
-    <string name="thanks_three">Wow, thank you so much!</string>
-    <string name="thanks_four">Wow, are you sure?!</string>
+    <string name="thanks_three">Wow, 真的太感謝了！</string>
+    <string name="thanks_four">Wow, 您確定嗎？！</string>
 
-    <string name="support_developer">Support development</string>
-    <string name="support_developer_summary">Your support is very important. Thank you!</string>
+    <string name="support_developer">支援開發</string>
+    <string name="support_developer_summary">您的支援非常重要。萬分感謝！</string>
 
-    <string name="maki_plus_helper_description">You can make Maki even better with Plus version - remove advertising, enable automatic night theme and support future updates.</string>
-    <string name="upgrade">Upgrade</string>
+    <string name="maki_plus_helper_description">使用 Plus 版本讓 Maki 做得更好 - 移除廣告，啟用自動夜間主題並支援後續開發。</string>
+    <string name="upgrade">升級</string>
 
-    <string name="select_price">Select Price</string>
-    <string name="upgrade_button">Upgrade for only %1$s</string>
-    <string name="plus_subtitle">Remove ads and more</string>
+    <string name="select_price">選擇價格</string>
+    <string name="upgrade_button">只要 %1$s 即可升級</string>
+    <string name="plus_subtitle">移除廣告及更多</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">活動紀錄</string>
