@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="maki_name">Maki</string>
-
+    
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="choose_email_client">Choose e-mail client</string>
@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Dark blue (2)</item>
     </string-array>
 
     <string name="addPage">Add to favorites</string>
@@ -125,19 +126,19 @@
 
     <string name="problems_purchase">
 
-        Thank you very much for supporting us! Unfortunately, it seems that you have some problems with the purchase. Well, this page created just for you to solve this problem.
-        \n\n
-        We have a few possible solutions:\n\n
-        1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
-        \n\n
-        2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
-        \n\n
-        3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
-        \n\n
-        Our email: makifeedback@gmail.com\n
-        Facebook page: m.facebook.com/sunshineappsst
-        \n\n
-        With best regards, Sunshine Apps
+  Thank you very much for supporting us! Unfortunately, it seems that you have some problems with the purchase. Well, this page created just for you to solve this problem.
+\n\n
+We have a few possible solutions:\n\n
+1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
+\n\n
+2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
+\n\n
+3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
+\n\n
+Our email: makifeedback@gmail.com\n
+Facebook page: m.facebook.com/sunshineappsst
+\n\n
+With best regards, Sunshine Apps
 
     </string>
 
@@ -157,6 +158,7 @@
     <string name="blacklist_summary">List of words to block the notifications</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 seconds</item>
         <item>30 seconds</item>
         <item>60 seconds</item>
         <item>2 minutes</item>
@@ -251,7 +253,7 @@
 
     <string name="features_beta">Options in beta</string>
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
-    <string name="warning" >Warning!</string>
+    <string name="warning">Warning!</string>
 
     <string name="plus_ads">Remove all advertising from Facebook on your news feed to focus on your favorite content</string>
     <string name="quickbar_more">Get access to socials from anywhere.</string>
@@ -300,8 +302,6 @@
     <!--3.3-->
     <string name="see_more_results">More results</string>
     <string name="remove_this_ad">Remove this ad</string>
-
-    <string name="no_google_play">Sorry, but you\'re not able to buy Maki. It looks like Google Play services are not installed on your device</string>
 
     <!--3.4-->
     <string name="blocked_hours">Limited app usage</string>
@@ -359,7 +359,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Add keyword</string>
     <string name="rate_dialog">Rate Maki</string>
-    <string name="rate_dialog_more">Do you enjoy using Maki? If you do, would you take a moment to rate her in Google Play? It won\'t take a lot of time. Thank you very much!</string>
+    <string name="rate_dialog_more">Do you enjoy using Maki? If you do, would you take a moment to rate her on %1$s? It won\'t take a lot of time. Thank you very much!</string>
     <string name="help">Help</string>
 
     <!--3.9.5-->
@@ -367,7 +367,7 @@
     <string name="disable_swipe_tabs_summary">Disable swiping between pages on a home screen of Maki</string>
 
     <string name="maki_update">An update is available!</string>
-    <string name="maki_update_summary">Get the latest version of Maki with improvements and bug fixes on Google Play. Tap here to update.</string>
+    <string name="maki_update_summary">Get the latest version of Maki with improvements and bug fixes on %1$s. Tap here to update.</string>
 
     <string name="check_for_updates">Check for updates</string>
     <string name="check_for_updates_summary">Get notification about the new updates of Maki</string>
@@ -507,4 +507,37 @@
     <string name="wider_images_summary">Enlarge the images</string>
 
     <string name="log_activity">Activity Log</string>
+    <!--Maki 4.5.1 Hortensia-->
+    <string name="instagram_stories">Stories download button</string>
+    <string name="instagram_stories_summary">Show button to save stories</string>
+
+    <string name="messenger_installed">Make sure an app is installed on your phone.</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="clear_cache">Clear cache</string>
+    <string name="clear_cache_description">Clear app cache. It will also log you out.</string>
+
+    <string name="custom_user_agent">Custom User Agent &#8635;</string>
+    <string name="custom_user_agent_description">Use your own User Agent string</string>
+    <string name="custom_user_agent_hint">Blank for default</string>
+
+    <string name="passcode_lock_interval">Auto-Lock Interval</string>
+
+    <string-array name="lock_intervals">
+        <item>Immediately</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+
+    <string name="disable_selection">Disable text selection</string>
+
+    <string name="switch_language_title">Change app language</string>
+    <string name="switch_language_summary">Select preferred app language</string>
+
+    <string name="try_again">Please, try again</string>
 </resources>
