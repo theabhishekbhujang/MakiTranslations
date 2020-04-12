@@ -20,13 +20,12 @@
     <string name="refresh">重新載入</string>
     <string name="notifications">通知</string>
     <string name="search">搜尋</string>
-
     <string-array name="pref_theme_entries">
         <item>Maki</item>
         <item>Facebook 藍</item>
         <item>質感灰</item>
+        <item>深藍e</item>
         <item>AMOLED 黑</item>
-        <item>暗紅色</item>
         <item>黑白搭配</item>
         <item>紅色</item>
         <item>褐色</item>
@@ -37,7 +36,7 @@
         <item>琥珀色</item>
         <item>深橙色</item>
         <item>青色</item>
-        <item>棕黃色</item>
+        <item>Viber</item>
         <item>WhatsApp</item>
         <item>Telegram</item>
         <item>Twitter</item>
@@ -45,6 +44,7 @@
         <item>Google+</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>深藍 (2)</item>
     </string-array>
     <string name="addPage">添加至收藏</string>
     <string name="notification_sound">通知音效</string>
@@ -148,6 +148,7 @@
     <string name="blacklist_summary">通知封鎖詞列表</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10秒</item>
         <item>30秒</item>
         <item>60秒</item>
         <item>2分鐘</item>
@@ -274,7 +275,6 @@
     <!--3.3-->
     <string name="see_more_results">更多結果</string>
     <string name="remove_this_ad">移除此廣告</string>
-    <string name="no_google_play">很抱歉，您無法購買 Maki。似乎 Google Play 服務在您的裝置上不可用</string>
     <!--3.4-->
     <string name="blocked_hours">限制應用程式使用</string>
     <string name="blocked_hours_summary">設定你不想在社交媒體花費時間的時間範圍</string>
@@ -428,24 +428,65 @@
     <string name="wait">請耐心等待</string>
 
     <!--Maki 4.4 Hortensia-->
-    <string name="facebook_problems">Facebook的問題</string>
-    <string name="facebook_problems_summary">Facebook目前可能有問題（不是Maki）。 點按以獲取更多信息。</string>
+    <string name="facebook_problems">Facebook 問題</string>
+    <string name="facebook_problems_summary">Facebook 目前可能存在問題（不是 Maki）。 點按以取得更多資訊。</string>
 
-    <string name="thanks_one">Thank you!</string>
+    <string name="thanks_one">萬分感謝！</string>
     <string name="thanks_two">@string/thanks</string>
-    <string name="thanks_three">Wow, thank you so much!</string>
-    <string name="thanks_four">Wow, are you sure?!</string>
+    <string name="thanks_three">Wow, 真的太感謝了！</string>
+    <string name="thanks_four">Wow, 您確定嗎？！</string>
 
-    <string name="support_developer">Support development</string>
-    <string name="support_developer_summary">Your support is very important. Thank you!</string>
+    <string name="support_developer">支援開發</string>
+    <string name="support_developer_summary">您的支援非常重要。萬分感謝！</string>
 
-    <string name="maki_plus_helper_description">You can make Maki even better with Plus version - remove advertising, enable automatic night theme and support future updates.</string>
-    <string name="upgrade">Upgrade</string>
-
-    <string name="select_price">Select Price</string>
-    <string name="upgrade_button">Upgrade for only %1$s</string>
-    <string name="plus_subtitle">Remove ads and more</string>
+    <string name="maki_plus_helper_description">使用 Plus 版本讓 Maki 做得更好 - 移除廣告，啟用自動夜間主題並支援後續開發。</string>
+    <string name="upgrade">升級</string>
+    
+    <string name="select_price">選擇價格</string>
+    <string name="upgrade_button">只要 %1$s 即可升級</string>
+    <string name="plus_subtitle">移除廣告及更多</string>
 
     <!--Maki 4.5 Hortensia-->
+    <string name="choose_files_download_folder">檔案下載資料夾</string>
+    <string name="choose_pictures_download_folder">圖片下載資料夾</string>
+    <string name="choose_movies_download_folder">影片下載資料夾</string>
+
+    <string name="wider_images">寬圖</string>
+    <string name="wider_images_summary">增寬圖像</string>
+
     <string name="log_activity">活動記錄</string>
+
+    <!--Maki 4.5.1 Hortensia-->
+    <string name="instagram_stories">限時動態下載按鈕</string>
+    <string name="instagram_stories_summary">顯示按鈕以儲存限時動態</string>
+
+    <string name="messenger_installed">確保手機上已安裝此應用程式。</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="clear_cache">清除快取</string>
+    <string name="clear_cache_description">清除程式快取。會登出你的帳戶。</string>
+
+    <string name="custom_user_agent">自訂用戶代理 &#8635;</string>
+    <string name="custom_user_agent_description">使用你的自訂用戶代理字符串</string>
+    <string name="custom_user_agent_hint">留白以使用預設值</string>
+
+    <string name="passcode_lock_interval">自動鎖定時段</string>
+
+    <string-array name="lock_intervals">
+        <item>立即</item>
+        <item>5秒</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>1分鐘</item>
+        <item>5分鐘</item>
+        <item>15分鐘</item>
+        <item>30分鐘</item>
+    </string-array>
+
+    <string name="disable_selection">禁用文字選擇</string>
+
+    <string name="switch_language_title">變更程式語言</string>
+    <string name="switch_language_summary">選擇偏好的程式語言</string>
+
+    <string name="try_again">請再次嘗試</string>
 </resources>

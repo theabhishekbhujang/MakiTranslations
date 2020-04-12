@@ -24,8 +24,8 @@
         <item>Maki</item>
         <item>Facebook 藍</item>
         <item>質感灰</item>
+        <item>深藍e</item>
         <item>AMOLED 黑</item>
-        <item>暗紅色</item>
         <item>黑白搭配</item>
         <item>紅色</item>
         <item>褐色</item>
@@ -36,7 +36,7 @@
         <item>琥珀色</item>
         <item>深橙色</item>
         <item>青色</item>
-        <item>棕黃色</item>
+        <item>Viber</item>
         <item>WhatsApp</item>
         <item>Telegram</item>
         <item>Twitter</item>
@@ -44,6 +44,7 @@
         <item>Google+</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>深藍 (2)</item>
     </string-array>
     <string name="addPage">添加至收藏</string>
     <string name="notification_sound">通知音效</string>
@@ -147,6 +148,7 @@
     <string name="blacklist_summary">通知封鎖詞列表</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10秒</item>
         <item>30秒</item>
         <item>60秒</item>
         <item>2分鐘</item>
@@ -273,7 +275,6 @@
     <!--3.3-->
     <string name="see_more_results">更多結果</string>
     <string name="remove_this_ad">移除此廣告</string>
-    <string name="no_google_play">很抱歉，您無法購買 Maki。似乎 Google Play 服務在您的裝置上不可用</string>
     <!--3.4-->
     <string name="blocked_hours">限制應用程式使用</string>
     <string name="blocked_hours_summary">設定你不想在社交媒體花費時間的時間範圍</string>
@@ -440,7 +441,7 @@
 
     <string name="maki_plus_helper_description">使用 Plus 版本讓 Maki 做得更好 - 移除廣告，啟用自動夜間主題並支援後續開發。</string>
     <string name="upgrade">升級</string>
-
+    
     <string name="select_price">選擇價格</string>
     <string name="upgrade_button">只要 %1$s 即可升級</string>
     <string name="plus_subtitle">移除廣告及更多</string>
