@@ -516,28 +516,8 @@ With best regards, Sunshine Apps
     <!--Maki 4.6 Hortensia-->
     <string name="clear_cache">Clear cache</string>
     <string name="clear_cache_description">Clear app cache. It will also log you out.</string>
-
-    <string name="custom_user_agent">Custom User Agent &#8635;</string>
-    <string name="custom_user_agent_description">Use your own User Agent string</string>
-    <string name="custom_user_agent_hint">Blank for default</string>
-
-    <string name="passcode_lock_interval">Auto-Lock Interval</string>
-
-    <string-array name="lock_intervals">
-        <item>Immediately</item>
-        <item>5 seconds</item>
-        <item>10 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-    </string-array>
-
     <string name="disable_selection">Disable text selection</string>
 
-    <string name="switch_language_title">Change app language</string>
-    <string name="switch_language_summary">Select preferred app language</string>
-
     <string name="try_again">Please, try again</string>
+    <string name="select_picture">Select picture</string>
 </resources>
