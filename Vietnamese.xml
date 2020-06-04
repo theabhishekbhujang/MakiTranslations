@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Xanh đậm (2) </item>
     </string-array>
 
     <string name="addPage">Thêm vào mục yêu thích</string>
@@ -159,6 +160,7 @@
     <string name="blacklist_summary">Danh sách các từ để chặn các thông báo</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 giây</item>
         <item>30 giây</item>
         <item>60 giây</item>
         <item>2 phút</item>
@@ -300,7 +302,6 @@
 
     <string name="see_more_results">Thêm kết quả</string>
     <string name="remove_this_ad">Xóa quảng cáo này</string>
-    <string name="no_google_play">Xin lỗi, nhưng bạn không thể mua Maki. Có vẻ như các dịch vụ Google Play chưa được cài đặt trên thiết bị của bạn</string>
 
     <!--3.4-->
     <string name="blocked_hours">Hạn chế sử dụng ứng dụng</string>
@@ -359,7 +360,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Thêm từ khóa</string>
     <string name="rate_dialog">Đánh giá Maki</string>
-    <string name="rate_dialog_more">Bạn có thích sử dụng Maki không? Nếu bạn làm thế, bạn có dành chút thời gian để đánh giá cô ấy trong Google Play không? Nó sẽ không mất nhiều thời gian. Cảm ơn nhiều!</string>
+    <string name="rate_dialog_more" formatted="true">Bạn có thích sử dụng Maki không? Nếu bạn làm thế, bạn có dành chút thời gian để đánh giá cô ấy trong %1$s không? Nó sẽ không mất nhiều thời gian. Cảm ơn nhiều!</string>
     <string name="help">Cứu giúp</string>
 
     <!--3.9.5-->
@@ -370,7 +371,7 @@
     <string name="maki_sale_summary">Đừng để mất cơ hội nhận Maki Plus với chiết khấu. Nhấn vào đây để có được nó.</string>
 
     <string name="maki_update">Một bản cập nhật có sẵn!</string>
-    <string name="maki_update_summary">Nhận phiên bản mới nhất của Maki với các cải tiến và sửa lỗi từ Google Play. Nhấn vào đây để cập nhật.</string>
+    <string name="maki_update_summary">Nhận phiên bản mới nhất của Maki với các cải tiến và sửa lỗi từ %1$s. Nhấn vào đây để cập nhật.</string>
 
     <string name="check_for_updates">Kiểm tra cập nhật</string>
     <string name="check_for_updates_summary">Nhận thông báo về bản cập nhật mới</string>
@@ -478,7 +479,7 @@
     <string name="thanks_one">Thank you!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Wow, thank you so much!</string>
-    <string name="thanks_four">Wow, are you sure?!</string>
+    <string name="thanks_four">Wow, thank you really much!</string>
 
     <string name="support_developer">Support development</string>
     <string name="support_developer_summary">Your support is very important. Thank you!</string>
@@ -492,4 +493,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Nhật ký hoạt động</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Ẩn giấu TikTok</string>
 </resources>

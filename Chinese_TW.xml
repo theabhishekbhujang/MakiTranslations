@@ -96,7 +96,7 @@
     <string name="download_complete">下載完成</string>
     <string name="license">開源授權</string>
     <string name="rate_dialog">評價 Maki</string>
-    <string name="rate_dialog_more">您覺得 Maki 如何呢？在 Google Play 留下評價，或是聯絡我們來一起解決問題。讓我們共同最佳化 Maki！</string>
+    <string name="rate_dialog_more" formatted="true">您覺得 Maki 如何呢？在 %1$s 留下評價，或是聯絡我們來一起解決問題。讓我們共同最佳化 Maki！</string>
     <string name="locked">已鎖定</string>
     <string name="please_enter_passcode">輸入鎖定碼</string>
     <string name="lets_do_it">讓我們完成它！</string>
@@ -329,7 +329,7 @@
     <string name="maki_sale_summary">不要錯過以折扣價購格買 Maki Plus 副本的機會。點擊此處獲取它。</string>
 
     <string name="maki_update">有可用的更新！</string>
-    <string name="maki_update_summary">在 Google Play 上取得進行了改進和錯誤修復的最新版本 Maki。點擊此處進行更新。</string>
+    <string name="maki_update_summary">在 %1$s 上取得進行了改進和錯誤修復的最新版本 Maki。點擊此處進行更新。</string>
 
     <string name="check_for_updates">檢查更新</string>
     <string name="check_for_updates_summary">取得有關 Maki 更新的通知</string>
@@ -441,7 +441,7 @@
 
     <string name="maki_plus_helper_description">使用 Plus 版本讓 Maki 做得更好 - 移除廣告，啟用自動夜間主題並支援後續開發。</string>
     <string name="upgrade">升級</string>
-    
+
     <string name="select_price">選擇價格</string>
     <string name="upgrade_button">只要 %1$s 即可升級</string>
     <string name="plus_subtitle">移除廣告及更多</string>
@@ -466,27 +466,9 @@
     <string name="clear_cache">清除快取</string>
     <string name="clear_cache_description">清除程式快取。會登出你的帳戶。</string>
 
-    <string name="custom_user_agent">自訂用戶代理 &#8635;</string>
-    <string name="custom_user_agent_description">使用你的自訂用戶代理字符串</string>
-    <string name="custom_user_agent_hint">留白以使用預設值</string>
-
-    <string name="passcode_lock_interval">自動鎖定時段</string>
-
-    <string-array name="lock_intervals">
-        <item>立即</item>
-        <item>5秒</item>
-        <item>10秒</item>
-        <item>30秒</item>
-        <item>1分鐘</item>
-        <item>5分鐘</item>
-        <item>15分鐘</item>
-        <item>30分鐘</item>
-    </string-array>
-
     <string name="disable_selection">禁用文字選擇</string>
-
-    <string name="switch_language_title">變更程式語言</string>
-    <string name="switch_language_summary">選擇偏好的程式語言</string>
-
     <string name="try_again">請再次嘗試</string>
+
+    <!--Maki 4.6.2 Hortensia-->
+    <string name="hide_tiktok">隱藏 TikTok</string>
 </resources>

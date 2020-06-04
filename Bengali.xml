@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>গাঢ় নীল (2)</item>
     </string-array>
 
     <string name="addPage">ফেভারিটে যোগ করুন</string>
@@ -162,6 +163,7 @@
     <string name="blacklist_summary">বিজ্ঞপ্তি ব্লক শব্দ তালিকা</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 সেকেন্ড</item>
         <item>30 সেকেন্ড</item>
         <item>60 সেকেন্ড</item>
         <item>২ মিনিট</item>
@@ -310,8 +312,6 @@
     <string name="see_more_results">আরও ফলাফল</string>
     <string name="remove_this_ad">এই বিজ্ঞাপন সরান</string>
 
-    <string name="no_google_play">দুঃখিত, কিন্তু আপনি মাছি কিনতে পারবেন না। মনে হচ্ছে আপনার ডিভাইসে Google Play পরিষেবা ইনস্টল করা নেই</string>
-
     <!--3.4-->
     <string name="blocked_hours">সীমিত অ্যাপ্লিকেশন ব্যবহার</string>
     <string name="blocked_hours_summary">আপনি সামাজিক সময় আপনার সময় ব্যয় করতে চান না সময় অন্তর সেট করুন</string>
@@ -369,7 +369,7 @@
     <!--3.9.3-->
     <string name="add_keyword">কীওয়ার্ড যুক্ত করুন</string>
     <string name="rate_dialog">রেট মাকি</string>
-    <string name="rate_dialog_more">আপনি কি Maki ব্যবহার উপভোগ করেন? আপনি যদি তা করেন, আপনি কি গুগল প্লেতে তাকে রেট দেওয়ার জন্য কিছুক্ষণ সময় নেবেন? এতে খুব বেশি সময় লাগবে না। আপনাকে অনেক ধন্যবাদ!</string>
+    <string name="rate_dialog_more" formatted="true">আপনি কি Maki  ব্যবহার উপভোগ করেন? আপনি যদি তা করেন, আপনি কি %1$s তে তাকে রেট দেওয়ার জন্য কিছুক্ষণ সময় নেবেন? এতে খুব বেশি সময় লাগবে না। আপনাকে অনেক ধন্যবাদ!</string>
     <string name="help">সাহায্য করুন</string>
 
     <!--3.9.5-->
@@ -380,7 +380,7 @@
     <string name="maki_sale_summary">এখনই ছাড়ের সাথে Maki Plus পান। এটি পেতে এখানে আলতো চাপুন।</string>
 
     <string name="maki_update">একটি আপডেট উপলব্ধ!</string>
-    <string name="maki_update_summary">গুগল প্লে থেকে উন্নতি এবং বাগ ফিক্স সহ Maki সর্বশেষ সংস্করণ পান। আপডেট করতে এখানে আলতো চাপুন।</string>
+    <string name="maki_update_summary">%1$s থেকে উন্নতি এবং বাগ ফিক্স সহ Maki সর্বশেষ সংস্করণ পান। আপডেট করতে এখানে আলতো চাপুন।</string>
 
     <string name="check_for_updates">হালনাগাদ এর জন্য অনুসন্ধান করুন</string>
     <string name="check_for_updates_summary">Maki নতুন আপডেট সম্পর্কে বিজ্ঞপ্তি পান</string>
@@ -510,4 +510,7 @@
     <string name="wider_images_summary">চিত্রগুলি বড় করুন</string>
 
     <string name="log_activity">অ্যাক্টিভিটি লগ</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">TikTok লুকান</string>
 </resources>

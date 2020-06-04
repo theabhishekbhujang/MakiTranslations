@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Tamno plava (2)</item>
     </string-array>
 
     <string name="addPage">Dodaj u favorite</string>
@@ -160,6 +161,7 @@
     <string name="blacklist_summary">Popis riječi za blokiranje obavijesti</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 sekundi</item>
         <item>30 sekundi</item>
         <item>60 sekundi</item>
         <item>2 minute</item>
@@ -310,7 +312,6 @@
     <!--3.3-->
     <string name="see_more_results">Više rezultata</string>
     <string name="remove_this_ad">Ukloni ovaj oglas</string>
-    <string name="no_google_play">Oprostite, ali ne možete kupiti Maki. Izgleda da usluge Google Play nisu instalirane na vašem uređaju</string>
 
     <!--3.4-->
     <string name="blocked_hours">Ograničena uporaba aplikacije</string>
@@ -371,7 +372,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Dodajte ključnu riječ</string>
     <string name="rate_dialog">Ocijeni Maki</string>
-    <string name="rate_dialog_more">Da li uživate u korištenju Maki? Ako to učinite, biste li je ocijenili u Google Playu? Neće ti trebati puno vremena. Hvala vam puno!</string>
+    <string name="rate_dialog_more" formatted="true">Da li uživate u korištenju Maki? Ako to učinite, biste li je ocijenili u %1$s? Neće ti trebati puno vremena. Hvala vam puno!</string>
     <string name="help">Upomoć</string>
 
     <!--3.9.5-->
@@ -382,7 +383,7 @@
     <string name="maki_sale_summary">Ne gubite šansu da uz popust nabavite Maki Plus. Dodirnite ovdje da biste ga dobili.</string>
 
     <string name="maki_update">Dostupno je ažuriranje!</string>
-    <string name="maki_update_summary">Nabavite najnoviju verziju Makija s poboljšanjima i ispravcima programskih pogrešaka s Google Playa. Dodirnite ovdje da biste ažurirali.</string>
+    <string name="maki_update_summary">Nabavite najnoviju verziju Makija s poboljšanjima i ispravcima programskih pogrešaka s %1$s. Dodirnite ovdje da biste ažurirali.</string>
 
     <string name="check_for_updates">Provjerite ima li ažuriranja</string>
     <string name="check_for_updates_summary">Obavijesti me o novim promjenama</string>
@@ -504,4 +505,6 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Dnevnik aktivnosti</string>
+
+    <string name="hide_tiktok">Sakrij TikTok</string>
 </resources>

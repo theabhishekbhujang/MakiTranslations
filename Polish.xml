@@ -49,6 +49,7 @@
         <item>Google+ - czerwony</item>
         <item>VK - Niebieski</item>
         <item>Reddit - Czerwony</item>
+        <item>Ciemny szary (2)</item>
     </string-array>
 
     <string name="addPage">Dodaj do ulubionych</string>
@@ -162,6 +163,7 @@
     <string name="blacklist_summary">Lista słów blokujących powiadomienia</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 sekund</item>
         <item>30 sekund</item>
         <item>1 minuta</item>
         <item>2 minuty</item>
@@ -319,8 +321,6 @@
     <string name="see_more_results">Więcej wyników</string>
     <string name="remove_this_ad">Usuń tę reklamę</string>
 
-    <string name="no_google_play">Przepraszamy, ale nie możesz kupić Maki. Wygląda na to, że usługi Google Play nie są zainstalowane na Twoim urządzeniu</string>
-
     <!--3.4-->
     <string name="blocked_hours">Ograniczone użycie aplikacji</string>
     <string name="blocked_hours_summary">Ustaw przedziały czasu, kiedy nie chcesz spędzać czasu w mediach społecznościowych</string>
@@ -376,7 +376,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Dodaj słowo kluczowe</string>
     <string name="rate_dialog">Oceń Maki</string>
-    <string name="rate_dialog_more">Czy lubisz korzystać z Maki? Jeśli tak, czy oceniasz ją w Google Play? Nie zajmie to dużo czasu. Dziękuję bardzo!</string>
+    <string name="rate_dialog_more" formatted="true">Czy lubisz korzystać z Maki? Jeśli tak, czy oceniasz ją w %1$s? Nie zajmie to dużo czasu. Dziękuję bardzo!</string>
     <string name="help">Pomoc</string>
 
     <!--3.9.5-->
@@ -387,7 +387,7 @@
     <string name="maki_sale_summary">Nie trać szansy na uzyskanie Maki Plus ze zniżką. Kliknij tutaj, aby dowiedzieć się więcej.</string>
 
     <string name="maki_update">Aktualizacja jest dostępna!</string>
-    <string name="maki_update_summary">Pobierz najnowszą wersję Maki z ulepszeniami i poprawkami błędów w Google Play. Kliknij tutaj, aby zaktualizować.</string>
+    <string name="maki_update_summary">Pobierz najnowszą wersję Maki z ulepszeniami i poprawkami błędów w %1$s. Kliknij tutaj, aby zaktualizować.</string>
 
     <string name="check_for_updates">Sprawdź aktualizacje</string>
     <string name="check_for_updates_summary">Otrzymuj powiadomienia o nowych aktualizacjach Maki</string>
@@ -457,7 +457,7 @@
     <string name="quickbar_expand">Stuknij, aby rozwinąć</string>
     <string name="restore_purchase">Przywróć zakup</string>
 
-    <string name="power_website">Wersja Facebooku</string>
+    <string name="power_website">Wersja Facebooka</string>
 
     <string name="twitter_theme">Motyw na Twitterze</string>
     <string name="twitter_theme_summary">Zastosuj niestandardowy motyw na Twitterze</string>
@@ -509,4 +509,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Dziennik aktywności</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Ukryj TikTok</string>
 </resources>

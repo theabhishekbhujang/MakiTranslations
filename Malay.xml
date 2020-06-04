@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Biru gelap (2)</item>
     </string-array>
 
     <string name="addPage">Tambah ke kegemaran</string>
@@ -160,6 +161,7 @@
     <string name="blacklist_summary">Senarai perkataan untuk menyekat pemberitahuan</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 saat</item>
         <item>30 saat</item>
         <item>60 saat</item>
         <item>2 minit</item>
@@ -308,7 +310,6 @@
     <string name="see_more_results">Lebih banyak keputusan</string>
     <string name="remove_this_ad">Sembunyikan iklan ini</string>
     <string name="help_translate">Bantuan untuk menterjemah</string>
-    <string name="no_google_play">Maaf, tetapi anda tidak dapat membeli Mako. Nampaknya perkhidmatan Google Play tidak dipasang pada peranti anda</string>
 
     <!--3.4-->
     <string name="blocked_hours">Penggunaan aplikasi terhad</string>
@@ -368,7 +369,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Tambah kata kunci</string>
     <string name="rate_dialog">Rate Mako</string>
-    <string name="rate_dialog_more">Adakah anda menikmati menggunakan Mako? Jika anda berbuat demikian, adakah anda mengambil masa untuk menilai dia di Google Play? Ia tidak akan mengambil banyak masa. Terima kasih banyak - banyak!</string>
+    <string name="rate_dialog_more" formatted="true">Adakah anda menikmati menggunakan Mako? Jika anda berbuat demikian, adakah anda mengambil masa untuk menilai dia di %1$s? Ia tidak akan mengambil banyak masa. Terima kasih banyak - banyak!</string>
     <string name="help">Bantuan</string>
 
     <!--3.9.5-->
@@ -379,7 +380,7 @@
     <string name="maki_sale_summary">Jangan kehilangan peluang untuk mendapatkan Mako Plus dengan diskaun. Ketik sini untuk mendapatkannya.</string>
 
     <string name="maki_update">Kemas kini tersedia!</string>
-    <string name="maki_update_summary">Dapatkan versi terkini Mako dengan perbaikan dan perbaikan pepijat dari Google Play. Ketik di sini untuk mengemas kini.</string>
+    <string name="maki_update_summary">Dapatkan versi terkini Mako dengan perbaikan dan perbaikan pepijat dari %1$s. Ketik di sini untuk mengemas kini.</string>
 
     <string name="check_for_updates">Menyemak kemas kini</string>
     <string name="check_for_updates_summary">Dapatkan pemberitahuan mengenai kemas kini baru</string>
@@ -501,4 +502,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Rakitry ny Fihetsika</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Sembunyikan TikTok</string>
 </resources>

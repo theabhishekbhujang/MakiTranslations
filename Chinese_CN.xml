@@ -124,21 +124,21 @@
 
     <string name="problems_purchase">
 
-            非常感谢您的支持！ 不幸的是，您似乎在购买时遇到了一些问题。 好了，此页面正是为您解决此问题而设立的。
-            \n\n
-            我们提供了几种也许可行的解决方案:\n\n
-            1) 重启 Maki。只需关闭应用程序并重新开始，打开设置并尝试启用任何 Plus 功能即可。
-            \n\n
-            2) 如果第一个解决方案不起作用 - 请您尝试再次单击“购买 Maki Plus。 此操作将恢复您的购买（您不会再花钱，不用担心）。 之后请重启应用并尝试启用任何 Plus 功能。
-            \n\n
-            3) 最后，如果这些方法都不起作用 - 还请您联系我们！ 我们将一起确定最佳解决方案。
-            \n\n
-            我们的邮箱: makifeedback@gmail.com\n
-            Facebook 页: m.facebook.com/sunshineappsst
-            \n\n
-            With best regards, Sunshine Apps
+                非常感谢您的支持！ 不幸的是，您似乎在购买时遇到了一些问题。 好了，此页面正是为您解决此问题而设立的。
+                \n\n
+                我们提供了几种也许可行的解决方案:\n\n
+                1) 重启 Maki。只需关闭应用程序并重新开始，打开设置并尝试启用任何 Plus 功能即可。
+                \n\n
+                2) 如果第一个解决方案不起作用 - 请您尝试再次单击“购买 Maki Plus。 此操作将恢复您的购买（您不会再花钱，不用担心）。 之后请重启应用并尝试启用任何 Plus 功能。
+                \n\n
+                3) 最后，如果这些方法都不起作用 - 还请您联系我们！ 我们将一起确定最佳解决方案。
+                \n\n
+                我们的邮箱: makifeedback@gmail.com\n
+                Facebook 页: m.facebook.com/sunshineappsst
+                \n\n
+                With best regards, Sunshine Apps
 
-        </string>
+            </string>
 
     <string name="social_medias">媒体</string>
     <string name="hide_twitter">隐藏 Twitter</string>
@@ -357,7 +357,7 @@
         <!--​3.9.3​-->
     <string name="add_keyword">添加关键词</string>
     <string name="rate_dialog">评价 Maki</string>
-    <string name="rate_dialog_more">您喜欢使用 Maki 吗？ 如果您愿意，您是否会花一点时间在 Google Play 中给她一个好评？ 这不会花费很多时间。 非常感谢您！</string>
+    <string name="rate_dialog_more" formatted="true">您喜欢使用 Maki 吗？ 如果您愿意，您是否会花一点时间在 %1$s 中给她一个好评？ 这不会花费很多时间。 非常感谢您！</string>
     <string name="help">帮助</string>
 
         <!--​3.9.5​-->
@@ -365,7 +365,7 @@
     <string name="disable_swipe_tabs_summary">在 Maki 主页上禁用页面之间的滑动</string>
 
     <string name="maki_update">有可用的更新！</string>
-    <string name="maki_update_summary">在 Google Play 上获取最新版本的 Maki 并进行改进和错误修复。 点击此处进行更新。</string>
+    <string name="maki_update_summary">在 %1$s 上获取最新版本的 Maki 并进行改进和错误修复。 点击此处进行更新。</string>
 
     <string name="check_for_updates">检查更新</string>
     <string name="check_for_updates_summary">获取有关 Maki 更新的通知</string>
@@ -497,7 +497,7 @@
     <string name="upgrade_button">仅升级 %1$s</string>
     <string name="plus_subtitle">移除广告及更多</string>
 
-        <!--​Maki 4.5 Hortensia​-->
+     <!--​Maki 4.5 Hortensia​-->
     <string name="choose_files_download_folder">文件保存文件夹</string>
     <string name="choose_pictures_download_folder">图片下载文件夹</string>
     <string name="choose_movies_download_folder">视频下载文件夹</string>
@@ -506,4 +506,7 @@
     <string name="wider_images_summary">放大图像</string>
 
     <string name="log_activity">活动日志</string>
+
+     <!--​Maki 4.6 Hortensia​-->
+    <string name="hide_tiktok">隐藏 TikTok</string>
 </resources>

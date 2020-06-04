@@ -45,6 +45,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Albastru inchis (2)</item>
     </string-array>
     <string name="addPage">Adaugă la favorite</string>
     <string name="notification_sound">Sunet de notificare</string>
@@ -148,6 +149,7 @@
     <string name="blacklist_summary">Lista cuvinte pentru a bloca notificările</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 secunde</item>
         <item>30 secunde</item>
         <item>60 secunde</item>
         <item>2 minute</item>
@@ -273,7 +275,6 @@
     <!--3.3-->
     <string name="see_more_results">Mai multe rezultate</string>
     <string name="remove_this_ad">Eliminați această reclamă</string>
-    <string name="no_google_play">Îmi pare rău, dar nu puteți cumpăra Maki. Se pare că serviciile Google Play nu sunt instalate pe dispozitiv</string>
     <!--3.4-->
     <string name="blocked_hours">Utilizare limitată a aplicațiilor</string>
     <string name="blocked_hours_summary">Stabiliți intervale de timp atunci când nu doriți să vă petreceți timpul în social</string>
@@ -318,7 +319,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Adăugați cuvinte cheie</string>
     <string name="rate_dialog">Evaluează Maki</string>
-    <string name="rate_dialog_more">Îți place să folosești Maki? Dacă o faceți, ați lua un moment pentru a o evalua în Google Play? Nu va dura mult timp. Mulțumesc foarte mult!</string>
+    <string name="rate_dialog_more" formatted="true">Îți place să folosești Maki? Dacă o faceți, ați lua un moment pentru a o evalua în %1$s? Nu va dura mult timp. Mulțumesc foarte mult!</string>
     <string name="help">Ajutor</string>
 
     <!--3.9.5-->
@@ -329,7 +330,7 @@
     <string name="maki_sale_summary">Nu pierdeți șansa de a primi Maki Plus cu reducere. Atingeți aici pentru a obține.</string>
 
     <string name="maki_update">O actualizare este disponibilă!</string>
-    <string name="maki_update_summary">Obțineți cea mai recentă versiune de Maki cu îmbunătățiri și corecții de erori. Atingeți pentru a deschide Google Play.</string>
+    <string name="maki_update_summary">Obțineți cea mai recentă versiune de Maki cu îmbunătățiri și corecții de erori. Atingeți pentru a deschide %1$s.</string>
 
     <string name="check_for_updates">Verifică pentru actualizări</string>
     <string name="check_for_updates_summary">Primiți notificări despre noi actualizări</string>
@@ -455,4 +456,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Jurnal de activităţi</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Ascunde TikTok</string>
 </resources>

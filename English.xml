@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="maki_name">Maki</string>
-    
+
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="choose_email_client">Choose e-mail client</string>
@@ -126,19 +126,19 @@
 
     <string name="problems_purchase">
 
-  Thank you very much for supporting us! Unfortunately, it seems that you have some problems with the purchase. Well, this page created just for you to solve this problem.
-\n\n
-We have a few possible solutions:\n\n
-1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
-\n\n
-2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
-\n\n
-3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
-\n\n
-Our email: makifeedback@gmail.com\n
-Facebook page: m.facebook.com/sunshineappsst
-\n\n
-With best regards, Sunshine Apps
+        Thank you very much for supporting us! Unfortunately, it seems that you have some problems with the purchase. Well, this page created just for you to solve this problem.
+        \n\n
+        We have a few possible solutions:\n\n
+        1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
+        \n\n
+        2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
+        \n\n
+        3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
+        \n\n
+        Our email: makifeedback@gmail.com\n
+        Facebook page: m.facebook.com/sunshineappsst
+        \n\n
+        With best regards, Sunshine Apps
 
     </string>
 
@@ -359,7 +359,7 @@ With best regards, Sunshine Apps
     <!--3.9.3-->
     <string name="add_keyword">Add keyword</string>
     <string name="rate_dialog">Rate Maki</string>
-    <string name="rate_dialog_more">Do you enjoy using Maki? If you do, would you take a moment to rate her on %1$s? It won\'t take a lot of time. Thank you very much!</string>
+    <string name="rate_dialog_more" formatted="true">Do you enjoy using Maki? If you do, would you take a moment to rate her on %1$s? It won\'t take a lot of time. Thank you very much!</string>
     <string name="help">Help</string>
 
     <!--3.9.5-->
@@ -486,7 +486,7 @@ With best regards, Sunshine Apps
     <string name="thanks_one">Thank you!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Wow, thank you so much!</string>
-    <string name="thanks_four">Wow, are you sure?!</string>
+    <string name="thanks_four">Wow, thank you really much!</string>
 
     <string name="support_developer">Support development</string>
     <string name="support_developer_summary">Your support is very important. Thank you!</string>
@@ -520,4 +520,28 @@ With best regards, Sunshine Apps
 
     <string name="try_again">Please, try again</string>
     <string name="select_picture">Select picture</string>
+
+    <!--Maki 4.6.2 Hortensia-->
+    <string name="hide_ads_more_linkedin">Remove all advertising in LinkedIn news feed</string>
+    <string name="follow_system_appearance">Follow system appearance</string>
+
+    <!--Maki 4.6.3 Hortensia-->
+    <string name="hide_tiktok">Hide TikTok</string>
+    <string name="hd_video">HD Video</string>
+    <string name="hd_video_not_available">Sorry, this video is not available in HD resolution</string>
+
+    <string name="video_stream_error">Couldn\'t stream video</string>
+    <string name="video_stream_error_summary">It seems that something is going wrong. Please try again.</string>
+
+    <!--Maki 4.7 Hortensia-->
+    <string name="auto_dark_list">Night theme</string>
+    <string name="mute_audio">Mute audio</string>
+    <string name="unmute_audio">Unmute audio</string>
+
+    <string-array name="pref_theme_entries_dark_automatic">
+        <item>Material dark</item>
+        <item>Dark blue</item>
+        <item>AMOLED</item>
+        <item>Dark blue (2)</item>
+    </string-array>
 </resources>

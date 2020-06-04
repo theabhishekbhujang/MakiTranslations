@@ -49,6 +49,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>濃紺 (2)</item>
     </string-array>
 
     <string name="addPage">お気に入りに追加</string>
@@ -170,6 +171,7 @@
     <string name="blacklist_summary">通知をブロックする単語のリスト</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10秒</item>
         <item>30秒</item>
         <item>1分</item>
         <item>2分</item>
@@ -326,7 +328,6 @@
     <string name="see_more_results">より多くの結果</string>
     <string name="remove_this_ad">この広告を削除</string>
 
-    <string name="no_google_play">すみません、しかしあなたはマキを買うことができません。 Google Playサービスが端末にインストールされていないようです</string>
     <!--3.4-->
     <string name="blocked_hours">アプリの使用制限</string>
     <string name="blocked_hours_summary">社交で時間を過ごしたくない場合は時間間隔を設定します</string>
@@ -385,7 +386,7 @@
     <!--3.9.3-->
     <string name="add_keyword">キーワードを追加</string>
     <string name="rate_dialog">レートMaki</string>
-    <string name="rate_dialog_more">Makiを使って楽しんでいますか？もしそうなら、彼女をGoogle Playで評価するのに少し時間をかけますか？ どうもありがとうございました！</string>
+    <string name="rate_dialog_more" formatted="true">Makiを使って楽しんでいますか？もしそうなら、彼女を %1$s で評価するのに少し時間をかけますか？ どうもありがとうございました！</string>
     <string name="help">助けて</string>
 
     <!--3.9.5-->
@@ -396,7 +397,7 @@
     <string name="maki_sale_summary">割引でMaki Plusのコピーを入手するチャンスを逃さないでください。 ここをタップして取得します。</string>
 
     <string name="maki_update">アップデートが利用可能です！</string>
-    <string name="maki_update_summary">Google Playからの改善とバグ修正を含む最新バージョンのMakiを入手してください。ここをタップして更新します。</string>
+    <string name="maki_update_summary">%1$sからの改善とバグ修正を含む最新バージョンのMakiを入手してください。ここをタップして更新します。</string>
 
     <string name="check_for_updates">アップデートを確認</string>
     <string name="check_for_updates_summary">Makiの新しい更新に関する通知を受け取る</string>
@@ -521,4 +522,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">アクティビティログ</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">TikTokを非表示にする</string>
 </resources>

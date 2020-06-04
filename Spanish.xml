@@ -48,6 +48,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Azul oscuro (2)</item>
     </string-array>
 
     <string name="addPage">Agregar a los favoritos</string>
@@ -176,6 +177,7 @@
     <string name="blacklist_summary">Lista de palabras para bloquear las notificaciones</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 segundos</item>
         <item>30 segundos</item>
         <item>1 minuto</item>
         <item>2 minutos</item>
@@ -325,8 +327,6 @@
     <string name="see_more_results">Más resultados</string>
     <string name="remove_this_ad">Eliminar este anuncio</string>
 
-    <string name="no_google_play">Lo sentimos, pero no puedes comprar Maki. Parece que los servicios de Google Play no están instalados en tu dispositivo</string>
-
     <!--3.4-->
     <string name="blocked_hours">Uso limitado de la aplicación</string>
     <string name="blocked_hours_summary">Establezca intervalos de tiempo cuando no quiera pasar su tiempo en eventos sociales</string>
@@ -384,7 +384,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Agregar palabra clave</string>
     <string name="rate_dialog">Califica a Maki</string>
-    <string name="rate_dialog_more">¿Te gusta usar Maki? Si lo haces, ¿te tomarías un momento para calificarla en Google Play? No tomará mucho tiempo. ¡Muchas gracias!</string>
+    <string name="rate_dialog_more" formatted="true">¿Te gusta usar Maki? Si lo haces, ¿te tomarías un momento para calificarla en %1$s? No tomará mucho tiempo. ¡Muchas gracias!</string>
     <string name="help">Ayuda</string>
 
     <!--3.9.5-->
@@ -395,7 +395,7 @@
     <string name="maki_sale_summary">No pierda la oportunidad de obtener su copia de Maki Plus con un descuento. Toque aquí para obtenerlo.</string>
 
     <string name="maki_update">¡Hay disponible una actualización!</string>
-    <string name="maki_update_summary">Obtenga la última versión de Maki con mejoras y correcciones de errores de Google Play. Toque aquí para actualizar.</string>
+    <string name="maki_update_summary">Obtenga la última versión de Maki con mejoras y correcciones de errores de %1$s. Toque aquí para actualizar.</string>
 
     <string name="check_for_updates">Buscar actualizaciones</string>
     <string name="check_for_updates_summary">Recibe notificaciones sobre la nueva actualización de Maki</string>
@@ -525,4 +525,7 @@
     <string name="wider_images_summary">Agrandar las imágenes</string>
 
     <string name="log_activity">Registro de actividad</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Esconder TikTok</string>
 </resources>
