@@ -14,7 +14,7 @@
     <string name="messages">訊息</string>
     <string name="favorites">最愛</string>
     <string name="photos">相片</string>
-    <string name="privacy">隱私設定</string>
+    <string name="privacy">私隱設定</string>
     <string name="fb_chat">上線的朋友</string>
     <string name="pokes">戳一下</string>
     <string name="refresh">重新載入</string>
@@ -24,7 +24,7 @@
         <item>Maki</item>
         <item>Facebook 藍</item>
         <item>質感灰</item>
-        <item>深藍e</item>
+        <item>深藍</item>
         <item>AMOLED 黑</item>
         <item>黑白搭配</item>
         <item>紅色</item>
@@ -46,7 +46,7 @@
         <item>Reddit</item>
         <item>深藍 (2)</item>
     </string-array>
-    <string name="addPage">添加至收藏</string>
+    <string name="addPage">新增至最愛</string>
     <string name="notification_sound">通知音效</string>
     <string name="silent">無聲</string>
     <string name="vibrate">震動</string>
@@ -82,17 +82,17 @@
     <string name="auto_night_more">暗色主題將在晚上自動啟用</string>
     <string name="save_to">儲存至：</string>
     <string name="font_size">字型大小</string>
-    <string name="quickbar">快捷欄</string>
+    <string name="quickbar">快捷列</string>
     <string name="ratemaki">評價 Maki</string>
-    <string name="feedback_mail">反饋</string>
+    <string name="feedback_mail">問題回報</string>
     <string name="messenger_app">Facebook Messenger 應用程式</string>
     <string name="messenger_app_more">使用 Facebook Messager 應用程式代替內建訊息程式</string>
 
-    <string name="addHome">添加至主熒幕</string>
+    <string name="addHome">新增至主熒幕</string>
     <string name="power_saving_mode">節電模式</string>
     <string name="thanks_support">感謝您的支持！</string>
     <string name="unable_purchase">購買已取消</string>
-    <string name="added">已儲存至收藏</string>
+    <string name="added">已儲存至最愛</string>
     <string name="download_complete">下載完成</string>
     <string name="license">開源授權</string>
     <string name="rate_dialog">評價 Maki</string>
@@ -109,15 +109,15 @@
     <string name="support">支援</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">幫助翻譯</string>
-    <string name="top_tabs">頂部導航</string>
-    <string name="top_tabs_more">在頂部顯示導航欄</string>
+    <string name="top_tabs">頂部導覽</string>
+    <string name="top_tabs_more">在頂部顯示導覽列</string>
     <string name="fbpage">Facebook 粉絲專頁</string>
     <string-array name="messenger_choice">
         <item>Maki 內建 Messager</item>
         <item>簡化版 Messenger</item>
         <item>Messenger 應用程式</item>
         <item>Messenger Lite 應用程式</item>
-        <item>Disa Messager</item>
+        <item>Disa Messager 應用程式</item>
     </string-array>
     <string name="problems_purchase">非常感謝您對我們的支持！不幸的是，您在購買上存在些許問題。當然，這個頁面就是為了您能夠解決問題而建立的。
         \n\n
@@ -145,7 +145,7 @@
     <string name="interval_pref_description_new">將在每%s檢查一次通知。</string>
     <string name="notification_sound_msg">訊息音效</string>
     <string name="blacklist_title">黑名單</string>
-    <string name="blacklist_summary">通知封鎖詞列表</string>
+    <string name="blacklist_summary">通知封鎖詞清單</string>
 
     <string-array name="intervalPrefTitles">
         <item>10秒</item>
@@ -190,7 +190,7 @@
     <string name="hide_news_feed_summary">給那些不想在動態彙總中浪費時間的人！</string>
     <string name="maki_themes">主題</string>
     <string name="disable_images">禁用圖像</string>
-    <string name="disable_images_summary">禁用圖像加載以節省行動數據</string>
+    <string name="disable_images_summary">禁用圖像載入以節省行動數據</string>
     <string name="general_settings">一般</string>
     <string name="enable_quickview">快速瀏覽</string>
     <string name="enable_quickview_summary">點擊並按住外部連結以進行預覽</string>
@@ -294,7 +294,7 @@
     <string name="are_you_sure">確定要從收藏中移除 %1$s 嗎？</string>
     <string name="update_link">https://makisocial.com/category/updates/</string>
     <!--Intro-->
-    <string name="privacy_policy">隱私政策</string>
+    <string name="privacy_policy">私隱政策</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
     <string name="intro_title">歡迎來到 Maki</string>
     <string name="facebook_play">Watch 影片</string>
@@ -307,19 +307,19 @@
     <string name="autoplay_videos_summary">啟用自動播放影片。啟用後，您將無法下載和分享影片。</string>
     <string name="images_play_summary">使用圖像下方的 \"查看完整大小\" 按鈕開啟圖像</string>
 
-    <string name="hide_navigation">隱藏導航欄</string>
-    <string name="hide_navigation_summary">翻頁時隱藏頂欄和導航欄</string>
+    <string name="hide_navigation">隱藏導覽列</string>
+    <string name="hide_navigation_summary">翻頁時隱藏頂部列和導覽列</string>
 
     <!--3.9.2-->
     <string name="finish_call">結束通話</string>
     <string name="finish_call_description">是否結束通話?</string>
 
-    <string name="colored_navigation">導航欄著色</string>
+    <string name="colored_navigation">導覽列著色</string>
     <string name="colored_navigation_summary">用主題配色填充導航按鈕背景</string>
     <string name="not_supported">您的裝置不支援此特性</string>
 
     <!--3.9.3-->
-    <string name="add_keyword">添加關鍵詞</string>
+    <string name="add_keyword">新增關鍵詞</string>
 
     <!--3.9.5-->
     <string name="disable_swipe_tabs">禁用滑動</string>
@@ -341,7 +341,7 @@
 
     <!--4.0-->
     <string name="donation_title">讓他們團圓 ❤️</string>
-    <string name="about_description">如果他們可以成為一對可愛的夫妻，並且一起住在 Maki，為什麼還要分別使用 Facebook 和 Messenger？Mark 真是個很不浪漫的傢伙。</string>
+    <string name="about_description">如果可以成為一對可愛的夫妻，並且一起住在 Maki，為什麼還要分別使用 Facebook 和 Messenger？Mark 真是個很不浪漫的傢伙。</string>
     <string name="auto_power_saving">自動節約電力</string>
 
     <string-array name="pref_auto_power_entries">
@@ -354,19 +354,19 @@
     <string name="audio_call">音訊通話</string>
     <string name="video_call">視訊通話</string>
     <string name="group_chat">群組聊天</string>
-    <string name="file_chooser_error">無法開啟文件選擇器</string>
+    <string name="file_chooser_error">無法開啟檔案選擇器</string>
     <string name="chat_bubbles_summary">開啟聊天大頭貼通知</string>
 
-    <string name="give_permission_photos">您需要授予從相機上傳照片的權限。</string>
+    <string name="give_permission_photos">您需要授予從相機上傳相片的權限。</string>
     <string name="heads_hint">點擊並按住任意聊天大頭貼將其移除</string>
 
-    <string name="messenger_slow">慢速連結</string>
-    <string name="messenger_slow_summary">連結速度慢時使用簡化版 Messanger</string>
+    <string name="messenger_slow">慢速連線</string>
+    <string name="messenger_slow_summary">連線速度緩慢時使用簡化版 Messanger</string>
     <string name="messenger_network">行動網路</string>
     <string name="messenger_network_summary">使用行動網路時使用簡化版 Messenger</string>
 
     <string name="got_it">了解</string>
-    <string name="messenger_slow_dialog">看起來您的連結速度很慢 - 您將切換到簡化版 Messenger。您可以在程式設定的 \"Facebook\" 類別中禁用此選項</string>
+    <string name="messenger_slow_dialog">看起來您的連線速度很慢 - 您將變更至簡化版 Messenger。您可以在程式設定的 \"Facebook\" 類別中禁用此選項</string>
     <string name="messenger_network_dialog">您正在使用行動網路 - Messenger 將切換為簡化版。您可以在程式設定的 \"Facebook \" 類別中禁用此選項</string>
 
     <string name="restart">還有一步</string>
@@ -464,11 +464,32 @@
 
     <!--Maki 4.6 Hortensia-->
     <string name="clear_cache">清除快取</string>
-    <string name="clear_cache_description">清除程式快取。會登出你的帳戶。</string>
+    <string name="clear_cache_description">清除程式快取。將會登出你的帳戶。</string>
 
-    <string name="disable_selection">禁用文字選擇</string>
+    <string name="disable_selection">禁用文字選取</string>
     <string name="try_again">請再次嘗試</string>
 
-    <!--Maki 4.6.2 Hortensia-->
+     <!--Maki 4.6.2 Hortensia-->
+    <string name="hide_ads_more_linkedin">刪除 LinkedIn 動態消息中的所有廣告</string>
+    <string name="follow_system_appearance">跟隨系統外觀</string>
+
+    <!--Maki 4.6.3 Hortensia-->
     <string name="hide_tiktok">隱藏 TikTok</string>
+    <string name="hd_video">高清影片</string>
+    <string name="hd_video_not_available">抱歉，此影片無法以高解析度播放</string>
+
+    <string name="video_stream_error">無法傳輸影片</string>
+    <string name="video_stream_error_summary">似乎出了點問題。請再試一遍。</string>
+
+    <!--Maki 4.7 Hortensia-->
+    <string name="auto_dark_list">夜間主題</string>
+    <string name="mute_audio">啟用靜音</string>
+    <string name="unmute_audio">取消靜音</string>
+
+    <string-array name="pref_theme_entries_dark_automatic">
+        <item>質感灰</item>
+        <item>深藍</item>
+        <item>AMOLED 黑</item>
+        <item>深藍 (2)</item>
+    </string-array>
 </resources>
