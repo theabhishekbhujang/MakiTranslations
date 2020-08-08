@@ -8,7 +8,7 @@
     <string name="no_network">คุณไม่ได้ออนไลน์</string>
     <string name="title_activity_settings">การตั้งค่า</string>
     <string name="preference_about_category">เกี่ยวกับ</string>
-    <string name="share_action">หุ้น</string>
+    <string name="share_action">แชร์</string>
     <string name="error">ความผิดพลาด</string>
     <string name="fragment_main_downloading">ดาวน์โหลด&#8230;</string>
     <string name="settings_more">มากกว่า</string>
@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>น้ำเงิน (2)</item>
     </string-array>
 
     <string name="addPage">เพิ่มในรายการโปรด</string>
@@ -136,7 +137,7 @@
         3) หลังจากทั้งหมดหากสิ่งนี้ไม่ได้ผล - ติดต่อเรา! เราจะหาทางออกที่ดีที่สุดร่วมกันอย่างแน่นอน.
         \n\n
         อีเมลของเรา: makifeedback@gmail.com\n
-        หน้า Facebook: m.facebook.com/sunshineappsst
+        หน้า Facebook: touch.facebook.com/sunshineappsst
         \n\n
         ด้วยความนับถือ Sunshine Apps
 
@@ -158,6 +159,7 @@
     <string name="blacklist_summary">รายการคำศัพท์ที่จะบล็อกการแจ้งเตือน</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 วินาที</item>
         <item>30 วินาที</item>
         <item>60 วินาที</item>
         <item>2 นาที</item>
@@ -303,7 +305,6 @@
     <!--3.3-->
     <string name="see_more_results">ผลลัพธ์เพิ่มเติม</string>
     <string name="remove_this_ad">ลบโฆษณานี้</string>
-    <string name="no_google_play">ขออภัยคุณไม่สามารถซื้อ Maki ได้ ดูเหมือนว่าบริการ Google Play ไม่ได้ติดตั้งบนอุปกรณ์ของคุณ</string>
     <!--3.4-->
     <string name="blocked_hours">การใช้แอป จำกัด</string>
     <string name="blocked_hours_summary">กำหนดช่วงเวลาเมื่อคุณไม่ต้องการใช้เวลาของคุณในโซเชียล</string>
@@ -342,8 +343,8 @@
     <string name="enabled">เปิดการใช้งาน</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">เล่นวิดีโออัตโนมัติ</string>
-    <string name="autoplay_videos_summary">เปิดใช้งานวิดีโอเล่นอัตโนมัติ คุณจะไม่สามารถดาวน์โหลดและแชร์วิดีโอเมื่อเปิดใช้งาน</string>
+    <string name="autoplay_videos">ปิดใช้งานโปรแกรมเล่นวิดีโอ Maki</string>
+    <string name="autoplay_videos_summary">คุณจะไม่สามารถดาวน์โหลดและแชร์วิดีโอเมื่อเปิดใช้งาน</string>
 
     <string name="images_play">ปิดใช้งานโปรแกรมดูรูปภาพ Maki</string>
     <string name="images_play_summary">ใช้ปุ่ม \"ดูขนาดเต็ม\" ด้านล่างภาพเพื่อเปิดภาพ</string>
@@ -362,7 +363,7 @@
     <!--3.9.3-->
     <string name="add_keyword">เพิ่มคำค้นหา</string>
     <string name="rate_dialog">ให้คะแนน Maki</string>
-    <string name="rate_dialog_more">คุณสนุกกับการใช้ Maki หรือไม่? ถ้าคุณทำคุณจะให้คะแนนเธอใน Google Play หรือไม่? ใช้เวลาไม่นาน ขอบคุณมาก!</string>
+    <string name="rate_dialog_more" formatted="true">คุณสนุกกับการใช้ Maki หรือไม่? ถ้าคุณทำคุณจะให้คะแนนเธอใน %1$s หรือไม่? ใช้เวลาไม่นาน ขอบคุณมาก!</string>
     <string name="help">ช่วยด้วย</string>
 
     <!--3.9.5-->
@@ -373,7 +374,7 @@
     <string name="maki_sale_summary">อย่าพลาดโอกาสในการรับ Maki Plus พร้อมส่วนลด แตะที่นี่เพื่อรับมัน</string>
 
     <string name="maki_update">การอัปเดต!</string>
-    <string name="maki_update_summary">รับ Maki รุ่นล่าสุดพร้อมการปรับปรุงและแก้ไขข้อบกพร่อง. แตะที่นี่ เพื่ออัพเดท</string>
+    <string name="maki_update_summary">รับ Maki รุ่นล่าสุดพร้อมการปรับปรุงและแก้ไขข้อบกพร่องบน %1$s แตะที่นี่เพื่ออัปเดต</string>
 
     <string name="check_for_updates">ตรวจสอบสำหรับการอัพเดต</string>
     <string name="check_for_updates_summary">รับการแจ้งเตือนเกี่ยวกับการอัพเดทใหม่</string>
@@ -495,4 +496,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">บันทึกกิจกรรม</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">ซ่อน TikTok</string>
 </resources>

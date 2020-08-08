@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Tmavě modrá (2)</item>
     </string-array>
 
     <string name="addPage">Přidat k oblíbeným</string>
@@ -137,7 +138,7 @@
         3) Koneckonců, pokud nic z toho nefunguje - kontaktujte nás! Určitě najdeme nejlepší řešení společně.
         \n\n
         Náš email: makifeedback@gmail.com\n
-        Facebooková stránka: m.facebook.com/sunshineappsst
+        Facebooková stránka: touch.facebook.com/sunshineappsst
         \n\n
         S pozdravem, Sunshine Apps.
     </string>
@@ -158,6 +159,7 @@
     <string name="blacklist_summary">Seznam slov, která mají zablokovat oznámení</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 sekund</item>
         <item>30 sekund</item>
         <item>60 sekund</item>
         <item>2 minuty</item>
@@ -305,8 +307,6 @@
     <string name="see_more_results">Více výsledků</string>
     <string name="remove_this_ad">Odstranit tuto reklamu</string>
 
-    <string name="no_google_play">Promiň, ale nemůžeš koupit Maki. Zdá se, že na vašem zařízení nejsou nainstalovány služby Google Play</string>
-
     <!--3.4-->
     <string name="blocked_hours">Omezené využití aplikace</string>
     <string name="blocked_hours_summary">Nastavte časové intervaly, pokud nechcete věnovat svůj čas společnostem</string>
@@ -345,8 +345,8 @@
     <string name="enabled">Povoleno</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">Automaticky přehrávaná videa</string>
-    <string name="autoplay_videos_summary">Povolit automatické přehrávání videí. Po aktivaci nebudete moci stahovat a sdílet videa.</string>
+    <string name="autoplay_videos">Zakázat přehrávač videa Maki</string>
+    <string name="autoplay_videos_summary">Po aktivaci nebudete moci stahovat a sdílet videa</string>
 
     <string name="images_play">Zakázat prohlížeč obrázků Maki</string>
     <string name="images_play_summary">Pomocí tlačítka \"Zobrazit v plné velikosti\" pod obrázkem otevřete obrázek</string>
@@ -365,7 +365,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Přidat klíčové slovo</string>
     <string name="rate_dialog">Hodnotit Maki</string>
-    <string name="rate_dialog_more">Baví vás používání Maki? Pokud tak učiníte, věnujete jí chvilku, abyste ji ohodnotili na Google Play? Nebude to trvat moc času. Děkuji mnohokrát!</string>
+    <string name="rate_dialog_more" formatted="true">Baví vás používání Maki? Pokud tak učiníte, věnujete jí chvilku, abyste ji ohodnotili na %1$s? Nebude to trvat moc času. Děkuji mnohokrát!</string>
     <string name="help">Pomoc</string>
 
     <!--3.9.5-->
@@ -376,7 +376,7 @@
     <string name="maki_sale_summary">Neztrácejte šanci vzít si kopii Maki Plus se slevou. Klepnutím sem ji získáte.</string>
 
     <string name="maki_update">Aktualizace je k dispozici!</string>
-    <string name="maki_update_summary">Získejte nejnovější verzi Maki s vylepšeními a opravami chyb z Google Play. Klepnutím sem aktualizujte.</string>
+    <string name="maki_update_summary">Získejte nejnovější verzi Maki s vylepšeními a opravami chyb z %1$s. Klepnutím sem aktualizujte.</string>
 
     <string name="check_for_updates">Kontrola aktualizací</string>
     <string name="check_for_updates_summary">Získejte upozornění na novou aktualizaci společnosti Maki</string>
@@ -498,4 +498,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Záznamy o aktivitách</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Skrýt TikTok</string>
 </resources>

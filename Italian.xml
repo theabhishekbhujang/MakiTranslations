@@ -48,6 +48,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Blu scuro (2)</item>
     </string-array>
 
 
@@ -154,7 +155,7 @@
         3) Dopo tutto, se nulla di questo non funziona - contattaci! Ci sarà sicuramente la soluzione migliore insieme.
         \n\n
         La nostra email: makifeedback@gmail.com\n
-        Pagina Facebook: m.facebook.com/sunshineappsst
+        Pagina Facebook: touch.facebook.com/sunshineappsst
         \n\n
         Con i migliori saluti, Sunshine Apps
 
@@ -176,6 +177,7 @@
     <string name="blacklist_summary">Elenco di parole per bloccare le notifiche</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 secondi</item>
         <item>30 secondi</item>
         <item>1 minuto</item>
         <item>2 minutos</item>
@@ -332,8 +334,6 @@
 
     <string name="see_more_results">Più risultati</string>
     <string name="remove_this_ad">Rimuovi questo annuncio</string>
-    <string name="no_google_play">Ci dispiace, ma non puoi comprare Maki. Sembra che i servizi Google Play non siano installati sul tuo dispositivo</string>
-
     <!--3.4-->
     <string name="blocked_hours">Utilizzo limitato dell\'app</string>
     <string name="blocked_hours_summary">Imposta intervalli di tempo quando non vuoi passare il tuo tempo nei social</string>
@@ -372,8 +372,8 @@
     <string name="enabled">Abilitato</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">Riproduzione video automatica</string>
-    <string name="autoplay_videos_summary">Abilita video a riproduzione automatica. Non sarai in grado di scaricare e condividere video quando abilitato.</string>
+    <string name="autoplay_videos">Disabilita il lettore video Maki</string>
+    <string name="autoplay_videos_summary">Non sarai in grado di scaricare e condividere video quando abilitato</string>
 
     <string name="images_play">Disabilitare il visualizzatore di immagini Maki</string>
     <string name="images_play_summary">Utilizzare il pulsante \"Visualizza a schermo intero\" sotto l\'immagine per aprire un\'immagine</string>
@@ -392,7 +392,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Aggiungi parola chiave</string>
     <string name="rate_dialog">Vota Maki</string>
-    <string name="rate_dialog_more">Ti piace usare Maki? Se lo fai, la valuteresti su Google Play? Non ci vorrà molto tempo. Grazie mille!</string>
+    <string name="rate_dialog_more" formatted="true">Ti piace usare Maki? Se lo fai, la valuteresti su %1$s? Non ci vorrà molto tempo. Grazie mille!</string>
     <string name="help">Aiuto</string>
 
     <!--3.9.5-->
@@ -403,7 +403,7 @@
     <string name="maki_sale_summary">Non perdere l\'occasione di ottenere Maki Plus con uno sconto. Tocca qui per ottenerlo.</string>
 
     <string name="maki_update">Un aggiornamento è disponibile!</string>
-    <string name="maki_update_summary">Ottieni l\'ultima versione di Maki con miglioramenti e correzioni di bug da Google Play. Tocca qui per aggiornare.</string>
+    <string name="maki_update_summary">Ottieni l\'ultima versione di Maki con miglioramenti e correzioni di bug da %1$s. Tocca qui per aggiornare.</string>
 
     <string name="check_for_updates">Controlla gli aggiornamenti</string>
     <string name="check_for_updates_summary">Ricevi una notifica sui nuovi aggiornamenti</string>
@@ -534,4 +534,8 @@
     <string name="wider_images_summary">Ingrandisci le immagini</string>
 
     <string name="log_activity">Registro attività</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Nascondere TikTok</string>
 </resources>
+

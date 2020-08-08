@@ -48,6 +48,7 @@
         <item>Google Plus</item>
         <item>Вконтакте</item>
         <item>Reddit</item>
+        <item>Темно-синий (2)</item>
     </string-array>
 
     <string name="addPage">Добавить в избранные</string>
@@ -121,7 +122,7 @@
     <string name="license">Лицензии открытого кода</string>
     <string name="close">Закрыть</string>
     <string name="support">Поддержка</string>
-    <string name="maki_plus">Maki Плюс</string>
+    <string name="maki_plus">Маки Плюс</string>
 
     <string name="help_translate">Помочь с переводом</string>
     <string name="top_tabs">Навигация сверху</string>
@@ -148,7 +149,7 @@
         3) Если не сработало ничего - свяжитесь с нами! Мы уж точно найдем наилучшее решение вместе.
         \n\n
         Наша электронная почта: makifeedback@gmail.com\n
-        Страница Facebook: m.facebook.com/sunshineappsst
+        Страница Facebook: touch.facebook.com/sunshineappsst
         \n\n
         С наилучшими пожеланиями, Sunshine Apps
 
@@ -169,6 +170,7 @@
     <string name="blacklist_summary">Список ключевых слов для блокировки</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 секунд</item>
         <item>30 секунд</item>
         <item>60 секунд</item>
         <item>2 минуты</item>
@@ -319,7 +321,6 @@
     <string name="quickbar_plus">На кончиках пальцев</string>
     <string name="see_more_results">Больше результатов</string>
     <string name="remove_this_ad">Убрать это объявление</string>
-    <string name="no_google_play">Извините, но Вы не можете приобрести Маки Плюс. Похоже на то, что сервисы Google Play не установлены на Вашем устройстве</string>
 
     <!--3.4-->
     <string name="blocked_hours">Ограничение использования приложения</string>
@@ -358,8 +359,8 @@
     <!--3.7-->
     <string name="enabled">Включено</string>
     <!--4.0-->
-    <string name="autoplay_videos">Автоматическое воспроизведение видео</string>
-    <string name="autoplay_videos_summary">Включить автоматическое воспроизведение видео. Вы не сможете загружать и обмениваться видео, если включено.</string>
+    <string name="autoplay_videos">Отключить видео плеер Maki</string>
+    <string name="autoplay_videos_summary">Вы не сможете загружать и обмениваться видео, если включено</string>
 
     <string name="images_play">Отключить просмотрщик изображений Maki</string>
     <string name="images_play_summary">Используйте кнопку «Просмотр в полном размере» под изображением, чтобы открыть изображение</string>
@@ -378,7 +379,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Добавить ключевое слово</string>
     <string name="rate_dialog">Оценить Maki</string>
-    <string name="rate_dialog_more">Вам нравится использовать Маки? Если да, то могли бы Вы оставить отзыв в Google Play? Это не займет много времени. Большое спасибо!</string>
+    <string name="rate_dialog_more" formatted="true">Вам нравится использовать Маки? Если да, то могли бы Вы оставить отзыв в %1$s? Это не займет много времени. Большое спасибо!</string>
     <string name="help">Помощь</string>
 
     <!--3.9.5-->
@@ -389,7 +390,7 @@
     <string name="maki_sale_summary">Не упустите шанс получить Maki Plus со скидкой. Нажмите здесь, чтобы узнать больше.</string>
 
     <string name="maki_update">Доступно обновление!</string>
-    <string name="maki_update_summary">Загрузите последнюю версию Maki с улучшениями и исправлениями ошибок в Google Play. Нажмите здесь, чтобы обновить.</string>
+    <string name="maki_update_summary">Загрузите последнюю версию Maki с улучшениями и исправлениями ошибок в %1$s. Нажмите здесь, чтобы обновить.</string>
 
     <string name="check_for_updates">Проверять наличие обновлений</string>
     <string name="check_for_updates_summary">Получать уведомления о новых обновлениях Маки</string>
@@ -518,4 +519,7 @@
     <string name="wider_images_summary">Увеличить изображения</string>
 
     <string name="log_activity">Журнал активности</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Убрать TikTok</string>
 </resources>

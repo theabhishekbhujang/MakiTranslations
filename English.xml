@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Dark blue (2)</item>
     </string-array>
 
     <string name="addPage">Add to favorites</string>
@@ -135,7 +136,7 @@
         3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
         \n\n
         Our email: makifeedback@gmail.com\n
-        Facebook page: m.facebook.com/sunshineappsst
+        Facebook page: touch.facebook.com/sunshineappsst
         \n\n
         With best regards, Sunshine Apps
 
@@ -157,6 +158,7 @@
     <string name="blacklist_summary">List of words to block the notifications</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 seconds</item>
         <item>30 seconds</item>
         <item>60 seconds</item>
         <item>2 minutes</item>
@@ -251,7 +253,7 @@
 
     <string name="features_beta">Options in beta</string>
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
-    <string name="warning" >Warning!</string>
+    <string name="warning">Warning!</string>
 
     <string name="plus_ads">Remove all advertising from Facebook on your news feed to focus on your favorite content</string>
     <string name="quickbar_more">Get access to socials from anywhere.</string>
@@ -301,8 +303,6 @@
     <string name="see_more_results">More results</string>
     <string name="remove_this_ad">Remove this ad</string>
 
-    <string name="no_google_play">Sorry, but you\'re not able to buy Maki. It looks like Google Play services are not installed on your device</string>
-
     <!--3.4-->
     <string name="blocked_hours">Limited app usage</string>
     <string name="blocked_hours_summary">Set time intervals when you do not want to spend your time in socials</string>
@@ -339,8 +339,8 @@
     <!--3.7-->
     <string name="enabled">Enabled</string>
     <!--3.9-->
-    <string name="autoplay_videos">Autoplay videos</string>
-    <string name="autoplay_videos_summary">Enable autoplay videos. You will not be able to download and share videos when enabled.</string>
+    <string name="autoplay_videos">Disable Maki video player</string>
+    <string name="autoplay_videos_summary">You will not be able to download and share videos when enabled</string>
 
     <string name="images_play">Disable Maki image viewer</string>
     <string name="images_play_summary">Use the \"View full size\" button below the image to open a picture</string>
@@ -359,7 +359,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Add keyword</string>
     <string name="rate_dialog">Rate Maki</string>
-    <string name="rate_dialog_more">Do you enjoy using Maki? If you do, would you take a moment to rate her in Google Play? It won\'t take a lot of time. Thank you very much!</string>
+    <string name="rate_dialog_more" formatted="true">Do you enjoy using Maki? If you do, would you take a moment to rate her on %1$s? It won\'t take a lot of time. Thank you very much!</string>
     <string name="help">Help</string>
 
     <!--3.9.5-->
@@ -367,7 +367,7 @@
     <string name="disable_swipe_tabs_summary">Disable swiping between pages on a home screen of Maki</string>
 
     <string name="maki_update">An update is available!</string>
-    <string name="maki_update_summary">Get the latest version of Maki with improvements and bug fixes on Google Play. Tap here to update.</string>
+    <string name="maki_update_summary">Get the latest version of Maki with improvements and bug fixes on %1$s. Tap here to update.</string>
 
     <string name="check_for_updates">Check for updates</string>
     <string name="check_for_updates_summary">Get notification about the new updates of Maki</string>
@@ -443,7 +443,7 @@
 
     <!--Maki 4.1.3 Hortensia-->
     <string-array name="pref_power_modes_entries">
-        <item>m.facebook.com</item>
+        <item>touch.facebook.com</item>
         <item>mbasic.facebook.com</item>
         <item>free.facebook.com</item>
     </string-array>
@@ -486,7 +486,7 @@
     <string name="thanks_one">Thank you!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Wow, thank you so much!</string>
-    <string name="thanks_four">Wow, are you sure?!</string>
+    <string name="thanks_four">Wow, thank you really much!</string>
 
     <string name="support_developer">Support development</string>
     <string name="support_developer_summary">Your support is very important. Thank you!</string>
@@ -507,4 +507,46 @@
     <string name="wider_images_summary">Enlarge the images</string>
 
     <string name="log_activity">Activity Log</string>
+    <!--Maki 4.5.1 Hortensia-->
+    <string name="instagram_stories">Stories download button</string>
+    <string name="instagram_stories_summary">Show button to save stories</string>
+
+    <string name="messenger_installed">Make sure an app is installed on your phone</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="clear_cache">Clear cache</string>
+    <string name="clear_cache_description">Clear app cache. It will also log you out.</string>
+    <string name="disable_selection">Disable text selection</string>
+
+    <string name="try_again">Please, try again</string>
+    <string name="select_picture">Select picture</string>
+
+    <!--Maki 4.6.2 Hortensia-->
+    <string name="hide_ads_more_linkedin">Remove all advertising in LinkedIn news feed</string>
+    <string name="follow_system_appearance">Follow system appearance</string>
+
+    <!--Maki 4.6.3 Hortensia-->
+    <string name="hide_tiktok">Hide TikTok</string>
+
+    <string name="video_stream_error">Couldn\'t stream video</string>
+    <string name="video_stream_error_summary">It seems that something is going wrong. Please try again.</string>
+
+    <!--Maki 4.7 Hortensia-->
+    <string name="auto_dark_list">Night theme</string>
+    <string name="mute_audio">Mute audio</string>
+    <string name="unmute_audio">Unmute audio</string>
+
+    <string-array name="pref_theme_entries_dark_automatic">
+        <item>Material dark</item>
+        <item>Dark blue</item>
+        <item>AMOLED</item>
+        <item>Dark blue (2)</item>
+    </string-array>
+
+    <!--Maki 4.7.3 Hortensia-->
+    <string name="tablet_mode">Tablet mode</string>
+
+    <!--Maki 4.8-->
+    <string name="your_network">Your social networks</string>
+    <string name="your_network_summary">Tap to manage social networks added by you</string>
 </resources>

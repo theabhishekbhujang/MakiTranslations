@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Biru tua (2)</item>
     </string-array>
 
     <string name="addPage">Tambahkan ke Favorit</string>
@@ -135,7 +136,7 @@
         3) Setelah semua, jika tidak ada yang tidak berhasil - hubungi kami! Kami pasti akan menemukan solusi terbaik bersama.
         \n\n
         Email kami: makifeedback@gmail.com\n
-        Halaman Facebook: m.facebook.com/sunshineappsst
+        Halaman Facebook: touch.facebook.com/sunshineappsst
         \n\n
         Dengan salam, Aplikasi Sunshine
         \n
@@ -158,6 +159,7 @@
     <string name="blacklist_summary">Daftar kata-kata untuk memblokir pemberitahuan</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 detik</item>
         <item>30 detik</item>
         <item>60 detik</item>
         <item>2 menit</item>
@@ -302,7 +304,6 @@
 
     <string name="see_more_results">Hasil lebih</string>
     <string name="remove_this_ad">Hapus iklan ini</string>
-    <string name="no_google_play">Maaf, tetapi Anda tidak dapat membeli Mako. Sepertinya layanan Google Play tidak diinstal pada perangkat Anda</string>
 
     <!--3.4-->
     <string name="blocked_hours">Penggunaan aplikasi terbatas</string>
@@ -343,8 +344,8 @@
 
     <!--4.0-->
 
-    <string name="autoplay_videos">Putar video secara otomatis</string>
-    <string name="autoplay_videos_summary">Aktifkan video putar otomatis. Anda tidak akan dapat mengunduh dan berbagi video saat diaktifkan.</string>
+    <string name="autoplay_videos">Nonaktifkan pemutar video Mako</string>
+    <string name="autoplay_videos_summary">Anda tidak akan dapat mengunduh dan berbagi video saat diaktifkan</string>
 
     <string name="images_play">Nonaktifkan penampil gambar Mako</string>
     <string name="images_play_summary">Gunakan tombol \"Lihat ukuran penuh\" di bawah gambar untuk membuka gambar</string>
@@ -363,7 +364,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Tambahkan kata kunci</string>
     <string name="rate_dialog">Rate Mako</string>
-    <string name="rate_dialog_more">Apakah Anda menikmati menggunakan Mako? Jika ya, apakah Anda akan memberi peringkat padanya di Google Play? Itu tidak akan memakan banyak waktu. Terima kasih banyak!</string>
+    <string name="rate_dialog_more" formatted="true">Apakah Anda menikmati menggunakan Mako? Jika ya, apakah Anda akan memberi peringkat padanya di %1$s? Itu tidak akan memakan banyak waktu. Terima kasih banyak!</string>
     <string name="help">Membantu</string>
 
     <!--3.9.5-->
@@ -374,7 +375,7 @@
     <string name="maki_sale_summary">Jangan kehilangan kesempatan untuk mendapatkan Mako Plus dengan diskon. Ketuk disini untuk mendapatkannya.</string>
 
     <string name="maki_update">Pembaruan tersedia!</string>
-    <string name="maki_update_summary">Dapatkan versi terbaru Mako dengan peningkatan dan perbaikan bug dari Google Play. Ketuk di sini untuk memperbarui.</string>
+    <string name="maki_update_summary">Dapatkan versi terbaru Mako dengan peningkatan dan perbaikan bug dari %1$s. Ketuk di sini untuk memperbarui.</string>
 
     <string name="check_for_updates">Periksa pembaruan</string>
     <string name="check_for_updates_summary">Dapatkan pemberitahuan tentang pembaruan baru</string>
@@ -496,4 +497,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Log Aktivitas</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Sembunyikan TikTok</string>
 </resources>

@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Donkerblauw (2)</item>
     </string-array>
 
     <string name="addPage">Toevoegen aan favorieten</string>
@@ -109,7 +110,7 @@
     <string name="thanks">Dank u zeer!</string>
     <string name="web">Contact</string>
     <string name="shortcuts">Shortcuts</string>
-    <string name="close">Dichtbij</string>
+    <string name="close">Sluiten</string>
     <string name="support">Ondersteuning</string>
     <string name="maki_plus">Maki Plus</string>
     <string name="help_translate">Help om te vertalen</string>
@@ -138,7 +139,7 @@
         3) Immers, als niets van dit niet werkt - neem dan contact met ons op! We zullen zeker samen de beste oplossing vinden.
         \n\n
         Onze e-mail: makifeedback@gmail.com\n
-        Facebook pagina: m.facebook.com/sunshineappsst
+        Facebook pagina: touch.facebook.com/sunshineappsst
         \n\n
         Met vriendelijke groeten, Sunshine Apps
 
@@ -161,6 +162,7 @@
     <string name="blacklist_summary">Lijst met woorden om de meldingen te blokkeren</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 seconden</item>
         <item>30 seconden</item>
         <item>60 seconden</item>
         <item>2 minuten</item>
@@ -307,8 +309,6 @@
     <string name="see_more_results">Meer resultaten</string>
     <string name="remove_this_ad">Verwijder deze advertentie</string>
 
-    <string name="no_google_play">Sorry, maar je kunt Maki niet kopen. Het lijkt erop dat Google Play-services niet op uw apparaat zijn geïnstalleerd</string>
-
     <!--3.4-->
     <string name="blocked_hours">Beperkt app-gebruik</string>
     <string name="blocked_hours_summary">Stel tijdsintervallen in wanneer u uw tijd niet wilt doorbrengen op sociale media</string>
@@ -347,8 +347,8 @@
     <string name="enabled">Ingeschakeld</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">Video\'s automatisch afspelen</string>
-    <string name="autoplay_videos_summary">Schakel autoplay-videos in. Je kunt geen video\'s downloaden en delen wanneer deze zijn ingeschakeld.</string>
+    <string name="autoplay_videos">Schakel Maki-videospeler uit</string>
+    <string name="autoplay_videos_summary">Je kunt geen video\'s downloaden en delen wanneer deze is ingeschakeld</string>
 
     <string name="images_play">Schakel Maki image viewer uit</string>
     <string name="images_play_summary">Gebruik de knop \"Origineel formaat weergeven\" onder de afbeelding om een foto te openen.</string>
@@ -367,7 +367,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Voeg trefwoord toe</string>
     <string name="rate_dialog">Tarief Maki</string>
-    <string name="rate_dialog_more">Gebruik je graag Maki? Als je dat doet, zou je haar dan beoordelen in Google Play? Het zal niet veel tijd kosten. Dank u zeer!</string>
+    <string name="rate_dialog_more" formatted="true">Gebruik je graag Maki? Als je dat doet, zou je haar dan beoordelen in %1$s? Het zal niet veel tijd kosten. Dank u zeer!</string>
     <string name="help">Help</string>
 
     <!--3.9.5-->
@@ -378,7 +378,7 @@
     <string name="maki_sale_summary">Verlies geen kans om Maki Plus met korting te krijgen. Tik hier om het te krijgen.</string>
 
     <string name="maki_update">Een update is beschikbaar!</string>
-    <string name="maki_update_summary">Download de nieuwste versie van Maki met verbeteringen en bugfixes van Google Play. Tik hier om te updaten.</string>
+    <string name="maki_update_summary">Download de nieuwste versie van Maki met verbeteringen en bugfixes van %1$s. Tik hier om te updaten.</string>
 
     <string name="check_for_updates">Controleer op updates</string>
     <string name="check_for_updates_summary">Ontvang een melding over de nieuwe updates</string>
@@ -500,4 +500,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Activiteitlogboek</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Verberg TikTok</string>
 </resources>

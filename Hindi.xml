@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>गहरा नीला (2)</item>
     </string-array>
 
     <string name="addPage">पसंदीदा में जोड़े</string>
@@ -139,7 +140,7 @@
         3) आखिरकार, अगर इसमें से कुछ भी काम नहीं करता है - हमसे संपर्क करें! हम निश्चित रूप से सबसे अच्छा समाधान एक साथ मिल जाएगा।
         \n\n
         हमारा ईमेल: makifeedback@gmail.com\n
-        फेसबुक पेज: m.facebook.com/sunshineappsst
+        फेसबुक पेज: touch.facebook.com/sunshineappsst
         \n\n
         सबसे अच्छा संबंध है, सनशाइन ऐप्स
 
@@ -162,6 +163,7 @@
     <string name="blacklist_summary">नोटिफिकेशन को ब्लॉक करने के लिए शब्दों की सूची</string>
 
     <string-array name="intervalPrefTitles">
+        <item>दस पल</item>
         <item>30 सेकंड</item>
         <item>60 सेकंड</item>
         <item>दो मिनट</item>
@@ -310,7 +312,6 @@
     <!--3.3-->
     <string name="see_more_results">और नतीजे</string>
     <string name="remove_this_ad">यह विज्ञापन निकालें</string>
-    <string name="no_google_play">क्षमा करें, लेकिन आप Maki को खरीदने में सक्षम नहीं हैं। ऐसा लगता है कि Google Play सेवाएं आपके डिवाइस पर इंस्टॉल नहीं हैं</string>
 
     <!--3.4-->
     <string name="blocked_hours">सीमित एप्लिकेशन उपयोग</string>
@@ -350,8 +351,8 @@
     <string name="enabled">सक्रिय</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">ऑटोप्ले वीडियो</string>
-    <string name="autoplay_videos_summary">ऑटोप्ले वीडियो सक्षम करें। सक्षम होने पर आप वीडियो डाउनलोड और साझा नहीं कर पाएंगे।</string>
+    <string name="autoplay_videos">Maki वीडियो प्लेयर को अक्षम करें</string>
+    <string name="autoplay_videos_summary">सक्षम होने पर आप वीडियो डाउनलोड और साझा नहीं कर पाएंगे</string>
 
     <string name="images_play">Maki छवि दर्शक को अक्षम करें</string>
     <string name="images_play_summary">चित्र खोलने के लिए छवि के नीचे \"पूर्ण आकार देखें\" बटन का उपयोग करें</string>
@@ -370,7 +371,7 @@
     <!--3.9.3-->
     <string name="add_keyword">कीवर्ड जोड़ें</string>
     <string name="rate_dialog">दर Maki </string>
-    <string name="rate_dialog_more">क्या आपको Maki का उपयोग करने में मज़ा आता है? यदि आप करते हैं, तो क्या आपको Google Play में उसे रेट करने में एक पल लगेगा? इसमें बहुत समय नहीं लगेगा।. आपका बहुत बहुत धन्यवाद!</string>
+    <string name="rate_dialog_more" formatted="true">क्या आपको Maki का उपयोग करने में मज़ा आता है? यदि आप करते हैं, तो क्या आपको %1$s में उसे रेट करने में एक पल लगेगा? इसमें बहुत समय नहीं लगेगा।. आपका बहुत बहुत धन्यवाद!</string>
     <string name="help">मदद</string>
 
     <!--3.9.5-->
@@ -381,7 +382,7 @@
     <string name="maki_sale_summary">छूट के साथ Maki Plus पाने का मौका न गवाएं। इसे पाने के लिए यहां टैप करें।</string>
 
     <string name="maki_update">एक अपडेट उपलब्ध है!</string>
-    <string name="maki_update_summary">Google Play से सुधार और बग फिक्स के साथ Maki का नवीनतम संस्करण प्राप्त करें। अपडेट करने के लिए यहां टैप करें।</string>
+    <string name="maki_update_summary">%1$s से सुधार और बग फिक्स के साथ Maki का नवीनतम संस्करण प्राप्त करें। अपडेट करने के लिए यहां टैप करें।</string>
 
     <string name="check_for_updates">अद्यतन के लिए जाँच</string>
     <string name="check_for_updates_summary">नए अपडेट के बारे में सूचित करें</string>
@@ -503,4 +504,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">गतिविधि लॉग</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">TikTok छिपाएँ</string>
 </resources>

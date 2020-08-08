@@ -45,6 +45,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Bleu foncé (2)</item>
     </string-array>
     <string name="addPage">Ajouter aux Favoris</string>
     <string name="notification_sound">Son de notification</string>
@@ -129,7 +130,7 @@
         3) Après tout, si rien de tout cela ne fonctionne, contactez-nous ! Nous allons certainement trouver la meilleure solution ensemble.
         \n \n
         Notre email : makifeedback@gmail.com
-        Page Facebook : m.facebook.com/sunshineappsst
+        Page Facebook : touch.facebook.com/sunshineappsst
         \n\n
         Meilleures salutations, Sunshine Apps
 
@@ -152,6 +153,7 @@
     <string name="blacklist_summary">Liste des mots pour bloquer les notifications</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 secondes</item>
         <item>30 secondes</item>
         <item>1 minute</item>
         <item>2 minutes</item>
@@ -275,7 +277,6 @@
     <!--3.3-->
     <string name="see_more_results">Plus de résultats</string>
     <string name="remove_this_ad">Supprimer cette annonce</string>
-    <string name="no_google_play">Désolé, mais vous n\'êtes pas en mesure d\'acheter Maki. Il semble que les services Google Play ne soient pas installés sur votre appareil.</string>
     <!--3.4-->
     <string name="blocked_hours">Utilisation limitée de l\'application</string>
     <string name="blocked_hours_summary">Définissez des intervalles de temps lorsque vous ne voulez pas passer trop de temps sur les réseaux sociaux.</string>
@@ -303,8 +304,8 @@
     <!--3.7-->
     <string name="enabled">Activer</string>
     <!--3.9-->
-    <string name="autoplay_videos">Lecture automatique</string>
-    <string name="autoplay_videos_summary">Activer la lecture automatique des vidéos, vous ne pourrez pas télécharger et partager de vidéos une fois activé.</string>
+    <string name="autoplay_videos">Désactiver le lecteur vidéo Maki</string>
+    <string name="autoplay_videos_summary">Vous ne pourrez pas télécharger et partager des vidéos une fois activé</string>
     <string name="images_play">Désactiver la visionneuse d\'images Maki</string>
     <string name="images_play_summary">Utiliser le bouton \"Afficher en taille réelle\" sous l\'image pour ouvrir une photo.</string>
     <string name="hide_navigation">Onglets et barre de titre</string>
@@ -320,7 +321,7 @@
 
     <string name="add_keyword">Ajouter un mot clé</string>
     <string name="rate_dialog">Noter Maki</string>
-    <string name="rate_dialog_more">Que pensez-vous de Maki ? Laissez un commentaire sur Google Play ou contactez nous pour que nous puissions résoudre le problème ensemble. Améliorons Maki ensemble !</string>
+    <string name="rate_dialog_more" formatted="true">Que pensez-vous de Maki ? Laissez un commentaire sur %1$s ou contactez nous pour que nous puissions résoudre le problème ensemble. Améliorons Maki ensemble !</string>
     <string name="help">Aidez-moi</string>
 
     <!--3.9.5-->
@@ -331,7 +332,7 @@
     <string name="maki_sale_summary">Ne perdez pas une chance d\'obtenir Maki Plus avec un rabais. Appuyez ici pour l\'obtenir.</string>
 
     <string name="maki_update">Une mise à jour est disponible!</string>
-    <string name="maki_update_summary">Obtenez la dernière version de Maki avec des améliorations et des corrections de bugs de Google Play. Appuyez ici pour mettre à jour.</string>
+    <string name="maki_update_summary">Obtenez la dernière version de Maki avec des améliorations et des corrections de bugs de %1$s. Appuyez ici pour mettre à jour.</string>
 
     <string name="check_for_updates">Vérifier les mises à jour</string>
     <string name="check_for_updates_summary">Recevez une notification sur la nouvelle mise à jour de Maki</string>
@@ -460,4 +461,7 @@
     <string name="wider_images_summary">Agrandir les images</string>
 
     <string name="log_activity">Historique personnel</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Masquer TikTok</string>
 </resources>

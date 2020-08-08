@@ -45,6 +45,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Sötétkék (2)</item>
     </string-array>
     <string name="addPage">Hozzáadás kedvencekhez</string>
     <string name="notification_sound">Értesítési hang</string>
@@ -128,7 +129,7 @@
         3) Ezek után, ha egyik megoldás sem működik - vegyük fel a kapcsolatot a fejlesztőkkel! Így biztosan megoldásra kerül a probléma.
         \n\n
         Email cím: makifeedback@gmail.com\n
-        Facebook oldal: m.facebook.com/sunshineappsst
+        Facebook oldal: touch.facebook.com/sunshineappsst
         \n\n
         Üdvözlettek, Sunshine Apps</string>
 
@@ -148,6 +149,7 @@
     <string name="blacklist_summary">Az értesítések blokkolásához használt szavak listája</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 másodperc</item>
         <item>30 másodperc</item>
         <item>60 másodperc</item>
         <item>2 perc</item>
@@ -273,7 +275,6 @@
     <!--3.3-->
     <string name="see_more_results">Több eredmény</string>
     <string name="remove_this_ad">Távolítsa el ezt a hirdetést</string>
-    <string name="no_google_play">Sajnáljuk, de nem tudsz vásárolni Makit. Úgy tűnik, hogy a Google Play szolgáltatásai nincsenek telepítve a készüléken</string>
     <!--3.4-->
     <string name="blocked_hours">Korlátozott alkalmazáshasználat</string>
     <string name="blocked_hours_summary">Állítsa be az időintervallumokat, amikor nem akarja tölteni az időt a társadalomban</string>
@@ -304,8 +305,8 @@
     <!--3.7-->
     <string name="enabled">Bekapcsolt</string>
     <!--4.0-->
-    <string name="autoplay_videos">Videók automatikus lejátszása</string>
-    <string name="autoplay_videos_summary">Automatikus lejátszási videók engedélyezése. Ha engedélyezve van, akkor nem tölthet le videókat és nem oszthat meg videókat.</string>
+    <string name="autoplay_videos">Tiltsa le a Maki videolejátszót</string>
+    <string name="autoplay_videos_summary">Ha engedélyezve van, akkor nem tölthet le videókat és nem oszthat meg videókat</string>
 
     <string name="images_play">Tiltsa le a Maki képnézegetőt</string>
     <string name="images_play_summary">A kép megnyitásához használja a kép alatt a \"Teljes méret megtekintése\" gombot</string>
@@ -324,7 +325,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Adjon hozzá kulcsszót</string>
     <string name="rate_dialog">Értékeld Maki</string>
-    <string name="rate_dialog_more">Szereted használni Maki? Ha igen, értékelné őt a Google Playen? Nem fog sok időt igénybe venni. Nagyon szépen köszönjük!</string>
+    <string name="rate_dialog_more" formatted="true">Szereted használni Maki? Ha igen, értékelné őt a %1$s? Nem fog sok időt igénybe venni. Nagyon szépen köszönjük!</string>
     <string name="help">Segítség</string>
 
     <!--3.9.5-->
@@ -335,7 +336,7 @@
     <string name="maki_sale_summary">Ne veszítse el esélyét arra, hogy kedvezményesen kapjon Maki Plus. Érintse meg ide, hogy megkapja.</string>
 
     <string name="maki_update">Frissítés érhető el!</string>
-    <string name="maki_update_summary">Töltse le a Maki legújabb verzióját, a fejlesztésekkel és a hibajavításokkal a Google Playen. Koppintson ide a frissítéshez.</string>
+    <string name="maki_update_summary">Töltse le a Maki legújabb verzióját, a fejlesztésekkel és a hibajavításokkal a %1$s. Koppintson ide a frissítéshez.</string>
 
     <string name="check_for_updates">Frissítések keresése</string>
     <string name="check_for_updates_summary">Értesítést kap az új frissítésről</string>
@@ -457,4 +458,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Tevékenységnapló</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">TikTok elrejtése</string>
 </resources>

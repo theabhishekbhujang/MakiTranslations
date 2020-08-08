@@ -49,6 +49,7 @@
         <item>Google+ - czerwony</item>
         <item>VK - Niebieski</item>
         <item>Reddit - Czerwony</item>
+        <item>Ciemny szary (2)</item>
     </string-array>
 
     <string name="addPage">Dodaj do ulubionych</string>
@@ -139,7 +140,7 @@
         3) Jeśli żadne z powyższych rozwiązań nie zadziała - skontaktuj się z nami! Z całą pewnością znajdziemy najlepsze rozwiązanie.
         \n\n
         Nasz email: makifeedback@gmail.com\n
-        Strona Facebook: m.facebook.com/sunshineappsst
+        Strona Facebook: touch.facebook.com/sunshineappsst
         \n\n
         Z poważaniem Sunshine Apps\n\n
     </string>
@@ -162,6 +163,7 @@
     <string name="blacklist_summary">Lista słów blokujących powiadomienia</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 sekund</item>
         <item>30 sekund</item>
         <item>1 minuta</item>
         <item>2 minuty</item>
@@ -199,8 +201,8 @@
     <string-array name="messenger_choice">
         <item>Messenger w Maki</item>
         <item>Uproszczony Messenger</item>
-        <item>Messenger Aplikacja</item>
-        <item>Messenger Lite Aplikacja</item>
+        <item>Facebook Messenger</item>
+        <item>Facebook Messenger Lite</item>
         <item>Disa Messenger</item>
     </string-array>
 
@@ -319,8 +321,6 @@
     <string name="see_more_results">Więcej wyników</string>
     <string name="remove_this_ad">Usuń tę reklamę</string>
 
-    <string name="no_google_play">Przepraszamy, ale nie możesz kupić Maki. Wygląda na to, że usługi Google Play nie są zainstalowane na Twoim urządzeniu</string>
-
     <!--3.4-->
     <string name="blocked_hours">Ograniczone użycie aplikacji</string>
     <string name="blocked_hours_summary">Ustaw przedziały czasu, kiedy nie chcesz spędzać czasu w mediach społecznościowych</string>
@@ -357,8 +357,8 @@
     <string name="enabled">Włączone</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">Autoodtwarzanie filmów</string>
-    <string name="autoplay_videos_summary">Włącz automatyczne odtwarzanie filmów. Po włączeniu nie będzie można pobierać ani udostępniać filmów.</string>
+    <string name="autoplay_videos">Wyłącz odtwarzacz wideo Maki</string>
+    <string name="autoplay_videos_summary">Po włączeniu nie będzie można pobierać ani udostępniać filmów</string>
 
     <string name="images_play_summary">Użyj przycisku \"Wyświetl pełny rozmiar\" pod obrazem, aby otworzyć zdjęcie</string>
 
@@ -376,7 +376,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Dodaj słowo kluczowe</string>
     <string name="rate_dialog">Oceń Maki</string>
-    <string name="rate_dialog_more">Czy lubisz korzystać z Maki? Jeśli tak, czy oceniasz ją w Google Play? Nie zajmie to dużo czasu. Dziękuję bardzo!</string>
+    <string name="rate_dialog_more" formatted="true">Czy lubisz korzystać z Maki? Jeśli tak, czy oceniasz ją w %1$s? Nie zajmie to dużo czasu. Dziękuję bardzo!</string>
     <string name="help">Pomoc</string>
 
     <!--3.9.5-->
@@ -387,7 +387,7 @@
     <string name="maki_sale_summary">Nie trać szansy na uzyskanie Maki Plus ze zniżką. Kliknij tutaj, aby dowiedzieć się więcej.</string>
 
     <string name="maki_update">Aktualizacja jest dostępna!</string>
-    <string name="maki_update_summary">Pobierz najnowszą wersję Maki z ulepszeniami i poprawkami błędów w Google Play. Kliknij tutaj, aby zaktualizować.</string>
+    <string name="maki_update_summary">Pobierz najnowszą wersję Maki z ulepszeniami i poprawkami błędów w %1$s. Kliknij tutaj, aby zaktualizować.</string>
 
     <string name="check_for_updates">Sprawdź aktualizacje</string>
     <string name="check_for_updates_summary">Otrzymuj powiadomienia o nowych aktualizacjach Maki</string>
@@ -439,7 +439,7 @@
 
     <!--4.1 Hortensia-->
     <string-array name="browser_entries">
-        <item>Chrome Custom Tabs</item>
+        <item>Niestandardowe karty Chrome</item>
         <item>Wewnętrzna przeglądarka</item>
         <item>Zewnętrzna przeglądarka</item>
     </string-array>
@@ -457,7 +457,7 @@
     <string name="quickbar_expand">Stuknij, aby rozwinąć</string>
     <string name="restore_purchase">Przywróć zakup</string>
 
-    <string name="power_website">Wersja Facebooku</string>
+    <string name="power_website">Wersja Facebooka</string>
 
     <string name="twitter_theme">Motyw na Twitterze</string>
     <string name="twitter_theme_summary">Zastosuj niestandardowy motyw na Twitterze</string>
@@ -509,4 +509,29 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Dziennik aktywności</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Ukryj TikTok</string>
+
+    <!--Maki 4.8-->
+    <!--New translations thanks to Łukasz-->
+    <string name="auto_dark_list">Motyw nocny</string>
+
+    <string name="choose_files_download_folder">Folder pobranych plików</string>
+    <string name="choose_pictures_download_folder">Folder pobranych obrazów</string>
+    <string name="choose_movies_download_folder">Folder pobranych wideo</string>
+
+    <string name="disable_selection">Zablokuj zaznaczanie tekstu</string>
+    <string name="clear_cache">Wyczyść pamięć</string>
+    <string name="clear_cache_description">yczyść pamięć aplikacji. To spowoduje również wylogowanie cię.</string>
+
+    <string name="wider_images">Szerokie obrazy</string>
+    <string name="wider_images_summary">Zmiejsz obrazy</string>
+
+    <string name="instagram_stories">Przycisk pobierania historii</string>
+    <string name="instagram_stories_summary">Pokaż przycisk do zapisania historii</string>
+
+    <string name="hide_ads_more_linkedin">Usuń wszystkie reklamy w kanale wiadomości LinkedIn</string>
+    <string name="your_network">Twoje sieci społecznościowe</string>
+    <string name="your_network_summary">Stuknij, aby zarządzać sieciami społecznościowymi dodanymi przez Ciebie</string>
 </resources>

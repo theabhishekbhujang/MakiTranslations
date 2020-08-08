@@ -48,6 +48,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Темно-синій (2)</item>
     </string-array>
 
     <string name="addPage">Додати в обрані</string>
@@ -146,7 +147,7 @@
         3) Якщо не спрацювало нічого - напишіть нам! Разом ми точно знайдемо найкраще вирішення.
         \n\n
         Наша пошта: makifeedback@gmail.com\n
-        Сторінка Facebook: m.facebook.com/sunshineappsst
+        Сторінка Facebook: touch.facebook.com/sunshineappsst
         \n\n
         З найкращими побажаннями, Sunshine Apps
 
@@ -167,6 +168,7 @@
     <string name="blacklist_summary">Список ключових слів для блокування сповіщень</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 секунд</item>
         <item>30 секунд</item>
         <item>60 секунд</item>
         <item>2 хвилини</item>
@@ -289,7 +291,7 @@
     <string name="remove_keyword">Усунути ключове слово</string>
     <string name="remove_keyword_summary">Ви справді хочете усунути це ключеве слово?</string>
 
-    <string name="list_empty">Хіба ревуть воли, як слів немає?</string>
+    <string name="list_empty">Тут порожньо!</string>
 
     <string name="quiet_hours">Не турбувати</string>
     <string name="quiet_hours_summary">Виберіть часові інтервали, коли Ви не хочете отримувати будь-які сповіщення</string>
@@ -312,7 +314,6 @@
 
     <string name="see_more_results">Більше результатів</string>
     <string name="remove_this_ad">Прибрати цю рекламу!</string>
-    <string name="no_google_play">Вибачте, але Ви не можете придбати Макі Плюс. Схоже на те, що служби Google Play не встановлені на Вашому пристрої</string>
 
     <!--3.4-->
     <string name="blocked_hours">Обмежене використання додатку</string>
@@ -352,8 +353,8 @@
     <string name="enabled">Увімкнено</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">Автовідтворення відео</string>
-    <string name="autoplay_videos_summary">Увімкнути автоматичне відтворення відео. Ви не зможете завантажувати та ділитися відео, коли ця опція увімкнена.</string>
+    <string name="autoplay_videos">Вимкнути відеоплеєр Maki</string>
+    <string name="autoplay_videos_summary">Ви не зможете завантажувати та ділитися відео, коли ця опція увімкнена</string>
 
     <string name="images_play">Вимкнути переглядач зображень Maki</string>
     <string name="images_play_summary">Використовуйте кнопку \"Переглянути в повному розмірі\" під зображенням, щоб відкрити зображення</string>
@@ -372,7 +373,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Додати ключове слово</string>
     <string name="rate_dialog">Оцінити Maki</string>
-    <string name="rate_dialog_more">Вам подобається користуватись Maki? Ви знайдете хвилину, щоб оцінити її в Google Play? Це не займе багато часу. Велике спасибі!</string>
+    <string name="rate_dialog_more" formatted="true">Вам подобається користуватись Maki? Ви знайдете хвилину, щоб оцінити її в %1$s? Це не займе багато часу. Велике спасибі!</string>
     <string name="help">Допомога</string>
 
     <!--3.9.5-->
@@ -383,7 +384,7 @@
     <string name="maki_sale_summary">Не втрачайте шанс отримати Maki Plus зі знижкою. Торкніться тут, щоб дізнатись більше.</string>
 
     <string name="maki_update">Доступне оновлення!</string>
-    <string name="maki_update_summary">Отримайте останню версію Maki з покращеннями та виправленнями помилок. Натисніть тут, щоб оновити.</string>
+    <string name="maki_update_summary">Отримайте останню версію Maki з покращеннями та виправленнями помилок в %1$s. Натисніть тут, щоб оновити.</string>
 
     <string name="check_for_updates">Перевіряти наявність оновлень</string>
     <string name="check_for_updates_summary">Отримуйте сповіщення про нові оновлення Maki</string>
@@ -512,4 +513,7 @@
     <string name="wider_images_summary">Збільшити зображення</string>
 
     <string name="log_activity">Журнал активності</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Прибрати TikTok</string>
 </resources>

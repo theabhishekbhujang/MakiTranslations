@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>Koyu mavi (2)</item>
     </string-array>
 
     <string name="addPage">Favorilere ekle</string>
@@ -138,7 +139,7 @@
         3) Sonuçta, bunun hiçbiri işe yaramıyorsa - bize ulaşın! Birlikte en iyi çözümü kesinlikle bulacağız.
         \n\n
         Bizim e-posta: makifeedback@gmail.com\n
-        Facebook sayfası: m.facebook.com/sunshineappsst
+        Facebook sayfası: touch.facebook.com/sunshineappsst
         \n\n
         Saygılarımızla, Sunshine Apps
         \n\n
@@ -160,6 +161,7 @@
     <string name="blacklist_summary">Bildirimleri engellemek için kelimeler listesi</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 saniye</item>
         <item>30 saniye</item>
         <item>60 saniye</item>
         <item>2 dakika</item>
@@ -304,7 +306,6 @@
 
     <string name="see_more_results">Daha fazla sonuç</string>
     <string name="remove_this_ad">Bu reklamı kaldır</string>
-    <string name="no_google_play">Üzgünüz, ama Maki\'yi satın alamazsınız. Google Play hizmetleri cihazınıza yüklenmemiş gibi görünüyor</string>
 
     <!--3.4-->
     <string name="blocked_hours">Sınırlı uygulama kullanımı</string>
@@ -342,8 +343,8 @@
     <!--3.7-->
     <string name="enabled">Etkin</string>
     <!--4.0-->
-    <string name="autoplay_videos">Otomatik oynatma videoları</string>
-    <string name="autoplay_videos_summary">Otomatik oynat videolarını etkinleştirin. Etkinleştirildiğinde videoları indiremez ve paylaşamazsınız.</string>
+    <string name="autoplay_videos">Maki video oynatıcısını devre dışı bırak</string>
+    <string name="autoplay_videos_summary">Etkinleştirildiğinde videoları indiremez ve paylaşamazsınız</string>
 
     <string name="images_play">Maki resim görüntüleyicisini devre dışı bırak</string>
     <string name="images_play_summary">Resmi açmak için resmin altındaki \"Tam boyutlu göster\" düğmesini kullanın.</string>
@@ -362,7 +363,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Anahtar kelime ekle</string>
     <string name="rate_dialog">Oran Maki</string>
-    <string name="rate_dialog_more">Maki\'yi kullanmaktan hoşlanıyor musunuz? Bunu yaparsanız, Google Play\'de onu değerlendirir misiniz? Çok zaman almayacak. Çok teşekkür ederim!</string>
+    <string name="rate_dialog_more">Maki\'yi kullanmaktan hoşlanıyor musunuz? Bunu yaparsanız, %1$s \'de onu değerlendirir misiniz? Çok zaman almayacak. Çok teşekkür ederim!</string>
     <string name="help">Yardım</string>
 
     <!--3.9.5-->
@@ -373,7 +374,7 @@
     <string name="maki_sale_summary">Maki Plus\'ı indirimli fiyatla satın alma şansınızı kaybetmeyin. Almak için buraya dokunun.</string>
 
     <string name="maki_update">Bir güncelleme mevcut!</string>
-    <string name="maki_update_summary">Maki\'nin son sürümünü Google Play\'deki iyileştirmeler ve hata düzeltmeleri ile edinin. Güncellemek için buraya dokunun.</string>
+    <string name="maki_update_summary">Maki\'nin son sürümünü %1$s\'deki iyileştirmeler ve hata düzeltmeleri ile edinin. Güncellemek için buraya dokunun.</string>
 
     <string name="check_for_updates">Güncellemeleri kontrol et</string>
     <string name="check_for_updates_summary">Yeni güncellemeler hakkında bildirim alın</string>
@@ -495,4 +496,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Hareketler Dökümü</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">Saklamak TikTok</string>
 </resources>

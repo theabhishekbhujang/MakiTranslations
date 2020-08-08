@@ -46,6 +46,7 @@
         <item>Google Plus</item>
         <item>VK</item>
         <item>Reddit</item>
+        <item>진한 파란색 (2)</item>
     </string-array>
 
     <string name="addPage">즐겨 찾기에 추가</string>
@@ -137,7 +138,7 @@
         3) 결국 이것이 작동하지 않는다면 저희에게 연락하십시오! 우리는 함께 최상의 솔루션을 찾을 것입니다.
         \n\n
         우리의 이메일 : makifeedback@gmail.com\n
-        페이스 북 페이지 : m.facebook.com/sunshineappsst
+        페이스 북 페이지 : touch.facebook.com/sunshineappsst
         \n\n
         안부와 함께, 선샤인 애플 리케이션.
     </string>
@@ -159,6 +160,7 @@
     <string name="blacklist_summary">알림을 차단할 단어 목록</string>
 
     <string-array name="intervalPrefTitles">
+        <item>10 초</item>
         <item>30 초</item>
         <item>60 초</item>
         <item>2 분</item>
@@ -307,7 +309,6 @@
     <string name="see_more_results">더 많은 결과</string>
     <string name="remove_this_ad">이 광고 삭제</string>
 
-    <string name="no_google_play">미안하지만 마키를 살 수 없어. 기기에 Google Play 서비스가 설치되어 있지 않은 것으로 보입니다.</string>
     <!--3.4-->
     <string name="blocked_hours">제한된 사용</string>
     <string name="blocked_hours_summary">소셜에서 시간을 보내고 싶지 않을 때 시간 간격을 설정하십시오.</string>
@@ -346,8 +347,8 @@
     <string name="enabled">사용</string>
 
     <!--4.0-->
-    <string name="autoplay_videos">동영상 자동 재생</string>
-    <string name="autoplay_videos_summary">자동 재생 동영상을 사용합니다. 사용하도록 설정하면 동영상을 다운로드하고 공유 할 수 없습니다.</string>
+    <string name="autoplay_videos">마키 비디오 플레이어 비활성화</string>
+    <string name="autoplay_videos_summary">사용하도록 설정하면 비디오를 다운로드하고 공유 할 수 없습니다</string>
 
     <string name="images_play">마키 이미지 뷰어 사용 안함</string>
     <string name="images_play_summary">이미지 아래의 \"전체 크기보기\"버튼을 사용하여 사진을 엽니 다.</string>
@@ -366,7 +367,7 @@
     <!--3.9.3-->
     <string name="add_keyword">키워드 추가</string>
     <string name="rate_dialog">평가 Maki</string>
-    <string name="rate_dialog_more">Maki를 즐기십니까? 그렇다면 Google Play에서 그녀를 평가 하시겠습니까? 시간이 많이 걸리지 않습니다. 대단히 감사합니다!</string>
+    <string name="rate_dialog_more"  formatted="true">Maki를 즐기십니까? 그렇다면 %1$s 에서 그녀를 평가 하시겠습니까? 시간이 많이 걸리지 않습니다. 대단히 감사합니다!</string>
     <string name="help">도움</string>
 
     <!--3.9.5-->
@@ -377,7 +378,7 @@
     <string name="maki_sale_summary">할인으로 Maki Plus를받을 수있는 기회를 놓치지 마십시오. 보려면 여기를 누르십시오.</string>
 
     <string name="maki_update">업데이트가 가능합니다!</string>
-    <string name="maki_update_summary">Google Play에서 개선 및 버그 수정이 포함 된 최신 버전의 Maki를 다운로드하십시오. 업데이트하려면 여기를 누르십시오.</string>
+    <string name="maki_update_summary">%1$s에서 개선 및 버그 수정이 포함 된 최신 버전의 Maki를 다운로드하십시오. 업데이트하려면 여기를 누르십시오.</string>
 
     <string name="check_for_updates">업데이트 확인</string>
     <string name="check_for_updates_summary">새로운 업데이트에 대한 알림 받기</string>
@@ -502,4 +503,7 @@
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">활동 로그</string>
+
+    <!--Maki 4.6 Hortensia-->
+    <string name="hide_tiktok">TikTok 숨기기</string>
 </resources>
