@@ -444,7 +444,6 @@
 
     <string name="select_price">選擇價格</string>
     <string name="upgrade_button">只要 %1$s 即可升級</string>
-    <string name="plus_subtitle">移除廣告及更多</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">檔案下載資料夾</string>
