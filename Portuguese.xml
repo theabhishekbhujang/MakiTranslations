@@ -477,11 +477,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Navegador no aplicativo</string>
 
-    <string name="label_main">O que Maki pode fazer com o Plus?</string>
-    <string name="label_ads">Ela bloqueia anúncios</string>
-    <string name="label_night">Ela ativa um tema sombrio à noite</string>
-    <string name="label_support">E ela é tão fofa♥</string>
-
     <string name="plus_menu_label">Obtenha o Maki Plus</string>
     <string name="plus_menu_label_summary">Toque aqui para mais</string>
 
@@ -504,7 +499,7 @@
     <string name="thanks_one">Obrigado!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Uau, muito obrigado!</string>
-    <string name="thanks_four">Uau, você tem certeza?!</string>
+    <string name="thanks_four">Muito obrigado por isso!</string>
 
     <string name="support_developer">Apoiar o desenvolvimento</string>
     <string name="support_developer_summary">O seu apoio é muito importante. Obrigado!</string>
@@ -513,12 +508,27 @@
     <string name="upgrade">Melhoria</string>
 
     <string name="select_price">Selecionar Preço</string>
-    <string name="upgrade_button">Upgrade por apenas %1$s</string>
-    <string name="plus_subtitle">Remova anúncios e muito mais</string>
+    <string name="upgrade_button">Desbloqueie por %1$s</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Registo de atividade</string>
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Ocultar TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Desbloquear Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Atualize sua experiência</string>
+
+    <string name="remove_ads_plus">Desfrute do Facebook e LinkedIn sem anúncios</string>
+    <string name="custom_folder_plus">Selecione pastas personalizadas para downloads</string>
+    <string name="auto_night_theme_plus">Ativar modo noturno automaticamente</string>
+    <string name="limited_app_plus">Contrôle o uso de redes sociais</string>
+    <string name="support_developer_plus">Apoie o desenvolvedor indie</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">O que você ganha?</string>
+    <string name="maki_remove_ads">Desligue os anúncios</string>
 </resources>

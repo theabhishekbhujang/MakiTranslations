@@ -407,11 +407,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">內建瀏覽器</string>
 
-    <string name="label_main">Maki Plus 可以做什麼？</string>
-    <string name="label_ads">她可以屏蔽廣告</string>
-    <string name="label_night">她可以在晚上啟用暗色主题</string>
-    <string name="label_support">她是如此可愛♥</string>
-
     <string name="plus_menu_label">升級到 Maki Plus</string>
     <string name="plus_menu_label_summary">點按此處了解更多資訊</string>
 
@@ -465,7 +460,7 @@
     <string name="clear_cache">清除快取</string>
     <string name="clear_cache_description">清除程式快取。將會登出你的帳戶。</string>
 
-    <string name="disable_selection">禁用文字選取</string>
+    <string name="text_selection">禁用文字選取</string>
     <string name="try_again">請再次嘗試</string>
 
     <!--Maki 4.6.2 Hortensia-->
@@ -496,4 +491,17 @@
     <!--Maki 4.8-->
     <string name="your_network">你的社交網路</string>
     <string name="your_network_summary">點擊管理你新增的社交網路</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">升級您的體驗</string>
+
+    <string name="remove_ads_plus">享受無廣告的Facebook和LinkedIn</string>
+    <string name="custom_folder_plus">選擇要下載的自定義文件夾</string>
+    <string name="auto_night_theme_plus">自動啟用夜間模式</string>
+    <string name="limited_app_plus">控制您對社交網絡的使用</string>
+    <string name="support_developer_plus">支持獨立開發者</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">你得到了什麼？</string>
+    <string name="maki_remove_ads">去除廣告</string>
 </resources>

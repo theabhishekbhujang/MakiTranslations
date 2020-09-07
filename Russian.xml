@@ -471,11 +471,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Внутренний браузер</string>
 
-    <string name="label_main">На что способна Маки с Plus?</string>
-    <string name="label_ads">Она блокирует рекламу</string>
-    <string name="label_night">Она включает темную тему ночью</string>
-    <string name="label_support">И она очень милая♥</string>
-
     <string name="plus_menu_label">Обновитесь на Maki+</string>
     <string name="plus_menu_label_summary">Узнать больше</string>
 
@@ -498,7 +493,7 @@
     <string name="thanks_one">Спасибо!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Вау, спасибо большое!</string>
-    <string name="thanks_four">Вау, Вы уверены?!</string>
+    <string name="thanks_four">Огромнейшее спасибо!</string>
 
     <string name="support_developer">Поддержите разработку</string>
     <string name="support_developer_summary">Ваша поддержка очень важна. Спасибо!</string>
@@ -506,9 +501,8 @@
     <string name="maki_plus_helper_description">Вы можете сделать Maki еще лучше с версией Plus - убрать рекламу, включить автоматическую ночную тему и поддержать будущие обновления.</string>
     <string name="upgrade">Обновить</string>
 
-    <string name="select_price">Выберите цену</string>
-    <string name="upgrade_button">Обновить всего за %1$s</string>
-    <string name="plus_subtitle">Заблокируйте рекламу и больше</string>
+    <string name="select_price">Выберите цену:</string>
+    <string name="upgrade_button">Обновить за %1$s</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">Папка для скачивания файлов</string>
@@ -522,4 +516,19 @@
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Убрать TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Получите Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Полностью новый опыт</string>
+
+    <string name="remove_ads_plus">Наслаждайтесь Facebook и LinkedIn без рекламы</string>
+    <string name="custom_folder_plus">Выбирайте папки для скачивания файлов</string>
+    <string name="auto_night_theme_plus">Включайте ночной режим автоматически</string>
+    <string name="limited_app_plus">Контролируйте использование социальных сетей</string>
+    <string name="support_developer_plus">Поддержите инди-разработчика</string>
+
+    <string name="maki_what_you_get">Что Вы получаете?</string>
+    <string name="maki_remove_ads">Отключение рекламы</string>
 </resources>

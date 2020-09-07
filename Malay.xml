@@ -461,11 +461,6 @@
     <!--Mako 4.2 Hortensia-->
     <string name="open_in">Penyemak imbas dalam apl</string>
 
-    <string name="label_main">Apa yang boleh Mako lakukan dengan Plus?</string>
-    <string name="label_ads">Dia menyekat iklan</string>
-    <string name="label_night">Dia mengaktifkan tema gelap pada waktu malam</string>
-    <string name="label_support">Dan dia sangat comel♥</string>
-
     <string name="plus_menu_label">Naik taraf ke Mako+</string>
     <string name="plus_menu_label_summary">Ketik untuk lebih</string>
 
@@ -498,11 +493,26 @@
 
     <string name="select_price">Pilih Harga</string>
     <string name="upgrade_button">Naik taraf UAH50 %1$s</string>
-    <string name="plus_subtitle">Keluarkan iklan dan banyak lagi</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Rakitry ny Fihetsika</string>
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Sembunyikan TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Dapatkan Mako Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Tingkatkan Pengalaman Anda</string>
+
+    <string name="remove_ads_plus">Nikmati Facebook &amp; LinkedIn tanpa iklan</string>
+    <string name="custom_folder_plus">Pilih folder khusus untuk muat turun</string>
+    <string name="auto_night_theme_plus">Dayakan mod malam secara automatik</string>
+    <string name="limited_app_plus">Kawal penggunaan rangkaian sosial anda</string>
+    <string name="support_developer_plus">Sokong pemaju indie</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Apa yang awak dapat?</string>
+    <string name="maki_remove_ads">Lumpuhkan iklan</string>
 </resources>

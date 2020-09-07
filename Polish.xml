@@ -468,11 +468,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Przeglądarka w aplikacji</string>
 
-    <string name="label_main">Co Maki może zrobić z Plus?</string>
-    <string name="label_ads">Ona blokuje reklamy</string>
-    <string name="label_night">W nocy ona aktywuje ciemny motyw</string>
-    <string name="label_support">I jest taka słodka♥</string>
-
     <string name="plus_menu_label">Uaktualnij do Maki+</string>
     <string name="plus_menu_label_summary">Uzyskaj więcej informacji</string>
 
@@ -495,7 +490,7 @@
     <string name="thanks_one">Dziękuję!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Wow, bardzo dziękuję!</string>
-    <string name="thanks_four">Wow, jesteś pewien?!</string>
+    <string name="thanks_four">Dziękuję bardzo za to!</string>
 
     <string name="support_developer">Wspieraj rozwój</string>
     <string name="support_developer_summary">Wasze wsparcie jest bardzo ważne. Dziękuję!</string>
@@ -505,7 +500,6 @@
 
     <string name="select_price">Wybierz cenę</string>
     <string name="upgrade_button">Zdobądź za %1$s</string>
-    <string name="plus_subtitle">Usuń reklamy i nie tylko</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Dziennik aktywności</string>
@@ -521,7 +515,7 @@
     <string name="choose_pictures_download_folder">Folder pobranych obrazów</string>
     <string name="choose_movies_download_folder">Folder pobranych wideo</string>
 
-    <string name="disable_selection">Zablokuj zaznaczanie tekstu</string>
+    <string name="text_selection">Zablokuj zaznaczanie tekstu</string>
     <string name="clear_cache">Wyczyść pamięć</string>
     <string name="clear_cache_description">yczyść pamięć aplikacji. To spowoduje również wylogowanie cię.</string>
 
@@ -534,4 +528,20 @@
     <string name="hide_ads_more_linkedin">Usuń wszystkie reklamy w kanale wiadomości LinkedIn</string>
     <string name="your_network">Twoje sieci społecznościowe</string>
     <string name="your_network_summary">Stuknij, aby zarządzać sieciami społecznościowymi dodanymi przez Ciebie</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Odblokuj Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Ulepsz swoje doświadczenie</string>
+
+    <string name="remove_ads_plus">Ciesz się Facebookiem i LinkedIn bez reklam</string>
+    <string name="custom_folder_plus">Wybierz niestandardowe foldery do pobrania</string>
+    <string name="auto_night_theme_plus">Włącz tryb nocny automatycznie</string>
+    <string name="limited_app_plus">Kontroluj korzystanie z sieci społecznościowych</string>
+    <string name="support_developer_plus">Wspieraj niezależnego dewelopera</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Co dostajesz?</string>
+    <string name="maki_remove_ads">Wyłącz reklamy</string>
 </resources>

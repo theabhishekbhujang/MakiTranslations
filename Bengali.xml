@@ -462,11 +462,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">ইন অ্যাপ্লিকেশন ব্রাউজার</string>
 
-    <string name="label_main">মাকি প্লাস কেন?</string>
-    <string name="label_ads">সফেসবুক বিজ্ঞাপন ছাড়া</string>
-    <string name="label_night">সস্বয়ংক্রিয় রাতের থিম</string>
-    <string name="label_support">বিকাশকারী সমর্থন♥</string>
-
     <string name="plus_menu_label">আপগ্রেড করুন!</string>
     <string name="plus_menu_label_summary">আরও জানার জন্য আলতো চাপুন</string>
 
@@ -499,7 +494,6 @@
 
     <string name="select_price">মূল্য নির্বাচন করুন</string>
     <string name="upgrade_button">শুধুমাত্র %1$s এর জন্য আপগ্রেড করুন</string>
-    <string name="plus_subtitle">বিজ্ঞাপনগুলি এবং আরও অনেক কিছু সরান</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">ফাইল ডাউনলোড ফোল্ডার</string>
@@ -513,4 +507,20 @@
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">TikTok লুকান</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">মাকি প্লাস আনলক করুন</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">আপনার অভিজ্ঞতা আপগ্রেড করুন</string>
+
+    <string name="remove_ads_plus">বিজ্ঞাপন ছাড়াই ফেসবুক এবং লিঙ্কডইন উপভোগ করুন</string>
+    <string name="custom_folder_plus">ডাউনলোডের জন্য কাস্টম ফোল্ডার নির্বাচন করুন</string>
+    <string name="auto_night_theme_plus">ডার্ক মোড স্বয়ংক্রিয়ভাবে সক্ষম করুন</string>
+    <string name="limited_app_plus">আপনার সামাজিক নেটওয়ার্কগুলির ব্যবহার নিয়ন্ত্রণ করুন</string>
+    <string name="support_developer_plus">সমর্থন ইনডি বিকাশকারী</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">কী পাবে?</string>
+    <string name="maki_remove_ads">বিজ্ঞাপন অক্ষম করুন</string>
 </resources>

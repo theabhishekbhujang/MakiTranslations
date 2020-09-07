@@ -484,11 +484,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">متصفح داخل التطبيق</string>
 
-    <string name="label_main">ماذا يمكن أن تفعل ماكي مع بلس؟</string>
-    <string name="label_ads">انها كتل الإعلانات</string>
-    <string name="label_night">انها ينشط موضوع الظلام في الليل</string>
-    <string name="label_support">وانها لطيفة جدا♥</string>
-
     <string name="plus_menu_label">الترقية إلى Maki Plus</string>
     <string name="plus_menu_label_summary">اضغط هنا لمعرفة المزيد</string>
 
@@ -521,7 +516,6 @@
 
     <string name="select_price">اختر السعر</string>
     <string name="upgrade_button">الترقية فقط %1$s</string>
-    <string name="plus_subtitle">إزالة الإعلانات وأكثر من ذلك</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">مجلد تنزيل الملفات</string>
@@ -535,4 +529,20 @@
 
     <!--Maki 4.6.3 Hortensia-->
     <string name="hide_tiktok">إخفاء TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">افتح ماكي بلس</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">قم بترقية تجربتك</string>
+
+    <string name="remove_ads_plus">استمتع بـ Facebook و LinkedIn بدون إعلانات</string>
+    <string name="custom_folder_plus">حدد مجلدات مخصصة للتنزيل</string>
+    <string name="auto_night_theme_plus">قم بتشغيل الوضع المظلم تلقائيًا</string>
+    <string name="limited_app_plus">تحكم في استخدامك للشبكات الاجتماعية</string>
+    <string name="support_developer_plus">دعم مطور إيندي</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">ماذا ستحصل؟</string>
+    <string name="maki_remove_ads">عطل الاعلانات</string>
 </resources>

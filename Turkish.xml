@@ -455,11 +455,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Uygulama içi tarayıcı</string>
 
-    <string name="label_main">Maki Plus ile neler yapabilir?</string>
-    <string name="label_ads">Reklamları engeller</string>
-    <string name="label_night">Geceleri karanlık bir temayı aktive ediyor</string>
-    <string name="label_support">Ve o çok tatlı♥</string>
-
     <string name="plus_menu_label">Maki Plus\'a yükseltme</string>
     <string name="plus_menu_label_summary">Daha fazla bilgi edin</string>
 
@@ -492,11 +487,26 @@
 
     <string name="select_price">Fiyat Seçin</string>
     <string name="upgrade_button">%1$s için satın al</string>
-    <string name="plus_subtitle">Reklamları ve daha fazlasını kaldırın</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Hareketler Dökümü</string>
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Saklamak TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Maki Plus\'ı edinin</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Deneyiminizi Yükseltin</string>
+
+    <string name="remove_ads_plus">Facebook ve LinkedIn reklamsız keyfini çıkarın</string>
+    <string name="custom_folder_plus">İndirmeler için özel klasörler seçin</string>
+    <string name="auto_night_theme_plus">Gece modunu otomatik olarak etkinleştirin</string>
+    <string name="limited_app_plus">Sosyal ağ kullanımınızı kontrol edin</string>
+    <string name="support_developer_plus">Bağımsız geliştirici yi destekleyin</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Siz ne alırsınız?</string>
+    <string name="maki_remove_ads">Reklamın kaldırılması</string>
 </resources>

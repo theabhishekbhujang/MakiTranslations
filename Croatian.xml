@@ -464,11 +464,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Preglednik u aplikaciji</string>
 
-    <string name="label_main">Što Maki može učiniti s Plusom?</string>
-    <string name="label_ads">Blokira oglase</string>
-    <string name="label_night">Noću aktivira tamnu temu</string>
-    <string name="label_support">A ona je tako slatka♥</string>
-
     <string name="plus_menu_label">Nadogradite na Maki+</string>
     <string name="plus_menu_label_summary">Dodirnite ovdje za više</string>
 
@@ -501,10 +496,25 @@
 
     <string name="select_price">Odaberite cijenu</string>
     <string name="upgrade_button">Nadogradite za %1$s</string>
-    <string name="plus_subtitle">Uklanjanje oglasa i više</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Dnevnik aktivnosti</string>
 
     <string name="hide_tiktok">Sakrij TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Otključajte Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Nadogradite svoje iskustvo</string>
+
+    <string name="remove_ads_plus">Uživajte u Facebooku i LinkedInu bez oglasa</string>
+    <string name="custom_folder_plus">Odaberite prilagođene mape za preuzimanje</string>
+    <string name="auto_night_theme_plus">Uključite noćni način rada automatski</string>
+    <string name="limited_app_plus">Kontrolirajte svoje korištenje društvenih mreža</string>
+    <string name="support_developer_plus">Podrška indie programera</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Što dobivaš?</string>
+    <string name="maki_remove_ads">Onemogući oglase</string>
 </resources>

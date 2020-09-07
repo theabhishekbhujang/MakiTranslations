@@ -457,11 +457,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Prohlížeč v aplikaci</string>
 
-    <string name="label_main">Co může Maki dělat s Plus?</string>
-    <string name="label_ads">Blokuje reklamy</string>
-    <string name="label_night">V noci aktivuje temné téma</string>
-    <string name="label_support">A ona je tak roztomilá♥</string>
-
     <string name="plus_menu_label">Upgradujte na Maki Plus</string>
     <string name="plus_menu_label_summary">Klepnutím sem získáte další informace</string>
 
@@ -494,11 +489,26 @@
 
     <string name="select_price">Vyberte cenu</string>
     <string name="upgrade_button">Upgradujte pouze za %1$s</string>
-    <string name="plus_subtitle">Odstraňte reklamy a další</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Záznamy o aktivitách</string>
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Skrýt TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Odemkněte Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Upgradujte své zkušenosti</string>
+
+    <string name="remove_ads_plus">Užijte si Facebook a LinkedIn bez reklam</string>
+    <string name="custom_folder_plus">Vyberte vlastní složky ke stažení</string>
+    <string name="auto_night_theme_plus">Automaticky aktivujte tmavý režim</string>
+    <string name="limited_app_plus">Ovládání využití sociálních sítí</string>
+    <string name="support_developer_plus">Podpora nezávislého vývojáře</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Co dostaneš?</string>
+    <string name="maki_remove_ads">Zakázat reklamy</string>
 </resources>

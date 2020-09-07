@@ -415,11 +415,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Navigare în aplicație</string>
 
-    <string name="label_main">Ce poate face Maki cu Plus?</string>
-    <string name="label_ads">Blochează reclame</string>
-    <string name="label_night">Ea activează o temă întunecată noaptea</string>
-    <string name="label_support">Și este atât de drăguță♥</string>
-
     <string name="plus_menu_label">Obțineți Maki Plus</string>
     <string name="plus_menu_label_summary">Atingeți aici pentru mai multe</string>
 
@@ -452,11 +447,26 @@
 
     <string name="select_price">Selectați Preț</string>
     <string name="upgrade_button">Upgrade pentru %1$s</string>
-    <string name="plus_subtitle">Eliminați publicitatea și multe altele</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Jurnal de activităţi</string>
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Ascunde TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Deblocați Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Îmbunătățiți-vă experiența</string>
+
+    <string name="remove_ads_plus">Bucurați-vă de Facebook și LinkedIn fără reclame</string>
+    <string name="custom_folder_plus">Selecteaza folderele personalizate pentru descărcări</string>
+    <string name="auto_night_theme_plus">Activați modul de noapte automat</string>
+    <string name="limited_app_plus">Controlați-vă utilizarea rețelelor sociale</string>
+    <string name="support_developer_plus">Sprijină dezvoltatorul indie</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Ce obții?</string>
+    <string name="maki_remove_ads">Eliminarea publicității</string>
 </resources>

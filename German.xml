@@ -82,7 +82,7 @@
     <string name="copy_url">In die Zwischenablage kopieren</string>
     <string name="download">Download</string>
     <string name="removed">Entfernt</string>
-    <string name="auto_night_title">Automatisches Dunkles Design</string>
+    <string name="auto_night_title">Auto Nacht Thema</string>
     <string name="auto_night_more">Dunkles Design wird automatisch im ausgewählten Zeitpunkt aktiviert</string>
     <string name="save_to">Gespeichert in:</string>
     <string name="font_size">Schriftgröße</string>
@@ -460,11 +460,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">In-App Browser</string>
 
-    <string name="label_main">Was kann Maki mit Plus machen?</string>
-    <string name="label_ads">Sie blockiert Werbung</string>
-    <string name="label_night">Sie aktiviert ein dunkles Design</string>
-    <string name="label_support">Und sie ist so süß♥</string>
-
     <string name="plus_menu_label">Upgraden auf Maki Plus</string>
     <string name="plus_menu_label_summary">Tippe hier um mehr darüber zu erfahren</string>
 
@@ -487,7 +482,7 @@
     <string name="thanks_one">Danke!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Wow vielen Dank!</string>
-    <string name="thanks_four">Wow, bist du sicher?!</string>
+    <string name="thanks_four">Ich danke dir sehr!</string>
 
     <string name="support_developer">Entwicklung unterstützen</string>
     <string name="support_developer_summary">Deine Unterstützung ist sehr wichtig. Vielen Dank!</string>
@@ -496,8 +491,7 @@
     <string name="upgrade">Upgrade</string>
 
     <string name="select_price">Preis auswählen</string>
-    <string name="upgrade_button">Upgrade für nur %1$s</string>
-    <string name="plus_subtitle">Werbung entfernen und mehr</string>
+    <string name="upgrade_button">Upgrade für %1$s</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">Downloadverzeichnis für Dateien</string>
@@ -517,7 +511,7 @@
     <!--Maki 4.6 Hortensia-->
     <string name="clear_cache">Cache löschen</string>
     <string name="clear_cache_description">Cache löschen wird dich auch ausloggen.</string>
-    <string name="disable_selection">Textauswahl deaktivieren</string>
+    <string name="text_selection">Textauswahl deaktivieren</string>
 
     <string name="try_again">Bitte, versuche es erneut</string>
     <string name="select_picture">Bild auswählen</string>
@@ -543,4 +537,20 @@
         <item>AMOLED</item>
         <item>Dunkelblau (2)</item>
     </string-array>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Schalte Maki Plus frei</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Verbessere deine Erfahrung</string>
+
+    <string name="remove_ads_plus">Genießen Sie Facebook &amp; LinkedIn ohne Werbung</string>
+    <string name="custom_folder_plus">Wählen Sie benutzerdefinierte Ordner zum Herunterladen aus</string>
+    <string name="auto_night_theme_plus">Aktivieren Sie den Dunkelmodus automatisch</string>
+    <string name="limited_app_plus">Kontrollieren Sie Ihre Nutzung sozialer Netzwerke</string>
+    <string name="support_developer_plus">Support indie developer</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Was bekommst du?</string>
+    <string name="maki_remove_ads">Werbungen ausschalten</string>
 </resources>

@@ -486,11 +486,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">In-app browser</string>
 
-    <string name="label_main">Cosa può fare Maki con Plus?</string>
-    <string name="label_ads">Blocca le pubblicità</string>
-    <string name="label_night">Attiva un tema oscuro di notte</string>
-    <string name="label_support">Ed è così carina♥</string>
-
     <string name="plus_menu_label">Passa a Maki Plus</string>
     <string name="plus_menu_label_summary">Tocca di più</string>
 
@@ -523,7 +518,6 @@
 
     <string name="select_price">Seleziona il prezzo</string>
     <string name="upgrade_button">Aggiornamento per %1$s</string>
-    <string name="plus_subtitle">Rimuovi annunci e altro</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">Cartella di download dei file</string>
@@ -537,5 +531,20 @@
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Nascondere TikTok</string>
-</resources>
 
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Sblocca Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Migliora la tua esperienza</string>
+
+    <string name="remove_ads_plus">Goditi Facebook e LinkedIn senza pubblicità</string>
+    <string name="custom_folder_plus">Seleziona cartelle personalizzate per i download</string>
+    <string name="auto_night_theme_plus">Abilita automaticamente la modalità notturna</string>
+    <string name="limited_app_plus">Controlla il tuo utilizzo dei social network</string>
+    <string name="support_developer_plus">Supporta lo sviluppatore indipendente</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Che cosa ottieni?</string>
+    <string name="maki_remove_ads">Disattiva gli annunci</string>
+</resources>

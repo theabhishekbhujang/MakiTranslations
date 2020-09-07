@@ -417,11 +417,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Beépített böngésző</string>
 
-    <string name="label_main">Mit tehet Maki a Plus-szal?</string>
-    <string name="label_ads">Blokkolja a hirdetéseket</string>
-    <string name="label_night">Éjjel aktivál egy sötét témát</string>
-    <string name="label_support">És annyira aranyos♥</string>
-
     <string name="plus_menu_label">Frissítsen a Maki+</string>
     <string name="plus_menu_label_summary">Érintse meg a információkat</string>
 
@@ -454,11 +449,26 @@
 
     <string name="select_price">Válassza ki az árat</string>
     <string name="upgrade_button">Frissítés csak az %1$s</string>
-    <string name="plus_subtitle">Távolítsa el a hirdetéseket és így tovább</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">Tevékenységnapló</string>
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">TikTok elrejtése</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Kinyit Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Frissítse tapasztalatait</string>
+
+    <string name="remove_ads_plus">Élvezze a Facebookot és a LinkedIn-et hirdetések nélkül</string>
+    <string name="custom_folder_plus">Válasszon egyéni mappákat a letöltésekhez</string>
+    <string name="auto_night_theme_plus">Az éjszakai mód automatikus engedélyezése</string>
+    <string name="limited_app_plus">Irányítsd a közösségi hálózatok használatát</string>
+    <string name="support_developer_plus">Támogassa az indie fejlesztőt</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Mit kapsz?</string>
+    <string name="maki_remove_ads">Tiltsa le a hirdetéseket</string>
 </resources>

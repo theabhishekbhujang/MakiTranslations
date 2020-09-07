@@ -465,11 +465,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Внутрішній браузер</string>
 
-    <string name="label_main">На що здатна Maki з Plus?</string>
-    <string name="label_ads">Вона блокує рекламу</string>
-    <string name="label_night">Вона вмикає темну тему вночі</string>
-    <string name="label_support">А ще вона дуже мила♥</string>
-
     <string name="plus_menu_label">Оновіться до Maki Plus</string>
     <string name="plus_menu_label_summary">Дізнатись більше</string>
 
@@ -492,7 +487,7 @@
     <string name="thanks_one">Дякую!</string>
     <string name="thanks_two">@string/thanks</string>
     <string name="thanks_three">Вау, спасибі велике!</string>
-    <string name="thanks_four">Вау, Ви впевнені?!</string>
+    <string name="thanks_four">Величезне спасибі!</string>
 
     <string name="support_developer">Підтримайте розробку</string>
     <string name="support_developer_summary">Ваша підтримка неймовірно важлива. Спасибі!</string>
@@ -500,9 +495,8 @@
     <string name="maki_plus_helper_description">Ви можете зробити Maki ще краще за допомогою версії Plus - прибрати рекламу, включити автоматичну нічну тему та підтримати майбутні оновлення.</string>
     <string name="upgrade">Оновити</string>
 
-    <string name="select_price">Оберіть вартість</string>
-    <string name="upgrade_button">Оновити усього за %1$s</string>
-    <string name="plus_subtitle">Приберіть рекламу та більше</string>
+    <string name="select_price">Оберіть вартість:</string>
+    <string name="upgrade_button">Оновити за %1$s</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">Папка для зберігання файлів</string>
@@ -516,4 +510,20 @@
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">Прибрати TikTok</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Отримайте Maki Plus</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Абсолютно новий досвід</string>
+
+    <string name="remove_ads_plus">Насолоджуйтесь Facebook та LinkedIn без реклами</string>
+    <string name="custom_folder_plus">Обирайте папки для завантаження файлів</string>
+    <string name="auto_night_theme_plus">Вмикайте нічний режим автоматично</string>
+    <string name="limited_app_plus">Контролюйте Ваш час в соціальних мережах</string>
+    <string name="support_developer_plus">Підтримайте інді-розробника</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">Що ви отримуєте?</string>
+    <string name="maki_remove_ads">Видалення реклами</string>
 </resources>

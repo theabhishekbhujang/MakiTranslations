@@ -462,11 +462,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">인앱 브라우저</string>
 
-    <string name="label_main">Maki는 Plus로 무엇을 할 수 있습니까?</string>
-    <string name="label_ads">그녀는 광고를 차단</string>
-    <string name="label_night">그녀는 밤에 어두운 테마를 활성화.</string>
-    <string name="label_support">그리고 그녀는 너무 귀엽다♥</string>
-
     <string name="plus_menu_label">Maki+ 로 업그레이드</string>
     <string name="plus_menu_label_summary">더 보려면 여기를 누르십시오</string>
 
@@ -499,11 +494,26 @@
 
     <string name="select_price">가격 선택</string>
     <string name="upgrade_button">Upgrade for only %1$s</string>
-    <string name="plus_subtitle">광고 등을 제거</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="log_activity">활동 로그</string>
 
     <!--Maki 4.6 Hortensia-->
     <string name="hide_tiktok">TikTok 숨기기</string>
+
+    <!--Maki 4.8 Marigold-->
+    <string name="unlock_maki_plus">Maki Plus 받기</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">새로운 Facebook 경험</string>
+
+    <string name="remove_ads_plus">광고없이 Facebook 및 LinkedIn 즐기기</string>
+    <string name="custom_folder_plus">다운로드 할 사용자 지정 폴더 선택</string>
+    <string name="auto_night_theme_plus">자동으로 야간 모드 활성화</string>
+    <string name="limited_app_plus">소셜 네트워크 사용 제어</string>
+    <string name="support_developer_plus">인디 개발자 지원</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="maki_what_you_get">당신은 무엇을 얻습니까?</string>
+    <string name="maki_remove_ads">광고 비활성화</string>
 </resources>

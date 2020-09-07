@@ -65,8 +65,8 @@
     <string name="permission_denied">Permission denied. This action can\'t be complete.</string>
     <string name="save_img">Save</string>
     <string name="download_manager_disabled">Download Manager Disabled</string>
-    <string name="hide_ads">Remove Sponsored Posts</string>
-    <string name="hide_ads_more">Remove all advertising in Facebook news feed</string>
+    <string name="hide_ads">Remove Advertising</string>
+    <string name="hide_ads_more">Remove Facebook advertising from your news feed</string>
     <string name="exit_message">Are you sure want to close Maki?</string>
     <string name="welcome">Hello</string>
     <string name="saved_pin_message">If you forget your pin, please clear Maki data from your phone\'s application manager.</string>
@@ -251,6 +251,7 @@
     <string name="special">Special</string>
     <string name="hide_linkedin">Hide LinkedIn</string>
 
+
     <string name="features_beta">Options in beta</string>
     <string name="features_beta_summary">Those options are still developing and may not be stable, so try them only if you really want to!</string>
     <string name="warning">Warning!</string>
@@ -301,10 +302,10 @@
 
     <!--3.3-->
     <string name="see_more_results">More results</string>
-    <string name="remove_this_ad">Remove this ad</string>
+    <string name="remove_this_ad">Tap to remove this ad</string>
 
     <!--3.4-->
-    <string name="blocked_hours">Limited app usage</string>
+    <string name="blocked_hours">Limit your app usage</string>
     <string name="blocked_hours_summary">Set time intervals when you do not want to spend your time in socials</string>
 
     <string name="blocked_hours_notify">Notify</string>
@@ -459,11 +460,6 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">In-app browser</string>
 
-    <string name="label_main">What can Maki do with Plus?</string>
-    <string name="label_ads">She blocks ads</string>
-    <string name="label_night">She turns a dark theme at night</string>
-    <string name="label_support">And she is so cute♥</string>
-
     <string name="plus_menu_label">Upgrade to Maki Plus</string>
     <string name="plus_menu_label_summary">Tap here to learn more</string>
 
@@ -494,9 +490,8 @@
     <string name="maki_plus_helper_description">You can make Maki even better with Plus version - remove advertising, enable automatic night theme and support future updates.</string>
     <string name="upgrade">Upgrade</string>
 
-    <string name="select_price">Select Price</string>
-    <string name="upgrade_button">Upgrade for only %1$s</string>
-    <string name="plus_subtitle">Remove ads and more</string>
+    <string name="select_price">Select Price:</string>
+    <string name="upgrade_button">Unlock for %1$s</string>
 
     <!--Maki 4.5 Hortensia-->
     <string name="choose_files_download_folder">Files Download Folder</string>
@@ -516,7 +511,6 @@
     <!--Maki 4.6 Hortensia-->
     <string name="clear_cache">Clear cache</string>
     <string name="clear_cache_description">Clear app cache. It will also log you out.</string>
-    <string name="disable_selection">Disable text selection</string>
 
     <string name="try_again">Please, try again</string>
     <string name="select_picture">Select picture</string>
@@ -549,4 +543,32 @@
     <!--Maki 4.8-->
     <string name="your_network">Your social networks</string>
     <string name="your_network_summary">Tap to manage social networks added by you</string>
+
+    <string name="unlock_maki_plus">Unlock Maki Plus</string>
+
+    <!--Maki 4.8.1 Marigold-->
+    <string name="bookmark_icon">Bookmark icon</string>
+
+    <!--Maki 4.8.2 Marigold-->
+    <string name="live_video">Live videos</string>
+    <string name="search_videos">Search videos</string>
+
+    <!--New Maki Plus labels-->
+    <string name="upgrade_your_maki">Upgrade Your Experience</string>
+
+    <string name="remove_ads_plus">Enjoy Facebook &amp; LinkedIn without ads</string>
+    <string name="custom_folder_plus">Select custom folders for downloads</string>
+    <string name="auto_night_theme_plus">Enable night mode automatically</string>
+    <string name="limited_app_plus">Control your usage of social networks</string>
+    <string name="support_developer_plus">Support indie developer</string>
+
+    <!--Maki  4.8.3 Marigold-->
+    <string name="text_selection">Disable text selection</string>
+
+    <!--Maki 4.8.4 Marigold-->
+    <string name="search_suggestions">Search suggestions</string>
+    <string name="home_screen">Home screen </string>
+
+    <string name="maki_what_you_get">What will you get?</string>
+    <string name="maki_remove_ads">Block advertising</string>
 </resources>
