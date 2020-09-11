@@ -403,7 +403,7 @@
 
     <string name="messenger_slow">Bei langsamer Verbindung</string>
     <string name="messenger_slow_summary">Den Einfachten Messenger bei langsamer Verbindung benutzen</string>
-    <string name="messenger_network">Im Mobilfunknetzt</string>
+    <string name="messenger_network">Im Mobilfunknetz</string>
     <string name="messenger_network_summary">Den Einfachten Messenger im Mobilfunknetz benutzen</string>
 
     <string name="got_it">Verstanden</string>
