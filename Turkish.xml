@@ -509,4 +509,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">Siz ne alırsınız?</string>
     <string name="maki_remove_ads">Reklamın kaldırılması</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Temel</item>
+        <item>Orta</item>
+        <item>Yüksek</item>
+        <item>Ultra</item>
+    </array>
 </resources>

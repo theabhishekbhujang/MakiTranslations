@@ -523,4 +523,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">কী পাবে?</string>
     <string name="maki_remove_ads">বিজ্ঞাপন অক্ষম করুন</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>বেসিক</item>
+        <item>মধ্যম</item>
+        <item>উচ্চ</item>
+        <item>আল্ট্রা</item>
+    </array>
 </resources>

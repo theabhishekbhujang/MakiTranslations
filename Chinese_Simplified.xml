@@ -519,4 +519,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">你得到了什么？</string>
     <string name="maki_remove_ads">去除广告</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>基本的</item>
+        <item>中</item>
+        <item>高</item>
+        <item>超</item>
+    </array>
 </resources>

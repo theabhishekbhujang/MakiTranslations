@@ -517,4 +517,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">Što dobivaš?</string>
     <string name="maki_remove_ads">Onemogući oglase</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Bazični</item>
+        <item>Dobro</item>
+        <item>Sjajno</item>
+        <item>Super</item>
+    </array>
 </resources>

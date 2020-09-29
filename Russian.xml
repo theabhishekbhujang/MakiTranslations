@@ -531,4 +531,12 @@
 
     <string name="maki_what_you_get">Что Вы получаете?</string>
     <string name="maki_remove_ads">Отключение рекламы</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Базовая</item>
+        <item>Средняя</item>
+        <item>Высокая</item>
+        <item>Ультра</item>
+    </array>
 </resources>

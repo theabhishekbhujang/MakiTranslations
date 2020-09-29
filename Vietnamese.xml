@@ -506,4 +506,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">Bạn được những gì?</string>
     <string name="maki_remove_ads">Loại bỏ quảng cáo</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Căn bản</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
+        <item>Cực kỳ</item>
+    </array>
 </resources>

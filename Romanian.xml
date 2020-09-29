@@ -469,4 +469,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">Ce obții?</string>
     <string name="maki_remove_ads">Eliminarea publicității</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Bazic</item>
+        <item>Mediu</item>
+        <item>Înalt</item>
+        <item>Ultra</item>
+    </array>
 </resources>

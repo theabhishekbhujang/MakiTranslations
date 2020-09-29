@@ -367,9 +367,6 @@
     <string name="disable_swipe_tabs">禁用滑動</string>
     <string name="disable_swipe_tabs_summary">在 Maki 主介面上的頁面之間禁用滑動</string>
 
-    <string name="maki_sale">Maki Plus 正在促銷！</string>
-    <string name="maki_sale_summary">不要錯過以折扣價購格買 Maki Plus 副本的機會。點擊此處取得它。</string>
-
     <string name="check_for_updates">檢查更新</string>
     <string name="check_for_updates_summary">取得關於 Maki 更新的通知</string>
 
@@ -572,4 +569,12 @@
 
     <string name="maki_what_you_get">你得到了什麼？</string>
     <string name="maki_remove_ads">去除廣告</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>基本的</item>
+        <item>中</item>
+        <item>高</item>
+        <item>超</item>
+    </array>
 </resources>

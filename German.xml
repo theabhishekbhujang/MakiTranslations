@@ -403,7 +403,7 @@
 
     <string name="messenger_slow">Bei langsamer Verbindung</string>
     <string name="messenger_slow_summary">Den Einfachten Messenger bei langsamer Verbindung benutzen</string>
-    <string name="messenger_network">Im Mobilfunknetz</string>
+    <string name="messenger_network">Im Mobilfunknetzt</string>
     <string name="messenger_network_summary">Den Einfachten Messenger im Mobilfunknetz benutzen</string>
 
     <string name="got_it">Verstanden</string>
@@ -553,4 +553,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">Was bekommst du?</string>
     <string name="maki_remove_ads">Werbungen ausschalten</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Basic</item>
+        <item>Mittel</item>
+        <item>Hoch</item>
+        <item>Ultra</item>
+    </array>
 </resources>

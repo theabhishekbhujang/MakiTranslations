@@ -517,4 +517,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">आपको क्या मिलेगा?</string>
     <string name="maki_remove_ads">विज्ञापन अक्षम करें</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>बुनियादी</item>
+        <item>अच्छा</item>
+        <item>उच्च</item>
+        <item>उत्तम</item>
+    </array>
 </resources>

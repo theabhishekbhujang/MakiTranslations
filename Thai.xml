@@ -509,4 +509,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">คุณจะได้อะไร?</string>
     <string name="maki_remove_ads">การลบโฆษณา</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>ขั้นพื้นฐาน</item>
+        <item>ปานกลาง</item>
+        <item>สูง</item>
+        <item>อัลตร้า</item>
+    </array>
 </resources>

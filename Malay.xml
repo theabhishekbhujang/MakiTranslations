@@ -515,4 +515,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">Apa yang awak dapat?</string>
     <string name="maki_remove_ads">Lumpuhkan iklan</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Asas</item>
+        <item>Sedang</item>
+        <item>Tinggi</item>
+        <item>Ultra</item>
+    </array>
 </resources>

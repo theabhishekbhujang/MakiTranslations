@@ -571,4 +571,21 @@
 
     <string name="maki_what_you_get">What will you get?</string>
     <string name="maki_remove_ads">Block advertising</string>
+
+    <!--Maki 4.8.5 Marigold-->
+    <string name="jobs">Jobs</string>
+
+    <!--Maki 4.8.6 Marigold-->
+    <string name="downloader">Downloader</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Basic</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Ultra</item>
+    </array>
+
+    <string name="open_on_new_page">Open on new page</string>
+    <string name="open_on_new_page_summary">Open Facebook pages on a new screen</string>
 </resources>

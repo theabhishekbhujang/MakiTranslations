@@ -516,4 +516,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">당신은 무엇을 얻습니까?</string>
     <string name="maki_remove_ads">광고 비활성화</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>기본</item>
+        <item>매질</item>
+        <item>높은</item>
+        <item>극단론자</item>
+    </array>
 </resources>

@@ -535,4 +535,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">何を手に入れますか？</string>
     <string name="maki_remove_ads">広告を無効にする</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>ベーシック</item>
+        <item>中</item>
+        <item>高い</item>
+        <item>ウルトラ</item>
+    </array>
 </resources>

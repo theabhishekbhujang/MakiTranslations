@@ -538,4 +538,12 @@
     <!--Maki 4.8.4 Marigold-->
     <string name="maki_what_you_get">¿Qué sacas?</string>
     <string name="maki_remove_ads">Desactivar los anuncios</string>
+
+    <!--Maki 4.8.7 Marigold-->
+    <array name="price_titles">
+        <item>Básico</item>
+        <item>Medio</item>
+        <item>Alto</item>
+        <item>Ultra</item>
+    </array>
 </resources>
