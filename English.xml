@@ -62,14 +62,14 @@
     <string name="context_copy_image_link">Copy link</string>
     <string name="context_share_image_progress">Preparing&#8230;</string>
     <string name="content_copy_link_done">Link copied to a clipboard</string>
-    <string name="permission_denied">Permission denied. This action can\'t be complete.</string>
+    <string name="permission_denied">Permission denied. This action can't be complete.</string>
     <string name="save_img">Save</string>
     <string name="download_manager_disabled">Download Manager Disabled</string>
     <string name="hide_ads">Remove Advertising</string>
     <string name="hide_ads_more">Remove Facebook advertising from your news feed</string>
     <string name="exit_message">Are you sure want to close Maki?</string>
     <string name="welcome">Hello</string>
-    <string name="saved_pin_message">If you forget your pin, please clear Maki data from your phone\'s application manager.</string>
+    <string name="saved_pin_message">If you forget your pin, please clear Maki data from your phone's application manager.</string>
 
     <string name="pin_code_step_disable">Disable passcode</string>
     <string name="pin_code_step_create">Create a passcode</string>
@@ -101,7 +101,7 @@
 
     <string name="locked">Locked</string>
     <string name="please_enter_passcode">Enter a passcode</string>
-    <string name="lets_do_it">Let\'s do it!</string>
+    <string name="lets_do_it">Let's do it!</string>
     <string name="later">Later</string>
 
     <string name="start">Dive in</string>
@@ -131,9 +131,9 @@
         We have a few possible solutions:\n\n
         1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
         \n\n
-        2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
+        2) If the first solution doesn't work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won't spend your money again, don't worry). After that restart application and try to enable any Plus feature.
         \n\n
-        3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
+        3) After all, if nothing of this doesn't work - contact us! We will definitely find the best solution together.
         \n\n
         Our email: makifeedback@gmail.com\n
         Facebook page: touch.facebook.com/sunshineappsst
@@ -176,7 +176,7 @@
     <!--2.4.3-->
     <string name="fab_text">Post a status</string>
     <string name="done">Done!</string>
-    <string name="facebook_limit">Sorry, but Facebook doesn\'t allow you to share simple text at this moment - only links!</string>
+    <string name="facebook_limit">Sorry, but Facebook doesn't allow you to share simple text at this moment - only links!</string>
     <!--2.4.6-->
     <string name="font_details">Enter font size in a range from 50 to 170 %</string>
     <string name="problems_with_purchase">Problems with purchase?</string>
