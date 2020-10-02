@@ -5,7 +5,7 @@
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="choose_email_client">Choose e-mail client</string>
-    <string name="no_network">You\'re not online.</string>
+    <string name="no_network">You're not online.</string>
     <string name="title_activity_settings">Settings</string>
     <string name="preference_about_category">About</string>
     <string name="share_action">Share</string>
@@ -62,14 +62,14 @@
     <string name="context_copy_image_link">Copy link</string>
     <string name="context_share_image_progress">Preparing&#8230;</string>
     <string name="content_copy_link_done">Link copied to a clipboard</string>
-    <string name="permission_denied">Permission denied. This action can\'t be complete.</string>
+    <string name="permission_denied">Permission denied. This action can't be complete.</string>
     <string name="save_img">Save</string>
     <string name="download_manager_disabled">Download Manager Disabled</string>
     <string name="hide_ads">Remove Advertising</string>
     <string name="hide_ads_more">Remove Facebook advertising from your news feed</string>
     <string name="exit_message">Are you sure want to close Maki?</string>
     <string name="welcome">Hello</string>
-    <string name="saved_pin_message">If you forget your pin, please clear Maki data from your phone\'s application manager.</string>
+    <string name="saved_pin_message">If you forget your pin, please clear Maki data from your phone's application manager.</string>
 
     <string name="pin_code_step_disable">Disable passcode</string>
     <string name="pin_code_step_create">Create a passcode</string>
@@ -131,9 +131,9 @@
         We have a few possible solutions:\n\n
         1) Restart Maki. Just close an application and launch it from scratch, open settings and try to enable any Plus feature.
         \n\n
-        2) If the first solution doesn\'t work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
+        2) If the first solution doesn't work - try to click on "Buy Maki Plus" again. This action will restore your purchase (you won\'t spend your money again, don\'t worry). After that restart application and try to enable any Plus feature.
         \n\n
-        3) After all, if nothing of this doesn\'t work - contact us! We will definitely find the best solution together.
+        3) After all, if nothing of this doesn't work - contact us! We will definitely find the best solution together.
         \n\n
         Our email: makifeedback@gmail.com\n
         Facebook page: touch.facebook.com/sunshineappsst
@@ -168,6 +168,7 @@
         <item>1 hour</item>
         <item>3 hours</item>
         <item>6 hours</item>
+        <item>8 hours</item>
     </string-array>
 
     <!--2.4.2-->
@@ -176,7 +177,7 @@
     <!--2.4.3-->
     <string name="fab_text">Post a status</string>
     <string name="done">Done!</string>
-    <string name="facebook_limit">Sorry, but Facebook doesn\'t allow you to share simple text at this moment - only links!</string>
+    <string name="facebook_limit">Sorry, but Facebook doesn't allow you to share simple text at this moment - only links!</string>
     <!--2.4.6-->
     <string name="font_details">Enter font size in a range from 50 to 170 %</string>
     <string name="problems_with_purchase">Problems with purchase?</string>
@@ -196,7 +197,7 @@
     <string name="hide_groups">Recommended groups</string>
     <string name="hide_groups_summary">Remove suggested groups from the news feed</string>
     <string name="hide_news_feed">Hide News Feed</string>
-    <string name="hide_news_feed_summary">For those who don\'t want to waste time in a news feed!</string>
+    <string name="hide_news_feed_summary">For those who don't want to waste time in a news feed!</string>
     <string name="maki_themes">Theme</string>
     <string name="disable_images">Disable images</string>
     <string name="disable_images_summary">Save data by disabling images loading</string>
@@ -233,7 +234,7 @@
     <!--Intro-->
     <string name="welcome_plus">Hello!</string>
     <string name="plus_what">What will you get?</string>
-    <string name="plus_support">Every Maki Plus buying makes Maki better - it\'s a great motivation for me to add new features faster and improve Maki!</string>
+    <string name="plus_support">Every Maki Plus buying makes Maki better - it's a great motivation for me to add new features faster and improve Maki!</string>
     <string name="thanks_more">Thank you very much for your support! Now you can enjoy your own copy of Maki Plus. With love, Sunshine Apps.</string>
 
     <!--2.6.4-->
@@ -312,7 +313,7 @@
     <string name="blocked_hours_notify_summary">Get a notification when the blocked hour finished and you are able to use the app again</string>
 
     <string name="blocked_hours_finish">Time to get back!</string>
-    <string name="blocked_hours_finish_summary">Now you\'re able to use Maki again</string>
+    <string name="blocked_hours_finish_summary">Now you're able to use Maki again</string>
 
     <string name="blocked_hours_disable_notifications">Disable notifications in blocked hours</string>
     <string name="blocked_hours_disable_notifications_summary">Disable notifications when you are not able to use the app in a blocked hours</string>
@@ -360,7 +361,7 @@
     <!--3.9.3-->
     <string name="add_keyword">Add keyword</string>
     <string name="rate_dialog">Rate Maki</string>
-    <string name="rate_dialog_more" formatted="true">Do you enjoy using Maki? If you do, would you take a moment to rate her on %1$s? It won\'t take a lot of time. Thank you very much!</string>
+    <string name="rate_dialog_more" formatted="true">Do you enjoy using Maki? If you do, would you take a moment to rate her on %1$s? It won't take a lot of time. Thank you very much!</string>
     <string name="help">Help</string>
 
     <!--3.9.5-->
@@ -408,19 +409,19 @@
 
     <string name="got_it">Got it</string>
     <string name="messenger_slow_dialog">Looks like your connection is slow - you will be switched to Simplified Messenger. You can disable this option in the \"Facebook\" category of the app settings</string>
-    <string name="messenger_network_dialog">You\'re on a mobile network - Messenger will be switched to Simplified. You can disable this option in the \"Facebook\" category of the app settings</string>
+    <string name="messenger_network_dialog">You're on a mobile network - Messenger will be switched to Simplified. You can disable this option in the \"Facebook\" category of the app settings</string>
 
     <string name="restart">One more step</string>
     <string name="restart_summary">Close and open conversation again to record voice messages</string>
 
     <string name="chat_bubbles_foreground">Chat heads are running in background</string>
     <string name="privacy_plus">Really friendly</string>
-    <string name="privacy_plus_summary">Maki doesn\'t collect and sell your personal information - your privacy is a lot more important than our revenue</string>
+    <string name="privacy_plus_summary">Maki doesn't collect and sell your personal information - your privacy is a lot more important than our revenue</string>
 
     <string name="remove_sponsored_plus">Goodbye, ads!</string>
 
     <string name="maki_sale">Maki is on sale!</string>
-    <string name="maki_sale_summary">Don\'t lose a chance to grab your copy of Maki Plus with a discount. Tap here to get it.</string>
+    <string name="maki_sale_summary">Don't lose a chance to grab your copy of Maki Plus with a discount. Tap here to get it.</string>
 
     <!--4.1 Hortensia-->
     <string-array name="browser_entries">
@@ -438,7 +439,7 @@
     <string name="select_start_time">Select start time</string>
     <string name="select_end_time">Select end time</string>
 
-    <string name="cant_add_keyword">Sorry, I can\'t add an empty keyword</string>
+    <string name="cant_add_keyword">Sorry, I can't add an empty keyword</string>
     <string name="quickbar_expand">Tap to expand</string>
     <string name="restore_purchase">Restore purchase</string>
 
@@ -522,7 +523,7 @@
     <!--Maki 4.6.3 Hortensia-->
     <string name="hide_tiktok">Hide TikTok</string>
 
-    <string name="video_stream_error">Couldn\'t stream video</string>
+    <string name="video_stream_error">Couldn't stream video</string>
     <string name="video_stream_error_summary">It seems that something is going wrong. Please try again.</string>
 
     <!--Maki 4.7 Hortensia-->
